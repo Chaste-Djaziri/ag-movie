@@ -37,9 +37,9 @@ export function TVShowDetails({ tvShow, seasons = [], episodes = [], relatedShow
     images?: { backdrops: any[], posters: any[], logos: any[] }
   } | null>(null)
   const [activeTab, setActiveTab] = useState<"trailers" | "episodes" | "more">(
-    tvShow.trailer_url ? "trailers" : (episodes.length > 0 ? "episodes" : "more")
+    episodes && episodes.length > 0 ? "episodes" : (tvShow.trailer_url ? "trailers" : "more")
   )
-  const hasAppliedDefaultTab = useRef(episodes.length > 0)
+  const hasAppliedDefaultTab = useRef(episodes && episodes.length > 0)
   const router = useRouter()
   const searchParams = useSearchParams()
   const showDownloads = searchParams.get("dl") === "1"
@@ -143,11 +143,11 @@ export function TVShowDetails({ tvShow, seasons = [], episodes = [], relatedShow
   }, [tvShow.id])
 
   useEffect(() => {
-    if ((hasTrailers || hasImages) && !hasAppliedDefaultTab.current) {
-      setActiveTab("trailers")
-      hasAppliedDefaultTab.current = true
-    } else if (uniqueSeasons.length > 0 && !hasAppliedDefaultTab.current) {
+    if (uniqueSeasons.length > 0 && !hasAppliedDefaultTab.current) {
       setActiveTab("episodes")
+      hasAppliedDefaultTab.current = true
+    } else if ((hasTrailers || hasImages) && !hasAppliedDefaultTab.current) {
+      setActiveTab("trailers")
       hasAppliedDefaultTab.current = true
     } else if (uniqueSeasons.length === 0 && !hasTrailers && !hasImages && relatedShows.length > 0) {
       setActiveTab("more")
@@ -407,43 +407,61 @@ export function TVShowDetails({ tvShow, seasons = [], episodes = [], relatedShow
                             )
                           }}
                         >
-                          <div className="flex gap-3">
-                            {/* Episode Thumbnail */}
-                            <div className="relative flex-shrink-0">
-                              <div className="w-32 h-20 bg-gray-600 rounded-lg overflow-hidden">
-                                {episode.still_path ? (
-                                  <img
-                                    src={getTMDBImageUrl(episode.still_path, "w300")}
-                                    alt={episode.name}
-                                    className="w-full h-full object-cover"
-                                  />
-                                ) : (
-                                  <div className="w-full h-full flex items-center justify-center">
-                                    <Play className="w-6 h-6 text-gray-400" />
+                          <div className="flex gap-3 items-center justify-between">
+                            <div className="flex gap-3 flex-1 min-w-0">
+                              {/* Episode Thumbnail */}
+                              <div className="relative flex-shrink-0">
+                                <div className="w-32 h-20 bg-gray-600 rounded-lg overflow-hidden">
+                                  {episode.still_path ? (
+                                    <img
+                                      src={getTMDBImageUrl(episode.still_path, "w300")}
+                                      alt={episode.name}
+                                      className="w-full h-full object-cover"
+                                    />
+                                  ) : (
+                                    <div className="w-full h-full flex items-center justify-center">
+                                      <Play className="w-6 h-6 text-gray-400" />
+                                    </div>
+                                  )}
+                                  {/* Play Button Overlay */}
+                                  <div className="absolute inset-0 flex items-center justify-center">
+                                    <div className="w-6 h-6 bg-white/90 rounded-full flex items-center justify-center">
+                                      <Play className="w-3 h-3 text-black ml-0.5" fill="currentColor" />
+                                    </div>
                                   </div>
-                                )}
-                                {/* Play Button Overlay */}
-                                <div className="absolute inset-0 flex items-center justify-center">
-                                  <div className="w-6 h-6 bg-white/90 rounded-full flex items-center justify-center">
-                                    <Play className="w-3 h-3 text-black ml-0.5" fill="currentColor" />
+                                  {/* Episode Number */}
+                                  <div className="absolute -bottom-1 -left-1 bg-black text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center border-2 border-white">
+                                    {episode.episode_number}
                                   </div>
                                 </div>
-                                {/* Episode Number */}
-                                <div className="absolute -bottom-1 -left-1 bg-black text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center border-2 border-white">
-                                  {episode.episode_number}
-                                </div>
+                              </div>
+
+                              {/* Episode Info */}
+                              <div className="flex-1 min-w-0 flex flex-col justify-center">
+                                <h3 className="text-white font-semibold text-base mb-1 line-clamp-1">
+                                  {episode.name || `Episode ${episode.episode_number}`}
+                                </h3>
+                                <p className="text-gray-300 text-sm line-clamp-2 leading-relaxed">
+                                  {episode.overview || "No description available."}
+                                </p>
                               </div>
                             </div>
 
-                            {/* Episode Info */}
-                            <div className="flex-1 min-w-0 flex flex-col justify-center">
-                              <h3 className="text-white font-semibold text-base mb-1 line-clamp-1">
-                                {episode.name || `Episode ${episode.episode_number}`}
-                              </h3>
-                              <p className="text-gray-300 text-sm line-clamp-2 leading-relaxed">
-                                {episode.overview || "No description available."}
-                              </p>
-                          </div>
+                            {/* Download Button on Right */}
+                            {episode.download_url && (
+                              <button
+                                onClick={(e) => {
+                                  e.preventDefault()
+                                  e.stopPropagation() // Prevent navigation to watch page
+                                  window.open(episode.download_url, "_blank", "noopener,noreferrer")
+                                }}
+                                className="flex-shrink-0 bg-white/10 hover:bg-[#0071eb] text-white p-2.5 rounded-lg border border-white/10 hover:border-transparent transition-all flex items-center gap-2 relative z-30"
+                                title="Download Episode"
+                              >
+                                <Download className="w-4 h-4" />
+                                <span className="text-xs font-bold hidden sm:inline">Download</span>
+                              </button>
+                            )}
                           </div>
                         </div>
                       ))}
