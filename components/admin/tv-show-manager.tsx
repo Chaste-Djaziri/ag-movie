@@ -28,6 +28,7 @@ export function TVShowManager() {
   
   // Existing TV shows management
   const [existingShows, setExistingShows] = useState<TVShow[]>([])
+  const [existingSearchQuery, setExistingSearchQuery] = useState("")
   const [editingShow, setEditingShow] = useState<TVShow | null>(null)
   const [editTrailerUrl, setEditTrailerUrl] = useState("")
   const [editDownloadUrl, setEditDownloadUrl] = useState("")
@@ -37,6 +38,7 @@ export function TVShowManager() {
 
   // Episode management
   const [selectedShowForEpisodes, setSelectedShowForEpisodes] = useState<TVShow | null>(null)
+  const [episodeSearchQuery, setEpisodeSearchQuery] = useState("")
   const [episodes, setEpisodes] = useState<any[]>([])
   const [newEpisode, setNewEpisode] = useState({
     season_number: 1,
@@ -401,6 +403,14 @@ export function TVShowManager() {
     }
   }
 
+  const filteredExistingShows = existingShows.filter((show) =>
+    show.name.toLowerCase().includes(existingSearchQuery.toLowerCase())
+  )
+
+  const filteredEpisodeShows = existingShows.filter((show) =>
+    show.name.toLowerCase().includes(episodeSearchQuery.toLowerCase())
+  )
+
   if (!mounted) {
     return (
       <div className="space-y-6">
@@ -568,21 +578,43 @@ export function TVShowManager() {
 
         <TabsContent value="manage-shows" className="space-y-6">
           <div className="flex justify-between items-center">
-            <h3 className="text-lg font-semibold">Existing TV Shows ({existingShows.length})</h3>
+            <h3 className="text-lg font-semibold">
+              Existing TV Shows ({filteredExistingShows.length}
+              {existingSearchQuery && ` matching of ${existingShows.length}`})
+            </h3>
             <Button onClick={loadExistingShows} variant="outline">
               Refresh
             </Button>
           </div>
 
-          {existingShows.length === 0 ? (
+          <div className="flex gap-2">
+            <div className="relative flex-1">
+              <Search className="absolute left-3 top-2.5 h-4 w-4 text-muted-foreground" />
+              <Input
+                placeholder="Search existing TV shows by name..."
+                value={existingSearchQuery}
+                onChange={(e) => setExistingSearchQuery(e.target.value)}
+                className="pl-9"
+              />
+            </div>
+            {existingSearchQuery && (
+              <Button variant="ghost" onClick={() => setExistingSearchQuery("")}>
+                Clear
+              </Button>
+            )}
+          </div>
+
+          {filteredExistingShows.length === 0 ? (
             <Card>
               <CardContent className="p-8 text-center">
-                <p className="text-muted-foreground">No TV shows found. Add some TV shows to get started.</p>
+                <p className="text-muted-foreground">
+                  {existingSearchQuery ? "No TV shows match your search." : "No TV shows found. Add some TV shows to get started."}
+                </p>
               </CardContent>
             </Card>
           ) : (
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-              {existingShows.map((show) => (
+              {filteredExistingShows.map((show) => (
                 <Card key={show.id}>
                   <CardContent className="p-4">
                     <div className="flex gap-3">
@@ -729,12 +761,31 @@ export function TVShowManager() {
               </CardTitle>
               <CardDescription>Choose a TV show to manage its episodes</CardDescription>
             </CardHeader>
-            <CardContent>
-              {existingShows.length === 0 ? (
-                <p className="text-muted-foreground">No TV shows available. Add some TV shows first.</p>
+            <CardContent className="space-y-4">
+              <div className="flex gap-2">
+                <div className="relative flex-1">
+                  <Search className="absolute left-3 top-2.5 h-4 w-4 text-muted-foreground" />
+                  <Input
+                    placeholder="Search TV shows to select..."
+                    value={episodeSearchQuery}
+                    onChange={(e) => setEpisodeSearchQuery(e.target.value)}
+                    className="pl-9"
+                  />
+                </div>
+                {episodeSearchQuery && (
+                  <Button variant="ghost" onClick={() => setEpisodeSearchQuery("")}>
+                    Clear
+                  </Button>
+                )}
+              </div>
+
+              {filteredEpisodeShows.length === 0 ? (
+                <p className="text-muted-foreground text-center py-4">
+                  {episodeSearchQuery ? "No TV shows match your search." : "No TV shows available. Add some TV shows first."}
+                </p>
               ) : (
                 <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-                  {existingShows.map((show) => (
+                  {filteredEpisodeShows.map((show) => (
                     <Card 
                       key={show.id} 
                       className={`cursor-pointer hover:bg-accent ${selectedShowForEpisodes?.id === show.id ? 'ring-2 ring-primary' : ''}`}
