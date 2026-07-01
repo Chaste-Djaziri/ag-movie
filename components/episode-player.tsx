@@ -436,10 +436,17 @@ export function EpisodePlayer({ episode, tvShow, nextEpisode, episodes = [], onN
                     Play Episode
                   </Button>
                   
-                  {episode.download_links && episode.download_links.length > 0 && (
-                    <Button variant="outline" size="lg" className="text-white border-white hover:bg-white hover:text-black hover-lift">
-                      <Download className="h-5 w-5 mr-2" />
-                      Download
+                  {episode.download_url && (
+                    <Button 
+                      asChild 
+                      variant="outline" 
+                      size="lg" 
+                      className="text-white border-white hover:bg-white hover:text-black hover-lift"
+                    >
+                      <a href={episode.download_url} target="_blank" rel="noopener noreferrer">
+                        <Download className="h-5 w-5 mr-2" />
+                        Download Episode
+                      </a>
                     </Button>
                   )}
                 </div>
