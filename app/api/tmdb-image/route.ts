@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import dns from "dns"
+import fs from "fs"
+import path from "path"
 
 // Force Node.js to resolve DNS using IPv4 first.
 // This prevents slow IPv6 connection hangs/timeouts common in Node.js (Node 17+).
@@ -9,23 +11,58 @@ try {
   console.warn("Could not set DNS result order to ipv4first:", e)
 }
 
+// Define local cache directory inside .next/cache (which is gitignored)
+const CACHE_DIR = path.join(process.cwd(), ".next", "cache", "tmdb-images")
+
+function ensureCacheDir() {
+  if (!fs.existsSync(CACHE_DIR)) {
+    try {
+      fs.mkdirSync(CACHE_DIR, { recursive: true })
+    } catch (e) {
+      console.error("Failed to create cache directory:", e)
+    }
+  }
+}
+
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url)
-  const path = searchParams.get("path")
+  const pathParam = searchParams.get("path")
   const size = searchParams.get("size") || "w500"
 
-  if (!path || path === "null" || path === "undefined" || path === "") {
+  if (!pathParam || pathParam === "null" || pathParam === "undefined" || pathParam === "") {
     return servePlaceholder()
   }
 
   // Ensure path starts with a slash
-  const cleanPath = path.startsWith("/") ? path : `/${path}`
+  const cleanPath = pathParam.startsWith("/") ? pathParam : `/${pathParam}`
+
+  // Ensure cache directory exists and try reading from local cache
+  ensureCacheDir()
+  const cacheFileName = `${size}_${cleanPath.replace(/[^a-zA-Z0-9.-]/g, "_")}`
+  const cacheFilePath = path.join(CACHE_DIR, cacheFileName)
+
+  if (fs.existsSync(cacheFilePath)) {
+    try {
+      const buffer = fs.readFileSync(cacheFilePath)
+      const contentType = cacheFileName.endsWith(".png") ? "image/png" : "image/jpeg"
+      return new NextResponse(buffer, {
+        headers: {
+          "Content-Type": contentType,
+          "Cache-Control": "public, max-age=31536000, immutable",
+          "X-Cache": "HIT",
+        },
+      })
+    } catch (err) {
+      console.error("Error reading TMDB cache from disk:", err)
+    }
+  }
+
   const imageUrl = `https://image.tmdb.org/t/p/${size}${cleanPath}`
 
   try {
-    // Set a timeout of 5 seconds
+    // Set a timeout of 6 seconds for first-time fetch
     const controller = new AbortController()
-    const timeoutId = setTimeout(() => controller.abort(), 5000)
+    const timeoutId = setTimeout(() => controller.abort(), 6000)
 
     const response = await fetch(imageUrl, {
       signal: controller.signal,
@@ -42,11 +79,20 @@ export async function GET(request: NextRequest) {
 
     const contentType = response.headers.get("content-type") || "image/jpeg"
     const buffer = await response.arrayBuffer()
+    const nodeBuffer = Buffer.from(buffer)
 
-    return new NextResponse(buffer, {
+    // Save fetched image to local disk cache for fast future retrieval
+    try {
+      fs.writeFileSync(cacheFilePath, nodeBuffer)
+    } catch (writeErr) {
+      console.error("Error writing TMDB cache to disk:", writeErr)
+    }
+
+    return new NextResponse(nodeBuffer, {
       headers: {
         "Content-Type": contentType,
-        "Cache-Control": "public, max-age=86400, stale-while-revalidate=43200", // cache for 1 day
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "X-Cache": "MISS",
       },
     })
   } catch (error) {
