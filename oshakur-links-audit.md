@@ -1,22 +1,22 @@
 # OSHAkur Links Audit for AG Movies Bulk Upload
 
 - Generated from sitemap: `https://oshakurfilms.com/sitemap.xml`
-- Total sitemap `/watch/` URLs found: **3174**
-- Successfully parsed live pages: **3174**
+- Total sitemap `/watch/` URLs found: **3123**
+- Successfully parsed live pages: **3123**
 - Failed live page fetches: **0**
-- TMDB-matched movie entities shown: **716**
-- TMDB-matched TV show entities shown: **130**
-- Skipped unmatched movie entities: **158**
+- TMDB-matched movie entities shown: **734**
+- TMDB-matched TV show entities shown: **134**
+- Skipped unmatched movie entities: **146**
 - Skipped unmatched TV show entities: **93**
-- Pages still missing any download link: **1**
-- Generated on: **2026-06-07T08:32:25.703Z**
+- Pages still missing any download link: **2**
+- Generated on: **2026-07-01T15:59:28.372Z**
 
 ## TMDB Field Availability Summary
 
-- movies: poster_path 714/716, poster_url 714/716, backdrop_path 701/716, backdrop_url 701/716, trailer_url 650/716, release_date 714/716, runtime 716/716, vote_average 716/716, vote_count 716/716, genres 711/716, overview 715/716
-- tv_shows: poster_path 129/130, poster_url 129/130, backdrop_path 129/130, backdrop_url 129/130, trailer_url 102/130, first_air_date 129/130, last_air_date 129/130, number_of_seasons 130/130, number_of_episodes 130/130, vote_average 130/130, vote_count 130/130, genres 129/130, overview 130/130
-- seasons: tmdb_id 121/166, name 121/166, overview 57/166, poster_path 114/166, poster_url 114/166, air_date 120/166, episode_count 121/166
-- episodes: tmdb_episode_id 1258/1258, canonical_episode_name 1258/1258
+- movies: poster_path 731/734, poster_url 731/734, backdrop_path 717/734, backdrop_url 717/734, trailer_url 668/734, release_date 731/734, runtime 734/734, vote_average 734/734, vote_count 734/734, genres 729/734, overview 733/734
+- tv_shows: poster_path 133/134, poster_url 133/134, backdrop_path 133/134, backdrop_url 133/134, trailer_url 107/134, first_air_date 133/134, last_air_date 133/134, number_of_seasons 134/134, number_of_episodes 134/134, vote_average 134/134, vote_count 134/134, genres 133/134, overview 134/134
+- seasons: tmdb_id 126/171, name 126/171, overview 59/171, poster_path 119/171, poster_url 119/171, air_date 125/171, episode_count 126/171
+- episodes: tmdb_episode_id 1348/1348, canonical_episode_name 1348/1348
 
 ## Upload Workflow Notes
 
@@ -57,7 +57,7 @@
 - release_date: `2020-06-24`
 - runtime: `98`
 - vote_average: `7.213`
-- vote_count: `2047`
+- vote_count: `2065`
 - genres: `Action`, `Horror`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `614696`
@@ -68,7 +68,7 @@
   - release_date: `2020-06-24`
   - runtime: `98`
   - vote_average: `7.213`
-  - vote_count: `2047`
+  - vote_count: `2065`
   - genres: `Action`, `Horror`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=jQ8CCg1tOqc`
   - status: `active`
@@ -98,8 +98,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=GMO8PC94egI`
 - release_date: `2008-03-04`
 - runtime: `109`
-- vote_average: `5.508`
-- vote_count: `3176`
+- vote_average: `5.506`
+- vote_count: `3191`
 - genres: `Adventure`, `Action`, `Drama`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `7840`
@@ -109,8 +109,8 @@
   - backdrop_path: `/nZlvmbnx5ZJYkSVocuQvOgVlWli.jpg`
   - release_date: `2008-03-04`
   - runtime: `109`
-  - vote_average: `5.508`
-  - vote_count: `3176`
+  - vote_average: `5.506`
+  - vote_count: `3191`
   - genres: `Adventure`, `Action`, `Drama`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=GMO8PC94egI`
   - status: `active`
@@ -140,8 +140,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Zxag9p-63RU`
 - release_date: `2018-01-18`
 - runtime: `130`
-- vote_average: `6.36`
-- vote_count: `3195`
+- vote_average: `6.363`
+- vote_count: `3212`
 - genres: `War`, `Drama`, `Action`, `History`
 - movie_row:
   - import_tmdb_id: `429351`
@@ -151,8 +151,8 @@
   - backdrop_path: `/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg`
   - release_date: `2018-01-18`
   - runtime: `130`
-  - vote_average: `6.36`
-  - vote_count: `3195`
+  - vote_average: `6.363`
+  - vote_count: `3212`
   - genres: `War`, `Drama`, `Action`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=Zxag9p-63RU`
   - status: `active`
@@ -182,8 +182,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dtyF9dRI7tc`
 - release_date: `2014-04-11`
 - runtime: `93`
-- vote_average: `6.318`
-- vote_count: `1206`
+- vote_average: `6.32`
+- vote_count: `1208`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `155084`
@@ -193,8 +193,8 @@
   - backdrop_path: `/67WVW36tcLYnY2ONzbxh7gEfohh.jpg`
   - release_date: `2014-04-11`
   - runtime: `93`
-  - vote_average: `6.318`
-  - vote_count: `1206`
+  - vote_average: `6.32`
+  - vote_count: `1208`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=dtyF9dRI7tc`
   - status: `active`
@@ -264,8 +264,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ibHi56GSD1o`
 - release_date: `2016-12-02`
 - runtime: `130`
-- vote_average: `6.5`
-- vote_count: `175`
+- vote_average: `6.483`
+- vote_count: `176`
 - genres: `War`, `Drama`, `History`
 - movie_row:
   - import_tmdb_id: `403357`
@@ -275,8 +275,8 @@
   - backdrop_path: `/grTw2KJLylJVFvnckQemyrhJzKd.jpg`
   - release_date: `2016-12-02`
   - runtime: `130`
-  - vote_average: `6.5`
-  - vote_count: `175`
+  - vote_average: `6.483`
+  - vote_count: `176`
   - genres: `War`, `Drama`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=ibHi56GSD1o`
   - status: `active`
@@ -306,8 +306,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gZjQROMAh_s`
 - release_date: `2019-12-25`
 - runtime: `119`
-- vote_average: `7.987`
-- vote_count: `13553`
+- vote_average: `8`
+- vote_count: `13605`
 - genres: `War`, `History`, `Drama`
 - movie_row:
   - import_tmdb_id: `530915`
@@ -317,8 +317,8 @@
   - backdrop_path: `/2lBOQK06tltt8SQaswgb8d657Mv.jpg`
   - release_date: `2019-12-25`
   - runtime: `119`
-  - vote_average: `7.987`
-  - vote_count: `13553`
+  - vote_average: `8`
+  - vote_count: `13605`
   - genres: `War`, `History`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=gZjQROMAh_s`
   - status: `active`
@@ -349,7 +349,7 @@
 - release_date: `2017-10-26`
 - runtime: `94`
 - vote_average: `5.952`
-- vote_count: `712`
+- vote_count: `717`
 - genres: `Action`, `Science Fiction`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `470114`
@@ -360,7 +360,7 @@
   - release_date: `2017-10-26`
   - runtime: `94`
   - vote_average: `5.952`
-  - vote_count: `712`
+  - vote_count: `717`
   - genres: `Action`, `Science Fiction`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=PfeQX80tjdQ`
   - status: `active`
@@ -392,8 +392,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=zIKu9k50SDo`
 - release_date: `2009-12-23`
 - runtime: `171`
-- vote_average: `8`
-- vote_count: `2712`
+- vote_average: `8.001`
+- vote_count: `2733`
 - genres: `Drama`, `Comedy`
 - movie_row:
   - import_tmdb_id: `20453`
@@ -403,8 +403,8 @@
   - backdrop_path: `/8gT3UKtglLVpu0YfccwbmXZ5Eis.jpg`
   - release_date: `2009-12-23`
   - runtime: `171`
-  - vote_average: `8`
-  - vote_count: `2712`
+  - vote_average: `8.001`
+  - vote_count: `2733`
   - genres: `Drama`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=zIKu9k50SDo`
   - status: `active`
@@ -435,8 +435,8 @@
 - release_date: `2020-02-07`
 - runtime: `114`
 - vote_average: `6.993`
-- vote_count: `9513`
-- genres: `Romance`, `Drama`
+- vote_count: `9536`
+- genres: `Romance`, `Drama`, `Crime`
 - movie_row:
   - import_tmdb_id: `664413`
   - title: `365 Days`
@@ -446,8 +446,8 @@
   - release_date: `2020-02-07`
   - runtime: `114`
   - vote_average: `6.993`
-  - vote_count: `9513`
-  - genres: `Romance`, `Drama`
+  - vote_count: `9536`
+  - genres: `Romance`, `Drama`, `Crime`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
@@ -476,8 +476,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DEoDulGTElE`
 - release_date: `2013-12-06`
 - runtime: `119`
-- vote_average: `6.205`
-- vote_count: `4144`
+- vote_average: `6.207`
+- vote_count: `4164`
 - genres: `Drama`, `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `64686`
@@ -487,8 +487,8 @@
   - backdrop_path: `/nyt0jlofZyjhRqiQkEp0cdoKaS3.jpg`
   - release_date: `2013-12-06`
   - runtime: `119`
-  - vote_average: `6.205`
-  - vote_count: `4144`
+  - vote_average: `6.207`
+  - vote_count: `4164`
   - genres: `Drama`, `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=DEoDulGTElE`
   - status: `active`
@@ -519,8 +519,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=PncCa_fnZKs`
 - release_date: `2011-06-06`
 - runtime: `113`
-- vote_average: `5.7`
-- vote_count: `212`
+- vote_average: `5.685`
+- vote_count: `214`
 - genres: `War`, `Drama`
 - movie_row:
   - import_tmdb_id: `50601`
@@ -530,8 +530,8 @@
   - backdrop_path: `/2dnkRdmv7nQxb18X7eXv9uNBA3R.jpg`
   - release_date: `2011-06-06`
   - runtime: `113`
-  - vote_average: `5.7`
-  - vote_count: `212`
+  - vote_average: `5.685`
+  - vote_count: `214`
   - genres: `War`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=PncCa_fnZKs`
   - status: `active`
@@ -603,8 +603,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=fuAfubkv3y0`
 - release_date: `2010-06-16`
 - runtime: `120`
-- vote_average: `7.521`
-- vote_count: `210`
+- vote_average: `7.514`
+- vote_count: `211`
 - genres: `War`
 - movie_row:
   - import_tmdb_id: `51200`
@@ -614,8 +614,8 @@
   - backdrop_path: `/pPcgtojMTIMkRT9I6wacHBxpnyW.jpg`
   - release_date: `2010-06-16`
   - runtime: `120`
-  - vote_average: `7.521`
-  - vote_count: `210`
+  - vote_average: `7.514`
+  - vote_count: `211`
   - genres: `War`
   - trailer_url: `https://www.youtube.com/watch?v=fuAfubkv3y0`
   - status: `active`
@@ -635,7 +635,7 @@
 - canonical_title: `A Dance Like Starlight: One Ballerina's Dream`
 - original_title: `A Dance Like Starlight: One Ballerina's Dream`
 - normalized_title_guess: `Ballerina 1`
-- narrators_found: `Be The Great`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `overview`
 - tmdb_unavailable_fields: `backdrop_path`, `backdrop_url`, `trailer_url`, `genres`
 - poster_path: `/iLcW9DOLVPuLKUhy86PrkEoEZQc.jpg`
@@ -658,7 +658,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Ballerina 1 - B The Great Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/ballerina-1-b-the-great-agasobanuye-mu-kinyarwanda | Be The Great | 619258 | 619258 | https://hglink.to/e/hrjt75z8gbk3 | hglink.to | https://www.mediafire.com/file/5lhnky1f8z0sz84/BALLERINA_%25281%2529.mp4/file | www.mediafire.com |  |
+| 1 | Ballerina 1 | https://oshakurfilms.com/watch/ballerina-1 | UNSPECIFIED | 619258 | 619258 | https://hglink.to/e/hrjt75z8gbk3 | hglink.to | https://www.mediafire.com/file/5lhnky1f8z0sz84/BALLERINA_%25281%2529.mp4/file | www.mediafire.com |  |
 
 ## A Fall from Grace
 
@@ -681,7 +681,7 @@
 - release_date: `2020-01-17`
 - runtime: `120`
 - vote_average: `6.996`
-- vote_count: `985`
+- vote_count: `988`
 - genres: `Drama`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `651070`
@@ -692,7 +692,7 @@
   - release_date: `2020-01-17`
   - runtime: `120`
   - vote_average: `6.996`
-  - vote_count: `985`
+  - vote_count: `988`
   - genres: `Drama`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=eVXwBwQdBrg`
   - status: `active`
@@ -722,8 +722,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=IMXifj-peiQ`
 - release_date: `2017-08-25`
 - runtime: `132`
-- vote_average: `6.218`
-- vote_count: `85`
+- vote_average: `6.215`
+- vote_count: `86`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `469872`
@@ -733,8 +733,8 @@
   - backdrop_path: `/1crgNPLydBN3agwGX3Omoqz2Xbo.jpg`
   - release_date: `2017-08-25`
   - runtime: `132`
-  - vote_average: `6.218`
-  - vote_count: `85`
+  - vote_average: `6.215`
+  - vote_count: `86`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=IMXifj-peiQ`
   - status: `active`
@@ -807,7 +807,7 @@
 - release_date: `2013-02-06`
 - runtime: `98`
 - vote_average: `5.3`
-- vote_count: `6756`
+- vote_count: `6777`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `47964`
@@ -818,7 +818,7 @@
   - release_date: `2013-02-06`
   - runtime: `98`
   - vote_average: `5.3`
-  - vote_count: `6756`
+  - vote_count: `6777`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mXTImBrEKUc`
   - status: `active`
@@ -848,8 +848,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=pYcobufHJAA`
 - release_date: `2014-08-19`
 - runtime: `100`
-- vote_average: `4.8`
-- vote_count: `149`
+- vote_average: `4.833`
+- vote_count: `150`
 - genres: `Action`
 - movie_row:
   - import_tmdb_id: `286668`
@@ -859,8 +859,8 @@
   - backdrop_path: `/4vgfzecvNKe33iAiJb9Q1Llm0Ks.jpg`
   - release_date: `2014-08-19`
   - runtime: `100`
-  - vote_average: `4.8`
-  - vote_count: `149`
+  - vote_average: `4.833`
+  - vote_count: `150`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=pYcobufHJAA`
   - status: `active`
@@ -933,8 +933,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=aSh_L6bvaCQ`
 - release_date: `2025-03-31`
 - runtime: `101`
-- vote_average: `6.262`
-- vote_count: `3014`
+- vote_average: `6.261`
+- vote_count: `3061`
 - genres: `Family`, `Fantasy`, `Comedy`, `Adventure`
 - movie_row:
   - import_tmdb_id: `950387`
@@ -944,8 +944,8 @@
   - backdrop_path: `/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg`
   - release_date: `2025-03-31`
   - runtime: `101`
-  - vote_average: `6.262`
-  - vote_count: `3014`
+  - vote_average: `6.261`
+  - vote_count: `3061`
   - genres: `Family`, `Fantasy`, `Comedy`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=aSh_L6bvaCQ`
   - status: `active`
@@ -1059,8 +1059,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mdfrG2cLK58`
 - release_date: `2025-03-26`
 - runtime: `116`
-- vote_average: `6.689`
-- vote_count: `1931`
+- vote_average: `6.696`
+- vote_count: `1966`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1197306`
@@ -1070,8 +1070,8 @@
   - backdrop_path: `/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg`
   - release_date: `2025-03-26`
   - runtime: `116`
-  - vote_average: `6.689`
-  - vote_count: `1931`
+  - vote_average: `6.696`
+  - vote_count: `1966`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mdfrG2cLK58`
   - status: `active`
@@ -1102,8 +1102,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=x8blxWAOsaw`
 - release_date: `2013-04-26`
 - runtime: `132`
-- vote_average: `6.84`
-- vote_count: `188`
+- vote_average: `6.836`
+- vote_count: `195`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `192558`
@@ -1113,8 +1113,8 @@
   - backdrop_path: `/cpMszrx8BFVfmq3ZBrL6RVQvO2V.jpg`
   - release_date: `2013-04-26`
   - runtime: `132`
-  - vote_average: `6.84`
-  - vote_count: `188`
+  - vote_average: `6.836`
+  - vote_count: `195`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=x8blxWAOsaw`
   - status: `active`
@@ -1144,8 +1144,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ODmJXjcRzG0`
 - release_date: `2018-02-06`
 - runtime: `105`
-- vote_average: `6.289`
-- vote_count: `584`
+- vote_average: `6.291`
+- vote_count: `593`
 - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Comedy`
 - movie_row:
   - import_tmdb_id: `455236`
@@ -1155,8 +1155,8 @@
   - backdrop_path: `/b4zuUZ1VJVb6wljjUEGJEwSYz1k.jpg`
   - release_date: `2018-02-06`
   - runtime: `105`
-  - vote_average: `6.289`
-  - vote_count: `584`
+  - vote_average: `6.291`
+  - vote_count: `593`
   - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=ODmJXjcRzG0`
   - status: `active`
@@ -1186,8 +1186,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gMmF9uWqzK8`
 - release_date: `2025-01-09`
 - runtime: `97`
-- vote_average: `6.246`
-- vote_count: `441`
+- vote_average: `6.245`
+- vote_count: `443`
 - genres: `Thriller`, `Drama`, `Crime`, `Action`
 - movie_row:
   - import_tmdb_id: `1261501`
@@ -1197,8 +1197,8 @@
   - backdrop_path: `/dMloNvayweggmvv0UD0iOJIkkbH.jpg`
   - release_date: `2025-01-09`
   - runtime: `97`
-  - vote_average: `6.246`
-  - vote_count: `441`
+  - vote_average: `6.245`
+  - vote_count: `443`
   - genres: `Thriller`, `Drama`, `Crime`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=gMmF9uWqzK8`
   - status: `active`
@@ -1229,8 +1229,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZdZ0lUxunbA`
 - release_date: `2014-10-10`
 - runtime: `105`
-- vote_average: `5.918`
-- vote_count: `446`
+- vote_average: `5.91`
+- vote_count: `451`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `235271`
@@ -1240,8 +1240,8 @@
   - backdrop_path: `/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg`
   - release_date: `2014-10-10`
   - runtime: `105`
-  - vote_average: `5.918`
-  - vote_count: `446`
+  - vote_average: `5.91`
+  - vote_count: `451`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=ZdZ0lUxunbA`
   - status: `active`
@@ -1271,8 +1271,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2ZAdcWHuCmY`
 - release_date: `2019-04-11`
 - runtime: `106`
-- vote_average: `7.108`
-- vote_count: `8524`
+- vote_average: `7.106`
+- vote_count: `8532`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `537915`
@@ -1282,8 +1282,8 @@
   - backdrop_path: `/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg`
   - release_date: `2019-04-11`
   - runtime: `106`
-  - vote_average: `7.108`
-  - vote_count: `8524`
+  - vote_average: `7.106`
+  - vote_count: `8532`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=2ZAdcWHuCmY`
   - status: `active`
@@ -1308,24 +1308,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/iXMvYIlzzJBs352CfeiQcBvovZt.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg`
-- backdrop_path: `/pfCp6OmgJW9YzqPRhCD7ItFSicb.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/pfCp6OmgJW9YzqPRhCD7ItFSicb.jpg`
+- backdrop_path: `/e3posvSzYf9PjrQg27W64Kyc8qq.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/e3posvSzYf9PjrQg27W64Kyc8qq.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=-r9IXze_tPM`
 - release_date: `2013-05-30`
 - runtime: `100`
-- vote_average: `5.182`
-- vote_count: `6871`
+- vote_average: `5.18`
+- vote_count: `6889`
 - genres: `Science Fiction`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `82700`
   - title: `After Earth`
   - overview: `One thousand years after cataclysmic events forced humanity's escape from Earth, Nova Prime has become mankind's new home. Legendary General Cypher Raige returns from an extended tour of duty to his estranged family, ready to be a father to his 13-year-old son, Kitai. When an asteroid storm damages Cypher and Kitai's craft, they crash-land on a now unfamiliar and dangerous Earth. As his father lies dying in the cockpit, Kitai must trek across the hostile terrain to recover their rescue beacon. His whole life, Kitai has wanted nothing more than to be a soldier like his father. Today, he gets his chance.`
   - poster_path: `/iXMvYIlzzJBs352CfeiQcBvovZt.jpg`
-  - backdrop_path: `/pfCp6OmgJW9YzqPRhCD7ItFSicb.jpg`
+  - backdrop_path: `/e3posvSzYf9PjrQg27W64Kyc8qq.jpg`
   - release_date: `2013-05-30`
   - runtime: `100`
-  - vote_average: `5.182`
-  - vote_count: `6871`
+  - vote_average: `5.18`
+  - vote_count: `6889`
   - genres: `Science Fiction`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=-r9IXze_tPM`
   - status: `active`
@@ -1356,8 +1356,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hLQ-5exgctI`
 - release_date: `2022-08-24`
 - runtime: `95`
-- vote_average: `6.765`
-- vote_count: `1370`
+- vote_average: `6.8`
+- vote_count: `1373`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `744276`
@@ -1367,8 +1367,8 @@
   - backdrop_path: `/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg`
   - release_date: `2022-08-24`
   - runtime: `95`
-  - vote_average: `6.765`
-  - vote_count: `1370`
+  - vote_average: `6.8`
+  - vote_count: `1373`
   - genres: `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=hLQ-5exgctI`
   - status: `active`
@@ -1399,8 +1399,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2SvwX3ux_-8`
 - release_date: `2020-09-02`
 - runtime: `105`
-- vote_average: `7.151`
-- vote_count: `5464`
+- vote_average: `7.2`
+- vote_count: `5470`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `613504`
@@ -1410,8 +1410,8 @@
   - backdrop_path: `/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg`
   - release_date: `2020-09-02`
   - runtime: `105`
-  - vote_average: `7.151`
-  - vote_count: `5464`
+  - vote_average: `7.2`
+  - vote_count: `5470`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=2SvwX3ux_-8`
   - status: `active`
@@ -1441,8 +1441,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=NYdNN6C9hfI`
 - release_date: `2021-09-01`
 - runtime: `99`
-- vote_average: `7.004`
-- vote_count: `2744`
+- vote_average: `7.003`
+- vote_count: `2749`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `744275`
@@ -1452,8 +1452,8 @@
   - backdrop_path: `/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg`
   - release_date: `2021-09-01`
   - runtime: `99`
-  - vote_average: `7.004`
-  - vote_count: `2744`
+  - vote_average: `7.003`
+  - vote_count: `2749`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=NYdNN6C9hfI`
   - status: `active`
@@ -1484,8 +1484,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZkEjle729tI`
 - release_date: `2025-08-20`
 - runtime: `106`
-- vote_average: `6.238`
-- vote_count: `296`
+- vote_average: `6.248`
+- vote_count: `309`
 - genres: `Action`, `Science Fiction`, `Comedy`
 - movie_row:
   - import_tmdb_id: `507244`
@@ -1495,8 +1495,8 @@
   - backdrop_path: `/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg`
   - release_date: `2025-08-20`
   - runtime: `106`
-  - vote_average: `6.238`
-  - vote_count: `296`
+  - vote_average: `6.248`
+  - vote_count: `309`
   - genres: `Action`, `Science Fiction`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=ZkEjle729tI`
   - status: `active`
@@ -1526,8 +1526,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=oUXUm6he2-s`
 - release_date: `2017-02-28`
 - runtime: `94`
-- vote_average: `5.752`
-- vote_count: `968`
+- vote_average: `5.75`
+- vote_count: `969`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `390051`
@@ -1537,8 +1537,8 @@
   - backdrop_path: `/9HcXzYUnnwyFu9WSEM2IOxd2VhC.jpg`
   - release_date: `2017-02-28`
   - runtime: `94`
-  - vote_average: `5.752`
-  - vote_count: `968`
+  - vote_average: `5.75`
+  - vote_count: `969`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=oUXUm6he2-s`
   - status: `active`
@@ -1568,7 +1568,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=0cWBaR8JW6M`
 - release_date: `2024-02-09`
 - runtime: `84`
-- vote_average: `6.061`
+- vote_average: `6.1`
 - vote_count: `164`
 - genres: `Action`, `Thriller`
 - movie_row:
@@ -1579,7 +1579,7 @@
   - backdrop_path: `/u0P5drNyTrZoGyJONPcZGbv1mNP.jpg`
   - release_date: `2024-02-09`
   - runtime: `84`
-  - vote_average: `6.061`
+  - vote_average: `6.1`
   - vote_count: `164`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=0cWBaR8JW6M`
@@ -1600,7 +1600,7 @@
 - canonical_title: `Allegiant`
 - original_title: `Allegiant`
 - normalized_title_guess: `Allegiant`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg`
@@ -1611,7 +1611,7 @@
 - release_date: `2016-03-09`
 - runtime: `120`
 - vote_average: `6.099`
-- vote_count: `6979`
+- vote_count: `6998`
 - genres: `Adventure`, `Science Fiction`, `Action`, `Mystery`
 - movie_row:
   - import_tmdb_id: `262504`
@@ -1622,7 +1622,7 @@
   - release_date: `2016-03-09`
   - runtime: `120`
   - vote_average: `6.099`
-  - vote_count: `6979`
+  - vote_count: `6998`
   - genres: `Adventure`, `Science Fiction`, `Action`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=ESJBomF-9Y8`
   - status: `active`
@@ -1630,7 +1630,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Allegiant . Pk | https://oshakurfilms.com/watch/allegiant-pk | PK | 262504 | 262504 | https://hglink.to/e/82nhy71jx828 | hglink.to | https://www.mediafire.com/file/dx13878ustmq62f/Allegiant_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | Allegiant | https://oshakurfilms.com/watch/allegiant | UNSPECIFIED | 262504 | 262504 | https://hglink.to/e/82nhy71jx828 | hglink.to | https://www.mediafire.com/file/dx13878ustmq62f/Allegiant_Hd_Mp4.mp4/file | www.mediafire.com |  |
 
 ## Along with the Gods: The Two Worlds
 
@@ -1652,8 +1652,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dyh_OY1DgqU`
 - release_date: `2017-12-20`
 - runtime: `139`
-- vote_average: `8.04`
-- vote_count: `1188`
+- vote_average: `8.041`
+- vote_count: `1197`
 - genres: `Action`, `Adventure`, `Drama`, `Fantasy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `397567`
@@ -1663,8 +1663,8 @@
   - backdrop_path: `/wyv2Y9vXYJwJzF6cNVuVwVOsOUj.jpg`
   - release_date: `2017-12-20`
   - runtime: `139`
-  - vote_average: `8.04`
-  - vote_count: `1188`
+  - vote_average: `8.041`
+  - vote_count: `1197`
   - genres: `Action`, `Adventure`, `Drama`, `Fantasy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=dyh_OY1DgqU`
   - status: `active`
@@ -1694,8 +1694,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=sc-C8uumMkw`
 - release_date: `2007-12-13`
 - runtime: `92`
-- vote_average: `5.839`
-- vote_count: `4739`
+- vote_average: `5.84`
+- vote_count: `4760`
 - genres: `Comedy`, `Family`, `Fantasy`, `Animation`
 - movie_row:
   - import_tmdb_id: `6477`
@@ -1705,8 +1705,8 @@
   - backdrop_path: `/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg`
   - release_date: `2007-12-13`
   - runtime: `92`
-  - vote_average: `5.839`
-  - vote_count: `4739`
+  - vote_average: `5.84`
+  - vote_count: `4760`
   - genres: `Comedy`, `Family`, `Fantasy`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=sc-C8uumMkw`
   - status: `active`
@@ -1736,8 +1736,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=V8_W5cZWLZY`
 - release_date: `2015-12-17`
 - runtime: `92`
-- vote_average: `6.035`
-- vote_count: `1761`
+- vote_average: `6.036`
+- vote_count: `1769`
 - genres: `Family`, `Comedy`, `Music`, `Adventure`, `Animation`
 - movie_row:
   - import_tmdb_id: `258509`
@@ -1747,8 +1747,8 @@
   - backdrop_path: `/jUeUWPkq7rDIjrDsm0tWVuoTEwq.jpg`
   - release_date: `2015-12-17`
   - runtime: `92`
-  - vote_average: `6.035`
-  - vote_count: `1761`
+  - vote_average: `6.036`
+  - vote_count: `1769`
   - genres: `Family`, `Comedy`, `Music`, `Adventure`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=V8_W5cZWLZY`
   - status: `active`
@@ -1778,8 +1778,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=HwVzCtRvcyY`
 - release_date: `2009-12-21`
 - runtime: `89`
-- vote_average: `5.7`
-- vote_count: `3126`
+- vote_average: `5.658`
+- vote_count: `3140`
 - genres: `Comedy`, `Family`, `Animation`, `Fantasy`, `Music`
 - movie_row:
   - import_tmdb_id: `23398`
@@ -1789,8 +1789,8 @@
   - backdrop_path: `/3lf6YCItKcF3Wrrs7tp1PL0eyOT.jpg`
   - release_date: `2009-12-21`
   - runtime: `89`
-  - vote_average: `5.7`
-  - vote_count: `3126`
+  - vote_average: `5.658`
+  - vote_count: `3140`
   - genres: `Comedy`, `Family`, `Animation`, `Fantasy`, `Music`
   - trailer_url: `https://www.youtube.com/watch?v=HwVzCtRvcyY`
   - status: `active`
@@ -1819,8 +1819,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg`
 - release_date: `2024-10-31`
 - runtime: `169`
-- vote_average: `7.353`
-- vote_count: `255`
+- vote_average: `7.359`
+- vote_count: `256`
 - genres: `Action`, `Drama`, `Adventure`, `War`
 - movie_row:
   - import_tmdb_id: `927342`
@@ -1830,8 +1830,8 @@
   - backdrop_path: `/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg`
   - release_date: `2024-10-31`
   - runtime: `169`
-  - vote_average: `7.353`
-  - vote_count: `255`
+  - vote_average: `7.359`
+  - vote_count: `256`
   - genres: `Action`, `Drama`, `Adventure`, `War`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -1862,8 +1862,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=tFWOyZNHjX8`
 - release_date: `2022-03-16`
 - runtime: `136`
-- vote_average: `6.618`
-- vote_count: `2452`
+- vote_average: `6.615`
+- vote_count: `2468`
 - genres: `Thriller`, `Action`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `763285`
@@ -1873,8 +1873,8 @@
   - backdrop_path: `/peJmavN1H3Js9SiqQbPNs8Hgwgr.jpg`
   - release_date: `2022-03-16`
   - runtime: `136`
-  - vote_average: `6.618`
-  - vote_count: `2452`
+  - vote_average: `6.615`
+  - vote_count: `2468`
   - genres: `Thriller`, `Action`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=tFWOyZNHjX8`
   - status: `active`
@@ -1934,39 +1934,39 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `287950`
+- real_tmdb_id: `1513842`
 - canonical_title: `American Muscle`
 - original_title: `American Muscle`
 - normalized_title_guess: `American Muscle`
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/il3fvnQ0xAUmq1hBWV3a2TOECSf.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/il3fvnQ0xAUmq1hBWV3a2TOECSf.jpg`
-- backdrop_path: `/lj6KUE7VIwdMiH7nbBIgqgQg8Dp.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lj6KUE7VIwdMiH7nbBIgqgQg8Dp.jpg`
-- release_date: `2014-09-30`
-- runtime: `77`
-- vote_average: `4.2`
-- vote_count: `42`
-- genres: `Action`
+- poster_path: `/g728NzvqQKHDDLaf3kQAu3EBqul.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/g728NzvqQKHDDLaf3kQAu3EBqul.jpg`
+- backdrop_path: `/1EwtLoR9BZlVi8f4xocN7kiAFlr.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/1EwtLoR9BZlVi8f4xocN7kiAFlr.jpg`
+- release_date: `2026-03-14`
+- runtime: `82`
+- vote_average: `10`
+- vote_count: `1`
+- genres: `Crime`, `Drama`, `Thriller`
 - movie_row:
-  - import_tmdb_id: `287950`
+  - import_tmdb_id: `1513842`
   - title: `American Muscle`
-  - overview: `John Falcon did 10 years of hard time in prison. Now he's got 24 hours to get revenge on every person who had a hand in sending him there.`
-  - poster_path: `/il3fvnQ0xAUmq1hBWV3a2TOECSf.jpg`
-  - backdrop_path: `/lj6KUE7VIwdMiH7nbBIgqgQg8Dp.jpg`
-  - release_date: `2014-09-30`
-  - runtime: `77`
-  - vote_average: `4.2`
-  - vote_count: `42`
-  - genres: `Action`
+  - overview: `A desperate mechanic's plan to escape his past unravels when his sister returns home and two violent debt collectors close in.`
+  - poster_path: `/g728NzvqQKHDDLaf3kQAu3EBqul.jpg`
+  - backdrop_path: `/1EwtLoR9BZlVi8f4xocN7kiAFlr.jpg`
+  - release_date: `2026-03-14`
+  - runtime: `82`
+  - vote_average: `10`
+  - vote_count: `1`
+  - genres: `Crime`, `Drama`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | American Muscle - SANKRA | https://oshakurfilms.com/watch/american-muscle-sankra | Sankra | 287950 | 287950 | https://dhcplay.com/e/beg8kxpom4ah | dhcplay.com | https://www.mediafire.com/file/9w5byl6h5htlhrn/American_Muscle_Hd_Sankra.mp4/file | www.mediafire.com |  |
+| 1 | American Muscle - SANKRA | https://oshakurfilms.com/watch/american-muscle-sankra | Sankra | 1513842 | 1513842 | https://dhcplay.com/e/beg8kxpom4ah | dhcplay.com | https://www.mediafire.com/file/9w5byl6h5htlhrn/American_Muscle_Hd_Sankra.mp4/file | www.mediafire.com |  |
 
 ## American Skin
 
@@ -2025,26 +2025,26 @@
 - narrators_found: `Bigwi`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/vJgtfUmZE5i4L12sOryAPuBa04K.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/vJgtfUmZE5i4L12sOryAPuBa04K.jpg`
-- backdrop_path: `/mfq6XYwSVDTdZu4qeJ7HYPu7KmA.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/mfq6XYwSVDTdZu4qeJ7HYPu7KmA.jpg`
+- poster_path: `/i1U46OwMc6vlm7OoSUKfqUH615e.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/i1U46OwMc6vlm7OoSUKfqUH615e.jpg`
+- backdrop_path: `/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=iq7smHSQPho`
 - release_date: `2014-12-25`
 - runtime: `133`
-- vote_average: `7.413`
-- vote_count: `13646`
+- vote_average: `7.411`
+- vote_count: `13691`
 - genres: `War`, `Action`
 - movie_row:
   - import_tmdb_id: `190859`
   - title: `American Sniper`
   - overview: `U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.`
-  - poster_path: `/vJgtfUmZE5i4L12sOryAPuBa04K.jpg`
-  - backdrop_path: `/mfq6XYwSVDTdZu4qeJ7HYPu7KmA.jpg`
+  - poster_path: `/i1U46OwMc6vlm7OoSUKfqUH615e.jpg`
+  - backdrop_path: `/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg`
   - release_date: `2014-12-25`
   - runtime: `133`
-  - vote_average: `7.413`
-  - vote_count: `13646`
+  - vote_average: `7.411`
+  - vote_count: `13691`
   - genres: `War`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=iq7smHSQPho`
   - status: `active`
@@ -2060,41 +2060,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `1234731`
+- real_tmdb_id: `9360`
 - canonical_title: `Anaconda`
 - original_title: `Anaconda`
 - normalized_title_guess: `Anaconda`
 - narrators_found: `Gaheza`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg`
-- backdrop_path: `/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=LFLyvzIZjK4`
-- release_date: `2025-12-24`
-- runtime: `100`
-- vote_average: `5.9`
-- vote_count: `1201`
-- genres: `Adventure`, `Comedy`
+- poster_path: `/33NysOnLpLZY0ewHTcfpalzAsRG.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg`
+- backdrop_path: `/e2oO1FPwMiDEi119rJJspYI6TiG.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/e2oO1FPwMiDEi119rJJspYI6TiG.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=ZkjWyIdIBJo`
+- release_date: `1997-04-11`
+- runtime: `90`
+- vote_average: `5.278`
+- vote_count: `2829`
+- genres: `Adventure`, `Horror`, `Thriller`
 - movie_row:
-  - import_tmdb_id: `1234731`
+  - import_tmdb_id: `9360`
   - title: `Anaconda`
-  - overview: `A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.`
-  - poster_path: `/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg`
-  - backdrop_path: `/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg`
-  - release_date: `2025-12-24`
-  - runtime: `100`
-  - vote_average: `5.9`
-  - vote_count: `1201`
-  - genres: `Adventure`, `Comedy`
-  - trailer_url: `https://www.youtube.com/watch?v=LFLyvzIZjK4`
+  - overview: `A 'National Geographic' film crew is taken hostage by an insane hunter, who takes them along on his quest to capture the world's largest — and deadliest — snake.`
+  - poster_path: `/33NysOnLpLZY0ewHTcfpalzAsRG.jpg`
+  - backdrop_path: `/e2oO1FPwMiDEi119rJJspYI6TiG.jpg`
+  - release_date: `1997-04-11`
+  - runtime: `90`
+  - vote_average: `5.278`
+  - vote_count: `2829`
+  - genres: `Adventure`, `Horror`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=ZkjWyIdIBJo`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Anaconda . Gaheza | https://oshakurfilms.com/watch/anaconda-gaheza | Gaheza | 1234731 | 1234731 | https://hglink.to/e/etmgq4k8fkyk | hglink.to | https://www.mediafire.com/file/gsm0000r4sd9oj7/ANACONDA+NUJAIDALLY.mp4/file | www.mediafire.com |  |
+| 1 | Anaconda . Gaheza | https://oshakurfilms.com/watch/anaconda-gaheza | Gaheza | 9360 | 9360 | https://hglink.to/e/etmgq4k8fkyk | hglink.to | https://www.mediafire.com/file/gsm0000r4sd9oj7/ANACONDA+NUJAIDALLY.mp4/file | www.mediafire.com |  |
 
 ## Angel Has Fallen
 
@@ -2116,8 +2116,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=l4AQchYSxwc`
 - release_date: `2019-08-21`
 - runtime: `122`
-- vote_average: `6.606`
-- vote_count: `3891`
+- vote_average: `6.604`
+- vote_count: `3908`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `423204`
@@ -2127,8 +2127,8 @@
   - backdrop_path: `/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg`
   - release_date: `2019-08-21`
   - runtime: `122`
-  - vote_average: `6.606`
-  - vote_count: `3891`
+  - vote_average: `6.604`
+  - vote_count: `3908`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=l4AQchYSxwc`
   - status: `active`
@@ -2158,7 +2158,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=hj0CtX8YevI`
 - release_date: `2024-07-09`
 - runtime: `103`
-- vote_average: `6.203`
+- vote_average: `6.2`
 - vote_count: `74`
 - genres: `Action`, `Adventure`, `Fantasy`, `Horror`
 - movie_row:
@@ -2169,7 +2169,7 @@
   - backdrop_path: `/xVcffNU61CclEGgtiWP7KLIE2dm.jpg`
   - release_date: `2024-07-09`
   - runtime: `103`
-  - vote_average: `6.203`
+  - vote_average: `6.2`
   - vote_count: `74`
   - genres: `Action`, `Adventure`, `Fantasy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=hj0CtX8YevI`
@@ -2243,7 +2243,7 @@
 - release_date: `2015-07-14`
 - runtime: `117`
 - vote_average: `7.066`
-- vote_count: `20869`
+- vote_count: `20924`
 - genres: `Science Fiction`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `102899`
@@ -2254,7 +2254,7 @@
   - release_date: `2015-07-14`
   - runtime: `117`
   - vote_average: `7.066`
-  - vote_count: `20869`
+  - vote_count: `20924`
   - genres: `Science Fiction`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=cx3joJnXydc`
   - status: `active`
@@ -2279,24 +2279,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg`
-- backdrop_path: `/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg`
+- backdrop_path: `/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=kgv8jf_8dm0`
 - release_date: `2026-04-24`
 - runtime: `96`
-- vote_average: `6.768`
-- vote_count: `1379`
+- vote_average: `6.824`
+- vote_count: `1551`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1318447`
   - title: `Apex`
   - overview: `A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.`
   - poster_path: `/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg`
-  - backdrop_path: `/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg`
+  - backdrop_path: `/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg`
   - release_date: `2026-04-24`
   - runtime: `96`
-  - vote_average: `6.768`
-  - vote_count: `1379`
+  - vote_average: `6.824`
+  - vote_count: `1551`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=kgv8jf_8dm0`
   - status: `active`
@@ -2304,6 +2304,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Apex | https://oshakurfilms.com/watch/apex | UNSPECIFIED | 1318447 | 1318447 | https://hgcloud.to/e/dkteljvxyuib | hgcloud.to | https://www.mediafire.com/file/99wrfog0c9n9ayz/APEX_BY_GAHEZA%252B2026%252B.mp4/file | www.mediafire.com |  |
 | 1 | Apex . Skov | https://oshakurfilms.com/watch/apex-skov | Skov | 1318447 | 1318447 | https://hgcloud.to/e/h0rn7ho2y946 | hgcloud.to | https://www.mediafire.com/file/l5zv71x87vma5a0/APEX+-+SIKOV.mp4.mp4/file | www.mediafire.com |  |
 
 ## Apocalypto
@@ -2326,8 +2327,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gSw5l5jMnPM`
 - release_date: `2006-12-07`
 - runtime: `138`
-- vote_average: `7.631`
-- vote_count: `6378`
+- vote_average: `7.645`
+- vote_count: `6457`
 - genres: `Action`, `Drama`, `History`
 - movie_row:
   - import_tmdb_id: `1579`
@@ -2337,8 +2338,8 @@
   - backdrop_path: `/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg`
   - release_date: `2006-12-07`
   - runtime: `138`
-  - vote_average: `7.631`
-  - vote_count: `6378`
+  - vote_average: `7.645`
+  - vote_count: `6457`
   - genres: `Action`, `Drama`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=gSw5l5jMnPM`
   - status: `active`
@@ -2369,8 +2370,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2wcj6SrX4zw`
 - release_date: `2018-12-07`
 - runtime: `143`
-- vote_average: `6.867`
-- vote_count: `14912`
+- vote_average: `6.868`
+- vote_count: `14958`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `297802`
@@ -2380,8 +2381,8 @@
   - backdrop_path: `/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg`
   - release_date: `2018-12-07`
   - runtime: `143`
-  - vote_average: `6.867`
-  - vote_count: `14912`
+  - vote_average: `6.868`
+  - vote_count: `14958`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=2wcj6SrX4zw`
   - status: `active`
@@ -2406,24 +2407,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg`
-- backdrop_path: `/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg`
+- backdrop_path: `/bckxSN9ueOgm0gJpVJmPQrecWul.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/bckxSN9ueOgm0gJpVJmPQrecWul.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=4cSkHPW-MPE`
 - release_date: `2023-12-20`
 - runtime: `124`
-- vote_average: `6.523`
-- vote_count: `3496`
+- vote_average: `6.525`
+- vote_count: `3520`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `572802`
   - title: `Aquaman and the Lost Kingdom`
   - overview: `Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.`
   - poster_path: `/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg`
-  - backdrop_path: `/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg`
+  - backdrop_path: `/bckxSN9ueOgm0gJpVJmPQrecWul.jpg`
   - release_date: `2023-12-20`
   - runtime: `124`
-  - vote_average: `6.523`
-  - vote_count: `3496`
+  - vote_average: `6.525`
+  - vote_count: `3520`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=4cSkHPW-MPE`
   - status: `active`
@@ -2453,8 +2454,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=tI1JGPhYBS8`
 - release_date: `2021-05-14`
 - runtime: `148`
-- vote_average: `6.203`
-- vote_count: `4419`
+- vote_average: `6.2`
+- vote_count: `4440`
 - genres: `Crime`, `Action`, `Horror`
 - movie_row:
   - import_tmdb_id: `503736`
@@ -2464,8 +2465,8 @@
   - backdrop_path: `/c0izdYdnTe4uMRifHgvTA85wPz0.jpg`
   - release_date: `2021-05-14`
   - runtime: `148`
-  - vote_average: `6.203`
-  - vote_count: `4419`
+  - vote_average: `6.2`
+  - vote_count: `4440`
   - genres: `Crime`, `Action`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=tI1JGPhYBS8`
   - status: `active`
@@ -2495,8 +2496,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Ith2WetKXlg`
 - release_date: `2021-10-29`
 - runtime: `128`
-- vote_average: `6.801`
-- vote_count: `2282`
+- vote_average: `6.799`
+- vote_count: `2292`
 - genres: `Action`, `Crime`, `Comedy`
 - movie_row:
   - import_tmdb_id: `796499`
@@ -2506,8 +2507,8 @@
   - backdrop_path: `/bo4evsmoKb16AD1OhHgVOlgJtBw.jpg`
   - release_date: `2021-10-29`
   - runtime: `128`
-  - vote_average: `6.801`
-  - vote_count: `2282`
+  - vote_average: `6.799`
+  - vote_count: `2292`
   - genres: `Action`, `Crime`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=Ith2WetKXlg`
   - status: `active`
@@ -2579,8 +2580,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=s9vLsTwOW-Q`
 - release_date: `2019-04-03`
 - runtime: `90`
-- vote_average: `7.2`
-- vote_count: `216`
+- vote_average: `7.245`
+- vote_count: `220`
 - genres: `Animation`, `Comedy`, `Adventure`, `Family`
 - movie_row:
   - import_tmdb_id: `580600`
@@ -2590,8 +2591,8 @@
   - backdrop_path: `/ivKorzMwX7ZEWtJozRn6Q3VgZgO.jpg`
   - release_date: `2019-04-03`
   - runtime: `90`
-  - vote_average: `7.2`
-  - vote_count: `216`
+  - vote_average: `7.245`
+  - vote_count: `220`
   - genres: `Animation`, `Comedy`, `Adventure`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=s9vLsTwOW-Q`
   - status: `active`
@@ -2621,8 +2622,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=KnC-XvFGflM`
 - release_date: `2022-04-01`
 - runtime: `123`
-- vote_average: `6.756`
-- vote_count: `217`
+- vote_average: `6.752`
+- vote_count: `218`
 - genres: `Action`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `799155`
@@ -2632,8 +2633,8 @@
   - backdrop_path: `/AaYfsgRcgU00n0MNVsn1604bfcu.jpg`
   - release_date: `2022-04-01`
   - runtime: `123`
-  - vote_average: `6.756`
-  - vote_count: `217`
+  - vote_average: `6.752`
+  - vote_count: `218`
   - genres: `Action`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=KnC-XvFGflM`
   - status: `active`
@@ -2661,10 +2662,10 @@
 - backdrop_path: `/i3pONuqGZSR3UYOOdBeU2CiQnxj.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/i3pONuqGZSR3UYOOdBeU2CiQnxj.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=wH7bq_RjJqg`
-- release_date: `2007-11-21`
+- release_date: `2007-10-18`
 - runtime: `114`
-- vote_average: `7.417`
-- vote_count: `2839`
+- vote_average: `7.4`
+- vote_count: `2845`
 - genres: `Family`, `Drama`, `Music`
 - movie_row:
   - import_tmdb_id: `5123`
@@ -2672,10 +2673,10 @@
   - overview: `Evan, a musically gifted orphan, runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard, a homeless man who lives in an abandoned theater. After discovering his talent, the Wizard gives Evan the name "August Rush" and devises a plan to profit from his talent. Little does Evan know that his parents, Lyla and Louis, are searching for him too.`
   - poster_path: `/oA6ZeICPINiS6YtD5WZeBaGVmuT.jpg`
   - backdrop_path: `/i3pONuqGZSR3UYOOdBeU2CiQnxj.jpg`
-  - release_date: `2007-11-21`
+  - release_date: `2007-10-18`
   - runtime: `114`
-  - vote_average: `7.417`
-  - vote_count: `2839`
+  - vote_average: `7.4`
+  - vote_count: `2845`
   - genres: `Family`, `Drama`, `Music`
   - trailer_url: `https://www.youtube.com/watch?v=wH7bq_RjJqg`
   - status: `active`
@@ -2698,26 +2699,26 @@
 - narrators_found: `Perfect`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg`
-- backdrop_path: `/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg`
+- poster_path: `/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg`
+- backdrop_path: `/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=Ma1x7ikpid8`
 - release_date: `2025-12-17`
 - runtime: `198`
-- vote_average: `7.554`
-- vote_count: `3343`
+- vote_average: `7.608`
+- vote_count: `3624`
 - genres: `Science Fiction`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `83533`
   - title: `Avatar: Fire and Ash`
   - overview: `In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.`
-  - poster_path: `/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg`
-  - backdrop_path: `/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg`
+  - poster_path: `/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg`
+  - backdrop_path: `/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg`
   - release_date: `2025-12-17`
   - runtime: `198`
-  - vote_average: `7.554`
-  - vote_count: `3343`
+  - vote_average: `7.608`
+  - vote_count: `3624`
   - genres: `Science Fiction`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=Ma1x7ikpid8`
   - status: `active`
@@ -2750,7 +2751,7 @@
 - release_date: `2022-12-14`
 - runtime: `192`
 - vote_average: `7.594`
-- vote_count: `14159`
+- vote_count: `14246`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `76600`
@@ -2761,7 +2762,7 @@
   - release_date: `2022-12-14`
   - runtime: `192`
   - vote_average: `7.594`
-  - vote_count: `14159`
+  - vote_count: `14246`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=o5F8MOz_IDw`
   - status: `active`
@@ -2792,8 +2793,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=QwievZ1Tx-8`
 - release_date: `2018-04-25`
 - runtime: `149`
-- vote_average: `8.237`
-- vote_count: `32052`
+- vote_average: `8.238`
+- vote_count: `32186`
 - genres: `Adventure`, `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `299536`
@@ -2803,8 +2804,8 @@
   - backdrop_path: `/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg`
   - release_date: `2018-04-25`
   - runtime: `149`
-  - vote_average: `8.237`
-  - vote_count: `32052`
+  - vote_average: `8.238`
+  - vote_count: `32186`
   - genres: `Adventure`, `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=QwievZ1Tx-8`
   - status: `active`
@@ -2831,26 +2832,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/jIPIxaBcppLLkygko7tV5yuTIs1.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/jIPIxaBcppLLkygko7tV5yuTIs1.jpg`
+- poster_path: `/xqooV6lR1Kdx4Q52Sim0aGbDTYP.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/xqooV6lR1Kdx4Q52Sim0aGbDTYP.jpg`
 - backdrop_path: `/nAVntSurtINQNtYPU7ijgCtgz7W.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/nAVntSurtINQNtYPU7ijgCtgz7W.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=RzR2J7_QBHg`
 - release_date: `2007-11-28`
 - runtime: `84`
-- vote_average: `6.565`
-- vote_count: `1549`
+- vote_average: `6.573`
+- vote_count: `1563`
 - genres: `Thriller`, `Crime`, `Mystery`
 - movie_row:
   - import_tmdb_id: `13483`
   - title: `Awake`
   - overview: `While undergoing heart surgery, a man experiences a phenomenon called ‘anesthetic awareness’, which leaves him awake but paralyzed throughout the operation. As various obstacles present themselves, his wife must make life-altering decisions while wrestling with her own personal drama.`
-  - poster_path: `/jIPIxaBcppLLkygko7tV5yuTIs1.jpg`
+  - poster_path: `/xqooV6lR1Kdx4Q52Sim0aGbDTYP.jpg`
   - backdrop_path: `/nAVntSurtINQNtYPU7ijgCtgz7W.jpg`
   - release_date: `2007-11-28`
   - runtime: `84`
-  - vote_average: `6.565`
-  - vote_count: `1549`
+  - vote_average: `6.573`
+  - vote_count: `1563`
   - genres: `Thriller`, `Crime`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=RzR2J7_QBHg`
   - status: `active`
@@ -2873,26 +2874,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/sykmmFSkIPkW4Y3m4tbmSTZZD3T.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/sykmmFSkIPkW4Y3m4tbmSTZZD3T.jpg`
+- poster_path: `/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg`
 - backdrop_path: `/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=qGT0ID_U73Q`
 - release_date: `2020-03-06`
 - runtime: `144`
 - vote_average: `6.3`
-- vote_count: `125`
+- vote_count: `126`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `594669`
   - title: `Baaghi 3`
   - overview: `A man embarks on a bloody rampage to save his kidnapped brother.`
-  - poster_path: `/sykmmFSkIPkW4Y3m4tbmSTZZD3T.jpg`
+  - poster_path: `/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg`
   - backdrop_path: `/nQV1lkgGn0FhqDeDr4b8VLhn1ow.jpg`
   - release_date: `2020-03-06`
   - runtime: `144`
   - vote_average: `6.3`
-  - vote_count: `125`
+  - vote_count: `126`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=qGT0ID_U73Q`
   - status: `active`
@@ -2965,8 +2966,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jGGptGEAo2U`
 - release_date: `2017-06-28`
 - runtime: `113`
-- vote_average: `7.443`
-- vote_count: `16842`
+- vote_average: `7.444`
+- vote_count: `16893`
 - genres: `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `339403`
@@ -2976,8 +2977,8 @@
   - backdrop_path: `/yir5430WblZSZuIMd9C6pIZerfA.jpg`
   - release_date: `2017-06-28`
   - runtime: `113`
-  - vote_average: `7.443`
-  - vote_count: `16842`
+  - vote_average: `7.444`
+  - vote_count: `16893`
   - genres: `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=jGGptGEAo2U`
   - status: `active`
@@ -3050,8 +3051,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=CopsAJVGSBs`
 - release_date: `1994-07-01`
 - runtime: `99`
-- vote_average: `6.416`
-- vote_count: `1456`
+- vote_average: `6.414`
+- vote_count: `1468`
 - genres: `Comedy`, `Adventure`, `Family`, `Crime`
 - movie_row:
   - import_tmdb_id: `11212`
@@ -3061,8 +3062,8 @@
   - backdrop_path: `/7bDfeFS4utVf2LNN5lr2pnVgRTb.jpg`
   - release_date: `1994-07-01`
   - runtime: `99`
-  - vote_average: `6.416`
-  - vote_count: `1456`
+  - vote_average: `6.414`
+  - vote_count: `1468`
   - genres: `Comedy`, `Adventure`, `Family`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=CopsAJVGSBs`
   - status: `active`
@@ -3093,7 +3094,7 @@
 - release_date: `2008-08-20`
 - runtime: `101`
 - vote_average: `5.668`
-- vote_count: `2264`
+- vote_count: `2272`
 - genres: `Action`, `Adventure`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `9381`
@@ -3104,7 +3105,7 @@
   - release_date: `2008-08-20`
   - runtime: `101`
   - vote_average: `5.668`
-  - vote_count: `2264`
+  - vote_count: `2272`
   - genres: `Action`, `Adventure`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=_wW9pYbRkjk`
   - status: `active`
@@ -3134,8 +3135,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=MV2nYw6gL_w`
 - release_date: `2025-01-15`
 - runtime: `114`
-- vote_average: `6.434`
-- vote_count: `1503`
+- vote_average: `6.426`
+- vote_count: `1517`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `993710`
@@ -3145,8 +3146,8 @@
   - backdrop_path: `/mkxGpqh4yOYqtENv01IrDcesFRf.jpg`
   - release_date: `2025-01-15`
   - runtime: `114`
-  - vote_average: `6.434`
-  - vote_count: `1503`
+  - vote_average: `6.426`
+  - vote_count: `1517`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=MV2nYw6gL_w`
   - status: `active`
@@ -3302,8 +3303,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=R228yPrwqTo`
 - release_date: `2020-01-15`
 - runtime: `124`
-- vote_average: `7.114`
-- vote_count: `8745`
+- vote_average: `7.113`
+- vote_count: `8775`
 - genres: `Thriller`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `38700`
@@ -3313,8 +3314,8 @@
   - backdrop_path: `/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg`
   - release_date: `2020-01-15`
   - runtime: `124`
-  - vote_average: `7.114`
-  - vote_count: `8745`
+  - vote_average: `7.113`
+  - vote_count: `8775`
   - genres: `Thriller`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=R228yPrwqTo`
   - status: `active`
@@ -3346,7 +3347,7 @@
 - release_date: `2003-07-18`
 - runtime: `146`
 - vote_average: `6.656`
-- vote_count: `5950`
+- vote_count: `5982`
 - genres: `Action`, `Crime`, `Comedy`
 - movie_row:
   - import_tmdb_id: `8961`
@@ -3357,7 +3358,7 @@
   - release_date: `2003-07-18`
   - runtime: `146`
   - vote_average: `6.656`
-  - vote_count: `5950`
+  - vote_count: `5982`
   - genres: `Action`, `Crime`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=MsGSpfK6H4A`
   - status: `active`
@@ -3390,7 +3391,7 @@
 - release_date: `2024-06-05`
 - runtime: `116`
 - vote_average: `7.324`
-- vote_count: `3335`
+- vote_count: `3360`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `573435`
@@ -3401,7 +3402,7 @@
   - release_date: `2024-06-05`
   - runtime: `116`
   - vote_average: `7.324`
-  - vote_count: `3335`
+  - vote_count: `3360`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=uWLNl_KQCAU`
   - status: `active`
@@ -3432,8 +3433,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=CLdhN4oMxCQ`
 - release_date: `2017-05-03`
 - runtime: `130`
-- vote_average: `7.865`
-- vote_count: `852`
+- vote_average: `7.868`
+- vote_count: `853`
 - genres: `Drama`, `Crime`, `Thriller`, `Comedy`
 - movie_row:
   - import_tmdb_id: `455714`
@@ -3443,8 +3444,8 @@
   - backdrop_path: `/6qTpufRgDkl0M2zRPewozYD1g5y.jpg`
   - release_date: `2017-05-03`
   - runtime: `130`
-  - vote_average: `7.865`
-  - vote_count: `852`
+  - vote_average: `7.868`
+  - vote_count: `853`
   - genres: `Drama`, `Crime`, `Thriller`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=CLdhN4oMxCQ`
   - status: `active`
@@ -3474,7 +3475,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=IGzLHNPO4QI`
 - release_date: `2024-04-11`
 - runtime: `164`
-- vote_average: `6.255`
+- vote_average: `6.3`
 - vote_count: `51`
 - genres: `Action`
 - movie_row:
@@ -3485,7 +3486,7 @@
   - backdrop_path: `/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg`
   - release_date: `2024-04-11`
   - runtime: `164`
-  - vote_average: `6.255`
+  - vote_average: `6.3`
   - vote_count: `51`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=IGzLHNPO4QI`
@@ -3518,7 +3519,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=IGzLHNPO4QI`
 - release_date: `2024-04-11`
 - runtime: `164`
-- vote_average: `6.255`
+- vote_average: `6.3`
 - vote_count: `51`
 - genres: `Action`
 - movie_row:
@@ -3529,7 +3530,7 @@
   - backdrop_path: `/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg`
   - release_date: `2024-04-11`
   - runtime: `164`
-  - vote_average: `6.255`
+  - vote_average: `6.3`
   - vote_count: `51`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=IGzLHNPO4QI`
@@ -3546,41 +3547,43 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `882401`
+- real_tmdb_id: `777292`
 - canonical_title: `Bagheera`
-- original_title: `பஹீரா`
+- original_title: `ಬಘೀರ`
 - normalized_title_guess: `Bagheera`
 - narrators_found: `Fey`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/uaMo3RY1vN2UcT4Wc5xvOfLOrRN.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/uaMo3RY1vN2UcT4Wc5xvOfLOrRN.jpg`
-- backdrop_path: `/hrMtjrOqYWSynrioAIWDONJjVj4.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/hrMtjrOqYWSynrioAIWDONJjVj4.jpg`
-- release_date: `2023-03-03`
-- runtime: `147`
-- vote_average: `5.2`
-- vote_count: `4`
-- genres: `Drama`, `Thriller`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/ziXyy0zgmwf4oTunSsUHDyOZBeC.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/ziXyy0zgmwf4oTunSsUHDyOZBeC.jpg`
+- backdrop_path: `/r9GXAvybRDx613LzNRnZAPJyjrI.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/r9GXAvybRDx613LzNRnZAPJyjrI.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=4BQ9kEuyULs`
+- release_date: `2024-10-31`
+- runtime: `158`
+- vote_average: `5.457`
+- vote_count: `23`
+- genres: `Action`, `Adventure`
 - movie_row:
-  - import_tmdb_id: `882401`
+  - import_tmdb_id: `777292`
   - title: `Bagheera`
-  - overview: `A psychopath, who claims to be a saviour for men, murders women who are involved in more than one relationship. Who is he, and what made him such a monster?`
-  - poster_path: `/uaMo3RY1vN2UcT4Wc5xvOfLOrRN.jpg`
-  - backdrop_path: `/hrMtjrOqYWSynrioAIWDONJjVj4.jpg`
-  - release_date: `2023-03-03`
-  - runtime: `147`
-  - vote_average: `5.2`
-  - vote_count: `4`
-  - genres: `Drama`, `Thriller`
+  - overview: `Dismayed by corruption and violence, a virtuous police officer becomes a masked vigilante to dliver lethal justice to criminals and crooked cops alike.`
+  - poster_path: `/ziXyy0zgmwf4oTunSsUHDyOZBeC.jpg`
+  - backdrop_path: `/r9GXAvybRDx613LzNRnZAPJyjrI.jpg`
+  - release_date: `2024-10-31`
+  - runtime: `158`
+  - vote_average: `5.457`
+  - vote_count: `23`
+  - genres: `Action`, `Adventure`
+  - trailer_url: `https://www.youtube.com/watch?v=4BQ9kEuyULs`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bagheera A - FEY | https://oshakurfilms.com/watch/bagheera-a-fey | Fey | 882401 | 882401 | https://cybervynx.com/e/i1ztm8rykeoe | cybervynx.com | https://www.mediafire.com/file/988l16k43c9b1qq/bagheera_FEY_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Bagheera B - FEY | https://oshakurfilms.com/watch/bagheera-b-fey | Fey | 882401 | 882403 | https://cybervynx.com/e/rklhk7i84cbk | cybervynx.com | https://www.mediafire.com/file/upagakhjhiun9w6/bagheera_FEY_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
-| 3 | Bagheera C - FEY | https://oshakurfilms.com/watch/bagheera-c-fey | Fey | 882401 | 882404 | https://cybervynx.com/e/0cwhkchcwwvy | cybervynx.com | https://www.mediafire.com/file/ykaszt170geeh2q/bagheera_FEY_C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | Bagheera A - FEY | https://oshakurfilms.com/watch/bagheera-a-fey | Fey | 777292 | 777292 | https://cybervynx.com/e/i1ztm8rykeoe | cybervynx.com | https://www.mediafire.com/file/988l16k43c9b1qq/bagheera_FEY_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Bagheera B - FEY | https://oshakurfilms.com/watch/bagheera-b-fey | Fey | 777292 | 777294 | https://cybervynx.com/e/rklhk7i84cbk | cybervynx.com | https://www.mediafire.com/file/upagakhjhiun9w6/bagheera_FEY_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 3 | Bagheera C - FEY | https://oshakurfilms.com/watch/bagheera-c-fey | Fey | 777292 | 777295 | https://cybervynx.com/e/0cwhkchcwwvy | cybervynx.com | https://www.mediafire.com/file/ykaszt170geeh2q/bagheera_FEY_C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Bāhubali 2: The Conclusion
 
@@ -3592,7 +3595,7 @@
 - canonical_title: `Bāhubali 2: The Conclusion`
 - original_title: `బాహుబలి 2: ది కన్ క్లూజన్`
 - normalized_title_guess: `Baahubali 2`
-- narrators_found: `Be The Great`, `Rocky`
+- narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/21sC2assImQIYCEDA84Qh9d1RsK.jpg`
@@ -3602,8 +3605,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qD-6d8Wo3do`
 - release_date: `2017-04-27`
 - runtime: `167`
-- vote_average: `7.46`
-- vote_count: `852`
+- vote_average: `7.475`
+- vote_count: `863`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `350312`
@@ -3613,8 +3616,8 @@
   - backdrop_path: `/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg`
   - release_date: `2017-04-27`
   - runtime: `167`
-  - vote_average: `7.46`
-  - vote_count: `852`
+  - vote_average: `7.475`
+  - vote_count: `863`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=qD-6d8Wo3do`
   - status: `active`
@@ -3622,9 +3625,9 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Baahubali 2 - B The Great | https://oshakurfilms.com/watch/baahubali-2-b-the-great | Be The Great | 350312 | 350312 | https://cybervynx.com/e/iatc9zdr1nvz | cybervynx.com | https://www.mediafire.com/file/sackvb7d6wfo3y4/Baahubali+2+The+Conclusion+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 1 | Baahubali 2 | https://oshakurfilms.com/watch/baahubali-2 | UNSPECIFIED | 350312 | 350312 | https://cybervynx.com/e/iatc9zdr1nvz | cybervynx.com | https://www.mediafire.com/file/sackvb7d6wfo3y4/Baahubali+2+The+Conclusion+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 1 | Baahubali 2A - Rocky | https://oshakurfilms.com/watch/baahubali-2a-rocky | Rocky | 350312 | 350312 | https://hglink.to/e/g4bnqfyobiau | hglink.to | https://www.mediafire.com/file/qlkncr8fjzbkbf3/BAHUBAL2_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Baahubali 2 B - B The Great | https://oshakurfilms.com/watch/baahubali-2-b-b-the-great | Be The Great | 350312 | 350314 | https://cybervynx.com/e/nv5ypr7xhfsm | cybervynx.com | https://www.mediafire.com/file/mkm3ojvwutqkjqa/Baahubali+2+The+Conclusion+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 2 | Baahubali 2 B | https://oshakurfilms.com/watch/baahubali-2-b | UNSPECIFIED | 350312 | 350314 | https://cybervynx.com/e/nv5ypr7xhfsm | cybervynx.com | https://www.mediafire.com/file/mkm3ojvwutqkjqa/Baahubali+2+The+Conclusion+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 2 | Baahubali 2B - Rocky | https://oshakurfilms.com/watch/baahubali-2b-rocky | Rocky | 350312 | 350314 | https://hglink.to/e/9gfzx9mh22yq | hglink.to | https://www.mediafire.com/file/2u929fz22y23k36/BAHUBAL2_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | Baahubali 2C - Rocky | https://oshakurfilms.com/watch/baahubali-2c-rocky | Rocky | 350312 | 350315 | https://hglink.to/e/b93bo67pstoa | hglink.to | https://www.mediafire.com/file/7ar0wuwetpokwmd/BAHUBAL2_C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
@@ -3648,8 +3651,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3NQRhE772b0`
 - release_date: `2015-07-10`
 - runtime: `159`
-- vote_average: `7.533`
-- vote_count: `928`
+- vote_average: `7.549`
+- vote_count: `940`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `256040`
@@ -3659,8 +3662,8 @@
   - backdrop_path: `/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg`
   - release_date: `2015-07-10`
   - runtime: `159`
-  - vote_average: `7.533`
-  - vote_count: `928`
+  - vote_average: `7.549`
+  - vote_count: `940`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=3NQRhE772b0`
   - status: `active`
@@ -3691,8 +3694,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=e5jD0q0dhYE`
 - release_date: `2012-09-05`
 - runtime: `93`
-- vote_average: `5.654`
-- vote_count: `809`
+- vote_average: `5.645`
+- vote_count: `814`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `118957`
@@ -3702,8 +3705,8 @@
   - backdrop_path: `/r8xotdjJLzZpdbj3Iz636bUi3oR.jpg`
   - release_date: `2012-09-05`
   - runtime: `93`
-  - vote_average: `5.654`
-  - vote_count: `809`
+  - vote_average: `5.645`
+  - vote_count: `814`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=e5jD0q0dhYE`
   - status: `active`
@@ -3732,8 +3735,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/n9QCm8uagvmXH476u5qFQsW8HkU.jpg`
 - release_date: `2015-07-17`
 - runtime: `159`
-- vote_average: `7.807`
-- vote_count: `548`
+- vote_average: `7.815`
+- vote_count: `555`
 - genres: `Comedy`, `Drama`, `Adventure`
 - movie_row:
   - import_tmdb_id: `348892`
@@ -3743,8 +3746,8 @@
   - backdrop_path: `/n9QCm8uagvmXH476u5qFQsW8HkU.jpg`
   - release_date: `2015-07-17`
   - runtime: `159`
-  - vote_average: `7.807`
-  - vote_count: `548`
+  - vote_average: `7.815`
+  - vote_count: `555`
   - genres: `Comedy`, `Drama`, `Adventure`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -3753,6 +3756,39 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bajrangi Bhaijaan - ROCKY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/bajrangi-bhaijaan-rocky-agasobanuye-mu-kinyarwanda | Rocky | 348892 | 348892 | https://gradehgplus.com/e/wo1jofioo0p2 | gradehgplus.com | https://www.mediafire.com/file/iep88dxiuq5gyan/Bajrangi_Bhaijaan.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 2 | Bajrangi Bhaijaan B - ROCKY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/bajrangi-bhaijaan-b-rocky-agasobanuye-mu-kinyarwanda | Rocky | 348892 | 348894 | https://gradehgplus.com/e/jbmfayqmzvwb | gradehgplus.com | https://www.mediafire.com/file/th6fx5nui33gvkl/Bajrangi_Bhaijaan_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Ballerina 2
+
+- content_type: `movie_part`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1719056`
+- canonical_title: `Ballerina 2`
+- original_title: `Ballerina 2`
+- normalized_title_guess: `Ballerina 2`
+- narrators_found: `Rocky`
+- tmdb_available_fields: `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`
+- runtime: `0`
+- vote_average: `0`
+- vote_count: `0`
+- genres: `Animation`, `Adventure`, `Family`
+- movie_row:
+  - import_tmdb_id: `1719056`
+  - title: `Ballerina 2`
+  - overview: `Sequel to the 2016 animated film. Plot TBA.`
+  - runtime: `0`
+  - vote_average: `0`
+  - vote_count: `0`
+  - genres: `Animation`, `Adventure`, `Family`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Ballerina 2 - ROCKY Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/ballerina-2-rocky-agasobanuye-mu-kinyarwanda | Rocky | 1719056 | 1719056 | https://gradehgplus.com/e/07nr93phrwsu | gradehgplus.com | https://www.mediafire.com/file/7l3xgkc5ai27kmj/BALLERINA+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Ballerina 2B - ROCKY Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/ballerina-2b-rocky-agasobanuye-mu-kinyarwanda | Rocky | 1719056 | 1719058 | https://gradehgplus.com/e/wo012mt87qc5 | gradehgplus.com | https://www.mediafire.com/file/8af81s6q4ckq15c/BALLERINA+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Bang Bang!
 
@@ -3767,25 +3803,25 @@
 - narrators_found: `Fey`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/6ukTOJ3VNqrR0un8nolKoIlgn1V.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/6ukTOJ3VNqrR0un8nolKoIlgn1V.jpg`
+- poster_path: `/crrxjq2nI8okzAINLa3mfJNyf0V.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/crrxjq2nI8okzAINLa3mfJNyf0V.jpg`
 - backdrop_path: `/kmQxQT2MzqwSkXIlVN1uygXk5fC.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/kmQxQT2MzqwSkXIlVN1uygXk5fC.jpg`
 - release_date: `2014-10-02`
 - runtime: `153`
-- vote_average: `6.204`
-- vote_count: `252`
+- vote_average: `6.2`
+- vote_count: `255`
 - genres: `Action`, `Adventure`, `Comedy`, `Romance`, `Thriller`
 - movie_row:
   - import_tmdb_id: `283589`
   - title: `Bang Bang!`
   - overview: `A young bank receptionist gets mixed up with Rajveer Nanda, a man who has a mysterious background.`
-  - poster_path: `/6ukTOJ3VNqrR0un8nolKoIlgn1V.jpg`
+  - poster_path: `/crrxjq2nI8okzAINLa3mfJNyf0V.jpg`
   - backdrop_path: `/kmQxQT2MzqwSkXIlVN1uygXk5fC.jpg`
   - release_date: `2014-10-02`
   - runtime: `153`
-  - vote_average: `6.204`
-  - vote_count: `252`
+  - vote_average: `6.2`
+  - vote_count: `255`
   - genres: `Action`, `Adventure`, `Comedy`, `Romance`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -3815,8 +3851,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/dVUBKQMehxVnEQMpcOPw3OQqNMF.jpg`
 - release_date: `2012-09-13`
 - runtime: `151`
-- vote_average: `7.612`
-- vote_count: `370`
+- vote_average: `7.608`
+- vote_count: `374`
 - genres: `Drama`, `Romance`, `Comedy`
 - movie_row:
   - import_tmdb_id: `127501`
@@ -3826,8 +3862,8 @@
   - backdrop_path: `/dVUBKQMehxVnEQMpcOPw3OQqNMF.jpg`
   - release_date: `2012-09-13`
   - runtime: `151`
-  - vote_average: `7.612`
-  - vote_count: `370`
+  - vote_average: `7.608`
+  - vote_count: `374`
   - genres: `Drama`, `Romance`, `Comedy`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -3856,8 +3892,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=siPk3zkTCT8`
 - release_date: `2016-04-22`
 - runtime: `92`
-- vote_average: `6.322`
-- vote_count: `1530`
+- vote_average: `6.318`
+- vote_count: `1538`
 - genres: `Action`
 - movie_row:
   - import_tmdb_id: `333669`
@@ -3867,8 +3903,8 @@
   - backdrop_path: `/jC6xdsrOpgLiODlEeII2bSnOFxI.jpg`
   - release_date: `2016-04-22`
   - runtime: `92`
-  - vote_average: `6.322`
-  - vote_count: `1530`
+  - vote_average: `6.318`
+  - vote_count: `1538`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=siPk3zkTCT8`
   - status: `active`
@@ -3899,8 +3935,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/a4H5TFw7p7hCzED5zKuNzjBbi5h.jpg`
 - release_date: `2025-03-14`
 - runtime: `129`
-- vote_average: `6.6`
-- vote_count: `22`
+- vote_average: `6.478`
+- vote_count: `23`
 - genres: `Drama`, `Music`, `Family`
 - movie_row:
   - import_tmdb_id: `607141`
@@ -3910,8 +3946,8 @@
   - backdrop_path: `/a4H5TFw7p7hCzED5zKuNzjBbi5h.jpg`
   - release_date: `2025-03-14`
   - runtime: `129`
-  - vote_average: `6.6`
-  - vote_count: `22`
+  - vote_average: `6.478`
+  - vote_count: `23`
   - genres: `Drama`, `Music`, `Family`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -3919,6 +3955,48 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Be Happy - ROCKY | https://oshakurfilms.com/watch/be-happy-rocky | Rocky | 607141 | 607141 | https://cybervynx.com/e/auf9boyqs59k | cybervynx.com | https://www.mediafire.com/file/4vj3ujcis93259h/BE+HAPPY.mp4/file | www.mediafire.com |  |
+
+## Beast
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1292415`
+- canonical_title: `Beast`
+- original_title: `Beast`
+- normalized_title_guess: `Beast`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg`
+- backdrop_path: `/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=yJN2mJ4uOas`
+- release_date: `2026-04-10`
+- runtime: `115`
+- vote_average: `6.3`
+- vote_count: `62`
+- genres: `Action`, `Drama`
+- movie_row:
+  - import_tmdb_id: `1292415`
+  - title: `Beast`
+  - overview: `MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.`
+  - poster_path: `/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg`
+  - backdrop_path: `/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg`
+  - release_date: `2026-04-10`
+  - runtime: `115`
+  - vote_average: `6.3`
+  - vote_count: `62`
+  - genres: `Action`, `Drama`
+  - trailer_url: `https://www.youtube.com/watch?v=yJN2mJ4uOas`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Beast | https://oshakurfilms.com/watch/beast | UNSPECIFIED | 1292415 | 1292415 | https://hgcloud.to/e/l0yi9a2we3pz | hgcloud.to | https://www.mediafire.com/file/q6t54wtgsjhhdfp/Beast+2026+Hd.mp4/file | www.mediafire.com |  |
 
 ## Beautiful Disaster
 
@@ -3940,8 +4018,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=nvaenzyXl4o`
 - release_date: `2023-04-04`
 - runtime: `96`
-- vote_average: `6.639`
-- vote_count: `900`
+- vote_average: `6.6`
+- vote_count: `901`
 - genres: `Romance`, `Drama`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1016121`
@@ -3951,8 +4029,8 @@
   - backdrop_path: `/qOAH7SDZMjzNolkoLS0PPFPMm0L.jpg`
   - release_date: `2023-04-04`
   - runtime: `96`
-  - vote_average: `6.639`
-  - vote_count: `900`
+  - vote_average: `6.6`
+  - vote_count: `901`
   - genres: `Romance`, `Drama`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=nvaenzyXl4o`
   - status: `active`
@@ -4006,6 +4084,48 @@
 | 2 | Bhairavam B - FEY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/bhairavam-b-fey-agasobanuye-mu-kinyarwanda | Fey | 1388451 | 1388453 | https://hglink.to/e/ncvxyvd7z2eh | hglink.to | https://www.mediafire.com/file/cxiq93q03xghodo/BHAIRAVAM+FEY+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | Bhairavam C - FEY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/bhairavam-c-fey-agasobanuye-mu-kinyarwanda | Fey | 1388451 | 1388454 | https://hglink.to/e/ub70413hcs67 | hglink.to | https://www.mediafire.com/file/fx8rwvigep3ov25/BHAIRAVAM+FEY+C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
+## Bhooth Bangla
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1239134`
+- canonical_title: `Bhooth Bangla`
+- original_title: `भूत बंगला`
+- normalized_title_guess: `Bhooth Bangla`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg`
+- backdrop_path: `/A2tzVTVtnTvpji96IZmleN78KKv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=XW1RkKiRnsg`
+- release_date: `2026-04-16`
+- runtime: `163`
+- vote_average: `5.512`
+- vote_count: `43`
+- genres: `Horror`, `Comedy`
+- movie_row:
+  - import_tmdb_id: `1239134`
+  - title: `Bhooth Bangla`
+  - overview: `A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.`
+  - poster_path: `/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg`
+  - backdrop_path: `/A2tzVTVtnTvpji96IZmleN78KKv.jpg`
+  - release_date: `2026-04-16`
+  - runtime: `163`
+  - vote_average: `5.512`
+  - vote_count: `43`
+  - genres: `Horror`, `Comedy`
+  - trailer_url: `https://www.youtube.com/watch?v=XW1RkKiRnsg`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bhooth Bangla | https://oshakurfilms.com/watch/bhooth-bangla | UNSPECIFIED | 1239134 | 1239134 | https://www.mediafire.com/file/c2yyp1xd0pcyk2q/Bhooth+Bangla+2026+Perfect.mp4/file | www.mediafire.com | https://www.mediafire.com/file/c2yyp1xd0pcyk2q/Bhooth+Bangla+2026+Perfect.mp4/file | www.mediafire.com |  |
+
 ## Big George Foreman
 
 - content_type: `movie_part`
@@ -4026,8 +4146,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=urKDu40iaXk`
 - release_date: `2023-04-27`
 - runtime: `129`
-- vote_average: `7.574`
-- vote_count: `357`
+- vote_average: `7.583`
+- vote_count: `363`
 - genres: `History`, `Drama`
 - movie_row:
   - import_tmdb_id: `878361`
@@ -4037,8 +4157,8 @@
   - backdrop_path: `/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg`
   - release_date: `2023-04-27`
   - runtime: `129`
-  - vote_average: `7.574`
-  - vote_count: `357`
+  - vote_average: `7.583`
+  - vote_count: `363`
   - genres: `History`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=urKDu40iaXk`
   - status: `active`
@@ -4069,8 +4189,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YewYuPqakzw`
 - release_date: `2020-07-23`
 - runtime: `97`
-- vote_average: `7.118`
-- vote_count: `233`
+- vote_average: `7.1`
+- vote_count: `234`
 - genres: `Animation`, `Adventure`, `Family`
 - movie_row:
   - import_tmdb_id: `702525`
@@ -4080,8 +4200,8 @@
   - backdrop_path: `/u6GALns99aM7nDdcY4Cxf6sACdC.jpg`
   - release_date: `2020-07-23`
   - runtime: `97`
-  - vote_average: `7.118`
-  - vote_count: `233`
+  - vote_average: `7.1`
+  - vote_count: `234`
   - genres: `Animation`, `Adventure`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=YewYuPqakzw`
   - status: `active`
@@ -4154,7 +4274,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=memYLNa-7wQ`
 - release_date: `2016-09-08`
 - runtime: `109`
-- vote_average: `6.832`
+- vote_average: `6.8`
 - vote_count: `167`
 - genres: `Animation`, `Action`, `Adventure`, `History`
 - movie_row:
@@ -4165,7 +4285,7 @@
   - backdrop_path: `/tBY8hN4inRzOwUwfvhBUHo00pIQ.jpg`
   - release_date: `2016-09-08`
   - runtime: `109`
-  - vote_average: `6.832`
+  - vote_average: `6.8`
   - vote_count: `167`
   - genres: `Animation`, `Action`, `Adventure`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=memYLNa-7wQ`
@@ -4196,8 +4316,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mkomfZHG5q4`
 - release_date: `2022-10-19`
 - runtime: `125`
-- vote_average: `6.805`
-- vote_count: `7021`
+- vote_average: `6.798`
+- vote_count: `7062`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `436270`
@@ -4207,8 +4327,8 @@
   - backdrop_path: `/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg`
   - release_date: `2022-10-19`
   - runtime: `125`
-  - vote_average: `6.805`
-  - vote_count: `7021`
+  - vote_average: `6.798`
+  - vote_count: `7062`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=mkomfZHG5q4`
   - status: `active`
@@ -4239,7 +4359,7 @@
 - release_date: `2018-02-13`
 - runtime: `135`
 - vote_average: `7.364`
-- vote_count: `23504`
+- vote_count: `23562`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `284054`
@@ -4250,7 +4370,7 @@
   - release_date: `2018-02-13`
   - runtime: `135`
   - vote_average: `7.364`
-  - vote_count: `23504`
+  - vote_count: `23562`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=xjDjIWPwcPU`
   - status: `active`
@@ -4275,24 +4395,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg`
-- backdrop_path: `/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg`
+- backdrop_path: `/6azpBJGcLx9SKif8h9VMnflBfa.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/6azpBJGcLx9SKif8h9VMnflBfa.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=Fp9pNPdNwjI`
 - release_date: `2021-07-07`
 - runtime: `134`
-- vote_average: `7.2`
-- vote_count: `11249`
+- vote_average: `7.166`
+- vote_count: `11293`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `497698`
   - title: `Black Widow`
   - overview: `Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.`
   - poster_path: `/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg`
-  - backdrop_path: `/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg`
+  - backdrop_path: `/6azpBJGcLx9SKif8h9VMnflBfa.jpg`
   - release_date: `2021-07-07`
   - runtime: `134`
-  - vote_average: `7.2`
-  - vote_count: `11249`
+  - vote_average: `7.166`
+  - vote_count: `11293`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=Fp9pNPdNwjI`
   - status: `active`
@@ -4322,8 +4442,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=k_N9pU4FMOs`
 - release_date: `2022-02-10`
 - runtime: `104`
-- vote_average: `6.145`
-- vote_count: `1266`
+- vote_average: `6.134`
+- vote_count: `1274`
 - genres: `Action`, `Thriller`, `Adventure`
 - movie_row:
   - import_tmdb_id: `823625`
@@ -4333,8 +4453,8 @@
   - backdrop_path: `/tULzz524DuvMxnAuQJpo8dk0EvJ.jpg`
   - release_date: `2022-02-10`
   - runtime: `104`
-  - vote_average: `6.145`
-  - vote_count: `1266`
+  - vote_average: `6.134`
+  - vote_count: `1274`
   - genres: `Action`, `Thriller`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=k_N9pU4FMOs`
   - status: `active`
@@ -4363,7 +4483,7 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/mjV9gpXO2R2SOYI4ChJZiu6F1OE.jpg`
 - release_date: `2022-10-12`
 - runtime: `81`
-- vote_average: `5`
+- vote_average: `5.027`
 - vote_count: `169`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
@@ -4374,7 +4494,7 @@
   - backdrop_path: `/mjV9gpXO2R2SOYI4ChJZiu6F1OE.jpg`
   - release_date: `2022-10-12`
   - runtime: `81`
-  - vote_average: `5`
+  - vote_average: `5.027`
   - vote_count: `169`
   - genres: `Action`, `Adventure`, `Thriller`
   - status: `active`
@@ -4385,6 +4505,48 @@
 | 1 | BLACKOUT - SENIOR | https://oshakurfilms.com/watch/blackout-senior | Senior | 759507 | 759507 | https://drive.google.com/file/d/1iIfgAdm7Pg_7spRXKKDQABzLv_czrggy/preview | drive.google.com | https://drive.google.com/file/d/1iIfgAdm7Pg_7spRXKKDQABzLv_czrggy/preview | drive.google.com | Part 1 / base movie row. |
 | 2 | BLACKOUT B - SENIOR | https://oshakurfilms.com/watch/blackout-b-senior | Senior | 759507 | 759509 | https://drive.google.com/file/d/1OHf_f0qbO2So76WBiYvpkE9z5jNqngrZ/preview | drive.google.com | https://drive.google.com/file/d/1OHf_f0qbO2So76WBiYvpkE9z5jNqngrZ/preview | drive.google.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | BLACKOUT C - SENIOR | https://oshakurfilms.com/watch/blackout-c-senior | Senior | 759507 | 759510 | https://drive.google.com/file/d/1-SG2aS8CV3X6pZiu2trKyirZXwFbbQxw/preview | drive.google.com | https://drive.google.com/file/d/1-SG2aS8CV3X6pZiu2trKyirZXwFbbQxw/preview | drive.google.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Blades of the Guardians
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1305781`
+- canonical_title: `Blades of the Guardians`
+- original_title: `镖人：风起大漠`
+- normalized_title_guess: `Blades of the Guardians`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/4QZwryGm8l7N5XdEjPchNPl0BV7.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/4QZwryGm8l7N5XdEjPchNPl0BV7.jpg`
+- backdrop_path: `/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=7jkL4-uYriY`
+- release_date: `2026-02-17`
+- runtime: `126`
+- vote_average: `7`
+- vote_count: `75`
+- genres: `Action`, `Adventure`
+- movie_row:
+  - import_tmdb_id: `1305781`
+  - title: `Blades of the Guardians`
+  - overview: `Dao Ma, the "second most wanted fugitive," is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the "most wanted fugitive" to Chang'an.`
+  - poster_path: `/4QZwryGm8l7N5XdEjPchNPl0BV7.jpg`
+  - backdrop_path: `/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg`
+  - release_date: `2026-02-17`
+  - runtime: `126`
+  - vote_average: `7`
+  - vote_count: `75`
+  - genres: `Action`, `Adventure`
+  - trailer_url: `https://www.youtube.com/watch?v=7jkL4-uYriY`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Blades of the Guardians | https://oshakurfilms.com/watch/blades-of-the-guardians | UNSPECIFIED | 1305781 | 1305781 | https://hgcloud.to/e/yfi2q057xfd0 | hgcloud.to | https://www.mediafire.com/file/ocaas0miygmp6i2/Blade_Of_The_Guardians_2026_Perfect.mp4/file | www.mediafire.com |  |
 
 ## Blood and Bone
 
@@ -4406,8 +4568,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=8pdKYIapamQ`
 - release_date: `2009-02-07`
 - runtime: `93`
-- vote_average: `7.347`
-- vote_count: `893`
+- vote_average: `7.359`
+- vote_count: `899`
 - genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `22164`
@@ -4417,8 +4579,8 @@
   - backdrop_path: `/1ecpXOwhQrMzoV3TrzqJELduQjo.jpg`
   - release_date: `2009-02-07`
   - runtime: `93`
-  - vote_average: `7.347`
-  - vote_count: `893`
+  - vote_average: `7.359`
+  - vote_count: `899`
   - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=8pdKYIapamQ`
   - status: `active`
@@ -4435,40 +4597,42 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `4791`
+- real_tmdb_id: `64363`
 - canonical_title: `Blood Brothers`
-- original_title: `I Guappi`
+- original_title: `刺馬`
 - normalized_title_guess: `Blood Brothers`
 - narrators_found: `Gaheza`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/3fkmnxHdl5wvnq6873qac4RvLJu.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/3fkmnxHdl5wvnq6873qac4RvLJu.jpg`
-- backdrop_path: `/gyHiN8D6d5N4oykRXfqpL0oRuo9.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/gyHiN8D6d5N4oykRXfqpL0oRuo9.jpg`
-- release_date: `1974-02-23`
-- runtime: `130`
-- vote_average: `6.2`
-- vote_count: `18`
-- genres: `Crime`, `Drama`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/zUGzOfPHpaHHhAweJgGhxkPrXr5.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/zUGzOfPHpaHHhAweJgGhxkPrXr5.jpg`
+- backdrop_path: `/lsUUHcfh2LBCReHsA5lV6yAqiLi.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/lsUUHcfh2LBCReHsA5lV6yAqiLi.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=gFA2rAMTrl8`
+- release_date: `1973-02-24`
+- runtime: `123`
+- vote_average: `6.4`
+- vote_count: `38`
+- genres: `Action`, `Drama`
 - movie_row:
-  - import_tmdb_id: `4791`
+  - import_tmdb_id: `64363`
   - title: `Blood Brothers`
-  - overview: `In Naples at the end of the 19th century, Nicola Bellizzi dreams of becoming a lawyer. However, when he seeks the reason that people are reluctant to help him in his goals, he discovers that some of his blood relations are high-ranking members of the Mafia. He tries to break away from his family obligations, but falls into a life of crime and violence.`
-  - poster_path: `/3fkmnxHdl5wvnq6873qac4RvLJu.jpg`
-  - backdrop_path: `/gyHiN8D6d5N4oykRXfqpL0oRuo9.jpg`
-  - release_date: `1974-02-23`
-  - runtime: `130`
-  - vote_average: `6.2`
-  - vote_count: `18`
-  - genres: `Crime`, `Drama`
+  - overview: `Set in the waning years of the Ching Dyansty, this dramatic, tragic, romantic, blood-soaked martial arts tale of betrayal and revenge explores one of the most sensational scandals in Chinese history and marked the true ascension of its director and actors to superstar status. In fact, Ti Lung won Taiwan's Golden Horse Award for Outstanding Performance as the challenging role of a jealous provincial governor who kills his friend in order to steal the man's wife.`
+  - poster_path: `/zUGzOfPHpaHHhAweJgGhxkPrXr5.jpg`
+  - backdrop_path: `/lsUUHcfh2LBCReHsA5lV6yAqiLi.jpg`
+  - release_date: `1973-02-24`
+  - runtime: `123`
+  - vote_average: `6.4`
+  - vote_count: `38`
+  - genres: `Action`, `Drama`
+  - trailer_url: `https://www.youtube.com/watch?v=gFA2rAMTrl8`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Blood Brothers - Gaheza Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/blood-brothers-gaheza-agasobanuye-mu-kinyarwanda | Gaheza | 4791 | 4791 | https://hglink.to/e/8fja7lwo9570 | hglink.to | https://www.mediafire.com/file/ebfpsjtdt74vkh7/Blood+Brothers+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Blood Brothers B - Gaheza Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/blood-brothers-b-gaheza-agasobanuye-mu-kinyarwanda | Gaheza | 4791 | 4793 | https://hglink.to/e/otiwoio9287l | hglink.to | https://www.mediafire.com/file/kz58sonut5sa1g9/Blood+Brothers+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | Blood Brothers - Gaheza Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/blood-brothers-gaheza-agasobanuye-mu-kinyarwanda | Gaheza | 64363 | 64363 | https://hglink.to/e/8fja7lwo9570 | hglink.to | https://www.mediafire.com/file/ebfpsjtdt74vkh7/Blood+Brothers+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Blood Brothers B - Gaheza Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/blood-brothers-b-gaheza-agasobanuye-mu-kinyarwanda | Gaheza | 64363 | 64365 | https://hglink.to/e/otiwoio9287l | hglink.to | https://www.mediafire.com/file/kz58sonut5sa1g9/Blood+Brothers+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Blood Diamond
 
@@ -4483,26 +4647,26 @@
 - narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg`
+- poster_path: `/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg`
 - backdrop_path: `/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=stEtrTrDlrw`
 - release_date: `2006-12-08`
 - runtime: `143`
-- vote_average: `7.561`
-- vote_count: `8335`
+- vote_average: `7.6`
+- vote_count: `8367`
 - genres: `Drama`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `1372`
   - title: `Blood Diamond`
   - overview: `An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.`
-  - poster_path: `/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg`
+  - poster_path: `/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg`
   - backdrop_path: `/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg`
   - release_date: `2006-12-08`
   - runtime: `143`
-  - vote_average: `7.561`
-  - vote_count: `8335`
+  - vote_average: `7.6`
+  - vote_count: `8367`
   - genres: `Drama`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=stEtrTrDlrw`
   - status: `active`
@@ -4532,8 +4696,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=U8M_1eyrBtQ`
 - release_date: `2021-07-23`
 - runtime: `123`
-- vote_average: `6.793`
-- vote_count: `1711`
+- vote_average: `6.787`
+- vote_count: `1728`
 - genres: `Horror`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `760883`
@@ -4543,8 +4707,8 @@
   - backdrop_path: `/s15olg5LwRqTjgDd5KIfVXhcoqs.jpg`
   - release_date: `2021-07-23`
   - runtime: `123`
-  - vote_average: `6.793`
-  - vote_count: `1711`
+  - vote_average: `6.787`
+  - vote_count: `1728`
   - genres: `Horror`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=U8M_1eyrBtQ`
   - status: `active`
@@ -4574,8 +4738,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=otckBy8LdVg`
 - release_date: `2001-04-04`
 - runtime: `124`
-- vote_average: `7.354`
-- vote_count: `4608`
+- vote_average: `7.4`
+- vote_count: `4625`
 - genres: `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `4133`
@@ -4585,8 +4749,8 @@
   - backdrop_path: `/v3ClsT59peXyGJ4XuDvIQAPwcZy.jpg`
   - release_date: `2001-04-04`
   - runtime: `124`
-  - vote_average: `7.354`
-  - vote_count: `4608`
+  - vote_average: `7.4`
+  - vote_count: `4625`
   - genres: `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=otckBy8LdVg`
   - status: `active`
@@ -4609,26 +4773,26 @@
 - narrators_found: `Perfect`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/wUcttG71zo9deP4m9sDhYPUcvi5.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/wUcttG71zo9deP4m9sDhYPUcvi5.jpg`
+- poster_path: `/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg`
 - backdrop_path: `/fzo85eKFEjfmJ781gubJQjpQAwF.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/fzo85eKFEjfmJ781gubJQjpQAwF.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=nvmc2ECk8Lo`
 - release_date: `2026-01-23`
 - runtime: `201`
-- vote_average: `7.2`
-- vote_count: `26`
+- vote_average: `7.111`
+- vote_count: `27`
 - genres: `Action`, `Drama`, `War`
 - movie_row:
   - import_tmdb_id: `1213898`
   - title: `Border 2`
   - overview: `Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.`
-  - poster_path: `/wUcttG71zo9deP4m9sDhYPUcvi5.jpg`
+  - poster_path: `/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg`
   - backdrop_path: `/fzo85eKFEjfmJ781gubJQjpQAwF.jpg`
   - release_date: `2026-01-23`
   - runtime: `201`
-  - vote_average: `7.2`
-  - vote_count: `26`
+  - vote_average: `7.111`
+  - vote_count: `27`
   - genres: `Action`, `Drama`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=nvmc2ECk8Lo`
   - status: `active`
@@ -4660,8 +4824,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=z6NibtjmjOk`
 - release_date: `2024-04-24`
 - runtime: `111`
-- vote_average: `6.699`
-- vote_count: `825`
+- vote_average: `6.694`
+- vote_count: `834`
 - genres: `Crime`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `882059`
@@ -4671,8 +4835,8 @@
   - backdrop_path: `/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg`
   - release_date: `2024-04-24`
   - runtime: `111`
-  - vote_average: `6.699`
-  - vote_count: `825`
+  - vote_average: `6.694`
+  - vote_count: `834`
   - genres: `Crime`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=z6NibtjmjOk`
   - status: `active`
@@ -4739,8 +4903,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=awbOgB7yB_Q`
 - release_date: `2006-03-31`
 - runtime: `110`
-- vote_average: `6.82`
-- vote_count: `1373`
+- vote_average: `6.817`
+- vote_count: `1383`
 - genres: `Drama`, `Mystery`, `Crime`
 - movie_row:
   - import_tmdb_id: `9270`
@@ -4750,8 +4914,8 @@
   - backdrop_path: `/sDr2KjWpEbJ8M1F88rEmhoczLkX.jpg`
   - release_date: `2006-03-31`
   - runtime: `110`
-  - vote_average: `6.82`
-  - vote_count: `1373`
+  - vote_average: `6.817`
+  - vote_count: `1383`
   - genres: `Drama`, `Mystery`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=awbOgB7yB_Q`
   - status: `active`
@@ -4782,7 +4946,7 @@
 - release_date: `2014-04-22`
 - runtime: `90`
 - vote_average: `5.91`
-- vote_count: `1612`
+- vote_count: `1618`
 - genres: `Action`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `254473`
@@ -4793,7 +4957,7 @@
   - release_date: `2014-04-22`
   - runtime: `90`
   - vote_average: `5.91`
-  - vote_count: `1612`
+  - vote_count: `1618`
   - genres: `Action`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=EhFZ4jAD_fU`
   - status: `active`
@@ -4802,6 +4966,46 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | BRICK MANSION - ROCKY | https://oshakurfilms.com/watch/brick-mansion-rocky | Rocky | 254473 | 254473 | https://hglink.to/e/vu4fl2jqfdk5 | hglink.to | https://www.mediafire.com/file/aprg9a0jz5vz9oa/BRICK+MANSIONS.mp4/file | www.mediafire.com |  |
+
+## Brotherhood
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `929360`
+- canonical_title: `Brotherhood`
+- original_title: `断金`
+- normalized_title_guess: `Brotherhood`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `trailer_url`
+- poster_path: `/6gHrOhlZtTfBqEPnIHM6B1wYbhb.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/6gHrOhlZtTfBqEPnIHM6B1wYbhb.jpg`
+- backdrop_path: `/cgdU3wuuiJGAenHaiRc8blTahx3.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/cgdU3wuuiJGAenHaiRc8blTahx3.jpg`
+- release_date: `2022-01-21`
+- runtime: `96`
+- vote_average: `5.2`
+- vote_count: `4`
+- genres: `Drama`, `Action`
+- movie_row:
+  - import_tmdb_id: `929360`
+  - title: `Brotherhood`
+  - overview: `The movie revolves around a huge transnational drug trafficking transaction. Lei Zhanjun and Lei Zhansheng are twin brothers. The younger brother was involved in a local gang vendetta. He faked his death and had plastic surgery and escaped unscathed, taking away a huge amount of the gang's funds. The elder brother, who did not know the inside story, crossed national borders and chased the murderer thousands of miles away in order to find out the truth about his younger brother's "death". The younger brother, who had escaped, returned with a new face and identity in order to save his elder brother. Together with his elder brother, he desperately escaped under the double pursuit of the police and the underworld.`
+  - poster_path: `/6gHrOhlZtTfBqEPnIHM6B1wYbhb.jpg`
+  - backdrop_path: `/cgdU3wuuiJGAenHaiRc8blTahx3.jpg`
+  - release_date: `2022-01-21`
+  - runtime: `96`
+  - vote_average: `5.2`
+  - vote_count: `4`
+  - genres: `Drama`, `Action`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Brotherhood | https://oshakurfilms.com/watch/brotherhood | UNSPECIFIED | 929360 | 929360 | https://hgcloud.to/e/rikmxmrk4ujk | hgcloud.to | https://www.mediafire.com/file/58bsw2gpvsabaj7/BROTHERHOOD+A_1.mp4/file | www.mediafire.com |  |
 
 ## Buffalo Boys
 
@@ -4823,8 +5027,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9eqAgAFNMpg`
 - release_date: `2018-07-19`
 - runtime: `103`
-- vote_average: `6.7`
-- vote_count: `51`
+- vote_average: `6.663`
+- vote_count: `52`
 - genres: `Drama`, `Action`
 - movie_row:
   - import_tmdb_id: `493488`
@@ -4834,8 +5038,8 @@
   - backdrop_path: `/fDChFJ7jkVlsVbhT9CuRCL7vnWO.jpg`
   - release_date: `2018-07-19`
   - runtime: `103`
-  - vote_average: `6.7`
-  - vote_count: `51`
+  - vote_average: `6.663`
+  - vote_count: `52`
   - genres: `Drama`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=9eqAgAFNMpg`
   - status: `active`
@@ -4950,8 +5154,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2I9e8zKFdXI`
 - release_date: `2023-10-25`
 - runtime: `99`
-- vote_average: `6.2`
-- vote_count: `243`
+- vote_average: `6.235`
+- vote_count: `247`
 - genres: `Drama`, `Mystery`, `Romance`
 - movie_row:
   - import_tmdb_id: `1173558`
@@ -4961,8 +5165,8 @@
   - backdrop_path: `/a65WMR49PnWmSaCzaCyMNNHKQfn.jpg`
   - release_date: `2023-10-25`
   - runtime: `99`
-  - vote_average: `6.2`
-  - vote_count: `243`
+  - vote_average: `6.235`
+  - vote_count: `247`
   - genres: `Drama`, `Mystery`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=2I9e8zKFdXI`
   - status: `active`
@@ -4992,8 +5196,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=yJEOJbSuOvI`
 - release_date: `2023-02-03`
 - runtime: `105`
-- vote_average: `5.889`
-- vote_count: `212`
+- vote_average: `5.89`
+- vote_count: `213`
 - genres: `Adventure`, `Drama`, `Western`
 - movie_row:
   - import_tmdb_id: `843846`
@@ -5003,8 +5207,8 @@
   - backdrop_path: `/3SxySECq5l4TnBObihnnzItn3AC.jpg`
   - release_date: `2023-02-03`
   - runtime: `105`
-  - vote_average: `5.889`
-  - vote_count: `212`
+  - vote_average: `5.89`
+  - vote_count: `213`
   - genres: `Adventure`, `Drama`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=yJEOJbSuOvI`
   - status: `active`
@@ -5034,8 +5238,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=5PSzFLV-EyQ`
 - release_date: `2025-02-12`
 - runtime: `119`
-- vote_average: `5.977`
-- vote_count: `3100`
+- vote_average: `5.967`
+- vote_count: `3141`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `822119`
@@ -5045,8 +5249,8 @@
   - backdrop_path: `/8eifdha9GQeZAkexgtD45546XKx.jpg`
   - release_date: `2025-02-12`
   - runtime: `119`
-  - vote_average: `5.977`
-  - vote_count: `3100`
+  - vote_average: `5.967`
+  - vote_count: `3141`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=5PSzFLV-EyQ`
   - status: `active`
@@ -5076,8 +5280,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7SlILk2WMTI`
 - release_date: `2014-03-20`
 - runtime: `136`
-- vote_average: `7.654`
-- vote_count: `20014`
+- vote_average: `7.7`
+- vote_count: `20079`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `100402`
@@ -5087,8 +5291,8 @@
   - backdrop_path: `/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg`
   - release_date: `2014-03-20`
   - runtime: `136`
-  - vote_average: `7.654`
-  - vote_count: `20014`
+  - vote_average: `7.7`
+  - vote_count: `20079`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=7SlILk2WMTI`
   - status: `active`
@@ -5190,41 +5394,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `133805`
+- real_tmdb_id: `7340`
 - canonical_title: `Carrie`
 - original_title: `Carrie`
 - normalized_title_guess: `Carrie`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg`
-- backdrop_path: `/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=szzw_SQlfpU`
-- release_date: `2013-10-16`
-- runtime: `101`
-- vote_average: `6.051`
-- vote_count: `4731`
-- genres: `Drama`, `Horror`
+- poster_path: `/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg`
+- backdrop_path: `/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=zbdIXI1s3aU`
+- release_date: `1976-11-03`
+- runtime: `98`
+- vote_average: `7.334`
+- vote_count: `4329`
+- genres: `Horror`, `Thriller`
 - movie_row:
-  - import_tmdb_id: `133805`
+  - import_tmdb_id: `7340`
   - title: `Carrie`
-  - overview: `An awkward, telekinetic teenage girl is the object of relentless bullying at school and an oppressively religious mother at home.`
-  - poster_path: `/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg`
-  - backdrop_path: `/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg`
-  - release_date: `2013-10-16`
-  - runtime: `101`
-  - vote_average: `6.051`
-  - vote_count: `4731`
-  - genres: `Drama`, `Horror`
-  - trailer_url: `https://www.youtube.com/watch?v=szzw_SQlfpU`
+  - overview: `Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.`
+  - poster_path: `/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg`
+  - backdrop_path: `/zwJFfKQdfiptK2GY6N8GkZFrAxJ.jpg`
+  - release_date: `1976-11-03`
+  - runtime: `98`
+  - vote_average: `7.334`
+  - vote_count: `4329`
+  - genres: `Horror`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=zbdIXI1s3aU`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Carrie - ROCKY | https://oshakurfilms.com/watch/carrie-rocky | Rocky | 133805 | 133805 | https://iplayerhls.com/e/w6uzuyp9e0w0 | iplayerhls.com | https://www.mediafire.com/file/39slxxkxrzsqydx/CARRIE.mp4/file | www.mediafire.com |  |
+| 1 | Carrie - ROCKY | https://oshakurfilms.com/watch/carrie-rocky | Rocky | 7340 | 7340 | https://iplayerhls.com/e/w6uzuyp9e0w0 | iplayerhls.com | https://www.mediafire.com/file/39slxxkxrzsqydx/CARRIE.mp4/file | www.mediafire.com |  |
 
 ## Carry-On
 
@@ -5246,8 +5450,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=KS0XacjMmOc`
 - release_date: `2024-12-05`
 - runtime: `120`
-- vote_average: `6.882`
-- vote_count: `2758`
+- vote_average: `6.881`
+- vote_count: `2788`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `1005331`
@@ -5257,8 +5461,8 @@
   - backdrop_path: `/rhc8Mtuo3Kh8CndnlmTNMF8o9pU.jpg`
   - release_date: `2024-12-05`
   - runtime: `120`
-  - vote_average: `6.882`
-  - vote_count: `2758`
+  - vote_average: `6.881`
+  - vote_count: `2788`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=KS0XacjMmOc`
   - status: `active`
@@ -5288,8 +5492,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=-nKW5QfbcMY`
 - release_date: `2021-08-27`
 - runtime: `139`
-- vote_average: `6.4`
-- vote_count: `24`
+- vote_average: `6.34`
+- vote_count: `25`
 - genres: `Thriller`, `Mystery`, `Drama`
 - movie_row:
   - import_tmdb_id: `695951`
@@ -5299,8 +5503,8 @@
   - backdrop_path: `/ooRitBGGEalBFmnPFQCcQpehkBC.jpg`
   - release_date: `2021-08-27`
   - runtime: `139`
-  - vote_average: `6.4`
-  - vote_count: `24`
+  - vote_average: `6.34`
+  - vote_count: `25`
   - genres: `Thriller`, `Mystery`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=-nKW5QfbcMY`
   - status: `active`
@@ -5331,7 +5535,7 @@
 - release_date: `2000-06-23`
 - runtime: `84`
 - vote_average: `6.8`
-- vote_count: `5402`
+- vote_count: `5430`
 - genres: `Animation`, `Comedy`, `Family`
 - movie_row:
   - import_tmdb_id: `7443`
@@ -5342,7 +5546,7 @@
   - release_date: `2000-06-23`
   - runtime: `84`
   - vote_average: `6.8`
-  - vote_count: `5402`
+  - vote_count: `5430`
   - genres: `Animation`, `Comedy`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=rUSoF2nwPw8`
   - status: `active`
@@ -5352,6 +5556,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Chicken Run - KIM Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/chicken-run-kim-agasobanuye-mu-kinyarwanda | Kim | 7443 | 7443 | https://drive.google.com/file/d/1rSB9f1tY-PjcFrcPWQsuDOfdDDqAJbkn/preview | drive.google.com | https://drive.google.com/file/d/1rSB9f1tY-PjcFrcPWQsuDOfdDDqAJbkn/preview | drive.google.com | Part 1 / base movie row. |
 | 2 | Chicken Run B - KIM Agasobanuye mukinyarwanda | https://oshakurfilms.com/watch/chicken-run-b-kim-agasobanuye-mukinyarwanda | Kim | 7443 | 7445 | https://drive.google.com/file/d/1g4j3uqaRaLiQCup8JM8_UbJzCZJVKeOp/preview | drive.google.com | https://drive.google.com/file/d/1g4j3uqaRaLiQCup8JM8_UbJzCZJVKeOp/preview | drive.google.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## China Salesman
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `461714`
+- canonical_title: `China Salesman`
+- original_title: `China Salesman`
+- normalized_title_guess: `China Salesman`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/TmO5oywb87UwHBkpAulR13Y06m.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/TmO5oywb87UwHBkpAulR13Y06m.jpg`
+- backdrop_path: `/fzRFn6wc5zYHpEo5KVt2h1KpdcB.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/fzRFn6wc5zYHpEo5KVt2h1KpdcB.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=NcN5qkTTDAE`
+- release_date: `2017-06-16`
+- runtime: `110`
+- vote_average: `5.377`
+- vote_count: `114`
+- genres: `Action`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `461714`
+  - title: `China Salesman`
+  - overview: `Yan Jian, a young Chinese IT engineer who volunteers to go to North Africa and help the company he works for to win a competition. The winner can own the right to control the communication between south and north. French spy Michael works for the West. His boss ordered him to go to the North Africa and win the competition, and they can control the great mineral resources of Africa. He hired the best mercenary in Africa whose name is Lauder and a former general Kabbah to help him. Yan has discovered their conspiracy, he is the only one who can stop them.`
+  - poster_path: `/TmO5oywb87UwHBkpAulR13Y06m.jpg`
+  - backdrop_path: `/fzRFn6wc5zYHpEo5KVt2h1KpdcB.jpg`
+  - release_date: `2017-06-16`
+  - runtime: `110`
+  - vote_average: `5.377`
+  - vote_count: `114`
+  - genres: `Action`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=NcN5qkTTDAE`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | China Salesman | https://oshakurfilms.com/watch/china-salesman | UNSPECIFIED | 461714 | 461714 | https://hgcloud.to/e/f55xrz9mawjb | hgcloud.to | https://www.mediafire.com/file/34kwz7dflzj6ejx/CHINA_SALESMA.mp4/file | www.mediafire.com |  |
 
 ## CHiPs
 
@@ -5373,8 +5619,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=NErwOWW7aCE`
 - release_date: `2017-03-23`
 - runtime: `101`
-- vote_average: `6.134`
-- vote_count: `1389`
+- vote_average: `6.13`
+- vote_count: `1397`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `417644`
@@ -5384,8 +5630,8 @@
   - backdrop_path: `/nz88EJ2iL1h6K9mpji9RlhYnlWc.jpg`
   - release_date: `2017-03-23`
   - runtime: `101`
-  - vote_average: `6.134`
-  - vote_count: `1389`
+  - vote_average: `6.13`
+  - vote_count: `1397`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=NErwOWW7aCE`
   - status: `active`
@@ -5414,8 +5660,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg`
 - release_date: `2023-03-24`
 - runtime: `110`
-- vote_average: `6.877`
-- vote_count: `142`
+- vote_average: `6.863`
+- vote_count: `146`
 - genres: `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1018228`
@@ -5425,8 +5671,8 @@
   - backdrop_path: `/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg`
   - release_date: `2023-03-24`
   - runtime: `110`
-  - vote_average: `6.877`
-  - vote_count: `142`
+  - vote_average: `6.863`
+  - vote_count: `146`
   - genres: `Crime`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -5478,42 +5724,42 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `11198`
+- real_tmdb_id: `469274`
 - canonical_title: `City Hunter`
-- original_title: `城市獵人`
+- original_title: `Nicky Larson et le parfum de Cupidon`
 - normalized_title_guess: `CITY HUNTER`
 - narrators_found: `Master P`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/r34w8z6H08lKMfCAXsYLr47ORD2.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/r34w8z6H08lKMfCAXsYLr47ORD2.jpg`
-- backdrop_path: `/qUEyfA8f7Neq3MrQ7dqJvqu9iCn.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/qUEyfA8f7Neq3MrQ7dqJvqu9iCn.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=fCrhqasyUkM`
-- release_date: `1993-01-14`
-- runtime: `100`
-- vote_average: `6.6`
-- vote_count: `459`
-- genres: `Action`, `Adventure`, `Comedy`, `Romance`
+- poster_path: `/rrwejDUmCSaca2Afubznkdp3ogB.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/rrwejDUmCSaca2Afubznkdp3ogB.jpg`
+- backdrop_path: `/131jup22e3FZOdQ0CmED8iO3t5Z.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/131jup22e3FZOdQ0CmED8iO3t5Z.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=q2ozziqQay0`
+- release_date: `2019-02-06`
+- runtime: `91`
+- vote_average: `6.477`
+- vote_count: `840`
+- genres: `Action`, `Comedy`, `Adventure`
 - movie_row:
-  - import_tmdb_id: `11198`
+  - import_tmdb_id: `469274`
   - title: `City Hunter`
-  - overview: `A self-indulgent private investigator winds up on a cruise ship full of rich patrons, gorgeous women, murderous terrorists, and scarce food.`
-  - poster_path: `/r34w8z6H08lKMfCAXsYLr47ORD2.jpg`
-  - backdrop_path: `/qUEyfA8f7Neq3MrQ7dqJvqu9iCn.jpg`
-  - release_date: `1993-01-14`
-  - runtime: `100`
-  - vote_average: `6.6`
-  - vote_count: `459`
-  - genres: `Action`, `Adventure`, `Comedy`, `Romance`
-  - trailer_url: `https://www.youtube.com/watch?v=fCrhqasyUkM`
+  - overview: `Nicky Larson is tasked to recover the perfume of Cupid, a perfume that would make anyone who uses it irresistible.`
+  - poster_path: `/rrwejDUmCSaca2Afubznkdp3ogB.jpg`
+  - backdrop_path: `/131jup22e3FZOdQ0CmED8iO3t5Z.jpg`
+  - release_date: `2019-02-06`
+  - runtime: `91`
+  - vote_average: `6.477`
+  - vote_count: `840`
+  - genres: `Action`, `Comedy`, `Adventure`
+  - trailer_url: `https://www.youtube.com/watch?v=q2ozziqQay0`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | CITY HUNTER - MASTER P | https://oshakurfilms.com/watch/city-hunter-master-p | Master P | 11198 | 11198 | https://drive.google.com/file/d/17C1MPc1Q7iTSY8Jw--P6kOEkxcifi2Y4/preview | drive.google.com | https://www.mediafire.com/file/exq80cntplcc9i7/City_Hunter_2024_1.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | CITY HUNTER B - MASTER P | https://oshakurfilms.com/watch/city-hunter-b-master-p | Master P | 11198 | 11200 | https://drive.google.com/file/d/1V3Tr7Gq-XQiW5qhMwx0oe-p2io5oBZdT/preview | drive.google.com | https://www.mediafire.com/file/5c5jssnoj79r7sy/City_Hunter_2024_2.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | CITY HUNTER - MASTER P | https://oshakurfilms.com/watch/city-hunter-master-p | Master P | 469274 | 469274 | https://drive.google.com/file/d/17C1MPc1Q7iTSY8Jw--P6kOEkxcifi2Y4/preview | drive.google.com | https://www.mediafire.com/file/exq80cntplcc9i7/City_Hunter_2024_1.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | CITY HUNTER B - MASTER P | https://oshakurfilms.com/watch/city-hunter-b-master-p | Master P | 469274 | 469276 | https://drive.google.com/file/d/1V3Tr7Gq-XQiW5qhMwx0oe-p2io5oBZdT/preview | drive.google.com | https://www.mediafire.com/file/5c5jssnoj79r7sy/City_Hunter_2024_2.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Clash of the Titans
 
@@ -5528,26 +5774,26 @@
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg`
+- poster_path: `/3W6QaC3Vz8UJhr6HRYuGfbNeJCs.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/3W6QaC3Vz8UJhr6HRYuGfbNeJCs.jpg`
 - backdrop_path: `/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=TfyunOnMGqM`
 - release_date: `2010-03-26`
 - runtime: `106`
-- vote_average: `5.92`
-- vote_count: `6687`
+- vote_average: `5.922`
+- vote_count: `6712`
 - genres: `Adventure`, `Fantasy`, `Action`
 - movie_row:
   - import_tmdb_id: `18823`
   - title: `Clash of the Titans`
   - overview: `Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.`
-  - poster_path: `/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg`
+  - poster_path: `/3W6QaC3Vz8UJhr6HRYuGfbNeJCs.jpg`
   - backdrop_path: `/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg`
   - release_date: `2010-03-26`
   - runtime: `106`
-  - vote_average: `5.92`
-  - vote_count: `6687`
+  - vote_average: `5.922`
+  - vote_count: `6712`
   - genres: `Adventure`, `Fantasy`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=TfyunOnMGqM`
   - status: `active`
@@ -5572,24 +5818,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg`
-- backdrop_path: `/saESlYSTAGjr8gkyjoGb7omH0hf.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg`
+- backdrop_path: `/96IPjPaeQZoJ6uMDGNFdnwkQyRQ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/96IPjPaeQZoJ6uMDGNFdnwkQyRQ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=wm6guCngagM`
 - release_date: `2022-11-01`
 - runtime: `104`
-- vote_average: `7.8`
-- vote_count: `1003`
+- vote_average: `7.783`
+- vote_count: `1014`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `901563`
   - title: `Close`
   - overview: `Two 13-year-old boys spend an idyllic summer together, but their connection is put to the test when they become the subject of speculation at school.`
   - poster_path: `/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg`
-  - backdrop_path: `/saESlYSTAGjr8gkyjoGb7omH0hf.jpg`
+  - backdrop_path: `/96IPjPaeQZoJ6uMDGNFdnwkQyRQ.jpg`
   - release_date: `2022-11-01`
   - runtime: `104`
-  - vote_average: `7.8`
-  - vote_count: `1003`
+  - vote_average: `7.783`
+  - vote_count: `1014`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=wm6guCngagM`
   - status: `active`
@@ -5620,7 +5866,7 @@
 - release_date: `2017-10-27`
 - runtime: `105`
 - vote_average: `8.198`
-- vote_count: `20991`
+- vote_count: `21066`
 - genres: `Family`, `Animation`, `Music`, `Adventure`
 - movie_row:
   - import_tmdb_id: `354912`
@@ -5631,7 +5877,7 @@
   - release_date: `2017-10-27`
   - runtime: `105`
   - vote_average: `8.198`
-  - vote_count: `20991`
+  - vote_count: `21066`
   - genres: `Family`, `Animation`, `Music`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=Rvr68u6k5sI`
   - status: `active`
@@ -5661,8 +5907,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=omBi2KxEcRk`
 - release_date: `2024-02-27`
 - runtime: `101`
-- vote_average: `6.345`
-- vote_count: `700`
+- vote_average: `6.349`
+- vote_count: `709`
 - genres: `Science Fiction`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `932420`
@@ -5672,8 +5918,8 @@
   - backdrop_path: `/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg`
   - release_date: `2024-02-27`
   - runtime: `101`
-  - vote_average: `6.345`
-  - vote_count: `700`
+  - vote_average: `6.349`
+  - vote_count: `709`
   - genres: `Science Fiction`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=omBi2KxEcRk`
   - status: `active`
@@ -5704,8 +5950,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=cDW-5tC0PUc`
 - release_date: `2024-02-23`
 - runtime: `89`
-- vote_average: `6.5`
-- vote_count: `145`
+- vote_average: `6.486`
+- vote_count: `148`
 - genres: `Thriller`, `Horror`
 - movie_row:
   - import_tmdb_id: `1032372`
@@ -5715,8 +5961,8 @@
   - backdrop_path: `/h1An6CRfuzwlUAKtnmGpKuHCW37.jpg`
   - release_date: `2024-02-23`
   - runtime: `89`
-  - vote_average: `6.5`
-  - vote_count: `145`
+  - vote_average: `6.486`
+  - vote_count: `148`
   - genres: `Thriller`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=cDW-5tC0PUc`
   - status: `active`
@@ -5742,24 +5988,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/nV5316WUsVij8sVXLCF1g7TFitg.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/nV5316WUsVij8sVXLCF1g7TFitg.jpg`
-- backdrop_path: `/lEfZFNs5hr1Pgn4vpb7X31J927x.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lEfZFNs5hr1Pgn4vpb7X31J927x.jpg`
+- backdrop_path: `/qVzmXKKOTtd3szkiCheCNrfa394.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/qVzmXKKOTtd3szkiCheCNrfa394.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=-JDf2zIFgO8`
 - release_date: `2004-08-04`
 - runtime: `120`
-- vote_average: `7.243`
-- vote_count: `6273`
+- vote_average: `7.244`
+- vote_count: `6302`
 - genres: `Drama`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1538`
   - title: `Collateral`
   - overview: `Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.`
   - poster_path: `/nV5316WUsVij8sVXLCF1g7TFitg.jpg`
-  - backdrop_path: `/lEfZFNs5hr1Pgn4vpb7X31J927x.jpg`
+  - backdrop_path: `/qVzmXKKOTtd3szkiCheCNrfa394.jpg`
   - release_date: `2004-08-04`
   - runtime: `120`
-  - vote_average: `7.243`
-  - vote_count: `6273`
+  - vote_average: `7.244`
+  - vote_count: `6302`
   - genres: `Drama`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=-JDf2zIFgO8`
   - status: `active`
@@ -5789,8 +6035,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=HCxPLlFWdFo`
 - release_date: `2011-07-27`
 - runtime: `108`
-- vote_average: `6.641`
-- vote_count: `2874`
+- vote_average: `6.643`
+- vote_count: `2885`
 - genres: `Action`, `Thriller`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `62835`
@@ -5800,8 +6046,8 @@
   - backdrop_path: `/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg`
   - release_date: `2011-07-27`
   - runtime: `108`
-  - vote_average: `6.641`
-  - vote_count: `2874`
+  - vote_average: `6.643`
+  - vote_count: `2885`
   - genres: `Action`, `Thriller`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=HCxPLlFWdFo`
   - status: `active`
@@ -5831,7 +6077,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=FD9JlpJ_f7o`
 - release_date: `2023-05-19`
 - runtime: `86`
-- vote_average: `4.444`
+- vote_average: `4.436`
 - vote_count: `54`
 - genres: `War`, `Drama`
 - movie_row:
@@ -5842,7 +6088,7 @@
   - backdrop_path: `/cdEVfwkVwFeL9LuTlGHTfezso8C.jpg`
   - release_date: `2023-05-19`
   - runtime: `86`
-  - vote_average: `4.444`
+  - vote_average: `4.436`
   - vote_count: `54`
   - genres: `War`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=FD9JlpJ_f7o`
@@ -5873,8 +6119,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=x5lrkdvEZGg`
 - release_date: `2021-03-04`
 - runtime: `108`
-- vote_average: `6.339`
-- vote_count: `2388`
+- vote_average: `6.335`
+- vote_count: `2399`
 - genres: `Comedy`
 - movie_row:
   - import_tmdb_id: `484718`
@@ -5884,8 +6130,8 @@
   - backdrop_path: `/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg`
   - release_date: `2021-03-04`
   - runtime: `108`
-  - vote_average: `6.339`
-  - vote_count: `2388`
+  - vote_average: `6.335`
+  - vote_count: `2399`
   - genres: `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=x5lrkdvEZGg`
   - status: `active`
@@ -5912,11 +6158,11 @@
 - poster_url: `https://image.tmdb.org/t/p/w500/ollPAAAgZ7euU8VisfqU3cuXhZ6.jpg`
 - backdrop_path: `/gvao0WZchzudp2oMF5sjgzwHY0q.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/gvao0WZchzudp2oMF5sjgzwHY0q.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=VgDU6sOu334`
+- trailer_url: `https://www.youtube.com/watch?v=m264f4tfG2s`
 - release_date: `1985-10-03`
 - runtime: `90`
-- vote_average: `6.703`
-- vote_count: `3139`
+- vote_average: `6.705`
+- vote_count: `3160`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `10999`
@@ -5926,10 +6172,10 @@
   - backdrop_path: `/gvao0WZchzudp2oMF5sjgzwHY0q.jpg`
   - release_date: `1985-10-03`
   - runtime: `90`
-  - vote_average: `6.703`
-  - vote_count: `3139`
+  - vote_average: `6.705`
+  - vote_count: `3160`
   - genres: `Action`, `Adventure`, `Thriller`
-  - trailer_url: `https://www.youtube.com/watch?v=VgDU6sOu334`
+  - trailer_url: `https://www.youtube.com/watch?v=m264f4tfG2s`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
@@ -5952,24 +6198,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg`
-- backdrop_path: `/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg`
+- backdrop_path: `/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=Qr_kX0D3DNA`
 - release_date: `2025-01-22`
 - runtime: `97`
-- vote_average: `7.017`
-- vote_count: `2308`
+- vote_average: `7.015`
+- vote_count: `2360`
 - genres: `Horror`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1084199`
   - title: `Companion`
   - overview: `During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.`
   - poster_path: `/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg`
-  - backdrop_path: `/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg`
+  - backdrop_path: `/cZnJ3ABPvsWGqwPcu06Eda493F9.jpg`
   - release_date: `2025-01-22`
   - runtime: `97`
-  - vote_average: `7.017`
-  - vote_count: `2308`
+  - vote_average: `7.015`
+  - vote_count: `2360`
   - genres: `Horror`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Qr_kX0D3DNA`
   - status: `active`
@@ -5999,8 +6245,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mwLBes2Gr8E`
 - release_date: `1982-03-16`
 - runtime: `130`
-- vote_average: `6.806`
-- vote_count: `2801`
+- vote_average: `6.803`
+- vote_count: `2819`
 - genres: `Adventure`, `Fantasy`, `Action`
 - movie_row:
   - import_tmdb_id: `9387`
@@ -6010,8 +6256,8 @@
   - backdrop_path: `/4rICId8WQBhOIzl7iZCVvc0QoJW.jpg`
   - release_date: `1982-03-16`
   - runtime: `130`
-  - vote_average: `6.806`
-  - vote_count: `2801`
+  - vote_average: `6.803`
+  - vote_count: `2819`
   - genres: `Adventure`, `Fantasy`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=mwLBes2Gr8E`
   - status: `active`
@@ -6042,8 +6288,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=uFlyLJbzCt4`
 - release_date: `2021-09-09`
 - runtime: `108`
-- vote_average: `6.299`
-- vote_count: `914`
+- vote_average: `6.295`
+- vote_count: `920`
 - genres: `Thriller`, `Crime`, `Action`
 - movie_row:
   - import_tmdb_id: `738652`
@@ -6053,8 +6299,8 @@
   - backdrop_path: `/jIkH6cy0Haa1cyitn6gtKmE3lxu.jpg`
   - release_date: `2021-09-09`
   - runtime: `108`
-  - vote_average: `6.299`
-  - vote_count: `914`
+  - vote_average: `6.295`
+  - vote_count: `920`
   - genres: `Thriller`, `Crime`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=uFlyLJbzCt4`
   - status: `active`
@@ -6084,8 +6330,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=S6O4iy3Twwo`
 - release_date: `2019-10-24`
 - runtime: `90`
-- vote_average: `6.205`
-- vote_count: `2312`
+- vote_average: `6.204`
+- vote_count: `2320`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `599975`
@@ -6095,8 +6341,8 @@
   - backdrop_path: `/jGq40i1j9lrxt6HVKLFKSqREjXj.jpg`
   - release_date: `2019-10-24`
   - runtime: `90`
-  - vote_average: `6.205`
-  - vote_count: `2312`
+  - vote_average: `6.204`
+  - vote_count: `2320`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=S6O4iy3Twwo`
   - status: `active`
@@ -6169,8 +6415,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3bvnoqsvY-M`
 - release_date: `2016-04-07`
 - runtime: `113`
-- vote_average: `6.207`
-- vote_count: `1882`
+- vote_average: `6.204`
+- vote_count: `1891`
 - genres: `Action`, `Crime`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `302156`
@@ -6180,8 +6426,8 @@
   - backdrop_path: `/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg`
   - release_date: `2016-04-07`
   - runtime: `113`
-  - vote_average: `6.207`
-  - vote_count: `1882`
+  - vote_average: `6.204`
+  - vote_count: `1891`
   - genres: `Action`, `Crime`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=3bvnoqsvY-M`
   - status: `active`
@@ -6212,8 +6458,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=q-HrIQLdaNE`
 - release_date: `2000-07-06`
 - runtime: `120`
-- vote_average: `7.436`
-- vote_count: `3577`
+- vote_average: `7.432`
+- vote_count: `3599`
 - genres: `Adventure`, `Drama`, `Action`, `Romance`
 - movie_row:
   - import_tmdb_id: `146`
@@ -6223,8 +6469,8 @@
   - backdrop_path: `/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg`
   - release_date: `2000-07-06`
   - runtime: `120`
-  - vote_average: `7.436`
-  - vote_count: `3577`
+  - vote_average: `7.432`
+  - vote_count: `3599`
   - genres: `Adventure`, `Drama`, `Action`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=q-HrIQLdaNE`
   - status: `active`
@@ -6289,25 +6535,25 @@
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/a869Prbl9FEWeWPWSw0Q3phE4Iv.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/a869Prbl9FEWeWPWSw0Q3phE4Iv.jpg`
+- poster_path: `/et7C2fTSllX2YsGtPEwSLNTBacN.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/et7C2fTSllX2YsGtPEwSLNTBacN.jpg`
 - backdrop_path: `/e3JZk9wU0NugSIKnLh9SU9iZcyD.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/e3JZk9wU0NugSIKnLh9SU9iZcyD.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=NhSN9INBhHE`
 - release_date: `2024-06-28`
 - runtime: `115`
-- vote_average: `5.708`
+- vote_average: `5.7`
 - vote_count: `24`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `989909`
   - title: `Customs Frontline`
   - overview: `Hong Kong Customs and Excise Department officers Chow Ching-lai and Cheung Wan-nam share a close mentor-student relationship. On a case involving seized smuggled arms, Ching-lai is sent to take part in a joint operation with Interpol to capture a reclusive arms dealer. However, Wan-nam makes a drastic decision that further complicates the case.`
-  - poster_path: `/a869Prbl9FEWeWPWSw0Q3phE4Iv.jpg`
+  - poster_path: `/et7C2fTSllX2YsGtPEwSLNTBacN.jpg`
   - backdrop_path: `/e3JZk9wU0NugSIKnLh9SU9iZcyD.jpg`
   - release_date: `2024-06-28`
   - runtime: `115`
-  - vote_average: `5.708`
+  - vote_average: `5.7`
   - vote_count: `24`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=NhSN9INBhHE`
@@ -6317,46 +6563,6 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Customs Frontline - SANKRA | https://oshakurfilms.com/watch/customs-frontline-sankra | Sankra | 989909 | 989909 | https://iplayerhls.com/e/9oz9vsch01q9 | iplayerhls.com | https://www.mediafire.com/file/z79wpa0rdf0zr71/CUSTOMS_FRONTLINE+BY+SANKRA.mp4/file | www.mediafire.com |  |
-
-## Dabangg 2
-
-- content_type: `movie`
-- upload_target_tables: `movies`
-- tmdb_match_status: `exact`
-- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `147405`
-- canonical_title: `Dabangg 2`
-- original_title: `दबंग्ग 2`
-- normalized_title_guess: `Dabangg 2`
-- narrators_found: `none`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/11lo9arlgCOcgVPVQ025v071YpM.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/11lo9arlgCOcgVPVQ025v071YpM.jpg`
-- backdrop_path: `/laPlmzL89c4h89iZN1ZiTKvpO59.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/laPlmzL89c4h89iZN1ZiTKvpO59.jpg`
-- release_date: `2012-12-21`
-- runtime: `125`
-- vote_average: `5`
-- vote_count: `119`
-- genres: `Action`, `Comedy`, `Crime`
-- movie_row:
-  - import_tmdb_id: `147405`
-  - title: `Dabangg 2`
-  - overview: `Chulbul Pandey invites a fresh trouble when he kills the brother of a notorious politician and the former swears to wreak havoc in his life.`
-  - poster_path: `/11lo9arlgCOcgVPVQ025v071YpM.jpg`
-  - backdrop_path: `/laPlmzL89c4h89iZN1ZiTKvpO59.jpg`
-  - release_date: `2012-12-21`
-  - runtime: `125`
-  - vote_average: `5`
-  - vote_count: `119`
-  - genres: `Action`, `Comedy`, `Crime`
-  - status: `active`
-  - scheduled_release: `OPTIONAL_NOT_SET`
-- movie_parts:
-| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Dabangg 2 | https://oshakurfilms.com/watch/dabangg-2 | UNSPECIFIED | 147405 | 147405 | https://hgcloud.to/e/zbutw5w6bo7q | hgcloud.to | https://www.mediafire.com/file/e0mhrzgq7o7xcew/Dabangg+2+A+Hd.mp4/file | www.mediafire.com |  |
 
 ## Damsel
 
@@ -6378,8 +6584,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=iM150ZWovZM`
 - release_date: `2024-03-07`
 - runtime: `107`
-- vote_average: `6.982`
-- vote_count: `2788`
+- vote_average: `6.983`
+- vote_count: `2805`
 - genres: `Fantasy`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `763215`
@@ -6389,8 +6595,8 @@
   - backdrop_path: `/deLWkOLZmBNkm8p16igfapQyqeq.jpg`
   - release_date: `2024-03-07`
   - runtime: `107`
-  - vote_average: `6.982`
-  - vote_count: `2788`
+  - vote_average: `6.983`
+  - vote_count: `2805`
   - genres: `Fantasy`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=iM150ZWovZM`
   - status: `active`
@@ -6422,8 +6628,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=x_7YlGv9u1g`
 - release_date: `2016-12-21`
 - runtime: `161`
-- vote_average: `7.879`
-- vote_count: `1157`
+- vote_average: `7.871`
+- vote_count: `1169`
 - genres: `Drama`, `Family`, `Comedy`
 - movie_row:
   - import_tmdb_id: `360814`
@@ -6433,8 +6639,8 @@
   - backdrop_path: `/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg`
   - release_date: `2016-12-21`
   - runtime: `161`
-  - vote_average: `7.879`
-  - vote_count: `1157`
+  - vote_average: `7.871`
+  - vote_count: `1169`
   - genres: `Drama`, `Family`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=x_7YlGv9u1g`
   - status: `active`
@@ -6463,8 +6669,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/za84mZQrMFaG5JHQwtcziOPXiJC.jpg`
 - release_date: `2023-03-22`
 - runtime: `150`
-- vote_average: `5.8`
-- vote_count: `7`
+- vote_average: `5.2`
+- vote_count: `8`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1043665`
@@ -6474,8 +6680,8 @@
   - backdrop_path: `/za84mZQrMFaG5JHQwtcziOPXiJC.jpg`
   - release_date: `2023-03-22`
   - runtime: `150`
-  - vote_average: `5.8`
-  - vote_count: `7`
+  - vote_average: `5.2`
+  - vote_count: `8`
   - genres: `Action`, `Comedy`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -6507,7 +6713,7 @@
 - release_date: `2025-03-28`
 - runtime: `106`
 - vote_average: `6.3`
-- vote_count: `45`
+- vote_count: `46`
 - genres: `Action`, `Western`
 - movie_row:
   - import_tmdb_id: `1414048`
@@ -6518,7 +6724,7 @@
   - release_date: `2025-03-28`
   - runtime: `106`
   - vote_average: `6.3`
-  - vote_count: `45`
+  - vote_count: `46`
   - genres: `Action`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=tZaje_sh97A`
   - status: `active`
@@ -6551,7 +6757,7 @@
 - release_date: `2017-08-25`
 - runtime: `101`
 - vote_average: `4.274`
-- vote_count: `4121`
+- vote_count: `4131`
 - genres: `Crime`, `Fantasy`, `Horror`
 - movie_row:
   - import_tmdb_id: `351460`
@@ -6562,7 +6768,7 @@
   - release_date: `2017-08-25`
   - runtime: `101`
   - vote_average: `4.274`
-  - vote_count: `4121`
+  - vote_count: `4131`
   - genres: `Crime`, `Fantasy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=gvxNaSIB_WI`
   - status: `active`
@@ -6593,8 +6799,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=C8bxcJZrus0`
 - release_date: `2008-08-22`
 - runtime: `105`
-- vote_average: `6.309`
-- vote_count: `4145`
+- vote_average: `6.311`
+- vote_count: `4164`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `10483`
@@ -6604,8 +6810,8 @@
   - backdrop_path: `/5mbFEJStH59cNFcF7VkRgsSxMqK.jpg`
   - release_date: `2008-08-22`
   - runtime: `105`
-  - vote_average: `6.309`
-  - vote_count: `4145`
+  - vote_average: `6.311`
+  - vote_count: `4164`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=C8bxcJZrus0`
   - status: `active`
@@ -6678,8 +6884,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=HzILu6yyA20`
 - release_date: `2018-03-01`
 - runtime: `107`
-- vote_average: `6.235`
-- vote_count: `2808`
+- vote_average: `6.236`
+- vote_count: `2820`
 - genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `395990`
@@ -6689,8 +6895,8 @@
   - backdrop_path: `/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg`
   - release_date: `2018-03-01`
   - runtime: `107`
-  - vote_average: `6.235`
-  - vote_count: `2808`
+  - vote_average: `6.236`
+  - vote_count: `2820`
   - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=HzILu6yyA20`
   - status: `active`
@@ -6706,41 +6912,42 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `619979`
+- real_tmdb_id: `1127384`
 - canonical_title: `Deep Water`
 - original_title: `Deep Water`
 - normalized_title_guess: `Deep Water`
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg`
-- backdrop_path: `/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=90JsrQwE5CA`
-- release_date: `2022-03-17`
-- runtime: `116`
-- vote_average: `5.821`
-- vote_count: `1643`
-- genres: `Drama`, `Mystery`, `Thriller`
+- poster_path: `/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg`
+- backdrop_path: `/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=f0ptq0Lzdh8`
+- release_date: `2026-04-30`
+- runtime: `107`
+- vote_average: `6.148`
+- vote_count: `71`
+- genres: `Horror`, `Thriller`
 - movie_row:
-  - import_tmdb_id: `619979`
+  - import_tmdb_id: `1127384`
   - title: `Deep Water`
-  - overview: `A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.`
-  - poster_path: `/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg`
-  - backdrop_path: `/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg`
-  - release_date: `2022-03-17`
-  - runtime: `116`
-  - vote_average: `5.821`
-  - vote_count: `1643`
-  - genres: `Drama`, `Mystery`, `Thriller`
-  - trailer_url: `https://www.youtube.com/watch?v=90JsrQwE5CA`
+  - overview: `A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.`
+  - poster_path: `/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg`
+  - backdrop_path: `/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg`
+  - release_date: `2026-04-30`
+  - runtime: `107`
+  - vote_average: `6.148`
+  - vote_count: `71`
+  - genres: `Horror`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=f0ptq0Lzdh8`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Deep Water - SANKRA | https://oshakurfilms.com/watch/deep-water-sankra | Sankra | 619979 | 619979 | https://hgcloud.to/e/w5vtwu341fp4 | hgcloud.to | https://www.mediafire.com/file/i7n7sity7k6muix/Deep_Water_2025.mp4/file | www.mediafire.com |  |
+| 1 | Deep Water | https://oshakurfilms.com/watch/deep-water | UNSPECIFIED | 1127384 | 1127384 | https://hgcloud.to/e/k3k0vleqehhy | hgcloud.to | https://www.mediafire.com/file/pk60hbl8q6yryv5/DEEP+WATER.mp4/file | www.mediafire.com |  |
+| 1 | Deep Water - SANKRA | https://oshakurfilms.com/watch/deep-water-sankra | Sankra | 1127384 | 1127384 | https://hgcloud.to/e/w5vtwu341fp4 | hgcloud.to | https://www.mediafire.com/file/i7n7sity7k6muix/Deep_Water_2025.mp4/file | www.mediafire.com |  |
 
 ## Deewaar
 
@@ -6762,8 +6969,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DuJ_7UVyGIc`
 - release_date: `1975-01-24`
 - runtime: `174`
-- vote_average: `7.264`
-- vote_count: `70`
+- vote_average: `7.257`
+- vote_count: `72`
 - genres: `Action`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `22460`
@@ -6773,8 +6980,8 @@
   - backdrop_path: `/ulxoNgk9HYenfQKJ5nihMOVIiW7.jpg`
   - release_date: `1975-01-24`
   - runtime: `174`
-  - vote_average: `7.264`
-  - vote_count: `70`
+  - vote_average: `7.257`
+  - vote_count: `72`
   - genres: `Action`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=DuJ_7UVyGIc`
   - status: `active`
@@ -6847,7 +7054,7 @@
 - release_date: `2025-02-26`
 - runtime: `106`
 - vote_average: `6.912`
-- vote_count: `329`
+- vote_count: `331`
 - genres: `Action`, `Crime`, `Fantasy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1405338`
@@ -6858,7 +7065,7 @@
   - release_date: `2025-02-26`
   - runtime: `106`
   - vote_average: `6.912`
-  - vote_count: `329`
+  - vote_count: `331`
   - genres: `Action`, `Crime`, `Fantasy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=q-djvN7i5us`
   - status: `active`
@@ -6881,26 +7088,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/4cahr8gscRMjxbOJ8PddKGjH5NB.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/4cahr8gscRMjxbOJ8PddKGjH5NB.jpg`
+- poster_path: `/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg`
 - backdrop_path: `/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=CZkUlNwiEBY`
 - release_date: `2018-01-18`
 - runtime: `140`
-- vote_average: `6.864`
-- vote_count: `3410`
+- vote_average: `6.867`
+- vote_count: `3425`
 - genres: `Crime`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `449443`
   - title: `Den of Thieves`
   - overview: `A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.`
-  - poster_path: `/4cahr8gscRMjxbOJ8PddKGjH5NB.jpg`
+  - poster_path: `/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg`
   - backdrop_path: `/gQEfeFzEDhvz1YB3JXU2yUZspmH.jpg`
   - release_date: `2018-01-18`
   - runtime: `140`
-  - vote_average: `6.864`
-  - vote_count: `3410`
+  - vote_average: `6.867`
+  - vote_count: `3425`
   - genres: `Crime`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=CZkUlNwiEBY`
   - status: `active`
@@ -6925,24 +7132,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/rxcyxxarD17xMliStDEhM6y2AYQ.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/rxcyxxarD17xMliStDEhM6y2AYQ.jpg`
-- backdrop_path: `/aXLxxKVZA37sntSQwOyUEwA48a9.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/aXLxxKVZA37sntSQwOyUEwA48a9.jpg`
+- backdrop_path: `/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=KG1tks1ICiA`
 - release_date: `2025-01-08`
 - runtime: `144`
-- vote_average: `6.6`
-- vote_count: `807`
+- vote_average: `6.577`
+- vote_count: `816`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `604685`
   - title: `Den of Thieves 2: Pantera`
   - overview: `Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.`
   - poster_path: `/rxcyxxarD17xMliStDEhM6y2AYQ.jpg`
-  - backdrop_path: `/aXLxxKVZA37sntSQwOyUEwA48a9.jpg`
+  - backdrop_path: `/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg`
   - release_date: `2025-01-08`
   - runtime: `144`
-  - vote_average: `6.6`
-  - vote_count: `807`
+  - vote_average: `6.577`
+  - vote_count: `816`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=KG1tks1ICiA`
   - status: `active`
@@ -6973,8 +7180,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DBCy-fo9eSQ`
 - release_date: `2025-01-31`
 - runtime: `155`
-- vote_average: `6.016`
-- vote_count: `62`
+- vote_average: `6.032`
+- vote_count: `63`
 - genres: `Action`, `Thriller`, `Mystery`, `Crime`
 - movie_row:
   - import_tmdb_id: `1195430`
@@ -6984,8 +7191,8 @@
   - backdrop_path: `/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg`
   - release_date: `2025-01-31`
   - runtime: `155`
-  - vote_average: `6.016`
-  - vote_count: `62`
+  - vote_average: `6.032`
+  - vote_count: `63`
   - genres: `Action`, `Thriller`, `Mystery`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=DBCy-fo9eSQ`
   - status: `active`
@@ -7016,8 +7223,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=S5wQD_0WGTA`
 - release_date: `2024-09-26`
 - runtime: `175`
-- vote_average: `6.922`
-- vote_count: `217`
+- vote_average: `6.894`
+- vote_count: `218`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `811941`
@@ -7027,8 +7234,8 @@
   - backdrop_path: `/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg`
   - release_date: `2024-09-26`
   - runtime: `175`
-  - vote_average: `6.922`
-  - vote_count: `217`
+  - vote_average: `6.894`
+  - vote_count: `218`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=S5wQD_0WGTA`
   - status: `active`
@@ -7060,8 +7267,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=S5wQD_0WGTA`
 - release_date: `2024-09-26`
 - runtime: `175`
-- vote_average: `6.922`
-- vote_count: `217`
+- vote_average: `6.894`
+- vote_count: `218`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `811941`
@@ -7071,8 +7278,8 @@
   - backdrop_path: `/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg`
   - release_date: `2024-09-26`
   - runtime: `175`
-  - vote_average: `6.922`
-  - vote_count: `217`
+  - vote_average: `6.894`
+  - vote_count: `218`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=S5wQD_0WGTA`
   - status: `active`
@@ -7102,8 +7309,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=CXGs4-_IRN8`
 - release_date: `2004-08-27`
 - runtime: `129`
-- vote_average: `6.232`
-- vote_count: `233`
+- vote_average: `6.221`
+- vote_count: `240`
 - genres: `Action`, `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `17478`
@@ -7113,8 +7320,8 @@
   - backdrop_path: `/eV12yI0mkMfwIcAz5b8d1XH1dBg.jpg`
   - release_date: `2004-08-27`
   - runtime: `129`
-  - vote_average: `6.232`
-  - vote_count: `233`
+  - vote_average: `6.221`
+  - vote_count: `240`
   - genres: `Action`, `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=CXGs4-_IRN8`
   - status: `active`
@@ -7144,8 +7351,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZsSH3xEq9uk`
 - release_date: `2025-06-13`
 - runtime: `91`
-- vote_average: `7.331`
-- vote_count: `234`
+- vote_average: `7.33`
+- vote_count: `238`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `1127110`
@@ -7155,8 +7362,8 @@
   - backdrop_path: `/5AB4EfS39K7aQYtUim0CFfKBU6r.jpg`
   - release_date: `2025-06-13`
   - runtime: `91`
-  - vote_average: `7.331`
-  - vote_count: `234`
+  - vote_average: `7.33`
+  - vote_count: `238`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=ZsSH3xEq9uk`
   - status: `active`
@@ -7187,8 +7394,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=AHuOo1DLcRc`
 - release_date: `2015-12-18`
 - runtime: `158`
-- vote_average: `6.6`
-- vote_count: `344`
+- vote_average: `6.572`
+- vote_count: `348`
 - genres: `Crime`, `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `370665`
@@ -7198,8 +7405,8 @@
   - backdrop_path: `/6wnvu7YAHncMhwKs9YDrhKd98zO.jpg`
   - release_date: `2015-12-18`
   - runtime: `158`
-  - vote_average: `6.6`
-  - vote_count: `344`
+  - vote_average: `6.572`
+  - vote_count: `348`
   - genres: `Crime`, `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=AHuOo1DLcRc`
   - status: `active`
@@ -7230,8 +7437,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=BJPy7e5hvSg`
 - release_date: `2004-11-09`
 - runtime: `84`
-- vote_average: `6.815`
-- vote_count: `1992`
+- vote_average: `6.818`
+- vote_count: `2003`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `10045`
@@ -7241,8 +7448,8 @@
   - backdrop_path: `/dSbXXdDcnQFimUf1mhkPk5dkQU3.jpg`
   - release_date: `2004-11-09`
   - runtime: `84`
-  - vote_average: `6.815`
-  - vote_count: `1992`
+  - vote_average: `6.818`
+  - vote_count: `2003`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=BJPy7e5hvSg`
   - status: `active`
@@ -7267,24 +7474,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg`
-- backdrop_path: `/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg`
+- backdrop_path: `/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=Rf8LAYJSOL8`
 - release_date: `2022-05-04`
 - runtime: `126`
-- vote_average: `7.23`
-- vote_count: `10351`
+- vote_average: `7.231`
+- vote_count: `10412`
 - genres: `Fantasy`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `453395`
   - title: `Doctor Strange in the Multiverse of Madness`
   - overview: `Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.`
   - poster_path: `/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg`
-  - backdrop_path: `/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg`
+  - backdrop_path: `/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg`
   - release_date: `2022-05-04`
   - runtime: `126`
-  - vote_average: `7.23`
-  - vote_count: `10351`
+  - vote_average: `7.231`
+  - vote_count: `10412`
   - genres: `Fantasy`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=Rf8LAYJSOL8`
   - status: `active`
@@ -7314,8 +7521,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mQqxeHdP5bg`
 - release_date: `2024-10-11`
 - runtime: `94`
-- vote_average: `6.709`
-- vote_count: `182`
+- vote_average: `6.71`
+- vote_count: `183`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1331375`
@@ -7325,8 +7532,8 @@
   - backdrop_path: `/uGjvdT5CAPIlTBYAXnHPzoEIgkC.jpg`
   - release_date: `2024-10-11`
   - runtime: `94`
-  - vote_average: `6.709`
-  - vote_count: `182`
+  - vote_average: `6.71`
+  - vote_count: `183`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mQqxeHdP5bg`
   - status: `active`
@@ -7356,8 +7563,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dCDLPlZAoeY`
 - release_date: `2021-08-12`
 - runtime: `98`
-- vote_average: `6.995`
-- vote_count: `2830`
+- vote_average: `6.99`
+- vote_count: `2844`
 - genres: `Thriller`, `Horror`
 - movie_row:
   - import_tmdb_id: `482373`
@@ -7367,8 +7574,8 @@
   - backdrop_path: `/3ULzK4XTSC1wal11K7459fxnjjA.jpg`
   - release_date: `2021-08-12`
   - runtime: `98`
-  - vote_average: `6.995`
-  - vote_count: `2830`
+  - vote_average: `6.99`
+  - vote_count: `2844`
   - genres: `Thriller`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=dCDLPlZAoeY`
   - status: `active`
@@ -7398,8 +7605,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=WbH-wU7p57g`
 - release_date: `2016-10-22`
 - runtime: `83`
-- vote_average: `6.24`
-- vote_count: `576`
+- vote_average: `6.235`
+- vote_count: `577`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `375355`
@@ -7409,8 +7616,8 @@
   - backdrop_path: `/8vjZjGTd8mnISLupLL19xMzK4FE.jpg`
   - release_date: `2016-10-22`
   - runtime: `83`
-  - vote_average: `6.24`
-  - vote_count: `576`
+  - vote_average: `6.235`
+  - vote_count: `577`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=WbH-wU7p57g`
   - status: `active`
@@ -7440,8 +7647,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=q0GpvLLMVQ4`
 - release_date: `2024-10-24`
 - runtime: `92`
-- vote_average: `6.312`
-- vote_count: `995`
+- vote_average: `6.32`
+- vote_count: `1008`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1063877`
@@ -7451,8 +7658,8 @@
   - backdrop_path: `/6Rjsm5khNaYa4Gnw4iHnGX2E34T.jpg`
   - release_date: `2024-10-24`
   - runtime: `92`
-  - vote_average: `6.312`
-  - vote_count: `995`
+  - vote_average: `6.32`
+  - vote_count: `1008`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=q0GpvLLMVQ4`
   - status: `active`
@@ -7525,8 +7732,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=BRhjwiglXvQ`
 - release_date: `2014-10-01`
 - runtime: `92`
-- vote_average: `6.457`
-- vote_count: `6507`
+- vote_average: `6.462`
+- vote_count: `6535`
 - genres: `Horror`, `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `49017`
@@ -7536,8 +7743,8 @@
   - backdrop_path: `/oa0bHsnrD96miW3Yx10HWb211Sj.jpg`
   - release_date: `2014-10-01`
   - runtime: `92`
-  - vote_average: `6.457`
-  - vote_count: `6507`
+  - vote_average: `6.462`
+  - vote_count: `6535`
   - genres: `Horror`, `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=BRhjwiglXvQ`
   - status: `active`
@@ -7567,8 +7774,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=c_CNK9g9Kj0`
 - release_date: `2009-03-18`
 - runtime: `125`
-- vote_average: `5.9`
-- vote_count: `868`
+- vote_average: `5.914`
+- vote_count: `871`
 - genres: `Romance`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `16558`
@@ -7578,8 +7785,8 @@
   - backdrop_path: `/nmElbl3SyII4gJ8uo1jYYHFjmlK.jpg`
   - release_date: `2009-03-18`
   - runtime: `125`
-  - vote_average: `5.9`
-  - vote_count: `868`
+  - vote_average: `5.914`
+  - vote_count: `871`
   - genres: `Romance`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=c_CNK9g9Kj0`
   - status: `active`
@@ -7610,7 +7817,7 @@
 - release_date: `2008-09-25`
 - runtime: `118`
 - vote_average: `6.495`
-- vote_count: `3122`
+- vote_count: `3138`
 - genres: `Mystery`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `13027`
@@ -7621,7 +7828,7 @@
   - release_date: `2008-09-25`
   - runtime: `118`
   - vote_average: `6.495`
-  - vote_count: `3122`
+  - vote_count: `3138`
   - genres: `Mystery`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=olRdPXwiSjk`
   - status: `active`
@@ -7647,24 +7854,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/tOg6ElTe1mJwaCFN0172U4oso22.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/tOg6ElTe1mJwaCFN0172U4oso22.jpg`
-- backdrop_path: `/s9v1QZMVhwShQ7415jPhtfqzyjG.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/s9v1QZMVhwShQ7415jPhtfqzyjG.jpg`
+- backdrop_path: `/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=rJkO9HBXuhc`
 - release_date: `2008-09-12`
 - runtime: `91`
 - vote_average: `6.834`
-- vote_count: `2084`
+- vote_count: `2106`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `13510`
   - title: `Eden Lake`
   - overview: `When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.`
   - poster_path: `/tOg6ElTe1mJwaCFN0172U4oso22.jpg`
-  - backdrop_path: `/s9v1QZMVhwShQ7415jPhtfqzyjG.jpg`
+  - backdrop_path: `/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg`
   - release_date: `2008-09-12`
   - runtime: `91`
   - vote_average: `6.834`
-  - vote_count: `2084`
+  - vote_count: `2106`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=rJkO9HBXuhc`
   - status: `active`
@@ -7693,8 +7900,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/y24rcoBjxDNdmZIUIJcbjVxBzua.jpg`
 - release_date: `2005-12-09`
 - runtime: `142`
-- vote_average: `5.176`
-- vote_count: `17`
+- vote_average: `5.056`
+- vote_count: `18`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `87995`
@@ -7704,8 +7911,8 @@
   - backdrop_path: `/y24rcoBjxDNdmZIUIJcbjVxBzua.jpg`
   - release_date: `2005-12-09`
   - runtime: `142`
-  - vote_average: `5.176`
-  - vote_count: `17`
+  - vote_average: `5.056`
+  - vote_count: `18`
   - genres: `Action`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -7735,8 +7942,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=swPhyd0g6K8`
 - release_date: `2022-07-29`
 - runtime: `127`
-- vote_average: `6`
-- vote_count: `133`
+- vote_average: `6.026`
+- vote_count: `134`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `682401`
@@ -7746,8 +7953,8 @@
   - backdrop_path: `/umty8dbAoZWluyTsnXqGJRdtSDY.jpg`
   - release_date: `2022-07-29`
   - runtime: `127`
-  - vote_average: `6`
-  - vote_count: `133`
+  - vote_average: `6.026`
+  - vote_count: `134`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=swPhyd0g6K8`
   - status: `active`
@@ -7778,8 +7985,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=d_e-eApXem4`
 - release_date: `2006-04-27`
 - runtime: `92`
-- vote_average: `7.4`
-- vote_count: `205`
+- vote_average: `7.434`
+- vote_count: `206`
 - genres: `Drama`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `15077`
@@ -7789,8 +7996,8 @@
   - backdrop_path: `/g0iK0FIS2KP67D0QCxAtMo3iaX3.jpg`
   - release_date: `2006-04-27`
   - runtime: `92`
-  - vote_average: `7.4`
-  - vote_count: `205`
+  - vote_average: `7.434`
+  - vote_count: `206`
   - genres: `Drama`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=d_e-eApXem4`
   - status: `active`
@@ -7806,41 +8013,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `47822`
+- real_tmdb_id: `421313`
 - canonical_title: `Eliminators`
 - original_title: `Eliminators`
 - normalized_title_guess: `Eliminators`
 - narrators_found: `PK`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/9RBzZcSKmBhVbJWtLwELyvU7V4G.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/9RBzZcSKmBhVbJWtLwELyvU7V4G.jpg`
-- backdrop_path: `/ylU0kZPqDlPyaKkZ9TI7tvvGvAC.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/ylU0kZPqDlPyaKkZ9TI7tvvGvAC.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=uuX8lPofuME`
-- release_date: `1986-01-31`
-- runtime: `96`
-- vote_average: `4.838`
-- vote_count: `65`
-- genres: `Action`, `Science Fiction`
+- poster_path: `/pUB91wOMQrmkforP7ntIMy2zkdn.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/pUB91wOMQrmkforP7ntIMy2zkdn.jpg`
+- backdrop_path: `/o9KozfQnqi9LO4nHSPyudIf44r0.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/o9KozfQnqi9LO4nHSPyudIf44r0.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=bMykCXayH7A`
+- release_date: `2016-12-09`
+- runtime: `95`
+- vote_average: `6.376`
+- vote_count: `222`
+- genres: `Action`, `Thriller`
 - movie_row:
-  - import_tmdb_id: `47822`
+  - import_tmdb_id: `421313`
   - title: `Eliminators`
-  - overview: `A former pilot rebels against his creator, teaming up with the scientist responsible for android technology, her pet robot Spot, a rough-and-tumble riverboat guide, and a martial arts warrior.`
-  - poster_path: `/9RBzZcSKmBhVbJWtLwELyvU7V4G.jpg`
-  - backdrop_path: `/ylU0kZPqDlPyaKkZ9TI7tvvGvAC.jpg`
-  - release_date: `1986-01-31`
-  - runtime: `96`
-  - vote_average: `4.838`
-  - vote_count: `65`
-  - genres: `Action`, `Science Fiction`
-  - trailer_url: `https://www.youtube.com/watch?v=uuX8lPofuME`
+  - overview: `A former US Federal Agent must abandon the witness protection program and come out of hiding when his London home is invaded in error due to a wrong address. When the event ends with multiple homicides, the news triggers those hunting him to send Europe's most dangerous assassin to kill him. Now on the run with his daughters life in jeopardy, a determined father must get her to safety before the people he's been hiding from tracks him down.`
+  - poster_path: `/pUB91wOMQrmkforP7ntIMy2zkdn.jpg`
+  - backdrop_path: `/o9KozfQnqi9LO4nHSPyudIf44r0.jpg`
+  - release_date: `2016-12-09`
+  - runtime: `95`
+  - vote_average: `6.376`
+  - vote_count: `222`
+  - genres: `Action`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=bMykCXayH7A`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Eliminators - PK | https://oshakurfilms.com/watch/eliminators-pk | PK | 47822 | 47822 | https://drive.google.com/file/d/1gcVBiRMxBn12_My5-ZQjFyhUvgQua425/preview | drive.google.com | https://drive.google.com/file/d/1gcVBiRMxBn12_My5-ZQjFyhUvgQua425/preview | drive.google.com |  |
+| 1 | Eliminators - PK | https://oshakurfilms.com/watch/eliminators-pk | PK | 421313 | 421313 | https://drive.google.com/file/d/1gcVBiRMxBn12_My5-ZQjFyhUvgQua425/preview | drive.google.com | https://drive.google.com/file/d/1gcVBiRMxBn12_My5-ZQjFyhUvgQua425/preview | drive.google.com |  |
 
 ## Emancipation
 
@@ -7862,8 +8069,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=C3yHUpR7yv8`
 - release_date: `2022-12-02`
 - runtime: `132`
-- vote_average: `7.764`
-- vote_count: `1263`
+- vote_average: `7.761`
+- vote_count: `1269`
 - genres: `Drama`, `War`, `History`
 - movie_row:
   - import_tmdb_id: `715931`
@@ -7873,8 +8080,8 @@
   - backdrop_path: `/1jZ3wNpON50whGEH7YOcTQrU45B.jpg`
   - release_date: `2022-12-02`
   - runtime: `132`
-  - vote_average: `7.764`
-  - vote_count: `1263`
+  - vote_average: `7.761`
+  - vote_count: `1269`
   - genres: `Drama`, `War`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=C3yHUpR7yv8`
   - status: `active`
@@ -7894,7 +8101,7 @@
 - canonical_title: `End of the Road`
 - original_title: `End of the Road`
 - normalized_title_guess: `End of the Road`
-- narrators_found: `Rocky`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/tLFIMuPWJHlTJ6TN8HCOiSD6SdA.jpg`
@@ -7904,8 +8111,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=202KkD12AuI`
 - release_date: `2022-09-09`
 - runtime: `89`
-- vote_average: `6.01`
-- vote_count: `347`
+- vote_average: `6.011`
+- vote_count: `349`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `773975`
@@ -7915,8 +8122,8 @@
   - backdrop_path: `/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg`
   - release_date: `2022-09-09`
   - runtime: `89`
-  - vote_average: `6.01`
-  - vote_count: `347`
+  - vote_average: `6.011`
+  - vote_count: `349`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=202KkD12AuI`
   - status: `active`
@@ -7924,7 +8131,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | End of the Road - ROCKY | https://oshakurfilms.com/watch/end-of-the-road-rocky | Rocky | 773975 | 773975 | https://cybervynx.com/e/98pfs5ci9e9n | cybervynx.com | https://www.mediafire.com/file/ljgzhe88d6d7gcz/END_OF_THE_ROAD.mp4/file | www.mediafire.com |  |
+| 1 | End of the Road | https://oshakurfilms.com/watch/end-of-the-road | UNSPECIFIED | 773975 | 773975 | https://cybervynx.com/e/98pfs5ci9e9n | cybervynx.com | https://www.mediafire.com/file/ljgzhe88d6d7gcz/END_OF_THE_ROAD.mp4/file | www.mediafire.com |  |
 
 ## Escape
 
@@ -7946,8 +8153,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9mPzDILlt5g`
 - release_date: `2024-07-03`
 - runtime: `96`
-- vote_average: `7.257`
-- vote_count: `76`
+- vote_average: `7.25`
+- vote_count: `78`
 - genres: `Action`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `921436`
@@ -7957,8 +8164,8 @@
   - backdrop_path: `/1ApRLGSJ9ShDP1dUMAJQWbWBALz.jpg`
   - release_date: `2024-07-03`
   - runtime: `96`
-  - vote_average: `7.257`
-  - vote_count: `76`
+  - vote_average: `7.25`
+  - vote_count: `78`
   - genres: `Action`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=9mPzDILlt5g`
   - status: `active`
@@ -7983,8 +8190,8 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/mt6ymKwwMbSxcpDFnkgzPpqDXzn.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/mt6ymKwwMbSxcpDFnkgzPpqDXzn.jpg`
-- backdrop_path: `/yv6wphHJWuBSNdAdOg89OLwigaa.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/yv6wphHJWuBSNdAdOg89OLwigaa.jpg`
+- backdrop_path: `/yt5gshFtLICB2il3SoIuCnRBPev.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/yt5gshFtLICB2il3SoIuCnRBPev.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=jSDlQlMK5ro`
 - release_date: `2025-01-02`
 - runtime: `129`
@@ -7996,7 +8203,7 @@
   - title: `Evil of the Rat`
   - overview: `Five Chinese young people go for an outing, encountering a little girl blocking the road for help. To save the girl, they got into a chemical factory and got involved in a catastrophe of mutant rats attacking human beings.`
   - poster_path: `/mt6ymKwwMbSxcpDFnkgzPpqDXzn.jpg`
-  - backdrop_path: `/yv6wphHJWuBSNdAdOg89OLwigaa.jpg`
+  - backdrop_path: `/yt5gshFtLICB2il3SoIuCnRBPev.jpg`
   - release_date: `2025-01-02`
   - runtime: `129`
   - vote_average: `5.5`
@@ -8030,8 +8237,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6k8qeqZycgE`
 - release_date: `2014-12-03`
 - runtime: `150`
-- vote_average: `5.883`
-- vote_count: `4852`
+- vote_average: `5.885`
+- vote_count: `4866`
 - genres: `Adventure`, `Drama`, `Action`
 - movie_row:
   - import_tmdb_id: `147441`
@@ -8041,8 +8248,8 @@
   - backdrop_path: `/hJ1jUw8irCiWwQk7BElxF92BrlK.jpg`
   - release_date: `2014-12-03`
   - runtime: `150`
-  - vote_average: `5.883`
-  - vote_count: `4852`
+  - vote_average: `5.885`
+  - vote_count: `4866`
   - genres: `Adventure`, `Drama`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=6k8qeqZycgE`
   - status: `active`
@@ -8073,8 +8280,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=tlLsFEDHtWs`
 - release_date: `2025-04-29`
 - runtime: `109`
-- vote_average: `6.599`
-- vote_count: `648`
+- vote_average: `6.605`
+- vote_count: `653`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `1233069`
@@ -8084,8 +8291,8 @@
   - backdrop_path: `/14UFWFJsGeInCbhTiehRLTff4Yx.jpg`
   - release_date: `2025-04-29`
   - runtime: `109`
-  - vote_average: `6.599`
-  - vote_count: `648`
+  - vote_average: `6.605`
+  - vote_count: `653`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=tlLsFEDHtWs`
   - status: `active`
@@ -8116,8 +8323,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=L6P3nI6VnlY`
 - release_date: `2020-04-23`
 - runtime: `116`
-- vote_average: `7.294`
-- vote_count: `6615`
+- vote_average: `7.292`
+- vote_count: `6641`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `545609`
@@ -8127,8 +8334,8 @@
   - backdrop_path: `/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg`
   - release_date: `2020-04-23`
   - runtime: `116`
-  - vote_average: `7.294`
-  - vote_count: `6615`
+  - vote_average: `7.292`
+  - vote_count: `6641`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=L6P3nI6VnlY`
   - status: `active`
@@ -8158,8 +8365,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Y274jZs5s7s`
 - release_date: `2023-06-09`
 - runtime: `122`
-- vote_average: `7.386`
-- vote_count: `2912`
+- vote_average: `7.39`
+- vote_count: `2934`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `697843`
@@ -8169,8 +8376,8 @@
   - backdrop_path: `/wRxLAw4l17LqiFcPLkobriPTZAw.jpg`
   - release_date: `2023-06-09`
   - runtime: `122`
-  - vote_average: `7.386`
-  - vote_count: `2912`
+  - vote_average: `7.39`
+  - vote_count: `2934`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=Y274jZs5s7s`
   - status: `active`
@@ -8193,26 +8400,26 @@
 - narrators_found: `Gaheza`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg`
-- backdrop_path: `/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg`
+- poster_path: `/9PXZIUsSDh4alB80jheWX4fhZmy.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg`
+- backdrop_path: `/lkDYN0whyE82mcM20rwtwjbniKF.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/lkDYN0whyE82mcM20rwtwjbniKF.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=ge_ABjtYx88`
 - release_date: `2025-06-25`
 - runtime: `156`
-- vote_average: `7.789`
-- vote_count: `4024`
+- vote_average: `7.806`
+- vote_count: `4163`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `911430`
   - title: `F1`
   - overview: `Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.`
-  - poster_path: `/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg`
-  - backdrop_path: `/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg`
+  - poster_path: `/9PXZIUsSDh4alB80jheWX4fhZmy.jpg`
+  - backdrop_path: `/lkDYN0whyE82mcM20rwtwjbniKF.jpg`
   - release_date: `2025-06-25`
   - runtime: `156`
-  - vote_average: `7.789`
-  - vote_count: `4024`
+  - vote_average: `7.806`
+  - vote_count: `4163`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=ge_ABjtYx88`
   - status: `active`
@@ -8242,8 +8449,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=TfJkFsCn8Zw`
 - release_date: `2021-05-19`
 - runtime: `143`
-- vote_average: `7.001`
-- vote_count: `7713`
+- vote_average: `6.995`
+- vote_count: `7738`
 - genres: `Action`, `Adventure`, `Crime`
 - movie_row:
   - import_tmdb_id: `385128`
@@ -8253,8 +8460,8 @@
   - backdrop_path: `/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg`
   - release_date: `2021-05-19`
   - runtime: `143`
-  - vote_average: `7.001`
-  - vote_count: `7713`
+  - vote_average: `6.995`
+  - vote_count: `7738`
   - genres: `Action`, `Adventure`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=TfJkFsCn8Zw`
   - status: `active`
@@ -8263,6 +8470,48 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | f9 the fast saga - Rocky | https://oshakurfilms.com/watch/f9-the-fast-saga-rocky | Rocky | 385128 | 385128 | https://playerwish.com/e/xg2xyda7gh2l | playerwish.com | https://www.mediafire.com/file/4tnxl3r8botpmcm/F9-+The+Fast+Saga.mp4/file | www.mediafire.com |  |
+
+## Face/Off
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `754`
+- canonical_title: `Face/Off`
+- original_title: `Face/Off`
+- normalized_title_guess: `Face Off`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg`
+- backdrop_path: `/tsSWHgaFlzzkp3o976juBZbmcs2.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=3zebJ_NoduE`
+- release_date: `1997-06-27`
+- runtime: `139`
+- vote_average: `7.057`
+- vote_count: `5936`
+- genres: `Action`, `Crime`, `Science Fiction`
+- movie_row:
+  - import_tmdb_id: `754`
+  - title: `Face/Off`
+  - overview: `In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.`
+  - poster_path: `/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg`
+  - backdrop_path: `/tsSWHgaFlzzkp3o976juBZbmcs2.jpg`
+  - release_date: `1997-06-27`
+  - runtime: `139`
+  - vote_average: `7.057`
+  - vote_count: `5936`
+  - genres: `Action`, `Crime`, `Science Fiction`
+  - trailer_url: `https://www.youtube.com/watch?v=3zebJ_NoduE`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Face Off | https://oshakurfilms.com/watch/face-off | UNSPECIFIED | 754 | 754 | https://hgcloud.to/e/0cydwp9u2clc | hgcloud.to | https://www.mediafire.com/file/afmu8t2pi1i7z78/Face+Off+Hd.mp4/file | www.mediafire.com |  |
 
 ## Fall
 
@@ -8284,8 +8533,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=FNk7Cu4sJOs`
 - release_date: `2022-08-11`
 - runtime: `107`
-- vote_average: `7.133`
-- vote_count: `4608`
+- vote_average: `7.141`
+- vote_count: `4662`
 - genres: `Thriller`
 - movie_row:
   - import_tmdb_id: `985939`
@@ -8295,8 +8544,8 @@
   - backdrop_path: `/hT3OqvzMqCQuJsUjZnQwA5NuxgK.jpg`
   - release_date: `2022-08-11`
   - runtime: `107`
-  - vote_average: `7.133`
-  - vote_count: `4608`
+  - vote_average: `7.141`
+  - vote_count: `4662`
   - genres: `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=FNk7Cu4sJOs`
   - status: `active`
@@ -8326,8 +8575,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=c3Um5TSz-ZU`
 - release_date: `2016-04-14`
 - runtime: `138`
-- vote_average: `6.284`
-- vote_count: `269`
+- vote_average: `6.264`
+- vote_count: `271`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `377985`
@@ -8337,8 +8586,8 @@
   - backdrop_path: `/3jsXJRxDr2rDItjeOtFcVcSvaHH.jpg`
   - release_date: `2016-04-14`
   - runtime: `138`
-  - vote_average: `6.284`
-  - vote_count: `269`
+  - vote_average: `6.264`
+  - vote_count: `271`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=c3Um5TSz-ZU`
   - status: `active`
@@ -8368,8 +8617,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=03ommmlfCNk`
 - release_date: `2008-10-02`
 - runtime: `95`
-- vote_average: `3.706`
-- vote_count: `327`
+- vote_average: `3.702`
+- vote_count: `329`
 - genres: `Action`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `7916`
@@ -8379,8 +8628,8 @@
   - backdrop_path: `/zt5slO9dVCtXSA2dWT14qtx2kT9.jpg`
   - release_date: `2008-10-02`
   - runtime: `95`
-  - vote_average: `3.706`
-  - vote_count: `327`
+  - vote_average: `3.702`
+  - vote_count: `329`
   - genres: `Action`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=03ommmlfCNk`
   - status: `active`
@@ -8405,24 +8654,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg`
-- backdrop_path: `/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg`
+- backdrop_path: `/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=b736ZM_KfEk`
 - release_date: `2019-07-31`
 - runtime: `137`
-- vote_average: `6.832`
-- vote_count: `7760`
+- vote_average: `6.831`
+- vote_count: `7795`
 - genres: `Action`, `Adventure`, `Comedy`
 - movie_row:
   - import_tmdb_id: `384018`
   - title: `Fast & Furious Presents: Hobbs & Shaw`
   - overview: `Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.`
   - poster_path: `/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg`
-  - backdrop_path: `/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg`
+  - backdrop_path: `/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg`
   - release_date: `2019-07-31`
   - runtime: `137`
-  - vote_average: `6.832`
-  - vote_count: `7760`
+  - vote_average: `6.831`
+  - vote_count: `7795`
   - genres: `Action`, `Adventure`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=b736ZM_KfEk`
   - status: `active`
@@ -8445,26 +8694,26 @@
 - narrators_found: `Yanga`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/vDztZS30sheoqnJnKyO4QMnf3f8.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/vDztZS30sheoqnJnKyO4QMnf3f8.jpg`
-- backdrop_path: `/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg`
+- poster_path: `/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg`
+- backdrop_path: `/c1Q8jLoaruQ9m5lCrVlXOaJJtu7.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/c1Q8jLoaruQ9m5lCrVlXOaJJtu7.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=P1UVXvKnCLM`
 - release_date: `2011-04-20`
 - runtime: `131`
-- vote_average: `7.241`
-- vote_count: `8854`
+- vote_average: `7.242`
+- vote_count: `8893`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `51497`
   - title: `Fast Five`
   - overview: `Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.`
-  - poster_path: `/vDztZS30sheoqnJnKyO4QMnf3f8.jpg`
-  - backdrop_path: `/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg`
+  - poster_path: `/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg`
+  - backdrop_path: `/c1Q8jLoaruQ9m5lCrVlXOaJJtu7.jpg`
   - release_date: `2011-04-20`
   - runtime: `131`
-  - vote_average: `7.241`
-  - vote_count: `8854`
+  - vote_average: `7.242`
+  - vote_count: `8893`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=P1UVXvKnCLM`
   - status: `active`
@@ -8495,7 +8744,7 @@
 - release_date: `2023-05-17`
 - runtime: `142`
 - vote_average: `6.993`
-- vote_count: `6328`
+- vote_count: `6362`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `385687`
@@ -8506,7 +8755,7 @@
   - release_date: `2023-05-17`
   - runtime: `142`
   - vote_average: `6.993`
-  - vote_count: `6328`
+  - vote_count: `6362`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=eoOaKN4qCKw`
   - status: `active`
@@ -8538,8 +8787,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=tPWURGgKJ7o`
 - release_date: `2020-12-18`
 - runtime: `102`
-- vote_average: `6.044`
-- vote_count: `387`
+- vote_average: `6.041`
+- vote_count: `390`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `549514`
@@ -8549,8 +8798,8 @@
   - backdrop_path: `/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg`
   - release_date: `2020-12-18`
   - runtime: `102`
-  - vote_average: `6.044`
-  - vote_count: `387`
+  - vote_average: `6.041`
+  - vote_count: `390`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=tPWURGgKJ7o`
   - status: `active`
@@ -8580,8 +8829,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/ydFtw0hbwozGyW72kw3A0uWCiW3.jpg`
 - release_date: `2025-01-10`
 - runtime: `131`
-- vote_average: `5.8`
-- vote_count: `17`
+- vote_average: `5.972`
+- vote_count: `18`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `955496`
@@ -8591,8 +8840,8 @@
   - backdrop_path: `/ydFtw0hbwozGyW72kw3A0uWCiW3.jpg`
   - release_date: `2025-01-10`
   - runtime: `131`
-  - vote_average: `5.8`
-  - vote_count: `17`
+  - vote_average: `5.972`
+  - vote_count: `18`
   - genres: `Action`, `Crime`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -8622,8 +8871,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=SdsHRpjfqEI`
 - release_date: `2025-04-03`
 - runtime: `102`
-- vote_average: `6.253`
-- vote_count: `378`
+- vote_average: `6.26`
+- vote_count: `391`
 - genres: `Action`, `Comedy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1212855`
@@ -8633,8 +8882,8 @@
   - backdrop_path: `/jDyNnLyJUOsVgseQgkHPRxpyo4o.jpg`
   - release_date: `2025-04-03`
   - runtime: `102`
-  - vote_average: `6.253`
-  - vote_count: `378`
+  - vote_average: `6.26`
+  - vote_count: `391`
   - genres: `Action`, `Comedy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=SdsHRpjfqEI`
   - status: `active`
@@ -8663,9 +8912,9 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=lAVYll_wBeY`
 - release_date: `2024-01-24`
-- runtime: `167`
-- vote_average: `6.157`
-- vote_count: `159`
+- runtime: `166`
+- vote_average: `6.2`
+- vote_count: `160`
 - genres: `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `784651`
@@ -8674,9 +8923,9 @@
   - poster_path: `/zqFuriKJ6pYDvf72kXNLONnuE8k.jpg`
   - backdrop_path: `/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg`
   - release_date: `2024-01-24`
-  - runtime: `167`
-  - vote_average: `6.157`
-  - vote_count: `159`
+  - runtime: `166`
+  - vote_average: `6.2`
+  - vote_count: `160`
   - genres: `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=lAVYll_wBeY`
   - status: `active`
@@ -8709,8 +8958,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9hvUxRGeBhA`
 - release_date: `2000-03-17`
 - runtime: `98`
-- vote_average: `6.634`
-- vote_count: `6680`
+- vote_average: `6.637`
+- vote_count: `6727`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `9532`
@@ -8720,8 +8969,8 @@
   - backdrop_path: `/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg`
   - release_date: `2000-03-17`
   - runtime: `98`
-  - vote_average: `6.634`
-  - vote_count: `6680`
+  - vote_average: `6.637`
+  - vote_count: `6727`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=9hvUxRGeBhA`
   - status: `active`
@@ -8752,8 +9001,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=xitSoRbHJ50`
 - release_date: `2025-05-14`
 - runtime: `110`
-- vote_average: `7.042`
-- vote_count: `2867`
+- vote_average: `7.039`
+- vote_count: `2908`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `574475`
@@ -8763,8 +9012,8 @@
   - backdrop_path: `/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg`
   - release_date: `2025-05-14`
   - runtime: `110`
-  - vote_average: `7.042`
-  - vote_count: `2867`
+  - vote_average: `7.039`
+  - vote_count: `2908`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=xitSoRbHJ50`
   - status: `active`
@@ -8795,8 +9044,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=zfZXiw-lgMs`
 - release_date: `1994-12-22`
 - runtime: `103`
-- vote_average: `7.48`
-- vote_count: `610`
+- vote_average: `7.5`
+- vote_count: `615`
 - genres: `Action`
 - movie_row:
   - import_tmdb_id: `17809`
@@ -8806,8 +9055,8 @@
   - backdrop_path: `/2XMjBxdICJWVmBMlbge2JySz7X9.jpg`
   - release_date: `1994-12-22`
   - runtime: `103`
-  - vote_average: `7.48`
-  - vote_count: `610`
+  - vote_average: `7.5`
+  - vote_count: `615`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=zfZXiw-lgMs`
   - status: `active`
@@ -8879,8 +9128,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=uaodj8Myt3A`
 - release_date: `2025-01-22`
 - runtime: `91`
-- vote_average: `5.941`
-- vote_count: `1156`
+- vote_average: `5.928`
+- vote_count: `1167`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1126166`
@@ -8890,8 +9139,8 @@
   - backdrop_path: `/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg`
   - release_date: `2025-01-22`
   - runtime: `91`
-  - vote_average: `5.941`
-  - vote_count: `1156`
+  - vote_average: `5.928`
+  - vote_count: `1167`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=uaodj8Myt3A`
   - status: `active`
@@ -8921,8 +9170,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6vY9UPiI4eQ`
 - release_date: `2015-02-25`
 - runtime: `105`
-- vote_average: `6.871`
-- vote_count: `8288`
+- vote_average: `6.87`
+- vote_count: `8307`
 - genres: `Romance`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `256591`
@@ -8932,8 +9181,8 @@
   - backdrop_path: `/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg`
   - release_date: `2015-02-25`
   - runtime: `105`
-  - vote_average: `6.871`
-  - vote_count: `8288`
+  - vote_average: `6.87`
+  - vote_count: `8307`
   - genres: `Romance`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=6vY9UPiI4eQ`
   - status: `active`
@@ -8963,8 +9212,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=5iEOQn8UUHI`
 - release_date: `2018-01-26`
 - runtime: `108`
-- vote_average: `7.612`
-- vote_count: `1389`
+- vote_average: `7.615`
+- vote_count: `1394`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `417261`
@@ -8974,8 +9223,8 @@
   - backdrop_path: `/gEsBPNcGAuNBU5MGaOAlnm6uDe7.jpg`
   - release_date: `2018-01-26`
   - runtime: `108`
-  - vote_average: `7.612`
-  - vote_count: `1389`
+  - vote_average: `7.615`
+  - vote_count: `1394`
   - genres: `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=5iEOQn8UUHI`
   - status: `active`
@@ -9000,24 +9249,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg`
-- backdrop_path: `/aESb695wTIF0tB7RTGRebnYrjFK.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/aESb695wTIF0tB7RTGRebnYrjFK.jpg`
+- backdrop_path: `/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=-7S28bH8iDs`
 - release_date: `2025-05-19`
 - runtime: `126`
-- vote_average: `6.264`
-- vote_count: `933`
+- vote_average: `6.262`
+- vote_count: `948`
 - genres: `Adventure`, `Fantasy`, `Mystery`
 - movie_row:
   - import_tmdb_id: `1098006`
   - title: `Fountain of Youth`
   - overview: `A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.`
   - poster_path: `/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg`
-  - backdrop_path: `/aESb695wTIF0tB7RTGRebnYrjFK.jpg`
+  - backdrop_path: `/arGs8D4RfUfsk7vMiMjDi6Mtabv.jpg`
   - release_date: `2025-05-19`
   - runtime: `126`
-  - vote_average: `6.264`
-  - vote_count: `933`
+  - vote_average: `6.262`
+  - vote_count: `948`
   - genres: `Adventure`, `Fantasy`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=-7S28bH8iDs`
   - status: `active`
@@ -9048,8 +9297,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9WZllcEgWrM`
 - release_date: `2025-10-17`
 - runtime: `150`
-- vote_average: `7.638`
-- vote_count: `3479`
+- vote_average: `7.635`
+- vote_count: `3540`
 - genres: `Drama`, `Fantasy`, `Horror`
 - movie_row:
   - import_tmdb_id: `1062722`
@@ -9059,8 +9308,8 @@
   - backdrop_path: `/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg`
   - release_date: `2025-10-17`
   - runtime: `150`
-  - vote_average: `7.638`
-  - vote_count: `3479`
+  - vote_average: `7.635`
+  - vote_count: `3540`
   - genres: `Drama`, `Fantasy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=9WZllcEgWrM`
   - status: `active`
@@ -9090,8 +9339,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=EqPnIcDW9g0`
 - release_date: `2020-11-12`
 - runtime: `102`
-- vote_average: `6.561`
-- vote_count: `1849`
+- vote_average: `6.56`
+- vote_count: `1860`
 - genres: `Horror`, `Comedy`
 - movie_row:
   - import_tmdb_id: `551804`
@@ -9101,8 +9350,8 @@
   - backdrop_path: `/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg`
   - release_date: `2020-11-12`
   - runtime: `102`
-  - vote_average: `6.561`
-  - vote_count: `1849`
+  - vote_average: `6.56`
+  - vote_count: `1860`
   - genres: `Horror`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=EqPnIcDW9g0`
   - status: `active`
@@ -9132,8 +9381,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=llEP88wJqiY`
 - release_date: `2016-01-07`
 - runtime: `92`
-- vote_average: `5.552`
-- vote_count: `1323`
+- vote_average: `5.549`
+- vote_count: `1329`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `368031`
@@ -9143,8 +9392,8 @@
   - backdrop_path: `/p3j9hhyDP6e2I3BWik1YgIoXqsE.jpg`
   - release_date: `2016-01-07`
   - runtime: `92`
-  - vote_average: `5.552`
-  - vote_count: `1323`
+  - vote_average: `5.549`
+  - vote_count: `1329`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=llEP88wJqiY`
   - status: `active`
@@ -9168,26 +9417,26 @@
 - narrators_found: `Yanga`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/2nD0RAWVOccomLp1iToVJn6KC2a.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/2nD0RAWVOccomLp1iToVJn6KC2a.jpg`
+- poster_path: `/poVoLKLxUqsTLSntA40Po2F78dZ.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/poVoLKLxUqsTLSntA40Po2F78dZ.jpg`
 - backdrop_path: `/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=-jAbatBqqSc`
 - release_date: `2010-02-04`
 - runtime: `92`
-- vote_average: `6.399`
-- vote_count: `2333`
+- vote_average: `6.409`
+- vote_count: `2349`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `26389`
   - title: `From Paris with Love`
   - overview: `James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig—working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.`
-  - poster_path: `/2nD0RAWVOccomLp1iToVJn6KC2a.jpg`
+  - poster_path: `/poVoLKLxUqsTLSntA40Po2F78dZ.jpg`
   - backdrop_path: `/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg`
   - release_date: `2010-02-04`
   - runtime: `92`
-  - vote_average: `6.399`
-  - vote_count: `2333`
+  - vote_average: `6.409`
+  - vote_count: `2349`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=-jAbatBqqSc`
   - status: `active`
@@ -9217,8 +9466,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LYV3001u574`
 - release_date: `2024-05-22`
 - runtime: `149`
-- vote_average: `7.456`
-- vote_count: `4886`
+- vote_average: `7.454`
+- vote_count: `4936`
 - genres: `Action`, `Science Fiction`, `Adventure`
 - movie_row:
   - import_tmdb_id: `786892`
@@ -9228,8 +9477,8 @@
   - backdrop_path: `/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg`
   - release_date: `2024-05-22`
   - runtime: `149`
-  - vote_average: `7.456`
-  - vote_count: `4886`
+  - vote_average: `7.454`
+  - vote_count: `4936`
   - genres: `Action`, `Science Fiction`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=LYV3001u574`
   - status: `active`
@@ -9261,7 +9510,7 @@
 - release_date: `2014-10-15`
 - runtime: `135`
 - vote_average: `7.5`
-- vote_count: `12926`
+- vote_count: `12967`
 - genres: `War`, `Drama`, `Action`
 - movie_row:
   - import_tmdb_id: `228150`
@@ -9272,7 +9521,7 @@
   - release_date: `2014-10-15`
   - runtime: `135`
   - vote_average: `7.5`
-  - vote_count: `12926`
+  - vote_count: `12967`
   - genres: `War`, `Drama`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=09w9MTtZDEM`
   - status: `active`
@@ -9344,8 +9593,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=1aNywiElPSY`
 - release_date: `2026-03-23`
 - runtime: `96`
-- vote_average: `6.46`
-- vote_count: `101`
+- vote_average: `6.4`
+- vote_count: `136`
 - genres: `Action`, `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1242265`
@@ -9355,8 +9604,8 @@
   - backdrop_path: `/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg`
   - release_date: `2026-03-23`
   - runtime: `96`
-  - vote_average: `6.46`
-  - vote_count: `101`
+  - vote_average: `6.4`
+  - vote_count: `136`
   - genres: `Action`, `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=1aNywiElPSY`
   - status: `active`
@@ -9364,7 +9613,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Fuze | https://oshakurfilms.com/watch/fuze | UNSPECIFIED | 1242265 | 1242265 | https://hgcloud.to/e/c1b26fym4tu9 | hgcloud.to | https://www.mediafire.com/file/kucmfqzayt8asow/Fuze+Sankra+.mp4/file | www.mediafire.com |  |
+| 1 | Fuze | https://oshakurfilms.com/watch/fuze | UNSPECIFIED | 1242265 | 1242265 | https://hgcloud.to/e/c1b26fym4tu9 | hgcloud.to | https://www.mediafire.com/file/kucmfqzayt8asow/Fuze_Sankra_.mp4/file | www.mediafire.com |  |
 
 ## G-Force
 
@@ -9386,8 +9635,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7GaEZ2e9Ijs`
 - release_date: `2009-07-24`
 - runtime: `88`
-- vote_average: `5.487`
-- vote_count: `2006`
+- vote_average: `5.486`
+- vote_count: `2018`
 - genres: `Family`, `Fantasy`, `Action`, `Adventure`, `Comedy`
 - movie_row:
   - import_tmdb_id: `19585`
@@ -9397,8 +9646,8 @@
   - backdrop_path: `/xgic8uEqzzhc0YimHGsWSQWMduE.jpg`
   - release_date: `2009-07-24`
   - runtime: `88`
-  - vote_average: `5.487`
-  - vote_count: `2006`
+  - vote_average: `5.486`
+  - vote_count: `2018`
   - genres: `Family`, `Fantasy`, `Action`, `Adventure`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=7GaEZ2e9Ijs`
   - status: `active`
@@ -9428,8 +9677,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2vAo4rJPqQ4`
 - release_date: `2013-03-27`
 - runtime: `110`
-- vote_average: `5.651`
-- vote_count: `5762`
+- vote_average: `5.7`
+- vote_count: `5797`
 - genres: `Action`, `Science Fiction`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `72559`
@@ -9439,8 +9688,8 @@
   - backdrop_path: `/pEhXq18GVe1dg2ltplcxtGWfSje.jpg`
   - release_date: `2013-03-27`
   - runtime: `110`
-  - vote_average: `5.651`
-  - vote_count: `5762`
+  - vote_average: `5.7`
+  - vote_count: `5797`
   - genres: `Action`, `Science Fiction`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=2vAo4rJPqQ4`
   - status: `active`
@@ -9470,8 +9719,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZL7R8qyQXrc`
 - release_date: `2025-04-10`
 - runtime: `108`
-- vote_average: `6.357`
-- vote_count: `678`
+- vote_average: `6.343`
+- vote_count: `686`
 - genres: `Action`, `Mystery`, `Drama`
 - movie_row:
   - import_tmdb_id: `1045938`
@@ -9481,8 +9730,8 @@
   - backdrop_path: `/k32XKMjmXMGeydykD32jfER3BVI.jpg`
   - release_date: `2025-04-10`
   - runtime: `108`
-  - vote_average: `6.357`
-  - vote_count: `678`
+  - vote_average: `6.343`
+  - vote_count: `686`
   - genres: `Action`, `Mystery`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=ZL7R8qyQXrc`
   - status: `active`
@@ -9493,6 +9742,47 @@
 | 1 | G20 - ROCKY | https://oshakurfilms.com/watch/g20-rocky | Rocky | 1045938 | 1045938 | https://cybervynx.com/e/auj7vtwb8c59 | cybervynx.com | https://www.mediafire.com/file/dsiwa5j9vkqvc8l/G20_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 2 | G20 B - ROCKY | https://oshakurfilms.com/watch/g20-b-rocky | Rocky | 1045938 | 1045940 | https://cybervynx.com/e/jltg3gal3aj0 | cybervynx.com | https://www.mediafire.com/file/wqm0erue210lz3b/G20_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | G20 C - ROCKY | https://oshakurfilms.com/watch/g20-c-rocky | Rocky | 1045938 | 1045941 | https://cybervynx.com/e/oaagdnaaxdzr | cybervynx.com | https://www.mediafire.com/file/ft27fpu8qfbcvoh/G20_C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Gajapathi Garvabhanga
+
+- content_type: `movie_part`
+- upload_target_tables: `movies`
+- tmdb_match_status: `best_effort`
+- tmdb_match_notes: `Canonical title/name partially matched query.`
+- real_tmdb_id: `1592204`
+- canonical_title: `Gajapathi Garvabhanga`
+- original_title: `Gajapathi Garvabhanga`
+- normalized_title_guess: `GARV`
+- narrators_found: `Rocky`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `trailer_url`
+- poster_path: `/tU8bZ5GH1cDev9pPiSNP3lidI4s.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/tU8bZ5GH1cDev9pPiSNP3lidI4s.jpg`
+- backdrop_path: `/umhTbQaJr34Ao2eZR56gmEoqH39.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/umhTbQaJr34Ao2eZR56gmEoqH39.jpg`
+- release_date: `1989-12-04`
+- runtime: `154`
+- vote_average: `0`
+- vote_count: `0`
+- genres: `Family`, `Drama`, `Romance`, `Comedy`
+- movie_row:
+  - import_tmdb_id: `1592204`
+  - title: `Gajapathi Garvabhanga`
+  - overview: `Kishore falls in love with Sowmya, a runaway bride. However, Sowmya's father does not like Kishore and tries to separate them.`
+  - poster_path: `/tU8bZ5GH1cDev9pPiSNP3lidI4s.jpg`
+  - backdrop_path: `/umhTbQaJr34Ao2eZR56gmEoqH39.jpg`
+  - release_date: `1989-12-04`
+  - runtime: `154`
+  - vote_average: `0`
+  - vote_count: `0`
+  - genres: `Family`, `Drama`, `Romance`, `Comedy`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | GARV - ROCKY | https://oshakurfilms.com/watch/garv-rocky | Rocky | 1592204 | 1592204 | https://cybervynx.com/e/0hhbdx7t5jlb | cybervynx.com | https://www.mediafire.com/file/bvt01yne6aa25pp/Garv.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | GARV B - ROCKY | https://oshakurfilms.com/watch/garv-b-rocky | Rocky | 1592204 | 1592206 | https://cybervynx.com/e/lally2wn8jc6 | cybervynx.com | https://www.mediafire.com/file/t30hjjsu4a6tdng/Garv_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Gallowwalkers
 
@@ -9514,8 +9804,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=RaBdUGCuTi0`
 - release_date: `2012-10-27`
 - runtime: `90`
-- vote_average: `4.68`
-- vote_count: `356`
+- vote_average: `4.668`
+- vote_count: `355`
 - genres: `Action`, `Horror`, `Western`
 - movie_row:
   - import_tmdb_id: `46429`
@@ -9525,8 +9815,8 @@
   - backdrop_path: `/cBIGV9LYgJtb3xHETpgBgN7Mi3F.jpg`
   - release_date: `2012-10-27`
   - runtime: `90`
-  - vote_average: `4.68`
-  - vote_count: `356`
+  - vote_average: `4.668`
+  - vote_count: `355`
   - genres: `Action`, `Horror`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=RaBdUGCuTi0`
   - status: `active`
@@ -9654,49 +9944,6 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | GARDNER - ROCKY | https://oshakurfilms.com/watch/gardner-rocky | Rocky | 859850 | 859850 | https://cybervynx.com/e/ka4io2gx2ksr | cybervynx.com | https://www.mediafire.com/file/i5kb5k2hby90t21/The_Gardener.mp4/file | www.mediafire.com |  |
 
-## Garv: Pride and Honour
-
-- content_type: `movie_part`
-- upload_target_tables: `movies`
-- tmdb_match_status: `best_effort`
-- tmdb_match_notes: `Canonical title/name partially matched query.`
-- real_tmdb_id: `72051`
-- canonical_title: `Garv: Pride and Honour`
-- original_title: `Garv: Pride and Honour`
-- normalized_title_guess: `GARV`
-- narrators_found: `Rocky`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `none`
-- poster_path: `/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg`
-- backdrop_path: `/kz45OSX4Wn3Mn7U8rLY90yYTkOb.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/kz45OSX4Wn3Mn7U8rLY90yYTkOb.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=j5qWTLYwmxU`
-- release_date: `2004-07-09`
-- runtime: `162`
-- vote_average: `5.679`
-- vote_count: `28`
-- genres: `Action`, `Crime`, `Drama`
-- movie_row:
-  - import_tmdb_id: `72051`
-  - title: `Garv: Pride and Honour`
-  - overview: `About to retire, police inspector Samar Singh changes his mind when he discovers that a recently elected official has ties with the underworld.`
-  - poster_path: `/9lqPTKndjMWfPmBRyH8rWw7bH5I.jpg`
-  - backdrop_path: `/kz45OSX4Wn3Mn7U8rLY90yYTkOb.jpg`
-  - release_date: `2004-07-09`
-  - runtime: `162`
-  - vote_average: `5.679`
-  - vote_count: `28`
-  - genres: `Action`, `Crime`, `Drama`
-  - trailer_url: `https://www.youtube.com/watch?v=j5qWTLYwmxU`
-  - status: `active`
-  - scheduled_release: `OPTIONAL_NOT_SET`
-- movie_parts:
-| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | GARV - ROCKY | https://oshakurfilms.com/watch/garv-rocky | Rocky | 72051 | 72051 | https://cybervynx.com/e/0hhbdx7t5jlb | cybervynx.com | https://www.mediafire.com/file/bvt01yne6aa25pp/Garv.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | GARV B - ROCKY | https://oshakurfilms.com/watch/garv-b-rocky | Rocky | 72051 | 72053 | https://cybervynx.com/e/lally2wn8jc6 | cybervynx.com | https://www.mediafire.com/file/t30hjjsu4a6tdng/Garv_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
-
 ## Gemini Man
 
 - content_type: `movie`
@@ -9710,26 +9957,26 @@
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg`
-- backdrop_path: `/j1sGzyppkXO407OPFwkNVDE5Rlt.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/j1sGzyppkXO407OPFwkNVDE5Rlt.jpg`
+- poster_path: `/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg`
+- backdrop_path: `/hmv300bqfZmxvdXCtCsruDH0ycT.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/hmv300bqfZmxvdXCtCsruDH0ycT.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=6orc_lHvJKY`
 - release_date: `2019-10-02`
 - runtime: `117`
-- vote_average: `6.264`
-- vote_count: `5462`
+- vote_average: `6.262`
+- vote_count: `5485`
 - genres: `Science Fiction`, `Action`, `Adventure`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `453405`
   - title: `Gemini Man`
   - overview: `Henry Brogan is an elite 51-year-old assassin who's ready to call it quits after completing his 72nd job. His plans get turned upside down when he becomes the target of a mysterious operative who can seemingly predict his every move. To his horror, Brogan soon learns that the man who's trying to kill him is a younger, faster, cloned version of himself.`
-  - poster_path: `/cT5m5m9X6hNbUrx7kUTsedAMivW.jpg`
-  - backdrop_path: `/j1sGzyppkXO407OPFwkNVDE5Rlt.jpg`
+  - poster_path: `/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg`
+  - backdrop_path: `/hmv300bqfZmxvdXCtCsruDH0ycT.jpg`
   - release_date: `2019-10-02`
   - runtime: `117`
-  - vote_average: `6.264`
-  - vote_count: `5462`
+  - vote_average: `6.262`
+  - vote_count: `5485`
   - genres: `Science Fiction`, `Action`, `Adventure`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=6orc_lHvJKY`
   - status: `active`
@@ -9759,8 +10006,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jEccwrX6AgQ`
 - release_date: `2008-12-25`
 - runtime: `186`
-- vote_average: `7.02`
-- vote_count: `449`
+- vote_average: `7.014`
+- vote_count: `456`
 - genres: `Action`, `Romance`, `Thriller`
 - movie_row:
   - import_tmdb_id: `14070`
@@ -9770,8 +10017,8 @@
   - backdrop_path: `/lDOwQKy0PjXmp9K6mZ87vb8t31B.jpg`
   - release_date: `2008-12-25`
   - runtime: `186`
-  - vote_average: `7.02`
-  - vote_count: `449`
+  - vote_average: `7.014`
+  - vote_count: `456`
   - genres: `Action`, `Romance`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=jEccwrX6AgQ`
   - status: `active`
@@ -9802,8 +10049,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jWvUTmvaOyU`
 - release_date: `1990-07-13`
 - runtime: `127`
-- vote_average: `7.237`
-- vote_count: `6035`
+- vote_average: `7.24`
+- vote_count: `6060`
 - genres: `Fantasy`, `Romance`, `Thriller`
 - movie_row:
   - import_tmdb_id: `251`
@@ -9813,8 +10060,8 @@
   - backdrop_path: `/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg`
   - release_date: `1990-07-13`
   - runtime: `127`
-  - vote_average: `7.237`
-  - vote_count: `6035`
+  - vote_average: `7.24`
+  - vote_count: `6060`
   - genres: `Fantasy`, `Romance`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=jWvUTmvaOyU`
   - status: `active`
@@ -9837,26 +10084,26 @@
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/1pyU94dAY7npDQCKuxCSyX9KthN.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/1pyU94dAY7npDQCKuxCSyX9KthN.jpg`
+- poster_path: `/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg`
 - backdrop_path: `/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=nu6R7ypaz5g`
 - release_date: `2007-01-15`
 - runtime: `114`
-- vote_average: `5.607`
-- vote_count: `6468`
+- vote_average: `5.6`
+- vote_count: `6504`
 - genres: `Thriller`, `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `1250`
   - title: `Ghost Rider`
   - overview: `In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.`
-  - poster_path: `/1pyU94dAY7npDQCKuxCSyX9KthN.jpg`
+  - poster_path: `/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg`
   - backdrop_path: `/zbV32WKHFuEYLXLTpr0rmVjQn11.jpg`
   - release_date: `2007-01-15`
   - runtime: `114`
-  - vote_average: `5.607`
-  - vote_count: `6468`
+  - vote_average: `5.6`
+  - vote_count: `6504`
   - genres: `Thriller`, `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=nu6R7ypaz5g`
   - status: `active`
@@ -9887,7 +10134,7 @@
 - release_date: `2017-04-07`
 - runtime: `101`
 - vote_average: `7.998`
-- vote_count: `5943`
+- vote_count: `5969`
 - genres: `Drama`, `Comedy`
 - movie_row:
   - import_tmdb_id: `400928`
@@ -9898,7 +10145,7 @@
   - release_date: `2017-04-07`
   - runtime: `101`
   - vote_average: `7.998`
-  - vote_count: `5943`
+  - vote_count: `5969`
   - genres: `Drama`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=x7CAjpdRaXU`
   - status: `active`
@@ -9929,8 +10176,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=P5ieIbInFpg`
 - release_date: `2000-05-04`
 - runtime: `155`
-- vote_average: `8.227`
-- vote_count: `20919`
+- vote_average: `8.226`
+- vote_count: `21009`
 - genres: `Action`, `Drama`, `Adventure`
 - movie_row:
   - import_tmdb_id: `98`
@@ -9940,8 +10187,8 @@
   - backdrop_path: `/jhk6D8pim3yaByu1801kMoxXFaX.jpg`
   - release_date: `2000-05-04`
   - runtime: `155`
-  - vote_average: `8.227`
-  - vote_count: `20919`
+  - vote_average: `8.226`
+  - vote_count: `21009`
   - genres: `Action`, `Drama`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=P5ieIbInFpg`
   - status: `active`
@@ -9974,8 +10221,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=TQwSz88ITAE`
 - release_date: `2024-11-13`
 - runtime: `148`
-- vote_average: `6.61`
-- vote_count: `4448`
+- vote_average: `6.6`
+- vote_count: `4499`
 - genres: `Action`, `Adventure`, `Drama`
 - movie_row:
   - import_tmdb_id: `558449`
@@ -9985,8 +10232,8 @@
   - backdrop_path: `/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg`
   - release_date: `2024-11-13`
   - runtime: `148`
-  - vote_average: `6.61`
-  - vote_count: `4448`
+  - vote_average: `6.6`
+  - vote_count: `4499`
   - genres: `Action`, `Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=TQwSz88ITAE`
   - status: `active`
@@ -10053,8 +10300,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kmY-rYS7yng`
 - release_date: `2026-02-11`
 - runtime: `100`
-- vote_average: `8.122`
-- vote_count: `748`
+- vote_average: `8.113`
+- vote_count: `855`
 - genres: `Animation`, `Comedy`, `Family`
 - movie_row:
   - import_tmdb_id: `1297842`
@@ -10064,8 +10311,8 @@
   - backdrop_path: `/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg`
   - release_date: `2026-02-11`
   - runtime: `100`
-  - vote_average: `8.122`
-  - vote_count: `748`
+  - vote_average: `8.113`
+  - vote_count: `855`
   - genres: `Animation`, `Comedy`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=kmY-rYS7yng`
   - status: `active`
@@ -10091,24 +10338,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/2E2WTX0TJEflAged6kzErwqX1kt.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg`
-- backdrop_path: `/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg`
+- backdrop_path: `/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=MSp68m8OJus`
 - release_date: `2023-11-03`
 - runtime: `125`
-- vote_average: `7.571`
-- vote_count: `3185`
+- vote_average: `7.573`
+- vote_count: `3214`
 - genres: `Science Fiction`, `Horror`, `Action`
 - movie_row:
   - import_tmdb_id: `940721`
   - title: `Godzilla Minus One`
   - overview: `In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.`
   - poster_path: `/2E2WTX0TJEflAged6kzErwqX1kt.jpg`
-  - backdrop_path: `/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg`
+  - backdrop_path: `/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg`
   - release_date: `2023-11-03`
   - runtime: `125`
-  - vote_average: `7.571`
-  - vote_count: `3185`
+  - vote_average: `7.573`
+  - vote_count: `3214`
   - genres: `Science Fiction`, `Horror`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=MSp68m8OJus`
   - status: `active`
@@ -10139,8 +10386,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=m2u6RfmTXt0`
 - release_date: `2024-03-27`
 - runtime: `115`
-- vote_average: `7.048`
-- vote_count: `4684`
+- vote_average: `7.05`
+- vote_count: `4707`
 - genres: `Action`, `Adventure`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `823464`
@@ -10150,8 +10397,8 @@
   - backdrop_path: `/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg`
   - release_date: `2024-03-27`
   - runtime: `115`
-  - vote_average: `7.048`
-  - vote_count: `4684`
+  - vote_average: `7.05`
+  - vote_count: `4707`
   - genres: `Action`, `Adventure`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=m2u6RfmTXt0`
   - status: `active`
@@ -10179,24 +10426,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg`
-- backdrop_path: `/uorMP2U1F0AfogYMz4lYu2EbgYo.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/uorMP2U1F0AfogYMz4lYu2EbgYo.jpg`
+- backdrop_path: `/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=d4s9XNChIRk`
 - release_date: `2020-07-29`
 - runtime: `120`
 - vote_average: `7.129`
-- vote_count: `5319`
+- vote_count: `5364`
 - genres: `Thriller`, `Adventure`, `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `524047`
   - title: `Greenland`
   - overview: `John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garritys experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.`
   - poster_path: `/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg`
-  - backdrop_path: `/uorMP2U1F0AfogYMz4lYu2EbgYo.jpg`
+  - backdrop_path: `/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg`
   - release_date: `2020-07-29`
   - runtime: `120`
   - vote_average: `7.129`
-  - vote_count: `5319`
+  - vote_count: `5364`
   - genres: `Thriller`, `Adventure`, `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=d4s9XNChIRk`
   - status: `active`
@@ -10221,24 +10468,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg`
-- backdrop_path: `/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg`
+- backdrop_path: `/cLFbDVfhllIMybpo2fkGNzehiQG.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/cLFbDVfhllIMybpo2fkGNzehiQG.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=hiD3zk0ZRFg`
 - release_date: `2026-01-07`
 - runtime: `98`
-- vote_average: `6.433`
-- vote_count: `1167`
+- vote_average: `6.425`
+- vote_count: `1265`
 - genres: `Adventure`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `840464`
   - title: `Greenland 2: Migration`
   - overview: `Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.`
   - poster_path: `/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg`
-  - backdrop_path: `/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg`
+  - backdrop_path: `/cLFbDVfhllIMybpo2fkGNzehiQG.jpg`
   - release_date: `2026-01-07`
   - runtime: `98`
-  - vote_average: `6.433`
-  - vote_count: `1167`
+  - vote_average: `6.425`
+  - vote_count: `1265`
   - genres: `Adventure`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=hiD3zk0ZRFg`
   - status: `active`
@@ -10268,8 +10515,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YLMT5uXjFLY`
 - release_date: `2021-07-14`
 - runtime: `114`
-- vote_average: `6.276`
-- vote_count: `1153`
+- vote_average: `6.268`
+- vote_count: `1164`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `574060`
@@ -10279,8 +10526,8 @@
   - backdrop_path: `/7OxkZIH9dkDQlXhwWggyCSrXmwd.jpg`
   - release_date: `2021-07-14`
   - runtime: `114`
-  - vote_average: `6.276`
-  - vote_count: `1153`
+  - vote_average: `6.268`
+  - vote_count: `1164`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=YLMT5uXjFLY`
   - status: `active`
@@ -10309,8 +10556,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/yD3HhLdVN4beSTdZOWzjLu3mjGd.jpg`
 - release_date: `2020-02-07`
 - runtime: `118`
-- vote_average: `5.386`
-- vote_count: `22`
+- vote_average: `5.457`
+- vote_count: `23`
 - genres: `Thriller`
 - movie_row:
   - import_tmdb_id: `662231`
@@ -10320,8 +10567,8 @@
   - backdrop_path: `/yD3HhLdVN4beSTdZOWzjLu3mjGd.jpg`
   - release_date: `2020-02-07`
   - runtime: `118`
-  - vote_average: `5.386`
-  - vote_count: `22`
+  - vote_average: `5.457`
+  - vote_count: `23`
   - genres: `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -10350,8 +10597,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hL6R3HmQfPc`
 - release_date: `2021-10-14`
 - runtime: `105`
-- vote_average: `6.408`
-- vote_count: `2908`
+- vote_average: `6.404`
+- vote_count: `2925`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `610253`
@@ -10361,8 +10608,8 @@
   - backdrop_path: `/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg`
   - release_date: `2021-10-14`
   - runtime: `105`
-  - vote_average: `6.408`
-  - vote_count: `2908`
+  - vote_average: `6.404`
+  - vote_count: `2925`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=hL6R3HmQfPc`
   - status: `active`
@@ -10378,41 +10625,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `200462`
+- real_tmdb_id: `25597`
 - canonical_title: `Hansel & Gretel`
-- original_title: `Hansel & Gretel`
+- original_title: `헨젤과 그레텔`
 - normalized_title_guess: `Hansel & Gretel`
 - narrators_found: `Sankra De Premier`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/I0emCZ9h9WIJLnZqDYP5MZJgwH.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/I0emCZ9h9WIJLnZqDYP5MZJgwH.jpg`
-- backdrop_path: `/z5eyHuVIwxCIMTMx6nvRBFRJ7tc.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/z5eyHuVIwxCIMTMx6nvRBFRJ7tc.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=tRHkp93vZKM`
-- release_date: `2013-01-07`
-- runtime: `90`
-- vote_average: `4.654`
-- vote_count: `143`
-- genres: `Horror`
+- poster_path: `/iW7VspFI5yJxFZImQWZiNGuATaU.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/iW7VspFI5yJxFZImQWZiNGuATaU.jpg`
+- backdrop_path: `/57JA7htLPGeuMKPw1ioUgMCN8CN.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/57JA7htLPGeuMKPw1ioUgMCN8CN.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=nlfnhVsbyeQ`
+- release_date: `2007-12-27`
+- runtime: `117`
+- vote_average: `6.7`
+- vote_count: `187`
+- genres: `Fantasy`, `Drama`, `Horror`
 - movie_row:
-  - import_tmdb_id: `200462`
+  - import_tmdb_id: `25597`
   - title: `Hansel & Gretel`
-  - overview: `In this modern retelling of the classic horror tale, teen siblings are enslaved by a psychotic recluse within her gruesome house of horrors in the woods.`
-  - poster_path: `/I0emCZ9h9WIJLnZqDYP5MZJgwH.jpg`
-  - backdrop_path: `/z5eyHuVIwxCIMTMx6nvRBFRJ7tc.jpg`
-  - release_date: `2013-01-07`
-  - runtime: `90`
-  - vote_average: `4.654`
-  - vote_count: `143`
-  - genres: `Horror`
-  - trailer_url: `https://www.youtube.com/watch?v=tRHkp93vZKM`
+  - overview: `When Eun-soo gets lost in a country road, he meets a mysterious girl and is led to her fairytale ike house in the middle of the forest. There, Eun-soo is trapped with the girl and her siblings who never age. Eun-soo finally discovers a way out which is written on a fairy tale book. But the book tells a story of none other than himself!`
+  - poster_path: `/iW7VspFI5yJxFZImQWZiNGuATaU.jpg`
+  - backdrop_path: `/57JA7htLPGeuMKPw1ioUgMCN8CN.jpg`
+  - release_date: `2007-12-27`
+  - runtime: `117`
+  - vote_average: `6.7`
+  - vote_count: `187`
+  - genres: `Fantasy`, `Drama`, `Horror`
+  - trailer_url: `https://www.youtube.com/watch?v=nlfnhVsbyeQ`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Hansel & Gretel - SANKRA DE PREMIER | https://oshakurfilms.com/watch/hansel-gretel-sankra-de-premier | Sankra De Premier | 200462 | 200462 | https://drive.google.com/file/d/1ir3qQmvk4KznhptOiA-HjWaatcSsxcxt/preview | drive.google.com | https://www.mediafire.com/file/hnih8j97s971gqn/hans+and+gretel.ts/file | www.mediafire.com |  |
+| 1 | Hansel & Gretel - SANKRA DE PREMIER | https://oshakurfilms.com/watch/hansel-gretel-sankra-de-premier | Sankra De Premier | 25597 | 25597 | https://drive.google.com/file/d/1ir3qQmvk4KznhptOiA-HjWaatcSsxcxt/preview | drive.google.com | https://www.mediafire.com/file/hnih8j97s971gqn/hans+and+gretel.ts/file | www.mediafire.com |  |
 
 ## Hard Hit
 
@@ -10476,8 +10723,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=4wyAIdYRTPg`
 - release_date: `2012-04-20`
 - runtime: `140`
-- vote_average: `5.163`
-- vote_count: `43`
+- vote_average: `5.205`
+- vote_count: `44`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `109907`
@@ -10487,8 +10734,8 @@
   - backdrop_path: `/73xg8nIKSKp7QzHKtY12Q462HKg.jpg`
   - release_date: `2012-04-20`
   - runtime: `140`
-  - vote_average: `5.163`
-  - vote_count: `43`
+  - vote_average: `5.205`
+  - vote_count: `44`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=4wyAIdYRTPg`
   - status: `active`
@@ -10520,8 +10767,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6txjTWLoSc8`
 - release_date: `2025-04-25`
 - runtime: `107`
-- vote_average: `6.365`
-- vote_count: `1233`
+- vote_average: `6.366`
+- vote_count: `1252`
 - genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `668489`
@@ -10531,8 +10778,8 @@
   - backdrop_path: `/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg`
   - release_date: `2025-04-25`
   - runtime: `107`
-  - vote_average: `6.365`
-  - vote_count: `1233`
+  - vote_average: `6.366`
+  - vote_count: `1252`
   - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=6txjTWLoSc8`
   - status: `active`
@@ -10565,7 +10812,7 @@
 - release_date: `2011-08-26`
 - runtime: `100`
 - vote_average: `7.231`
-- vote_count: `1370`
+- vote_count: `1378`
 - genres: `Thriller`, `Crime`, `Action`
 - movie_row:
   - import_tmdb_id: `70670`
@@ -10576,7 +10823,7 @@
   - release_date: `2011-08-26`
   - runtime: `100`
   - vote_average: `7.231`
-  - vote_count: `1370`
+  - vote_count: `1378`
   - genres: `Thriller`, `Crime`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=MBjn4tdxC00`
   - status: `active`
@@ -10606,8 +10853,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=f70LlXPC7VI`
 - release_date: `2025-06-24`
 - runtime: `117`
-- vote_average: `6.814`
-- vote_count: `1049`
+- vote_average: `6.805`
+- vote_count: `1070`
 - genres: `Action`, `Thriller`, `Comedy`
 - movie_row:
   - import_tmdb_id: `749170`
@@ -10617,8 +10864,8 @@
   - backdrop_path: `/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg`
   - release_date: `2025-06-24`
   - runtime: `117`
-  - vote_average: `6.814`
-  - vote_count: `1049`
+  - vote_average: `6.805`
+  - vote_count: `1070`
   - genres: `Action`, `Thriller`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=f70LlXPC7VI`
   - status: `active`
@@ -10644,24 +10891,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg`
-- backdrop_path: `/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg`
+- backdrop_path: `/67GiqvLsOVFQf5a7545T3RhAa6N.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/67GiqvLsOVFQf5a7545T3RhAa6N.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=1cRzZcMlJh8`
 - release_date: `2025-02-06`
 - runtime: `97`
-- vote_average: `6.293`
-- vote_count: `534`
+- vote_average: `6.3`
+- vote_count: `545`
 - genres: `Horror`, `Romance`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1302916`
   - title: `Heart Eyes`
   - overview: `When the "Heart Eyes Killer" strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive couple-hunting killer. Now, they must spend the most romantic night of the year running for their lives.`
   - poster_path: `/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg`
-  - backdrop_path: `/vh5FIqfosYaLWxCmZfSPjgUWWfn.jpg`
+  - backdrop_path: `/67GiqvLsOVFQf5a7545T3RhAa6N.jpg`
   - release_date: `2025-02-06`
   - runtime: `97`
-  - vote_average: `6.293`
-  - vote_count: `534`
+  - vote_average: `6.3`
+  - vote_count: `545`
   - genres: `Horror`, `Romance`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=1cRzZcMlJh8`
   - status: `active`
@@ -10691,8 +10938,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6WgnE6J07e8`
 - release_date: `2017-12-22`
 - runtime: `131`
-- vote_average: `7.2`
-- vote_count: `28`
+- vote_average: `7.138`
+- vote_count: `29`
 - genres: `Action`, `Family`, `Romance`
 - movie_row:
   - import_tmdb_id: `494061`
@@ -10702,8 +10949,8 @@
   - backdrop_path: `/L7hqV1bbk8UFjgnu17BQ3Jkokr.jpg`
   - release_date: `2017-12-22`
   - runtime: `131`
-  - vote_average: `7.2`
-  - vote_count: `28`
+  - vote_average: `7.138`
+  - vote_count: `29`
   - genres: `Action`, `Family`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=6WgnE6J07e8`
   - status: `active`
@@ -10734,8 +10981,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3Ld05Om2UWs`
 - release_date: `2023-12-07`
 - runtime: `155`
-- vote_average: `7.836`
-- vote_count: `64`
+- vote_average: `7.856`
+- vote_count: `66`
 - genres: `Drama`, `Family`, `Romance`
 - movie_row:
   - import_tmdb_id: `1068452`
@@ -10745,8 +10992,8 @@
   - backdrop_path: `/2vxKa3gMHc84O1iHRkslqeHSsxE.jpg`
   - release_date: `2023-12-07`
   - runtime: `155`
-  - vote_average: `7.836`
-  - vote_count: `64`
+  - vote_average: `7.856`
+  - vote_count: `66`
   - genres: `Drama`, `Family`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=3Ld05Om2UWs`
   - status: `active`
@@ -10777,8 +11024,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ptAdDcpxtGo`
 - release_date: `2024-09-29`
 - runtime: `115`
-- vote_average: `6.192`
-- vote_count: `39`
+- vote_average: `6.1`
+- vote_count: `40`
 - genres: `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `949709`
@@ -10788,8 +11035,8 @@
   - backdrop_path: `/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg`
   - release_date: `2024-09-29`
   - runtime: `115`
-  - vote_average: `6.192`
-  - vote_count: `39`
+  - vote_average: `6.1`
+  - vote_count: `40`
   - genres: `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=ptAdDcpxtGo`
   - status: `active`
@@ -10820,7 +11067,7 @@
 - release_date: `2015-08-20`
 - runtime: `96`
 - vote_average: `5.902`
-- vote_count: `3294`
+- vote_count: `3308`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `249070`
@@ -10831,7 +11078,7 @@
   - release_date: `2015-08-20`
   - runtime: `96`
   - vote_average: `5.902`
-  - vote_count: `3294`
+  - vote_count: `3308`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=giNpP8VBIN8`
   - status: `active`
@@ -10861,8 +11108,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dzQXNZFwKoQ`
 - release_date: `2020-01-22`
 - runtime: `110`
-- vote_average: `7.1`
-- vote_count: `84`
+- vote_average: `7.076`
+- vote_count: `85`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `604362`
@@ -10872,8 +11119,8 @@
   - backdrop_path: `/jgj73WS5IJq8OCGNZJUBGV6mkkK.jpg`
   - release_date: `2020-01-22`
   - runtime: `110`
-  - vote_average: `7.1`
-  - vote_count: `84`
+  - vote_average: `7.076`
+  - vote_count: `85`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=dzQXNZFwKoQ`
   - status: `active`
@@ -10904,7 +11151,7 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/2PtzAyVqkQXuqXkdWyV4edrEdP0.jpg`
 - release_date: `2020-08-31`
 - runtime: `100`
-- vote_average: `5.762`
+- vote_average: `5.8`
 - vote_count: `65`
 - genres: `Drama`, `History`
 - movie_row:
@@ -10915,7 +11162,7 @@
   - backdrop_path: `/2PtzAyVqkQXuqXkdWyV4edrEdP0.jpg`
   - release_date: `2020-08-31`
   - runtime: `100`
-  - vote_average: `5.762`
+  - vote_average: `5.8`
   - vote_count: `65`
   - genres: `Drama`, `History`
   - status: `active`
@@ -10945,8 +11192,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/qoUVkstQfGZlKlKdYC0T98kNrek.jpg`
 - release_date: `2025-11-07`
 - runtime: `108`
-- vote_average: `6.9`
-- vote_count: `26`
+- vote_average: `6.852`
+- vote_count: `27`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1035047`
@@ -10956,8 +11203,8 @@
   - backdrop_path: `/qoUVkstQfGZlKlKdYC0T98kNrek.jpg`
   - release_date: `2025-11-07`
   - runtime: `108`
-  - vote_average: `6.9`
-  - vote_count: `26`
+  - vote_average: `6.852`
+  - vote_count: `27`
   - genres: `Drama`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -10987,8 +11234,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=F6szJsykTQw`
 - release_date: `2019-03-14`
 - runtime: `123`
-- vote_average: `7.536`
-- vote_count: `1751`
+- vote_average: `7.53`
+- vote_count: `1757`
 - genres: `Thriller`, `History`, `Drama`, `Action`
 - movie_row:
   - import_tmdb_id: `416144`
@@ -10998,8 +11245,8 @@
   - backdrop_path: `/aqSN0jyzGrJUqCe0OeVzSymcRbk.jpg`
   - release_date: `2019-03-14`
   - runtime: `123`
-  - vote_average: `7.536`
-  - vote_count: `1751`
+  - vote_average: `7.53`
+  - vote_count: `1757`
   - genres: `Thriller`, `History`, `Drama`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=F6szJsykTQw`
   - status: `active`
@@ -11029,8 +11276,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mnP_z3qXDCQ`
 - release_date: `2018-10-19`
 - runtime: `121`
-- vote_average: `6.911`
-- vote_count: `2406`
+- vote_average: `6.909`
+- vote_count: `2421`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `399402`
@@ -11040,8 +11287,8 @@
   - backdrop_path: `/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg`
   - release_date: `2018-10-19`
   - runtime: `121`
-  - vote_average: `6.911`
-  - vote_count: `2406`
+  - vote_average: `6.909`
+  - vote_count: `2421`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mnP_z3qXDCQ`
   - status: `active`
@@ -11071,8 +11318,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=o6e1cNeIuTQ`
 - release_date: `2025-08-22`
 - runtime: `128`
-- vote_average: `6.235`
-- vote_count: `17`
+- vote_average: `6.958`
+- vote_count: `24`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1397335`
@@ -11082,8 +11329,8 @@
   - backdrop_path: `/osIFSgqjLHOVRVHLTzpPqF02a8C.jpg`
   - release_date: `2025-08-22`
   - runtime: `128`
-  - vote_average: `6.235`
-  - vote_count: `17`
+  - vote_average: `6.958`
+  - vote_count: `24`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=o6e1cNeIuTQ`
   - status: `active`
@@ -11155,8 +11402,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=rEnCEM48QaY`
 - release_date: `1997-10-17`
 - runtime: `102`
-- vote_average: `6.004`
-- vote_count: `3265`
+- vote_average: `6`
+- vote_count: `3286`
 - genres: `Horror`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `3597`
@@ -11166,8 +11413,8 @@
   - backdrop_path: `/6wpIPoE1H7N5yCuFsfcYoGBhFlP.jpg`
   - release_date: `1997-10-17`
   - runtime: `102`
-  - vote_average: `6.004`
-  - vote_count: `3265`
+  - vote_average: `6`
+  - vote_count: `3286`
   - genres: `Horror`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=rEnCEM48QaY`
   - status: `active`
@@ -11190,26 +11437,26 @@
 - narrators_found: `Gaheza`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg`
+- poster_path: `/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg`
 - backdrop_path: `/f4QIQvecRkKD5t7aPclyIr3SEP.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/f4QIQvecRkKD5t7aPclyIr3SEP.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=oOxSvFKrHew`
 - release_date: `2010-06-17`
 - runtime: `108`
 - vote_average: `6.509`
-- vote_count: `2571`
+- vote_count: `2590`
 - genres: `Thriller`, `Crime`, `Horror`
 - movie_row:
   - import_tmdb_id: `43947`
   - title: `I Spit on Your Grave`
   - overview: `A beautiful woman from the city, Jennifer Hills, rents an isolated cabin in the country to write her latest novel. Soon, a group of local lowlifes subject her to a nightmare of degradation, rape, and violence.`
-  - poster_path: `/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg`
+  - poster_path: `/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg`
   - backdrop_path: `/f4QIQvecRkKD5t7aPclyIr3SEP.jpg`
   - release_date: `2010-06-17`
   - runtime: `108`
   - vote_average: `6.509`
-  - vote_count: `2571`
+  - vote_count: `2590`
   - genres: `Thriller`, `Crime`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=oOxSvFKrHew`
   - status: `active`
@@ -11239,8 +11486,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=E_McVHY-o2A`
 - release_date: `2013-08-25`
 - runtime: `106`
-- vote_average: `6.3`
-- vote_count: `1430`
+- vote_average: `6.289`
+- vote_count: `1438`
 - genres: `Thriller`, `Horror`, `Crime`
 - movie_row:
   - import_tmdb_id: `207768`
@@ -11250,8 +11497,8 @@
   - backdrop_path: `/rmYAHOJoA55EKP2t4WQAntPTjMY.jpg`
   - release_date: `2013-08-25`
   - runtime: `106`
-  - vote_average: `6.3`
-  - vote_count: `1430`
+  - vote_average: `6.289`
+  - vote_count: `1438`
   - genres: `Thriller`, `Horror`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=E_McVHY-o2A`
   - status: `active`
@@ -11276,24 +11523,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/cQN9rZj06rXMVkk76UF1DfBAico.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg`
-- backdrop_path: `/2nwhxEyefcIFKwOrSigiamoIzu2.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/2nwhxEyefcIFKwOrSigiamoIzu2.jpg`
+- backdrop_path: `/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=K6lJh9ADfbQ`
 - release_date: `2025-06-27`
 - runtime: `113`
-- vote_average: `6.242`
-- vote_count: `631`
+- vote_average: `6.243`
+- vote_count: `637`
 - genres: `Action`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `1119878`
   - title: `Ice Road: Vengeance`
   - overview: `Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.`
   - poster_path: `/cQN9rZj06rXMVkk76UF1DfBAico.jpg`
-  - backdrop_path: `/2nwhxEyefcIFKwOrSigiamoIzu2.jpg`
+  - backdrop_path: `/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg`
   - release_date: `2025-06-27`
   - runtime: `113`
-  - vote_average: `6.242`
-  - vote_count: `631`
+  - vote_average: `6.243`
+  - vote_count: `637`
   - genres: `Action`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=K6lJh9ADfbQ`
   - status: `active`
@@ -11323,8 +11570,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=GimoXZs1BIs`
 - release_date: `2025-10-16`
 - runtime: `99`
-- vote_average: `6.256`
-- vote_count: `180`
+- vote_average: `6.263`
+- vote_count: `186`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1242501`
@@ -11334,8 +11581,8 @@
   - backdrop_path: `/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg`
   - release_date: `2025-10-16`
   - runtime: `99`
-  - vote_average: `6.256`
-  - vote_count: `180`
+  - vote_average: `6.263`
+  - vote_count: `186`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=GimoXZs1BIs`
   - status: `active`
@@ -11351,41 +11598,83 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `24749`
+- real_tmdb_id: `105001`
 - canonical_title: `Iceman`
-- original_title: `Iceman`
+- original_title: `冰封俠：重生之門`
 - normalized_title_guess: `Iceman`
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/4HllE4JWVl3YbaWKmHXsBVkH4Sr.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/4HllE4JWVl3YbaWKmHXsBVkH4Sr.jpg`
-- backdrop_path: `/n3cFRS59vaXIE97lZKrtCc9H518.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/n3cFRS59vaXIE97lZKrtCc9H518.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=rKmSnrUqN9M`
-- release_date: `1984-04-13`
-- runtime: `100`
-- vote_average: `6.204`
-- vote_count: `142`
-- genres: `Science Fiction`
+- poster_path: `/juAYTbpP05NR8co9GhDTPwEKqde.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/juAYTbpP05NR8co9GhDTPwEKqde.jpg`
+- backdrop_path: `/e19TpV4xJ3zrKaLQtNJwieaprF.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/e19TpV4xJ3zrKaLQtNJwieaprF.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=i25EH5e5M94`
+- release_date: `2014-04-17`
+- runtime: `104`
+- vote_average: `5.548`
+- vote_count: `220`
+- genres: `Action`, `Adventure`, `Science Fiction`, `Comedy`, `Fantasy`
 - movie_row:
-  - import_tmdb_id: `24749`
+  - import_tmdb_id: `105001`
   - title: `Iceman`
-  - overview: `A  team of Arctic researchers find a 40,000 year-old man frozen in ice and bring him back to life. Anthropologist Dr. Stanley Shephard wants to befriend the Iceman and learn about the man's past while Dr. Diane Brady and her surgical team want to discover the secret that will allow man to live in a frozen state.`
-  - poster_path: `/4HllE4JWVl3YbaWKmHXsBVkH4Sr.jpg`
-  - backdrop_path: `/n3cFRS59vaXIE97lZKrtCc9H518.jpg`
-  - release_date: `1984-04-13`
-  - runtime: `100`
-  - vote_average: `6.204`
-  - vote_count: `142`
-  - genres: `Science Fiction`
-  - trailer_url: `https://www.youtube.com/watch?v=rKmSnrUqN9M`
+  - overview: `An imperial guard and his three traitorous childhood friends ordered to hunt him down get accidentally buried and kept frozen in time. 400 years later, they are defrosted continuing the battle they left behind.`
+  - poster_path: `/juAYTbpP05NR8co9GhDTPwEKqde.jpg`
+  - backdrop_path: `/e19TpV4xJ3zrKaLQtNJwieaprF.jpg`
+  - release_date: `2014-04-17`
+  - runtime: `104`
+  - vote_average: `5.548`
+  - vote_count: `220`
+  - genres: `Action`, `Adventure`, `Science Fiction`, `Comedy`, `Fantasy`
+  - trailer_url: `https://www.youtube.com/watch?v=i25EH5e5M94`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Iceman . Sankra | https://oshakurfilms.com/watch/iceman-sankra | Sankra | 24749 | 24749 | https://hgcloud.to/e/dc8yis7xr2et | hgcloud.to | https://www.mediafire.com/file/0sccqb8hrq38jue/ICEMAN__1_HD.mp4/file | www.mediafire.com |  |
+| 1 | Iceman . Sankra | https://oshakurfilms.com/watch/iceman-sankra | Sankra | 105001 | 105001 | https://hgcloud.to/e/dc8yis7xr2et | hgcloud.to | https://www.mediafire.com/file/0sccqb8hrq38jue/ICEMAN__1_HD.mp4/file | www.mediafire.com |  |
+
+## Iceman: The Time Traveler
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `needs_review`
+- tmdb_match_notes: `No strong lexical match; chose best available search result.`
+- real_tmdb_id: `490214`
+- canonical_title: `Iceman: The Time Traveler`
+- original_title: `冰封侠：时空行者`
+- normalized_title_guess: `Iceman: The Time Traveller`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/zknyyIN6mBXCmFKTkxMQkRGGfGT.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/zknyyIN6mBXCmFKTkxMQkRGGfGT.jpg`
+- backdrop_path: `/uvB2fJixr2VcKGzd0N1uoWiNLg2.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/uvB2fJixr2VcKGzd0N1uoWiNLg2.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=aPv3yt2fsSc`
+- release_date: `2018-11-02`
+- runtime: `95`
+- vote_average: `6.5`
+- vote_count: `106`
+- genres: `Action`, `Comedy`, `History`
+- movie_row:
+  - import_tmdb_id: `490214`
+  - title: `Iceman: The Time Traveler`
+  - overview: `The imperial guard and his three traitorous childhood friends ordered to hunt him down get accidentally buried and kept frozen in time. 400 years later pass and they are defrosted continuing the battle they left behind.`
+  - poster_path: `/zknyyIN6mBXCmFKTkxMQkRGGfGT.jpg`
+  - backdrop_path: `/uvB2fJixr2VcKGzd0N1uoWiNLg2.jpg`
+  - release_date: `2018-11-02`
+  - runtime: `95`
+  - vote_average: `6.5`
+  - vote_count: `106`
+  - genres: `Action`, `Comedy`, `History`
+  - trailer_url: `https://www.youtube.com/watch?v=aPv3yt2fsSc`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Iceman: The Time Traveller | https://oshakurfilms.com/watch/iceman-the-time-traveller | UNSPECIFIED | 490214 | 490214 | https://hgcloud.to/e/cczp98n98cfr | hgcloud.to | https://www.mediafire.com/file/7tvnhmthm4bxim7/Iceman-+The+Time+Traveler+Hd.mp4/file | www.mediafire.com |  |
 
 ## iHostage
 
@@ -11407,8 +11696,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Dhg-3ME2L6M`
 - release_date: `2025-04-18`
 - runtime: `100`
-- vote_average: `5.908`
-- vote_count: `314`
+- vote_average: `5.922`
+- vote_count: `319`
 - genres: `Thriller`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `1371202`
@@ -11418,8 +11707,8 @@
   - backdrop_path: `/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg`
   - release_date: `2025-04-18`
   - runtime: `100`
-  - vote_average: `5.908`
-  - vote_count: `314`
+  - vote_average: `5.922`
+  - vote_count: `319`
   - genres: `Thriller`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=Dhg-3ME2L6M`
   - status: `active`
@@ -11490,8 +11779,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DamjF9XmtlY`
 - release_date: `2014-04-04`
 - runtime: `108`
-- vote_average: `5.803`
-- vote_count: `382`
+- vote_average: `5.795`
+- vote_count: `385`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `256474`
@@ -11501,8 +11790,8 @@
   - backdrop_path: `/izpmkHFwrzPtQRLkxXV0qzVZfvK.jpg`
   - release_date: `2014-04-04`
   - runtime: `108`
-  - vote_average: `5.803`
-  - vote_count: `382`
+  - vote_average: `5.795`
+  - vote_count: `385`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=DamjF9XmtlY`
   - status: `active`
@@ -11532,8 +11821,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7afc9gTbVFI`
 - release_date: `2019-09-20`
 - runtime: `101`
-- vote_average: `5.547`
-- vote_count: `2403`
+- vote_average: `5.549`
+- vote_count: `2410`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `523139`
@@ -11543,8 +11832,8 @@
   - backdrop_path: `/qk8pKinGFWEDZ02NVKuUsBuWuGx.jpg`
   - release_date: `2019-09-20`
   - runtime: `101`
-  - vote_average: `5.547`
-  - vote_count: `2403`
+  - vote_average: `5.549`
+  - vote_count: `2410`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=7afc9gTbVFI`
   - status: `active`
@@ -11575,7 +11864,7 @@
 - release_date: `2011-10-27`
 - runtime: `109`
 - vote_average: `6.971`
-- vote_count: `12167`
+- vote_count: `12202`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `49530`
@@ -11586,7 +11875,7 @@
   - release_date: `2011-10-27`
   - runtime: `109`
   - vote_average: `6.971`
-  - vote_count: `12167`
+  - vote_count: `12202`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=xhYUaR5QiUs`
   - status: `active`
@@ -11596,48 +11885,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | In Time - ROCKY | https://oshakurfilms.com/watch/in-time-rocky | Rocky | 49530 | 49530 | https://playerwish.com/e/cknrm0nmu9xu | playerwish.com | https://www.mediafire.com/file/yofkap8tmdroyf8/In_Time.mp4/file | www.mediafire.com |  |
 
-## Indiana Jones and the Last Crusade
+## Indiana Jones and the Kingdom of the Crystal Skull
 
 - content_type: `movie_part`
 - upload_target_tables: `movies`
 - tmdb_match_status: `best_effort`
 - tmdb_match_notes: `Canonical title/name partially matched query.`
-- real_tmdb_id: `89`
-- canonical_title: `Indiana Jones and the Last Crusade`
-- original_title: `Indiana Jones and the Last Crusade`
+- real_tmdb_id: `217`
+- canonical_title: `Indiana Jones and the Kingdom of the Crystal Skull`
+- original_title: `Indiana Jones and the Kingdom of the Crystal Skull`
 - normalized_title_guess: `Indiana Jones`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg`
-- backdrop_path: `/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=DKg36LBVgfg`
-- release_date: `1989-05-24`
-- runtime: `127`
-- vote_average: `7.852`
-- vote_count: `11070`
+- poster_path: `/56As6XEM1flWvprX4LgkPl8ii4K.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg`
+- backdrop_path: `/p96949hcwUG2BwE6MgKmw0uYNCx.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/p96949hcwUG2BwE6MgKmw0uYNCx.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=kTJy1rFBtVw`
+- release_date: `2008-05-21`
+- runtime: `122`
+- vote_average: `6.026`
+- vote_count: `9057`
 - genres: `Adventure`, `Action`
 - movie_row:
-  - import_tmdb_id: `89`
-  - title: `Indiana Jones and the Last Crusade`
-  - overview: `In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!`
-  - poster_path: `/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg`
-  - backdrop_path: `/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg`
-  - release_date: `1989-05-24`
-  - runtime: `127`
-  - vote_average: `7.852`
-  - vote_count: `11070`
+  - import_tmdb_id: `217`
+  - title: `Indiana Jones and the Kingdom of the Crystal Skull`
+  - overview: `Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.`
+  - poster_path: `/56As6XEM1flWvprX4LgkPl8ii4K.jpg`
+  - backdrop_path: `/p96949hcwUG2BwE6MgKmw0uYNCx.jpg`
+  - release_date: `2008-05-21`
+  - runtime: `122`
+  - vote_average: `6.026`
+  - vote_count: `9057`
   - genres: `Adventure`, `Action`
-  - trailer_url: `https://www.youtube.com/watch?v=DKg36LBVgfg`
+  - trailer_url: `https://www.youtube.com/watch?v=kTJy1rFBtVw`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Indiana Jones . Rocky | https://oshakurfilms.com/watch/indiana-jones-rocky | Rocky | 89 | 89 | https://hglink.to/e/29qbbgsj3wnv | hglink.to | https://www.mediafire.com/file/naso493aevnet3z/INDIANA_JONES_AND_DIAL_OF_DESTINY_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Indiana Jones B . Rocky | https://oshakurfilms.com/watch/indiana-jones-b-rocky | Rocky | 89 | 91 | https://hglink.to/e/1k8whoi37ivi | hglink.to | https://www.mediafire.com/file/wopu8ub7ztkvy14/INDIANA_JONES_AND_DIAL_OF_DESTINY_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | Indiana Jones . Rocky | https://oshakurfilms.com/watch/indiana-jones-rocky | Rocky | 217 | 217 | https://hglink.to/e/29qbbgsj3wnv | hglink.to | https://www.mediafire.com/file/naso493aevnet3z/INDIANA_JONES_AND_DIAL_OF_DESTINY_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Indiana Jones B . Rocky | https://oshakurfilms.com/watch/indiana-jones-b-rocky | Rocky | 217 | 219 | https://hglink.to/e/1k8whoi37ivi | hglink.to | https://www.mediafire.com/file/wopu8ub7ztkvy14/INDIANA_JONES_AND_DIAL_OF_DESTINY_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Infinite
 
@@ -11659,8 +11948,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=a3RDnD9YVxA`
 - release_date: `2021-09-09`
 - runtime: `106`
-- vote_average: `6.563`
-- vote_count: `2145`
+- vote_average: `6.561`
+- vote_count: `2156`
 - genres: `Science Fiction`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `581726`
@@ -11670,8 +11959,8 @@
   - backdrop_path: `/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg`
   - release_date: `2021-09-09`
   - runtime: `106`
-  - vote_average: `6.563`
-  - vote_count: `2145`
+  - vote_average: `6.561`
+  - vote_count: `2156`
   - genres: `Science Fiction`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=a3RDnD9YVxA`
   - status: `active`
@@ -11702,8 +11991,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZeNzcSHfF2w`
 - release_date: `2019-08-16`
 - runtime: `121`
-- vote_average: `6.086`
-- vote_count: `550`
+- vote_average: `6.088`
+- vote_count: `553`
 - genres: `Action`, `Adventure`, `Family`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `428045`
@@ -11713,8 +12002,8 @@
   - backdrop_path: `/7m8zy0eJ0d0JmEyOkC2fSx1KbYU.jpg`
   - release_date: `2019-08-16`
   - runtime: `121`
-  - vote_average: `6.086`
-  - vote_count: `550`
+  - vote_average: `6.088`
+  - vote_count: `553`
   - genres: `Action`, `Adventure`, `Family`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=ZeNzcSHfF2w`
   - status: `active`
@@ -11744,8 +12033,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=e-Kiyjp6QEk`
 - release_date: `2025-04-17`
 - runtime: `102`
-- vote_average: `6.708`
-- vote_count: `224`
+- vote_average: `6.7`
+- vote_count: `231`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `1145221`
@@ -11755,8 +12044,8 @@
   - backdrop_path: `/vyJxZSLdgCmUEZlc6OhyJUDqTjA.jpg`
   - release_date: `2025-04-17`
   - runtime: `102`
-  - vote_average: `6.708`
-  - vote_count: `224`
+  - vote_average: `6.7`
+  - vote_count: `231`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=e-Kiyjp6QEk`
   - status: `active`
@@ -11868,8 +12157,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kAbxn_F8lps`
 - release_date: `2012-12-20`
 - runtime: `130`
-- vote_average: `6.662`
-- vote_count: `7633`
+- vote_average: `6.669`
+- vote_count: `7678`
 - genres: `Crime`, `Drama`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `75780`
@@ -11879,8 +12168,8 @@
   - backdrop_path: `/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg`
   - release_date: `2012-12-20`
   - runtime: `130`
-  - vote_average: `6.662`
-  - vote_count: `7633`
+  - vote_average: `6.669`
+  - vote_count: `7678`
   - genres: `Crime`, `Drama`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=kAbxn_F8lps`
   - status: `active`
@@ -11911,8 +12200,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DTBcGQWmQ1c`
 - release_date: `2016-10-19`
 - runtime: `118`
-- vote_average: `6.014`
-- vote_count: `5341`
+- vote_average: `6.025`
+- vote_count: `5374`
 - genres: `Action`, `Thriller`, `Drama`, `Crime`
 - movie_row:
   - import_tmdb_id: `343611`
@@ -11922,8 +12211,8 @@
   - backdrop_path: `/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg`
   - release_date: `2016-10-19`
   - runtime: `118`
-  - vote_average: `6.014`
-  - vote_count: `5341`
+  - vote_average: `6.025`
+  - vote_count: `5374`
   - genres: `Action`, `Thriller`, `Drama`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=DTBcGQWmQ1c`
   - status: `active`
@@ -11953,8 +12242,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=xpkcEIsgGmU`
 - release_date: `2013-02-27`
 - runtime: `114`
-- vote_average: `5.889`
-- vote_count: `5237`
+- vote_average: `5.893`
+- vote_count: `5262`
 - genres: `Fantasy`, `Action`, `Adventure`, `Drama`
 - movie_row:
   - import_tmdb_id: `81005`
@@ -11964,8 +12253,8 @@
   - backdrop_path: `/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg`
   - release_date: `2013-02-27`
   - runtime: `114`
-  - vote_average: `5.889`
-  - vote_count: `5237`
+  - vote_average: `5.893`
+  - vote_count: `5262`
   - genres: `Fantasy`, `Action`, `Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=xpkcEIsgGmU`
   - status: `active`
@@ -11995,8 +12284,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=UHLNId3k-dQ`
 - release_date: `1995-10-13`
 - runtime: `95`
-- vote_average: `5.509`
-- vote_count: `291`
+- vote_average: `5.534`
+- vote_count: `294`
 - genres: `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `11863`
@@ -12006,8 +12295,8 @@
   - backdrop_path: `/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg`
   - release_date: `1995-10-13`
   - runtime: `95`
-  - vote_average: `5.509`
-  - vote_count: `291`
+  - vote_average: `5.534`
+  - vote_count: `294`
   - genres: `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=UHLNId3k-dQ`
   - status: `active`
@@ -12069,26 +12358,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/mGiw8zAmHQwKBXDG1n7mQpT5kK1.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/mGiw8zAmHQwKBXDG1n7mQpT5kK1.jpg`
+- poster_path: `/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg`
 - backdrop_path: `/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=MWOlnZSnXJo`
 - release_date: `2023-09-07`
 - runtime: `169`
-- vote_average: `7.076`
-- vote_count: `327`
+- vote_average: `7.045`
+- vote_count: `333`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `872906`
   - title: `Jawan`
   - overview: `An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.`
-  - poster_path: `/mGiw8zAmHQwKBXDG1n7mQpT5kK1.jpg`
+  - poster_path: `/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg`
   - backdrop_path: `/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg`
   - release_date: `2023-09-07`
   - runtime: `169`
-  - vote_average: `7.076`
-  - vote_count: `327`
+  - vote_average: `7.045`
+  - vote_count: `333`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=MWOlnZSnXJo`
   - status: `active`
@@ -12120,8 +12409,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=vPP6aIw1vgY`
 - release_date: `2017-10-25`
 - runtime: `91`
-- vote_average: `6.216`
-- vote_count: `3964`
+- vote_average: `6.217`
+- vote_count: `3981`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `298250`
@@ -12131,8 +12420,8 @@
   - backdrop_path: `/ucLGZ3zBRFDhdlRNhvXdkjXkNyd.jpg`
   - release_date: `2017-10-25`
   - runtime: `91`
-  - vote_average: `6.216`
-  - vote_count: `3964`
+  - vote_average: `6.217`
+  - vote_count: `3981`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=vPP6aIw1vgY`
   - status: `active`
@@ -12161,8 +12450,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/klfvvrwNPfLXBQj0SQCJYOGpWTB.jpg`
 - release_date: `2012-08-03`
 - runtime: `132`
-- vote_average: `4.13`
-- vote_count: `27`
+- vote_average: `4.125`
+- vote_count: `28`
 - genres: `Thriller`
 - movie_row:
   - import_tmdb_id: `124093`
@@ -12172,8 +12461,8 @@
   - backdrop_path: `/klfvvrwNPfLXBQj0SQCJYOGpWTB.jpg`
   - release_date: `2012-08-03`
   - runtime: `132`
-  - vote_average: `4.13`
-  - vote_count: `27`
+  - vote_average: `4.125`
+  - vote_count: `28`
   - genres: `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -12202,8 +12491,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=-29JK-UA4E0`
 - release_date: `2002-02-15`
 - runtime: `116`
-- vote_average: `7.131`
-- vote_count: `2625`
+- vote_average: `7.134`
+- vote_count: `2639`
 - genres: `Drama`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `8470`
@@ -12213,8 +12502,8 @@
   - backdrop_path: `/sBB39VMtByFltGGGW2c5N6LOAvj.jpg`
   - release_date: `2002-02-15`
   - runtime: `116`
-  - vote_average: `7.131`
-  - vote_count: `2625`
+  - vote_average: `7.134`
+  - vote_count: `2639`
   - genres: `Drama`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=-29JK-UA4E0`
   - status: `active`
@@ -12244,8 +12533,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6r0s41Ju5XA`
 - release_date: `2014-10-16`
 - runtime: `101`
-- vote_average: `7.457`
-- vote_count: `20859`
+- vote_average: `7.458`
+- vote_count: `20937`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `245891`
@@ -12255,8 +12544,8 @@
   - backdrop_path: `/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg`
   - release_date: `2014-10-16`
   - runtime: `101`
-  - vote_average: `7.457`
-  - vote_count: `20859`
+  - vote_average: `7.458`
+  - vote_count: `20937`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=6r0s41Ju5XA`
   - status: `active`
@@ -12286,8 +12575,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LZrX9mffH8Y`
 - release_date: `2017-02-08`
 - runtime: `122`
-- vote_average: `7.338`
-- vote_count: `14263`
+- vote_average: `7.341`
+- vote_count: `14330`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `324552`
@@ -12297,8 +12586,8 @@
   - backdrop_path: `/r17jFHAemzcWPPtoO0UxjIX0xas.jpg`
   - release_date: `2017-02-08`
   - runtime: `122`
-  - vote_average: `7.338`
-  - vote_count: `14263`
+  - vote_average: `7.341`
+  - vote_count: `14330`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=LZrX9mffH8Y`
   - status: `active`
@@ -12328,8 +12617,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=pU8-7BX9uxs`
 - release_date: `2019-05-15`
 - runtime: `131`
-- vote_average: `7.438`
-- vote_count: `11739`
+- vote_average: `7.44`
+- vote_count: `11804`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `458156`
@@ -12339,8 +12628,8 @@
   - backdrop_path: `/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg`
   - release_date: `2019-05-15`
   - runtime: `131`
-  - vote_average: `7.438`
-  - vote_count: `11739`
+  - vote_average: `7.44`
+  - vote_count: `11804`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=pU8-7BX9uxs`
   - status: `active`
@@ -12370,8 +12659,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=yjRHZEUamCc`
 - release_date: `2023-03-21`
 - runtime: `170`
-- vote_average: `7.7`
-- vote_count: `7942`
+- vote_average: `7.709`
+- vote_count: `8010`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `603692`
@@ -12381,8 +12670,8 @@
   - backdrop_path: `/7I6VUdPj6tQECNHdviJkUHD2u89.jpg`
   - release_date: `2023-03-21`
   - runtime: `170`
-  - vote_average: `7.7`
-  - vote_count: `7942`
+  - vote_average: `7.709`
+  - vote_count: `8010`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=yjRHZEUamCc`
   - status: `active`
@@ -12413,8 +12702,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3BSSoD73TSk`
 - release_date: `2021-07-15`
 - runtime: `91`
-- vote_average: `6.5`
-- vote_count: `1395`
+- vote_average: `6.501`
+- vote_count: `1400`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `617502`
@@ -12424,8 +12713,8 @@
   - backdrop_path: `/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg`
   - release_date: `2021-07-15`
   - runtime: `91`
-  - vote_average: `6.5`
-  - vote_count: `1395`
+  - vote_average: `6.501`
+  - vote_count: `1400`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=3BSSoD73TSk`
   - status: `active`
@@ -12455,8 +12744,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2ZhB-YO5Tnk`
 - release_date: `2025-06-23`
 - runtime: `134`
-- vote_average: `6.269`
-- vote_count: `3391`
+- vote_average: `6.273`
+- vote_count: `3464`
 - genres: `Science Fiction`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `1234821`
@@ -12466,8 +12755,8 @@
   - backdrop_path: `/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg`
   - release_date: `2025-06-23`
   - runtime: `134`
-  - vote_average: `6.269`
-  - vote_count: `3391`
+  - vote_average: `6.273`
+  - vote_count: `3464`
   - genres: `Science Fiction`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=2ZhB-YO5Tnk`
   - status: `active`
@@ -12497,8 +12786,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=WYi4GTSoVqA`
 - release_date: `2017-01-25`
 - runtime: `139`
-- vote_average: `6.908`
-- vote_count: `147`
+- vote_average: `6.902`
+- vote_count: `148`
 - genres: `Action`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `403867`
@@ -12508,8 +12797,8 @@
   - backdrop_path: `/zqRGIqDKoNZfj0XvkuX7hNJWq7D.jpg`
   - release_date: `2017-01-25`
   - runtime: `139`
-  - vote_average: `6.908`
-  - vote_count: `147`
+  - vote_average: `6.902`
+  - vote_count: `148`
   - genres: `Action`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=WYi4GTSoVqA`
   - status: `active`
@@ -12539,8 +12828,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dXsEIW_Jc2A`
 - release_date: `2006-08-11`
 - runtime: `193`
-- vote_average: `6.437`
-- vote_count: `231`
+- vote_average: `6.43`
+- vote_count: `235`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `14395`
@@ -12550,8 +12839,8 @@
   - backdrop_path: `/qRbAsojp77pkKYatbFGG7oIOa0P.jpg`
   - release_date: `2006-08-11`
   - runtime: `193`
-  - vote_average: `6.437`
-  - vote_count: `231`
+  - vote_average: `6.43`
+  - vote_count: `235`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=dXsEIW_Jc2A`
   - status: `active`
@@ -12624,8 +12913,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=WHs6z9RPGtA`
 - release_date: `2023-05-25`
 - runtime: `119`
-- vote_average: `6.778`
-- vote_count: `1248`
+- vote_average: `6.783`
+- vote_count: `1260`
 - genres: `Action`, `Thriller`, `War`
 - movie_row:
   - import_tmdb_id: `717930`
@@ -12635,8 +12924,8 @@
   - backdrop_path: `/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg`
   - release_date: `2023-05-25`
   - runtime: `119`
-  - vote_average: `6.778`
-  - vote_count: `1248`
+  - vote_average: `6.783`
+  - vote_count: `1260`
   - genres: `Action`, `Thriller`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=WHs6z9RPGtA`
   - status: `active`
@@ -12667,8 +12956,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LhRXf-yEQqA`
 - release_date: `2025-05-08`
 - runtime: `94`
-- vote_average: `6.998`
-- vote_count: `1198`
+- vote_average: `7`
+- vote_count: `1224`
 - genres: `Action`, `Adventure`, `Drama`
 - movie_row:
   - import_tmdb_id: `1011477`
@@ -12678,8 +12967,8 @@
   - backdrop_path: `/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg`
   - release_date: `2025-05-08`
   - runtime: `94`
-  - vote_average: `6.998`
-  - vote_count: `1198`
+  - vote_average: `7`
+  - vote_count: `1224`
   - genres: `Action`, `Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=LhRXf-yEQqA`
   - status: `active`
@@ -12688,6 +12977,48 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Karate Kid 2 The Legend . ROCKY Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/karate-kid-2-the-legend-rocky-agasobanuye-mu-kinyarwanda | Rocky | 1011477 | 1011477 | https://hailindihg.com/e/dmtwmc1v9ynz | hailindihg.com | https://www.mediafire.com/file/cblvp6vi9sdpf2t/KARATE+KID+LEGENDS+A.mp4/file | www.mediafire.com |  |
+
+## KD – The Devil
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1103473`
+- canonical_title: `KD – The Devil`
+- original_title: `ಕೆಡಿ - ದಿ ಡೆವಿಲ್`
+- normalized_title_guess: `KD: The Devil`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg`
+- backdrop_path: `/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=yQLKrS5N4KU`
+- release_date: `2026-04-30`
+- runtime: `141`
+- vote_average: `7.5`
+- vote_count: `2`
+- genres: `History`, `Crime`, `Action`, `Fantasy`
+- movie_row:
+  - import_tmdb_id: `1103473`
+  - title: `KD – The Devil`
+  - overview: `In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.`
+  - poster_path: `/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg`
+  - backdrop_path: `/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg`
+  - release_date: `2026-04-30`
+  - runtime: `141`
+  - vote_average: `7.5`
+  - vote_count: `2`
+  - genres: `History`, `Crime`, `Action`, `Fantasy`
+  - trailer_url: `https://www.youtube.com/watch?v=yQLKrS5N4KU`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | KD: The Devil | https://oshakurfilms.com/watch/kd-the-devil | UNSPECIFIED | 1103473 | 1103473 | https://hgcloud.to/e/9d6mue8szgrq | hgcloud.to | https://www.mediafire.com/file/lsfjhxsb25kw3iq/Kd+The+Devil+A+2026+Perfect.mp4/file | www.mediafire.com |  |
 
 ## Kesari
 
@@ -12709,8 +13040,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=JFP24D15_XM`
 - release_date: `2019-03-21`
 - runtime: `151`
-- vote_average: `7.085`
-- vote_count: `123`
+- vote_average: `7.115`
+- vote_count: `126`
 - genres: `Action`, `Drama`, `History`, `War`
 - movie_row:
   - import_tmdb_id: `498448`
@@ -12720,8 +13051,8 @@
   - backdrop_path: `/notcxmT6RN93g43BnRI8GvRktZ.jpg`
   - release_date: `2019-03-21`
   - runtime: `151`
-  - vote_average: `7.085`
-  - vote_count: `123`
+  - vote_average: `7.115`
+  - vote_count: `126`
   - genres: `Action`, `Drama`, `History`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=JFP24D15_XM`
   - status: `active`
@@ -12752,8 +13083,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=da7lKeeS67c`
 - release_date: `2024-07-03`
 - runtime: `105`
-- vote_average: `7.111`
-- vote_count: `495`
+- vote_average: `7.122`
+- vote_count: `503`
 - genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `1160018`
@@ -12763,8 +13094,8 @@
   - backdrop_path: `/u060S4drIWntmLeMDGe7mD0V6Jh.jpg`
   - release_date: `2024-07-03`
   - runtime: `105`
-  - vote_average: `7.111`
-  - vote_count: `495`
+  - vote_average: `7.122`
+  - vote_count: `503`
   - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=da7lKeeS67c`
   - status: `active`
@@ -12794,8 +13125,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6w2vM69JxpM`
 - release_date: `2023-02-18`
 - runtime: `137`
-- vote_average: `6.882`
-- vote_count: `542`
+- vote_average: `6.878`
+- vote_count: `543`
 - genres: `Action`, `Drama`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `849869`
@@ -12805,8 +13136,8 @@
   - backdrop_path: `/mGwzJbtX6zU0SdtxeHn1sNNK8JW.jpg`
   - release_date: `2023-02-18`
   - runtime: `137`
-  - vote_average: `6.882`
-  - vote_count: `542`
+  - vote_average: `6.878`
+  - vote_count: `543`
   - genres: `Action`, `Drama`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=6w2vM69JxpM`
   - status: `active`
@@ -12873,24 +13204,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/WiAEiqelck0NGWplhL5JQR12eg.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/WiAEiqelck0NGWplhL5JQR12eg.jpg`
-- backdrop_path: `/994i0ocQkO6X10vQPA4ptueEFlh.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/994i0ocQkO6X10vQPA4ptueEFlh.jpg`
+- backdrop_path: `/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=ADGSIaE6nzE`
 - release_date: `2024-09-25`
 - runtime: `97`
-- vote_average: `5.794`
-- vote_count: `321`
+- vote_average: `5.8`
+- vote_count: `326`
 - genres: `Crime`, `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `1108566`
   - title: `Killer Heat`
   - overview: `An expat PI is hired to investigate a suspicious death in Crete, Greece, where jealousies run deep amongst the victim's powerful family.`
   - poster_path: `/WiAEiqelck0NGWplhL5JQR12eg.jpg`
-  - backdrop_path: `/994i0ocQkO6X10vQPA4ptueEFlh.jpg`
+  - backdrop_path: `/6IsycwFwgZ0M1MIjXNkW9j45jcY.jpg`
   - release_date: `2024-09-25`
   - runtime: `97`
-  - vote_average: `5.794`
-  - vote_count: `321`
+  - vote_average: `5.8`
+  - vote_count: `326`
   - genres: `Crime`, `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=ADGSIaE6nzE`
   - status: `active`
@@ -12920,8 +13251,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=0--GfkfHlWA`
 - release_date: `2002-05-10`
 - runtime: `100`
-- vote_average: `5.622`
-- vote_count: `370`
+- vote_average: `5.618`
+- vote_count: `372`
 - genres: `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `14365`
@@ -12931,8 +13262,8 @@
   - backdrop_path: `/jcFJzhUp3seSyBJbYvwmf8VATBK.jpg`
   - release_date: `2002-05-10`
   - runtime: `100`
-  - vote_average: `5.622`
-  - vote_count: `370`
+  - vote_average: `5.618`
+  - vote_count: `372`
   - genres: `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=0--GfkfHlWA`
   - status: `active`
@@ -12962,8 +13293,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=T4gV5yDqFqc`
 - release_date: `1990-12-21`
 - runtime: `111`
-- vote_average: `6.123`
-- vote_count: `2795`
+- vote_average: `6.127`
+- vote_count: `2816`
 - genres: `Comedy`
 - movie_row:
   - import_tmdb_id: `951`
@@ -12973,8 +13304,8 @@
   - backdrop_path: `/qWP5TlH1448Pt9ayyuLZJY0NXWj.jpg`
   - release_date: `1990-12-21`
   - runtime: `111`
-  - vote_average: `6.123`
-  - vote_count: `2795`
+  - vote_average: `6.127`
+  - vote_count: `2816`
   - genres: `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=T4gV5yDqFqc`
   - status: `active`
@@ -13005,7 +13336,7 @@
 - release_date: `2024-05-08`
 - runtime: `145`
 - vote_average: `7.054`
-- vote_count: `4258`
+- vote_count: `4290`
 - genres: `Science Fiction`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `653346`
@@ -13016,7 +13347,7 @@
   - release_date: `2024-05-08`
   - runtime: `145`
   - vote_average: `7.054`
-  - vote_count: `4258`
+  - vote_count: `4290`
   - genres: `Science Fiction`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=Tg1FesR8X90`
   - status: `active`
@@ -13055,6 +13386,46 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Kirikou Part 1 | https://oshakurfilms.com/watch/kirikou-part-1 | UNSPECIFIED | 1677617 | 1677617 | https://hgcloud.to/e/jj1qd519l9ft | hgcloud.to | https://www.mediafire.com/file/c93mnvcgsemjvz4/Kiriku_Et_La_Sorciere%25282%2529.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 
+## Kirikou and the Wild Beasts
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `13679`
+- canonical_title: `Kirikou and the Wild Beasts`
+- original_title: `Kirikou et les bêtes sauvages`
+- normalized_title_guess: `Kirikou and the Wild Beasts`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `trailer_url`
+- poster_path: `/yPWBxCxwMbwdvwcXagHNOPWrCig.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/yPWBxCxwMbwdvwcXagHNOPWrCig.jpg`
+- backdrop_path: `/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg`
+- release_date: `2005-12-07`
+- runtime: `75`
+- vote_average: `6.596`
+- vote_count: `344`
+- genres: `Adventure`, `Animation`, `Family`, `Fantasy`
+- movie_row:
+  - import_tmdb_id: `13679`
+  - title: `Kirikou and the Wild Beasts`
+  - overview: `Kirikou's grandfather thinks that the story of Kirikou and The Witch was too short, so he proceeds to explain more about Kirikou's accomplishments. We find out how the little boy became a gardener, a detective, a maker of pottery, a merchant, a traveler and a doctor.`
+  - poster_path: `/yPWBxCxwMbwdvwcXagHNOPWrCig.jpg`
+  - backdrop_path: `/ggDcngtIQVXMQAsK0ucYbmi59Bv.jpg`
+  - release_date: `2005-12-07`
+  - runtime: `75`
+  - vote_average: `6.596`
+  - vote_count: `344`
+  - genres: `Adventure`, `Animation`, `Family`, `Fantasy`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Kirikou and the Wild Beasts | https://oshakurfilms.com/watch/kirikou-and-the-wild-beasts | UNSPECIFIED | 13679 | 13679 | https://hgcloud.to/e/976pvwqqi0cn | hgcloud.to | https://www.mediafire.com/file/kzd46ahrai0deau/Kirikou+And+Beasto.mp4/file | www.mediafire.com |  |
+
 ## Knight and Day
 
 - content_type: `movie`
@@ -13068,26 +13439,26 @@
 - narrators_found: `Savimbi`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg`
+- poster_path: `/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg`
 - backdrop_path: `/k5mNW8qutywD3GhAuaq33qcQR2y.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/k5mNW8qutywD3GhAuaq33qcQR2y.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=VDoNfrBlY3o`
 - release_date: `2010-06-15`
 - runtime: `109`
-- vote_average: `6.234`
-- vote_count: `4896`
+- vote_average: `6.23`
+- vote_count: `4923`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `37834`
   - title: `Knight and Day`
   - overview: `A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.`
-  - poster_path: `/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg`
+  - poster_path: `/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg`
   - backdrop_path: `/k5mNW8qutywD3GhAuaq33qcQR2y.jpg`
   - release_date: `2010-06-15`
   - runtime: `109`
-  - vote_average: `6.234`
-  - vote_count: `4896`
+  - vote_average: `6.23`
+  - vote_count: `4923`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=VDoNfrBlY3o`
   - status: `active`
@@ -13117,8 +13488,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=1vGZWY5MFY0`
 - release_date: `2015-06-26`
 - runtime: `99`
-- vote_average: `5.389`
-- vote_count: `3487`
+- vote_average: `5.393`
+- vote_count: `3506`
 - genres: `Horror`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `263472`
@@ -13128,8 +13499,8 @@
   - backdrop_path: `/9DclZBBDxMrbcqNS81Pjz8opZTW.jpg`
   - release_date: `2015-06-26`
   - runtime: `99`
-  - vote_average: `5.389`
-  - vote_count: `3487`
+  - vote_average: `5.393`
+  - vote_count: `3506`
   - genres: `Horror`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=1vGZWY5MFY0`
   - status: `active`
@@ -13154,24 +13525,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg`
-- backdrop_path: `/s6h8MemlWFshLmPfd08syBpaTTK.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/s6h8MemlWFshLmPfd08syBpaTTK.jpg`
+- backdrop_path: `/oZqounvawm4hDxpDGDHLmVBGJBr.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/oZqounvawm4hDxpDGDHLmVBGJBr.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=A2oDiEVXuDo`
 - release_date: `2009-03-19`
 - runtime: `121`
-- vote_average: `6.259`
-- vote_count: `5820`
+- vote_average: `6.265`
+- vote_count: `5858`
 - genres: `Action`, `Mystery`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `13811`
   - title: `Knowing`
   - overview: `A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.`
   - poster_path: `/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg`
-  - backdrop_path: `/s6h8MemlWFshLmPfd08syBpaTTK.jpg`
+  - backdrop_path: `/oZqounvawm4hDxpDGDHLmVBGJBr.jpg`
   - release_date: `2009-03-19`
   - runtime: `121`
-  - vote_average: `6.259`
-  - vote_count: `5820`
+  - vote_average: `6.265`
+  - vote_count: `5858`
   - genres: `Action`, `Mystery`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=A2oDiEVXuDo`
   - status: `active`
@@ -13196,24 +13567,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/2iJVauDYcYxRRGciTmAOSjiATf9.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/2iJVauDYcYxRRGciTmAOSjiATf9.jpg`
-- backdrop_path: `/ytQ9bT5TuDbSIXgmOC1wy49dkpM.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/ytQ9bT5TuDbSIXgmOC1wy49dkpM.jpg`
+- backdrop_path: `/std67wc9tAArUxpd1K1Jql0Ypla.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/std67wc9tAArUxpd1K1Jql0Ypla.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=IBpZH-CFgZ0`
 - release_date: `2003-08-08`
 - runtime: `165`
-- vote_average: `7.01`
-- vote_count: `256`
+- vote_average: `7`
+- vote_count: `265`
 - genres: `Science Fiction`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `25516`
   - title: `Koi... Mil Gaya`
   - overview: `A developmentally disabled boy's life changes after he encounters an extraterrestrial being.`
   - poster_path: `/2iJVauDYcYxRRGciTmAOSjiATf9.jpg`
-  - backdrop_path: `/ytQ9bT5TuDbSIXgmOC1wy49dkpM.jpg`
+  - backdrop_path: `/std67wc9tAArUxpd1K1Jql0Ypla.jpg`
   - release_date: `2003-08-08`
   - runtime: `165`
-  - vote_average: `7.01`
-  - vote_count: `256`
+  - vote_average: `7`
+  - vote_count: `265`
   - genres: `Science Fiction`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=IBpZH-CFgZ0`
   - status: `active`
@@ -13244,8 +13615,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hR1-ihzff3I`
 - release_date: `2024-12-11`
 - runtime: `127`
-- vote_average: `6.442`
-- vote_count: `2342`
+- vote_average: `6.438`
+- vote_count: `2369`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `539972`
@@ -13255,8 +13626,8 @@
   - backdrop_path: `/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg`
   - release_date: `2024-12-11`
   - runtime: `127`
-  - vote_average: `6.442`
-  - vote_count: `2342`
+  - vote_average: `6.438`
+  - vote_count: `2369`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=hR1-ihzff3I`
   - status: `active`
@@ -13287,8 +13658,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=_6Ix1VF_yWM`
 - release_date: `2013-11-01`
 - runtime: `152`
-- vote_average: `5.673`
-- vote_count: `199`
+- vote_average: `5.683`
+- vote_count: `202`
 - genres: `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `204435`
@@ -13298,8 +13669,8 @@
   - backdrop_path: `/rG2pFglPrNS1H0UmFu5z5KTTPtJ.jpg`
   - release_date: `2013-11-01`
   - runtime: `152`
-  - vote_average: `5.673`
-  - vote_count: `199`
+  - vote_average: `5.683`
+  - vote_count: `202`
   - genres: `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=_6Ix1VF_yWM`
   - status: `active`
@@ -13330,7 +13701,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=nmnXFKJv8Z0`
 - release_date: `2008-02-07`
 - runtime: `98`
-- vote_average: `5.947`
+- vote_average: `5.9`
 - vote_count: `255`
 - genres: `Action`, `Adventure`, `Comedy`
 - movie_row:
@@ -13341,7 +13712,7 @@
   - backdrop_path: `/2h6LQBRGuzMkqFvazRx4fZFiU7T.jpg`
   - release_date: `2008-02-07`
   - runtime: `98`
-  - vote_average: `5.947`
+  - vote_average: `5.9`
   - vote_count: `255`
   - genres: `Action`, `Adventure`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=nmnXFKJv8Z0`
@@ -13372,8 +13743,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=NRc-ze7Wrxw`
 - release_date: `2008-06-04`
 - runtime: `90`
-- vote_average: `7.323`
-- vote_count: `12646`
+- vote_average: `7.327`
+- vote_count: `12710`
 - genres: `Action`, `Animation`, `Comedy`, `Family`
 - movie_row:
   - import_tmdb_id: `9502`
@@ -13383,8 +13754,8 @@
   - backdrop_path: `/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg`
   - release_date: `2008-06-04`
   - runtime: `90`
-  - vote_average: `7.323`
-  - vote_count: `12646`
+  - vote_average: `7.327`
+  - vote_count: `12710`
   - genres: `Action`, `Animation`, `Comedy`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=NRc-ze7Wrxw`
   - status: `active`
@@ -13414,8 +13785,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/gfJ1W2znqErRYCHey4e0mjw55tZ.jpg`
 - release_date: `2005-11-03`
 - runtime: `160`
-- vote_average: `5.791`
-- vote_count: `43`
+- vote_average: `5.682`
+- vote_count: `44`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `161212`
@@ -13425,8 +13796,8 @@
   - backdrop_path: `/gfJ1W2znqErRYCHey4e0mjw55tZ.jpg`
   - release_date: `2005-11-03`
   - runtime: `160`
-  - vote_average: `5.791`
-  - vote_count: `43`
+  - vote_average: `5.682`
+  - vote_count: `44`
   - genres: `Romance`, `Drama`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -13455,8 +13826,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6Tg5BLRmTcg`
 - release_date: `2022-08-11`
 - runtime: `164`
-- vote_average: `6.272`
-- vote_count: `92`
+- vote_average: `6.3`
+- vote_count: `94`
 - genres: `Drama`, `Romance`, `Comedy`
 - movie_row:
   - import_tmdb_id: `601635`
@@ -13466,8 +13837,8 @@
   - backdrop_path: `/gvLBtBXQyeEFYeG5LEIvYa7avVg.jpg`
   - release_date: `2022-08-11`
   - runtime: `164`
-  - vote_average: `6.272`
-  - vote_count: `92`
+  - vote_average: `6.3`
+  - vote_count: `94`
   - genres: `Drama`, `Romance`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=6Tg5BLRmTcg`
   - status: `active`
@@ -13498,8 +13869,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6Tg5BLRmTcg`
 - release_date: `2022-08-11`
 - runtime: `164`
-- vote_average: `6.272`
-- vote_count: `92`
+- vote_average: `6.3`
+- vote_count: `94`
 - genres: `Drama`, `Romance`, `Comedy`
 - movie_row:
   - import_tmdb_id: `601635`
@@ -13509,8 +13880,8 @@
   - backdrop_path: `/gvLBtBXQyeEFYeG5LEIvYa7avVg.jpg`
   - release_date: `2022-08-11`
   - runtime: `164`
-  - vote_average: `6.272`
-  - vote_count: `92`
+  - vote_average: `6.3`
+  - vote_count: `94`
   - genres: `Drama`, `Romance`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=6Tg5BLRmTcg`
   - status: `active`
@@ -13541,8 +13912,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hHmA-Tg4Juo`
 - release_date: `2024-02-09`
 - runtime: `113`
-- vote_average: `7.245`
-- vote_count: `1486`
+- vote_average: `7.26`
+- vote_count: `1511`
 - genres: `Action`, `War`, `Thriller`
 - movie_row:
   - import_tmdb_id: `969492`
@@ -13552,8 +13923,8 @@
   - backdrop_path: `/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg`
   - release_date: `2024-02-09`
   - runtime: `113`
-  - vote_average: `7.245`
-  - vote_count: `1486`
+  - vote_average: `7.26`
+  - vote_count: `1511`
   - genres: `Action`, `War`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=hHmA-Tg4Juo`
   - status: `active`
@@ -13587,8 +13958,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=r2u9GifyDg0`
 - release_date: `2025-05-06`
 - runtime: `111`
-- vote_average: `6.5`
-- vote_count: `260`
+- vote_average: `6.517`
+- vote_count: `261`
 - genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `1144430`
@@ -13598,8 +13969,8 @@
   - backdrop_path: `/4A5HH9HkCPqAwyYL6CnA0mxbYjn.jpg`
   - release_date: `2025-05-06`
   - runtime: `111`
-  - vote_average: `6.5`
-  - vote_count: `260`
+  - vote_average: `6.517`
+  - vote_count: `261`
   - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=r2u9GifyDg0`
   - status: `active`
@@ -13630,8 +14001,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LX6kVRsdXW4`
 - release_date: `2009-10-15`
 - runtime: `109`
-- vote_average: `7.394`
-- vote_count: `5679`
+- vote_average: `7.395`
+- vote_count: `5704`
 - genres: `Drama`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `22803`
@@ -13641,8 +14012,8 @@
   - backdrop_path: `/nazre7z7MoUwAqimnrSlMlfLR5t.jpg`
   - release_date: `2009-10-15`
   - runtime: `109`
-  - vote_average: `7.394`
-  - vote_count: `5679`
+  - vote_average: `7.395`
+  - vote_count: `5704`
   - genres: `Drama`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=LX6kVRsdXW4`
   - status: `active`
@@ -13672,8 +14043,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=SS0s2Ss38ME`
 - release_date: `2010-09-01`
 - runtime: `105`
-- vote_average: `6.806`
-- vote_count: `456`
+- vote_average: `6.793`
+- vote_count: `457`
 - genres: `Drama`, `Action`, `History`, `Thriller`
 - movie_row:
   - import_tmdb_id: `47854`
@@ -13683,8 +14054,8 @@
   - backdrop_path: `/r8VWydH7HYYt8VLiAFq9lQ2FgSp.jpg`
   - release_date: `2010-09-01`
   - runtime: `105`
-  - vote_average: `6.806`
-  - vote_count: `456`
+  - vote_average: `6.793`
+  - vote_count: `457`
   - genres: `Drama`, `Action`, `History`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=SS0s2Ss38ME`
   - status: `active`
@@ -13714,8 +14085,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=P6p01-in6-k`
 - release_date: `2010-01-21`
 - runtime: `100`
-- vote_average: `5.903`
-- vote_count: `2872`
+- vote_average: `5.907`
+- vote_count: `2891`
 - genres: `Action`, `Fantasy`, `Horror`
 - movie_row:
   - import_tmdb_id: `22894`
@@ -13725,8 +14096,8 @@
   - backdrop_path: `/7HzdWt7Rz3VeoHk5QEBEZaa0m1S.jpg`
   - release_date: `2010-01-21`
   - runtime: `100`
-  - vote_average: `5.903`
-  - vote_count: `2872`
+  - vote_average: `5.907`
+  - vote_count: `2891`
   - genres: `Action`, `Fantasy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=P6p01-in6-k`
   - status: `active`
@@ -13756,8 +14127,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=BXJPwBCJES8`
 - release_date: `2015-08-25`
 - runtime: `77`
-- vote_average: `6.597`
-- vote_count: `145`
+- vote_average: `6.599`
+- vote_count: `147`
 - genres: `Animation`, `Action`, `Adventure`, `Family`, `Comedy`
 - movie_row:
   - import_tmdb_id: `353595`
@@ -13767,8 +14138,8 @@
   - backdrop_path: `/5XNEf3tYfKuu1nHlqffdoyiXCtQ.jpg`
   - release_date: `2015-08-25`
   - runtime: `77`
-  - vote_average: `6.597`
-  - vote_count: `145`
+  - vote_average: `6.599`
+  - vote_count: `147`
   - genres: `Animation`, `Action`, `Adventure`, `Family`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=BXJPwBCJES8`
   - status: `active`
@@ -13840,8 +14211,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=QfFasuouxQI`
 - release_date: `2024-01-10`
 - runtime: `107`
-- vote_average: `6.428`
-- vote_count: `1444`
+- vote_average: `6.419`
+- vote_count: `1457`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `955916`
@@ -13851,8 +14222,8 @@
   - backdrop_path: `/AaModY6YpQmEFzG56ALP1PFLPUU.jpg`
   - release_date: `2024-01-10`
   - runtime: `107`
-  - vote_average: `6.428`
-  - vote_count: `1444`
+  - vote_average: `6.419`
+  - vote_count: `1457`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=QfFasuouxQI`
   - status: `active`
@@ -13919,8 +14290,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=GKkk-hDigTk`
 - release_date: `2016-11-24`
 - runtime: `118`
-- vote_average: `8.04`
-- vote_count: `6961`
+- vote_average: `8.039`
+- vote_count: `6974`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `334543`
@@ -13930,8 +14301,8 @@
   - backdrop_path: `/ycABRSIK1Ff10Tc2A6WJHagp1Co.jpg`
   - release_date: `2016-11-24`
   - runtime: `118`
-  - vote_average: `8.04`
-  - vote_count: `6961`
+  - vote_average: `8.039`
+  - vote_count: `6974`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=GKkk-hDigTk`
   - status: `active`
@@ -13961,8 +14332,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=x9STUnqrE_c`
 - release_date: `2006-08-31`
 - runtime: `98`
-- vote_average: `5.955`
-- vote_count: `1905`
+- vote_average: `5.951`
+- vote_count: `1918`
 - genres: `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `9072`
@@ -13972,8 +14343,8 @@
   - backdrop_path: `/3sF2wc5SRQaBs0kC7Jhanz5NnbO.jpg`
   - release_date: `2006-08-31`
   - runtime: `98`
-  - vote_average: `5.955`
-  - vote_count: `1905`
+  - vote_average: `5.951`
+  - vote_count: `1918`
   - genres: `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=x9STUnqrE_c`
   - status: `active`
@@ -14003,8 +14374,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=MHAf0S9kEZw`
 - release_date: `2025-03-20`
 - runtime: `95`
-- vote_average: `6.197`
-- vote_count: `547`
+- vote_average: `6.176`
+- vote_count: `567`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1083968`
@@ -14014,8 +14385,8 @@
   - backdrop_path: `/r4X2xRrWleVgx0kahP27xRmm3ia.jpg`
   - release_date: `2025-03-20`
   - runtime: `95`
-  - vote_average: `6.197`
-  - vote_count: `547`
+  - vote_average: `6.176`
+  - vote_count: `567`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=MHAf0S9kEZw`
   - status: `active`
@@ -14046,8 +14417,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=OVp8-7OTiH8`
 - release_date: `2008-10-21`
 - runtime: `118`
-- vote_average: `6.851`
-- vote_count: `435`
+- vote_average: `6.856`
+- vote_count: `436`
 - genres: `Drama`, `Mystery`, `Romance`
 - movie_row:
   - import_tmdb_id: `17845`
@@ -14057,8 +14428,8 @@
   - backdrop_path: `/eUM3rcy8tQjOJKqyp1VXxqJWCn3.jpg`
   - release_date: `2008-10-21`
   - runtime: `118`
-  - vote_average: `6.851`
-  - vote_count: `435`
+  - vote_average: `6.856`
+  - vote_count: `436`
   - genres: `Drama`, `Mystery`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=OVp8-7OTiH8`
   - status: `active`
@@ -14088,8 +14459,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=oQhX4JxGHtw`
 - release_date: `2016-03-02`
 - runtime: `99`
-- vote_average: `6.224`
-- vote_count: `5106`
+- vote_average: `6.225`
+- vote_count: `5132`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `267860`
@@ -14099,8 +14470,8 @@
   - backdrop_path: `/2aXAK6WNg9ihJm8qRSrguKzgaB7.jpg`
   - release_date: `2016-03-02`
   - runtime: `99`
-  - vote_average: `6.224`
-  - vote_count: `5106`
+  - vote_average: `6.225`
+  - vote_count: `5132`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=oQhX4JxGHtw`
   - status: `active`
@@ -14123,26 +14494,26 @@
 - narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/zlT3RSPO6GlSyb5QrLrFcDmhrQ7.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/zlT3RSPO6GlSyb5QrLrFcDmhrQ7.jpg`
+- poster_path: `/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg`
 - backdrop_path: `/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=0cPJ1ifjBDs`
 - release_date: `2013-12-24`
 - runtime: `121`
-- vote_average: `7.433`
-- vote_count: `4753`
+- vote_average: `7.429`
+- vote_count: `4777`
 - genres: `War`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `193756`
   - title: `Lone Survivor`
   - overview: `Four Navy SEALs on a covert mission to neutralize a high-level Taliban operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.`
-  - poster_path: `/zlT3RSPO6GlSyb5QrLrFcDmhrQ7.jpg`
+  - poster_path: `/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg`
   - backdrop_path: `/hmEbQB5UlcwobldcSDNlLZiUnmA.jpg`
   - release_date: `2013-12-24`
   - runtime: `121`
-  - vote_average: `7.433`
-  - vote_count: `4753`
+  - vote_average: `7.429`
+  - vote_count: `4777`
   - genres: `War`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=0cPJ1ifjBDs`
   - status: `active`
@@ -14172,8 +14543,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qi83JMiIq1c`
 - release_date: `2003-12-12`
 - runtime: `100`
-- vote_average: `7.625`
-- vote_count: `698`
+- vote_average: `7.634`
+- vote_count: `706`
 - genres: `Comedy`, `Drama`, `Family`, `Romance`
 - movie_row:
   - import_tmdb_id: `21542`
@@ -14183,8 +14554,8 @@
   - backdrop_path: `/bYk4H2MSvNWckhrYhZNQHe8v90o.jpg`
   - release_date: `2003-12-12`
   - runtime: `100`
-  - vote_average: `7.625`
-  - vote_count: `698`
+  - vote_average: `7.634`
+  - vote_count: `706`
   - genres: `Comedy`, `Drama`, `Family`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=qi83JMiIq1c`
   - status: `active`
@@ -14214,8 +14585,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=y7_gi1-bIJs`
 - release_date: `2025-02-06`
 - runtime: `83`
-- vote_average: `5.633`
-- vote_count: `373`
+- vote_average: `5.634`
+- vote_count: `380`
 - genres: `Action`, `Comedy`, `Romance`
 - movie_row:
   - import_tmdb_id: `1226406`
@@ -14225,8 +14596,8 @@
   - backdrop_path: `/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg`
   - release_date: `2025-02-06`
   - runtime: `83`
-  - vote_average: `5.633`
-  - vote_count: `373`
+  - vote_average: `5.634`
+  - vote_count: `380`
   - genres: `Action`, `Comedy`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=y7_gi1-bIJs`
   - status: `active`
@@ -14256,8 +14627,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2I_eypETmKo`
 - release_date: `2018-02-14`
 - runtime: `133`
-- vote_average: `6.69`
-- vote_count: `124`
+- vote_average: `6.684`
+- vote_count: `125`
 - genres: `Comedy`, `Romance`
 - movie_row:
   - import_tmdb_id: `505175`
@@ -14267,8 +14638,8 @@
   - backdrop_path: `/odmG3Y24tpJCa3wOrnn9luGaBtz.jpg`
   - release_date: `2018-02-14`
   - runtime: `133`
-  - vote_average: `6.69`
-  - vote_count: `124`
+  - vote_average: `6.684`
+  - vote_count: `125`
   - genres: `Comedy`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=2I_eypETmKo`
   - status: `active`
@@ -14298,9 +14669,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=mYfJxlgR2jw`
 - release_date: `2021-06-17`
 - runtime: `95`
-- vote_average: `7.782`
-- vote_count: `8952`
-- genres: `Animation`, `Comedy`, `Drama`, `Family`, `Fantasy`
+- vote_average: `7.78`
+- vote_count: `8982`
+- genres: `Animation`, `Family`, `Fantasy`, `Drama`, `Comedy`
 - movie_row:
   - import_tmdb_id: `508943`
   - title: `Luca`
@@ -14309,9 +14680,9 @@
   - backdrop_path: `/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg`
   - release_date: `2021-06-17`
   - runtime: `95`
-  - vote_average: `7.782`
-  - vote_count: `8952`
-  - genres: `Animation`, `Comedy`, `Drama`, `Family`, `Fantasy`
+  - vote_average: `7.78`
+  - vote_count: `8982`
+  - genres: `Animation`, `Family`, `Fantasy`, `Drama`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=mYfJxlgR2jw`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -14425,8 +14796,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7fGKttdOWQE`
 - release_date: `2010-09-01`
 - runtime: `105`
-- vote_average: `6.344`
-- vote_count: `3555`
+- vote_average: `6.34`
+- vote_count: `3572`
 - genres: `Action`, `Comedy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `23631`
@@ -14436,8 +14807,8 @@
   - backdrop_path: `/wbjoD8BN5W9VusuLJYdd7tWUxqh.jpg`
   - release_date: `2010-09-01`
   - runtime: `105`
-  - vote_average: `6.344`
-  - vote_count: `3555`
+  - vote_average: `6.34`
+  - vote_count: `3572`
   - genres: `Action`, `Comedy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=7fGKttdOWQE`
   - status: `active`
@@ -14467,8 +14838,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=BTvoaaE98DE`
 - release_date: `2011-09-23`
 - runtime: `129`
-- vote_average: `6.733`
-- vote_count: `1135`
+- vote_average: `6.727`
+- vote_count: `1141`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `45610`
@@ -14478,8 +14849,8 @@
   - backdrop_path: `/tyO7uhV4803mnSwSAhjKhKV1bMN.jpg`
   - release_date: `2011-09-23`
   - runtime: `129`
-  - vote_average: `6.733`
-  - vote_count: `1135`
+  - vote_average: `6.727`
+  - vote_count: `1141`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=BTvoaaE98DE`
   - status: `active`
@@ -14509,8 +14880,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=s_76M4c4LTo`
 - release_date: `2024-02-14`
 - runtime: `117`
-- vote_average: `5.291`
-- vote_count: `2582`
+- vote_average: `5.286`
+- vote_count: `2598`
 - genres: `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `634492`
@@ -14520,8 +14891,8 @@
   - backdrop_path: `/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg`
   - release_date: `2024-02-14`
   - runtime: `117`
-  - vote_average: `5.291`
-  - vote_count: `2582`
+  - vote_average: `5.286`
+  - vote_count: `2598`
   - genres: `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=s_76M4c4LTo`
   - status: `active`
@@ -14594,8 +14965,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=evuFp60TiM0`
 - release_date: `2019-05-09`
 - runtime: `176`
-- vote_average: `6.757`
-- vote_count: `35`
+- vote_average: `6.689`
+- vote_count: `37`
 - genres: `Drama`, `Action`
 - movie_row:
   - import_tmdb_id: `541487`
@@ -14605,8 +14976,8 @@
   - backdrop_path: `/giVZsq8aBKd8C7Fd9NyzOOE7jmI.jpg`
   - release_date: `2019-05-09`
   - runtime: `176`
-  - vote_average: `6.757`
-  - vote_count: `35`
+  - vote_average: `6.689`
+  - vote_count: `37`
   - genres: `Drama`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=evuFp60TiM0`
   - status: `active`
@@ -14630,26 +15001,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/5qweTKkAwvGPt2Wd76TFoh2c9yt.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/5qweTKkAwvGPt2Wd76TFoh2c9yt.jpg`
-- backdrop_path: `/gsvb3zclYWlgCoUJ1hraO7mTav3.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/gsvb3zclYWlgCoUJ1hraO7mTav3.jpg`
+- poster_path: `/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg`
+- backdrop_path: `/l5sD0AK286fBpXyDHRCbtaFMArN.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/l5sD0AK286fBpXyDHRCbtaFMArN.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=7r_1rDfQfrg`
 - release_date: `2002-12-13`
 - runtime: `105`
-- vote_average: `6.144`
-- vote_count: `2059`
+- vote_average: `6.142`
+- vote_count: `2066`
 - genres: `Comedy`, `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `7303`
   - title: `Maid in Manhattan`
   - overview: `Marisa Ventura is a struggling single mom who works at a posh Manhattan hotel and dreams of a better life for her and her young son. One fateful day, hotel guest and senatorial candidate Christopher Marshall meets Marisa and mistakes her for a wealthy socialite. After an enchanting evening together, the two fall madly in love. But when Marisa's true identity is revealed, issues of class and social status threaten to separate them. Can two people from very different worlds overcome their differences and live happily ever after?`
-  - poster_path: `/5qweTKkAwvGPt2Wd76TFoh2c9yt.jpg`
-  - backdrop_path: `/gsvb3zclYWlgCoUJ1hraO7mTav3.jpg`
+  - poster_path: `/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg`
+  - backdrop_path: `/l5sD0AK286fBpXyDHRCbtaFMArN.jpg`
   - release_date: `2002-12-13`
   - runtime: `105`
-  - vote_average: `6.144`
-  - vote_count: `2059`
+  - vote_average: `6.142`
+  - vote_count: `2066`
   - genres: `Comedy`, `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=7r_1rDfQfrg`
   - status: `active`
@@ -14678,8 +15049,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/8tyq1kXM3YQmu3obW6LxWm5TVRO.jpg`
 - release_date: `2022-06-03`
 - runtime: `149`
-- vote_average: `6.943`
-- vote_count: `44`
+- vote_average: `6.968`
+- vote_count: `47`
 - genres: `Action`, `History`, `Drama`
 - movie_row:
   - import_tmdb_id: `605153`
@@ -14689,8 +15060,8 @@
   - backdrop_path: `/8tyq1kXM3YQmu3obW6LxWm5TVRO.jpg`
   - release_date: `2022-06-03`
   - runtime: `149`
-  - vote_average: `6.943`
-  - vote_count: `44`
+  - vote_average: `6.968`
+  - vote_count: `47`
   - genres: `Action`, `History`, `Drama`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -14712,26 +15083,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/2COzaii4BnT1O6bbXfAxtoTmADm.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/2COzaii4BnT1O6bbXfAxtoTmADm.jpg`
+- poster_path: `/gzGhNHThcTLQ87xqBIbO834lbgs.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/gzGhNHThcTLQ87xqBIbO834lbgs.jpg`
 - backdrop_path: `/3e46k8KPCs1N7luAqNDFZFzrbbE.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/3e46k8KPCs1N7luAqNDFZFzrbbE.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=mSzmNFTlyrc`
 - release_date: `2020-02-06`
 - runtime: `135`
 - vote_average: `7`
-- vote_count: `64`
+- vote_count: `65`
 - genres: `Romance`, `Action`, `Adventure`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `661043`
   - title: `Malang`
   - overview: `Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.`
-  - poster_path: `/2COzaii4BnT1O6bbXfAxtoTmADm.jpg`
+  - poster_path: `/gzGhNHThcTLQ87xqBIbO834lbgs.jpg`
   - backdrop_path: `/3e46k8KPCs1N7luAqNDFZFzrbbE.jpg`
   - release_date: `2020-02-06`
   - runtime: `135`
   - vote_average: `7`
-  - vote_count: `64`
+  - vote_count: `65`
   - genres: `Romance`, `Action`, `Adventure`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mSzmNFTlyrc`
   - status: `active`
@@ -14761,8 +15132,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=28U4LxdkNWI`
 - release_date: `2014-05-28`
 - runtime: `97`
-- vote_average: `7.089`
-- vote_count: `13736`
+- vote_average: `7.1`
+- vote_count: `13774`
 - genres: `Fantasy`, `Adventure`, `Action`, `Family`, `Romance`
 - movie_row:
   - import_tmdb_id: `102651`
@@ -14772,8 +15143,8 @@
   - backdrop_path: `/bNiiUCQUD7ij5Ybh2GoWSZwqAb1.jpg`
   - release_date: `2014-05-28`
   - runtime: `97`
-  - vote_average: `7.089`
-  - vote_count: `13736`
+  - vote_average: `7.1`
+  - vote_count: `13774`
   - genres: `Fantasy`, `Adventure`, `Action`, `Family`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=28U4LxdkNWI`
   - status: `active`
@@ -14886,8 +15257,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Ebv9_rNb5Ig`
 - release_date: `2022-02-09`
 - runtime: `112`
-- vote_average: `6.619`
-- vote_count: `1102`
+- vote_average: `6.608`
+- vote_count: `1107`
 - genres: `Romance`, `Comedy`, `Music`
 - movie_row:
   - import_tmdb_id: `615904`
@@ -14897,8 +15268,8 @@
   - backdrop_path: `/vdQdA6sAqnTbkyxGh6lpoEvNfEG.jpg`
   - release_date: `2022-02-09`
   - runtime: `112`
-  - vote_average: `6.619`
-  - vote_count: `1102`
+  - vote_average: `6.608`
+  - vote_count: `1107`
   - genres: `Romance`, `Comedy`, `Music`
   - trailer_url: `https://www.youtube.com/watch?v=Ebv9_rNb5Ig`
   - status: `active`
@@ -14914,41 +15285,43 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `861451`
+- real_tmdb_id: `26517`
 - canonical_title: `Martin`
 - original_title: `Martin`
 - normalized_title_guess: `Martin`
 - narrators_found: `Fey`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg`
-- backdrop_path: `/42xAe6kVeTjml9Tww6vRoWa5tay.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/42xAe6kVeTjml9Tww6vRoWa5tay.jpg`
-- release_date: `2024-10-11`
-- runtime: `147`
-- vote_average: `4.7`
-- vote_count: `33`
-- genres: `Action`, `Drama`, `Thriller`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/2UaQChRF3leBWlxYgVnUim7Conj.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/2UaQChRF3leBWlxYgVnUim7Conj.jpg`
+- backdrop_path: `/jYtgrQa9dPw2CPwereWZBAoKzwQ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/jYtgrQa9dPw2CPwereWZBAoKzwQ.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=Cgs3U-gLZwE`
+- release_date: `1978-05-10`
+- runtime: `95`
+- vote_average: `6.781`
+- vote_count: `318`
+- genres: `Horror`, `Drama`
 - movie_row:
-  - import_tmdb_id: `861451`
+  - import_tmdb_id: `26517`
   - title: `Martin`
-  - overview: `Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India to discover his real identity and fight against black market dealers, who are involved with terrorists to orchestrate massive attacks in the country.`
-  - poster_path: `/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg`
-  - backdrop_path: `/42xAe6kVeTjml9Tww6vRoWa5tay.jpg`
-  - release_date: `2024-10-11`
-  - runtime: `147`
-  - vote_average: `4.7`
-  - vote_count: `33`
-  - genres: `Action`, `Drama`, `Thriller`
+  - overview: `A young man, convinced he's a vampire, goes to live with his elderly and hostile cousin in a small Pennsylvanian town, where he tries to suppress his bloodlust.`
+  - poster_path: `/2UaQChRF3leBWlxYgVnUim7Conj.jpg`
+  - backdrop_path: `/jYtgrQa9dPw2CPwereWZBAoKzwQ.jpg`
+  - release_date: `1978-05-10`
+  - runtime: `95`
+  - vote_average: `6.781`
+  - vote_count: `318`
+  - genres: `Horror`, `Drama`
+  - trailer_url: `https://www.youtube.com/watch?v=Cgs3U-gLZwE`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Martin A - FEY | https://oshakurfilms.com/watch/martin-a-fey | Fey | 861451 | 861451 | https://iplayerhls.com/e/l7iwinczc9ja | iplayerhls.com | https://www.mediafire.com/file/7hugbp43ktcoant/MARTIN+FEY+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Martin B - FEY | https://oshakurfilms.com/watch/martin-b-fey | Fey | 861451 | 861453 | https://iplayerhls.com/e/9nz5pyg0wcz3 | iplayerhls.com | https://www.mediafire.com/file/sp59dwtk1ahgq35/MARTIN+FEY+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
-| 3 | Martin C - FEY | https://oshakurfilms.com/watch/martin-c-fey | Fey | 861451 | 861454 | https://iplayerhls.com/e/2uy9oe9knib1 | iplayerhls.com | https://www.mediafire.com/file/jfxz11wkz7etvj9/MARTIN+FEY+C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | Martin A - FEY | https://oshakurfilms.com/watch/martin-a-fey | Fey | 26517 | 26517 | https://iplayerhls.com/e/l7iwinczc9ja | iplayerhls.com | https://www.mediafire.com/file/7hugbp43ktcoant/MARTIN+FEY+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Martin B - FEY | https://oshakurfilms.com/watch/martin-b-fey | Fey | 26517 | 26519 | https://iplayerhls.com/e/9nz5pyg0wcz3 | iplayerhls.com | https://www.mediafire.com/file/sp59dwtk1ahgq35/MARTIN+FEY+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 3 | Martin C - FEY | https://oshakurfilms.com/watch/martin-c-fey | Fey | 26517 | 26520 | https://iplayerhls.com/e/2uy9oe9knib1 | iplayerhls.com | https://www.mediafire.com/file/jfxz11wkz7etvj9/MARTIN+FEY+C.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Mary
 
@@ -14956,41 +15329,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `1243381`
+- real_tmdb_id: `419706`
 - canonical_title: `Mary`
 - original_title: `Mary`
 - normalized_title_guess: `Mary`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/wpApuf1xky92ug8n5mP5aP7DiDy.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/wpApuf1xky92ug8n5mP5aP7DiDy.jpg`
-- backdrop_path: `/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=d74vHvsACSs`
-- release_date: `2024-12-12`
-- runtime: `112`
-- vote_average: `6.263`
-- vote_count: `200`
-- genres: `Drama`, `History`, `Action`
+- poster_path: `/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg`
+- backdrop_path: `/3g6Aznrs25uQxxxqNiJ2KfCe7lU.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/3g6Aznrs25uQxxxqNiJ2KfCe7lU.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=lmtRUYMS8_4`
+- release_date: `2019-09-19`
+- runtime: `84`
+- vote_average: `4.989`
+- vote_count: `231`
+- genres: `Horror`, `Mystery`
 - movie_row:
-  - import_tmdb_id: `1243381`
+  - import_tmdb_id: `419706`
   - title: `Mary`
-  - overview: `A miraculous conception. A merciless king. A murderous pursuit. Mary's journey to give birth to Jesus unfolds in this biblical coming-of-age epic.`
-  - poster_path: `/wpApuf1xky92ug8n5mP5aP7DiDy.jpg`
-  - backdrop_path: `/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg`
-  - release_date: `2024-12-12`
-  - runtime: `112`
-  - vote_average: `6.263`
-  - vote_count: `200`
-  - genres: `Drama`, `History`, `Action`
-  - trailer_url: `https://www.youtube.com/watch?v=d74vHvsACSs`
+  - overview: `A struggling family buys an old ship at auction with high hopes of starting a charter business, only to discover her horrifying secrets on the isolated open waters.`
+  - poster_path: `/cdcyHzqqBrzPGJFVH29ONnzsV6I.jpg`
+  - backdrop_path: `/3g6Aznrs25uQxxxqNiJ2KfCe7lU.jpg`
+  - release_date: `2019-09-19`
+  - runtime: `84`
+  - vote_average: `4.989`
+  - vote_count: `231`
+  - genres: `Horror`, `Mystery`
+  - trailer_url: `https://www.youtube.com/watch?v=lmtRUYMS8_4`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mary - ROCKY | https://oshakurfilms.com/watch/mary-rocky | Rocky | 1243381 | 1243381 | https://iplayerhls.com/e/owiijm07x58j | iplayerhls.com | https://www.mediafire.com/file/rhf7a2okskinhs8/MARY_ROCKY.mp4/file | www.mediafire.com |  |
+| 1 | Mary - ROCKY | https://oshakurfilms.com/watch/mary-rocky | Rocky | 419706 | 419706 | https://iplayerhls.com/e/owiijm07x58j | iplayerhls.com | https://www.mediafire.com/file/rhf7a2okskinhs8/MARY_ROCKY.mp4/file | www.mediafire.com |  |
 
 ## Master of the House
 
@@ -15047,24 +15420,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/wYoDpWInsBEVSmWStnRH06ddoyk.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg`
-- backdrop_path: `/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg`
+- backdrop_path: `/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=c2DK0o-uEnU`
 - release_date: `1996-08-02`
 - runtime: `98`
-- vote_average: `7.2`
-- vote_count: `4815`
+- vote_average: `7.179`
+- vote_count: `4831`
 - genres: `Comedy`, `Family`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `10830`
   - title: `Matilda`
   - overview: `Matilda Wormwood is an brilliant and intelligent little girl. Unfortunately, her parents, Harry and Zinnia, fail to see that fact. As time passes, she finally starts school and has a kind teacher, loyal friends, and a terrifying, sadistic headmistress. As she becomes fed up with the constant cruelty, she discovers she has a special gift that she just might be able to use to outwit the unruly adults around her.`
   - poster_path: `/wYoDpWInsBEVSmWStnRH06ddoyk.jpg`
-  - backdrop_path: `/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg`
+  - backdrop_path: `/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg`
   - release_date: `1996-08-02`
   - runtime: `98`
-  - vote_average: `7.2`
-  - vote_count: `4815`
+  - vote_average: `7.179`
+  - vote_count: `4831`
   - genres: `Comedy`, `Family`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=c2DK0o-uEnU`
   - status: `active`
@@ -15094,8 +15467,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=iJJGAInln0c`
 - release_date: `2017-11-10`
 - runtime: `87`
-- vote_average: `6.456`
-- vote_count: `797`
+- vote_average: `6.5`
+- vote_count: `806`
 - genres: `Action`, `Comedy`, `Horror`
 - movie_row:
   - import_tmdb_id: `429733`
@@ -15105,8 +15478,8 @@
   - backdrop_path: `/hEoThfZZpQAyU9HlpEaSO4Ofnbz.jpg`
   - release_date: `2017-11-10`
   - runtime: `87`
-  - vote_average: `6.456`
-  - vote_count: `797`
+  - vote_average: `6.5`
+  - vote_count: `806`
   - genres: `Action`, `Comedy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=iJJGAInln0c`
   - status: `active`
@@ -15137,8 +15510,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=QF903RaKLvs`
 - release_date: `2016-08-25`
 - runtime: `99`
-- vote_average: `6.059`
-- vote_count: `3666`
+- vote_average: `6.063`
+- vote_count: `3680`
 - genres: `Action`, `Crime`, `Thriller`, `Adventure`
 - movie_row:
   - import_tmdb_id: `278924`
@@ -15148,8 +15521,8 @@
   - backdrop_path: `/3f5rBEc6ioRBO2CATDt4sKjEJnY.jpg`
   - release_date: `2016-08-25`
   - runtime: `99`
-  - vote_average: `6.059`
-  - vote_count: `3666`
+  - vote_average: `6.063`
+  - vote_count: `3680`
   - genres: `Action`, `Crime`, `Thriller`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=QF903RaKLvs`
   - status: `active`
@@ -15179,8 +15552,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=iC3pHZwdmGg`
 - release_date: `2000-09-13`
 - runtime: `129`
-- vote_average: `7.488`
-- vote_count: `2508`
+- vote_average: `7.489`
+- vote_count: `2523`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `11978`
@@ -15190,8 +15563,8 @@
   - backdrop_path: `/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg`
   - release_date: `2000-09-13`
   - runtime: `129`
-  - vote_average: `7.488`
-  - vote_count: `2508`
+  - vote_average: `7.489`
+  - vote_count: `2523`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=iC3pHZwdmGg`
   - status: `active`
@@ -15222,8 +15595,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=JUADqWkJiiE`
 - release_date: `2026-01-19`
 - runtime: `99`
-- vote_average: `7.032`
-- vote_count: `1351`
+- vote_average: `7.066`
+- vote_count: `1433`
 - genres: `Science Fiction`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1236153`
@@ -15233,8 +15606,8 @@
   - backdrop_path: `/gIClklFGYBe0uiOoiP2vtocJbss.jpg`
   - release_date: `2026-01-19`
   - runtime: `99`
-  - vote_average: `7.032`
-  - vote_count: `1351`
+  - vote_average: `7.066`
+  - vote_count: `1433`
   - genres: `Science Fiction`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=JUADqWkJiiE`
   - status: `active`
@@ -15265,8 +15638,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gQDo5QuZTaw`
 - release_date: `2017-10-18`
 - runtime: `161`
-- vote_average: `7.272`
-- vote_count: `125`
+- vote_average: `7.27`
+- vote_count: `126`
 - genres: `Thriller`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `456287`
@@ -15276,8 +15649,8 @@
   - backdrop_path: `/7IJE6cNsbXYE2HzZSUQBj0RtUfv.jpg`
   - release_date: `2017-10-18`
   - runtime: `161`
-  - vote_average: `7.272`
-  - vote_count: `125`
+  - vote_average: `7.27`
+  - vote_count: `126`
   - genres: `Thriller`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=gQDo5QuZTaw`
   - status: `active`
@@ -15289,47 +15662,47 @@
 | 2 | MERSAL ZAPPED B - BE THE GREAT | https://oshakurfilms.com/watch/mersal-zapped-b-be-the-great | Be The Great | 456287 | 456289 | https://drive.google.com/file/d/1-PWfL7ZxZqaEZevbcNwCv69C_vU2_TVZ/preview | drive.google.com | https://drive.google.com/file/d/1-PWfL7ZxZqaEZevbcNwCv69C_vU2_TVZ/preview | drive.google.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | MERSAL ZAPPED C - BE THE GREAT | https://oshakurfilms.com/watch/mersal-zapped-c-be-the-great | Be The Great | 456287 | 456290 | https://drive.google.com/file/d/1Mafk_yLW25BJCAV7PaYnvRIu82nLC-Uo/preview | drive.google.com | https://drive.google.com/file/d/1Mafk_yLW25BJCAV7PaYnvRIu82nLC-Uo/preview | drive.google.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
-## MESSiAH
+## Messiah
 
 - content_type: `movie`
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `419647`
-- canonical_title: `MESSiAH`
-- original_title: `MESSiAH`
+- real_tmdb_id: `713028`
+- canonical_title: `Messiah`
+- original_title: `メサイア`
 - normalized_title_guess: `Messiah`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/dyKTXIcJScohR3YyQeh8rlaiZKT.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/dyKTXIcJScohR3YyQeh8rlaiZKT.jpg`
-- backdrop_path: `/yO6fuJXwp8e98votumvVRQMwvIr.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/yO6fuJXwp8e98votumvVRQMwvIr.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=zkjHPwO0XQs`
-- release_date: `2016-06-01`
-- runtime: `15`
+- poster_path: `/mLLnVRJdx5ASfU5r8J2fGbTgmej.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/mLLnVRJdx5ASfU5r8J2fGbTgmej.jpg`
+- backdrop_path: `/dXKiMvjoUd3V1PUIdLvlEjQLgnR.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/dXKiMvjoUd3V1PUIdLvlEjQLgnR.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=52bCffyAPIQ`
+- release_date: `2011-10-15`
+- runtime: `93`
 - vote_average: `0`
 - vote_count: `0`
-- genres: `Adventure`, `Comedy`, `Fantasy`, `Science Fiction`
+- genres: `Action`, `Thriller`, `Romance`
 - movie_row:
-  - import_tmdb_id: `419647`
-  - title: `MESSiAH`
-  - overview: `In a playful collision of cultures, a hapless Irishman and his Parisian girlfriend get more than they bargained for when they encounter a particularly mischievous stranger in the spectacular Australian wilderness.`
-  - poster_path: `/dyKTXIcJScohR3YyQeh8rlaiZKT.jpg`
-  - backdrop_path: `/yO6fuJXwp8e98votumvVRQMwvIr.jpg`
-  - release_date: `2016-06-01`
-  - runtime: `15`
+  - import_tmdb_id: `713028`
+  - title: `Messiah`
+  - overview: `A live action adaptation of En Takadono's Messiah novel. Eiri Kaito, a "Sakura" agent, infiltrates the prestigious Seinei Academy. His mission is to get closer to Fumikazu, an ordinary schoolboy whose brother is the leading suspect in a terrorist incident. As the plot progresses, which will Eiri choose? His new "friend"? Or his "mission"?`
+  - poster_path: `/mLLnVRJdx5ASfU5r8J2fGbTgmej.jpg`
+  - backdrop_path: `/dXKiMvjoUd3V1PUIdLvlEjQLgnR.jpg`
+  - release_date: `2011-10-15`
+  - runtime: `93`
   - vote_average: `0`
   - vote_count: `0`
-  - genres: `Adventure`, `Comedy`, `Fantasy`, `Science Fiction`
-  - trailer_url: `https://www.youtube.com/watch?v=zkjHPwO0XQs`
+  - genres: `Action`, `Thriller`, `Romance`
+  - trailer_url: `https://www.youtube.com/watch?v=52bCffyAPIQ`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Messiah - Rocky Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/messiah-rocky-agasobanuye-mu-kinyarwanda | Rocky | 419647 | 419647 | https://hglink.to/e/tnhy44non2w9 | hglink.to | https://www.mediafire.com/file/5jrfe247xiyqja6/The_Messiah_Ep01_%25281%2529.mp4/file | www.mediafire.com |  |
+| 1 | Messiah - Rocky Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/messiah-rocky-agasobanuye-mu-kinyarwanda | Rocky | 713028 | 713028 | https://hglink.to/e/tnhy44non2w9 | hglink.to | https://www.mediafire.com/file/5jrfe247xiyqja6/The_Messiah_Ep01_%25281%2529.mp4/file | www.mediafire.com |  |
 
 ## Migration
 
@@ -15352,7 +15725,7 @@
 - release_date: `2023-12-06`
 - runtime: `83`
 - vote_average: `7.4`
-- vote_count: `2250`
+- vote_count: `2259`
 - genres: `Family`, `Comedy`, `Adventure`, `Animation`
 - movie_row:
   - import_tmdb_id: `940551`
@@ -15363,7 +15736,7 @@
   - release_date: `2023-12-06`
   - runtime: `83`
   - vote_average: `7.4`
-  - vote_count: `2250`
+  - vote_count: `2259`
   - genres: `Family`, `Comedy`, `Adventure`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=hWbfohXIdEU`
   - status: `active`
@@ -15389,24 +15762,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
-- backdrop_path: `/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
+- backdrop_path: `/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=dLw2sfQrhcQ`
 - release_date: `2018-08-16`
 - runtime: `94`
-- vote_average: `6.231`
-- vote_count: `2414`
+- vote_average: `6.268`
+- vote_count: `2459`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `347375`
   - title: `Mile 22`
   - overview: `An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.`
   - poster_path: `/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
-  - backdrop_path: `/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
+  - backdrop_path: `/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
   - release_date: `2018-08-16`
   - runtime: `94`
-  - vote_average: `6.231`
-  - vote_count: `2414`
+  - vote_average: `6.268`
+  - vote_count: `2459`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=dLw2sfQrhcQ`
   - status: `active`
@@ -15432,24 +15805,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
-- backdrop_path: `/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
+- backdrop_path: `/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=dLw2sfQrhcQ`
 - release_date: `2018-08-16`
 - runtime: `94`
-- vote_average: `6.231`
-- vote_count: `2414`
+- vote_average: `6.268`
+- vote_count: `2459`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `347375`
   - title: `Mile 22`
   - overview: `An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.`
   - poster_path: `/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg`
-  - backdrop_path: `/wRKYpnFZCwzH8nOLjYryGryiE5M.jpg`
+  - backdrop_path: `/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg`
   - release_date: `2018-08-16`
   - runtime: `94`
-  - vote_average: `6.231`
-  - vote_count: `2414`
+  - vote_average: `6.268`
+  - vote_count: `2459`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=dLw2sfQrhcQ`
   - status: `active`
@@ -15479,8 +15852,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mQJDvN59u6o`
 - release_date: `1994-08-31`
 - runtime: `108`
-- vote_average: `6.41`
-- vote_count: `307`
+- vote_average: `6.458`
+- vote_count: `312`
 - genres: `Comedy`, `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `8986`
@@ -15490,8 +15863,8 @@
   - backdrop_path: `/A0rgmDhySzeYibyjUzC6NjtML7f.jpg`
   - release_date: `1994-08-31`
   - runtime: `108`
-  - vote_average: `6.41`
-  - vote_count: `307`
+  - vote_average: `6.458`
+  - vote_count: `312`
   - genres: `Comedy`, `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=mQJDvN59u6o`
   - status: `active`
@@ -15521,8 +15894,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=_sc3HyeNxPs`
 - release_date: `2021-07-26`
 - runtime: `132`
-- vote_average: `6.934`
-- vote_count: `98`
+- vote_average: `6.868`
+- vote_count: `102`
 - genres: `Comedy`, `Drama`
 - movie_row:
   - import_tmdb_id: `653457`
@@ -15532,8 +15905,8 @@
   - backdrop_path: `/2rEKlVBqUoKGwjIRJsCrEluuIoH.jpg`
   - release_date: `2021-07-26`
   - runtime: `132`
-  - vote_average: `6.934`
-  - vote_count: `98`
+  - vote_average: `6.868`
+  - vote_count: `102`
   - genres: `Comedy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=_sc3HyeNxPs`
   - status: `active`
@@ -15563,9 +15936,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=HhIl_XJ-OGA`
 - release_date: `2022-06-29`
 - runtime: `87`
-- vote_average: `7.267`
-- vote_count: `4018`
-- genres: `Comedy`, `Crime`, `Science Fiction`, `Animation`, `Family`
+- vote_average: `7.3`
+- vote_count: `4035`
+- genres: `Animation`, `Comedy`, `Science Fiction`, `Crime`, `Family`
 - movie_row:
   - import_tmdb_id: `438148`
   - title: `Minions: The Rise of Gru`
@@ -15574,9 +15947,9 @@
   - backdrop_path: `/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg`
   - release_date: `2022-06-29`
   - runtime: `87`
-  - vote_average: `7.267`
-  - vote_count: `4018`
-  - genres: `Comedy`, `Crime`, `Science Fiction`, `Animation`, `Family`
+  - vote_average: `7.3`
+  - vote_count: `4035`
+  - genres: `Animation`, `Comedy`, `Science Fiction`, `Crime`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=HhIl_XJ-OGA`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -15593,7 +15966,7 @@
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
 - real_tmdb_id: `637920`
 - canonical_title: `Miracle in Cell No. 7`
-- original_title: `Koğuştaki Mucize`
+- original_title: `7. Koğuştaki Mucize`
 - normalized_title_guess: `MIRACLE IN CELL NO 7`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
@@ -15605,8 +15978,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=bDAkHkR6fwA`
 - release_date: `2019-10-10`
 - runtime: `132`
-- vote_average: `8.251`
-- vote_count: `4564`
+- vote_average: `8.252`
+- vote_count: `4570`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `637920`
@@ -15616,8 +15989,8 @@
   - backdrop_path: `/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg`
   - release_date: `2019-10-10`
   - runtime: `132`
-  - vote_average: `8.251`
-  - vote_count: `4564`
+  - vote_average: `8.252`
+  - vote_count: `4570`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=bDAkHkR6fwA`
   - status: `active`
@@ -15647,8 +16020,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=O92QxxgeCO8`
 - release_date: `2008-08-14`
 - runtime: `111`
-- vote_average: `6.286`
-- vote_count: `2030`
+- vote_average: `6.281`
+- vote_count: `2043`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `13515`
@@ -15658,8 +16031,8 @@
   - backdrop_path: `/9zMbyilain3lcbX16fZwEkIBMLB.jpg`
   - release_date: `2008-08-14`
   - runtime: `111`
-  - vote_average: `6.286`
-  - vote_count: `2030`
+  - vote_average: `6.281`
+  - vote_count: `2043`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=O92QxxgeCO8`
   - status: `active`
@@ -15690,8 +16063,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hKYZrznkYZ0`
 - release_date: `2024-08-08`
 - runtime: `100`
-- vote_average: `6.981`
-- vote_count: `157`
+- vote_average: `6.994`
+- vote_count: `159`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1002088`
@@ -15701,8 +16074,8 @@
   - backdrop_path: `/eq24kKsd5S1NCZDrQ2fBkKDkWle.jpg`
   - release_date: `2024-08-08`
   - runtime: `100`
-  - vote_average: `6.981`
-  - vote_count: `157`
+  - vote_average: `6.994`
+  - vote_count: `159`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=hKYZrznkYZ0`
   - status: `active`
@@ -15728,24 +16101,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg`
-- backdrop_path: `/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg`
+- backdrop_path: `/sra8XnL96OyLHENcglmZJg6HA8z.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/sra8XnL96OyLHENcglmZJg6HA8z.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=L8Pbjh4EZRk`
 - release_date: `1996-05-22`
 - runtime: `111`
 - vote_average: `7.025`
-- vote_count: `9986`
+- vote_count: `10026`
 - genres: `Adventure`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `954`
   - title: `Mission: Impossible`
   - overview: `When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.`
   - poster_path: `/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg`
-  - backdrop_path: `/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg`
+  - backdrop_path: `/sra8XnL96OyLHENcglmZJg6HA8z.jpg`
   - release_date: `1996-05-22`
   - runtime: `111`
   - vote_average: `7.025`
-  - vote_count: `9986`
+  - vote_count: `10026`
   - genres: `Adventure`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=L8Pbjh4EZRk`
   - status: `active`
@@ -15777,8 +16150,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=G1VBfMCZVkw`
 - release_date: `2025-05-17`
 - runtime: `170`
-- vote_average: `7.167`
-- vote_count: `2834`
+- vote_average: `7.171`
+- vote_count: `2894`
 - genres: `Action`, `Thriller`, `Adventure`
 - movie_row:
   - import_tmdb_id: `575265`
@@ -15788,8 +16161,8 @@
   - backdrop_path: `/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg`
   - release_date: `2025-05-17`
   - runtime: `170`
-  - vote_average: `7.167`
-  - vote_count: `2834`
+  - vote_average: `7.171`
+  - vote_count: `2894`
   - genres: `Action`, `Thriller`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=G1VBfMCZVkw`
   - status: `active`
@@ -15820,8 +16193,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hctApy_i-qg`
 - release_date: `2017-07-07`
 - runtime: `147`
-- vote_average: `7.5`
-- vote_count: `215`
+- vote_average: `7.534`
+- vote_count: `218`
 - genres: `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `404604`
@@ -15831,8 +16204,8 @@
   - backdrop_path: `/cCV4rIBtBjSDmAbP1SFaRz7CZV4.jpg`
   - release_date: `2017-07-07`
   - runtime: `147`
-  - vote_average: `7.5`
-  - vote_count: `215`
+  - vote_average: `7.534`
+  - vote_count: `218`
   - genres: `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=hctApy_i-qg`
   - status: `active`
@@ -15862,8 +16235,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=5Odo80-WFgM`
 - release_date: `1995-11-21`
 - runtime: `110`
-- vote_average: `5.862`
-- vote_count: `872`
+- vote_average: `5.863`
+- vote_count: `878`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `11517`
@@ -15873,8 +16246,8 @@
   - backdrop_path: `/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg`
   - release_date: `1995-11-21`
   - runtime: `110`
-  - vote_average: `5.862`
-  - vote_count: `872`
+  - vote_average: `5.863`
+  - vote_count: `878`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=5Odo80-WFgM`
   - status: `active`
@@ -15904,9 +16277,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=aqa3YTtwvaU`
 - release_date: `2024-04-03`
 - runtime: `122`
-- vote_average: `6.865`
-- vote_count: `1407`
-- genres: `Action`, `Thriller`
+- vote_average: `6.862`
+- vote_count: `1428`
+- genres: `Thriller`, `Crime`, `Action`
 - movie_row:
   - import_tmdb_id: `560016`
   - title: `Monkey Man`
@@ -15915,9 +16288,9 @@
   - backdrop_path: `/9NSXdVHeSfSHUv49OzLispFcpz1.jpg`
   - release_date: `2024-04-03`
   - runtime: `122`
-  - vote_average: `6.865`
-  - vote_count: `1407`
-  - genres: `Action`, `Thriller`
+  - vote_average: `6.862`
+  - vote_count: `1428`
+  - genres: `Thriller`, `Crime`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=aqa3YTtwvaU`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -15948,8 +16321,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ivIwdQBlS10`
 - release_date: `2022-02-02`
 - runtime: `131`
-- vote_average: `6.251`
-- vote_count: `3583`
+- vote_average: `6.246`
+- vote_count: `3609`
 - genres: `Science Fiction`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `406759`
@@ -15959,8 +16332,8 @@
   - backdrop_path: `/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg`
   - release_date: `2022-02-02`
   - runtime: `131`
-  - vote_average: `6.251`
-  - vote_count: `3583`
+  - vote_average: `6.246`
+  - vote_count: `3609`
   - genres: `Science Fiction`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=ivIwdQBlS10`
   - status: `active`
@@ -15980,29 +16353,29 @@
 - canonical_title: `Mortal Kombat`
 - original_title: `Mortal Kombat`
 - normalized_title_guess: `Mortal Kombat`
-- narrators_found: `Rocky`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg`
+- poster_path: `/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg`
 - backdrop_path: `/6ELCZlTA5lGUops70hKdB83WJxH.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/6ELCZlTA5lGUops70hKdB83WJxH.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=jBa_aHwCbC4`
 - release_date: `2021-04-07`
 - runtime: `110`
-- vote_average: `7`
-- vote_count: `6703`
+- vote_average: `7.05`
+- vote_count: `6836`
 - genres: `Action`, `Fantasy`, `Adventure`
 - movie_row:
   - import_tmdb_id: `460465`
   - title: `Mortal Kombat`
   - overview: `Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.`
-  - poster_path: `/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg`
+  - poster_path: `/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg`
   - backdrop_path: `/6ELCZlTA5lGUops70hKdB83WJxH.jpg`
   - release_date: `2021-04-07`
   - runtime: `110`
-  - vote_average: `7`
-  - vote_count: `6703`
+  - vote_average: `7.05`
+  - vote_count: `6836`
   - genres: `Action`, `Fantasy`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=jBa_aHwCbC4`
   - status: `active`
@@ -16010,7 +16383,49 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mortal Kombat - Rocky | https://oshakurfilms.com/watch/mortal-kombat-rocky | Rocky | 460465 | 460465 | https://playerwish.com/e/jkh8vngkvqbu | playerwish.com | https://www.mediafire.com/file/fnwk15xdt9n9anr/MORTAL_KOMBAT.mp4/file | www.mediafire.com |  |
+| 1 | Mortal Kombat | https://oshakurfilms.com/watch/mortal-kombat | UNSPECIFIED | 460465 | 460465 | https://playerwish.com/e/jkh8vngkvqbu | playerwish.com | https://www.mediafire.com/file/fnwk15xdt9n9anr/MORTAL_KOMBAT.mp4/file | www.mediafire.com |  |
+
+## Mortal Kombat II
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `931285`
+- canonical_title: `Mortal Kombat II`
+- original_title: `Mortal Kombat II`
+- normalized_title_guess: `Mortal Kombat II`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/hwRdDFIhaEmpRgoki805YvyyjZf.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg`
+- backdrop_path: `/laR2dpcNpbv83jdlRUNAYPPjH90.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=zva2PQ-ud5Y`
+- release_date: `2026-05-06`
+- runtime: `116`
+- vote_average: `7.99`
+- vote_count: `1765`
+- genres: `Action`, `Fantasy`, `Adventure`
+- movie_row:
+  - import_tmdb_id: `931285`
+  - title: `Mortal Kombat II`
+  - overview: `The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.`
+  - poster_path: `/hwRdDFIhaEmpRgoki805YvyyjZf.jpg`
+  - backdrop_path: `/laR2dpcNpbv83jdlRUNAYPPjH90.jpg`
+  - release_date: `2026-05-06`
+  - runtime: `116`
+  - vote_average: `7.99`
+  - vote_count: `1765`
+  - genres: `Action`, `Fantasy`, `Adventure`
+  - trailer_url: `https://www.youtube.com/watch?v=zva2PQ-ud5Y`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Mortal Kombat II | https://oshakurfilms.com/watch/mortal-kombat-ii | UNSPECIFIED | 931285 | 931285 | https://hgcloud.to/e/fbg87n5v3zk9 | hgcloud.to | https://www.mediafire.com/file/tmpoxqbjvh2j1ib/MORTAL+KOMBAT+2.mp4/file | www.mediafire.com |  |
 
 ## Most Dangerous Game
 
@@ -16018,37 +16433,37 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `1201459`
+- real_tmdb_id: `1709801`
 - canonical_title: `Most Dangerous Game`
 - original_title: `Most Dangerous Game`
 - normalized_title_guess: `Most Dangerous Game`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `backdrop_path`, `backdrop_url`, `trailer_url`
-- poster_path: `/wHoH8zinSdKzfkHS6Zl4WUhmyWz.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/wHoH8zinSdKzfkHS6Zl4WUhmyWz.jpg`
-- release_date: `2017-12-11`
-- runtime: `20`
-- vote_average: `0`
-- vote_count: `0`
-- genres: `Thriller`
+- poster_path: `/xeh9MrLuBosQgaS3mWky0VmSwo4.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/xeh9MrLuBosQgaS3mWky0VmSwo4.jpg`
+- release_date: `2022-05-01`
+- runtime: `127`
+- vote_average: `6.5`
+- vote_count: `2`
+- genres: `Action`
 - movie_row:
-  - import_tmdb_id: `1201459`
+  - import_tmdb_id: `1709801`
   - title: `Most Dangerous Game`
-  - overview: `A modern short film adaptation of the classic story "The Most Dangerous Game". It follows the story of Sanger Rainsford, a hunter that falls off of his yacht and washes ashore...`
-  - poster_path: `/wHoH8zinSdKzfkHS6Zl4WUhmyWz.jpg`
-  - release_date: `2017-12-11`
-  - runtime: `20`
-  - vote_average: `0`
-  - vote_count: `0`
-  - genres: `Thriller`
+  - overview: `A terminally ill man desperately joins a game agreeing to be hunted to earn money for his wife and soon-to-be son.`
+  - poster_path: `/xeh9MrLuBosQgaS3mWky0VmSwo4.jpg`
+  - release_date: `2022-05-01`
+  - runtime: `127`
+  - vote_average: `6.5`
+  - vote_count: `2`
+  - genres: `Action`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Most Dangerous Game - ROCKY | https://oshakurfilms.com/watch/most-dangerous-game-rocky | Rocky | 1201459 | 1201459 | https://hglink.to/e/gvjta2ueslft | hglink.to | https://www.mediafire.com/file/63krhwjfd4o70e2/MOST+DANGEROUS+GAME+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | Most Dangerous Game B - ROCKY | https://oshakurfilms.com/watch/most-dangerous-game-b-rocky | Rocky | 1201459 | 1201461 | https://hglink.to/e/td6acrd7rtie | hglink.to | https://www.mediafire.com/file/ucnoojznokv9fg7/MOST_DANGEROUS_GAME_B__.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | Most Dangerous Game - ROCKY | https://oshakurfilms.com/watch/most-dangerous-game-rocky | Rocky | 1709801 | 1709801 | https://hglink.to/e/gvjta2ueslft | hglink.to | https://www.mediafire.com/file/63krhwjfd4o70e2/MOST+DANGEROUS+GAME+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
+| 2 | Most Dangerous Game B - ROCKY | https://oshakurfilms.com/watch/most-dangerous-game-b-rocky | Rocky | 1709801 | 1709803 | https://hglink.to/e/td6acrd7rtie | hglink.to | https://www.mediafire.com/file/ucnoojznokv9fg7/MOST_DANGEROUS_GAME_B__.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 
 ## Most Wanted
 
@@ -16198,7 +16613,7 @@
 - release_date: `2005-06-07`
 - runtime: `120`
 - vote_average: `6.695`
-- vote_count: `11233`
+- vote_count: `11277`
 - genres: `Action`, `Comedy`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `787`
@@ -16209,7 +16624,7 @@
   - release_date: `2005-06-07`
   - runtime: `120`
   - vote_average: `6.695`
-  - vote_count: `11233`
+  - vote_count: `11277`
   - genres: `Action`, `Comedy`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=TWB_icm5M38`
   - status: `active`
@@ -16238,8 +16653,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/2pv723BfhVMCAwH9onNLX0JpVEE.jpg`
 - release_date: `2023-03-16`
 - runtime: `135`
-- vote_average: `5.699`
-- vote_count: `68`
+- vote_average: `5.717`
+- vote_count: `69`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `986594`
@@ -16249,8 +16664,8 @@
   - backdrop_path: `/2pv723BfhVMCAwH9onNLX0JpVEE.jpg`
   - release_date: `2023-03-16`
   - runtime: `135`
-  - vote_average: `5.699`
-  - vote_count: `68`
+  - vote_average: `5.717`
+  - vote_count: `69`
   - genres: `Drama`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -16263,13 +16678,13 @@
 
 - content_type: `movie`
 - upload_target_tables: `movies`
-- tmdb_match_status: `best_effort`
-- tmdb_match_notes: `Canonical title/name partially matched query.`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
 - real_tmdb_id: `762509`
 - canonical_title: `Mufasa: The Lion King`
 - original_title: `Mufasa: The Lion King`
-- normalized_title_guess: `Mufasa The Lion Kin`
-- narrators_found: `Gaheza Simba`
+- normalized_title_guess: `Mufasa The Lion King`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg`
@@ -16279,8 +16694,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=lMXh6vjiZrI`
 - release_date: `2024-12-18`
 - runtime: `118`
-- vote_average: `7.311`
-- vote_count: `2665`
+- vote_average: `7.302`
+- vote_count: `2690`
 - genres: `Adventure`, `Family`, `Animation`
 - movie_row:
   - import_tmdb_id: `762509`
@@ -16290,8 +16705,8 @@
   - backdrop_path: `/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg`
   - release_date: `2024-12-18`
   - runtime: `118`
-  - vote_average: `7.311`
-  - vote_count: `2665`
+  - vote_average: `7.302`
+  - vote_count: `2690`
   - genres: `Adventure`, `Family`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=lMXh6vjiZrI`
   - status: `active`
@@ -16299,7 +16714,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mufasa The Lion Kin - GAHEZA SIMBA | https://oshakurfilms.com/watch/mufasa-the-lion-kin-gaheza-simba | Gaheza Simba | 762509 | 762509 | https://iplayerhls.com/e/szh4swy9jg87 | iplayerhls.com | https://www.mediafire.com/file/y9mx0bstc9lso8d/MUFASA+THE+LION+KING.mp4/file | www.mediafire.com |  |
+| 1 | Mufasa The Lion King | https://oshakurfilms.com/watch/mufasa-the-lion-king | UNSPECIFIED | 762509 | 762509 | https://iplayerhls.com/e/szh4swy9jg87 | iplayerhls.com | https://www.mediafire.com/file/y9mx0bstc9lso8d/MUFASA+THE+LION+KING.mp4/file | www.mediafire.com |  |
 
 ## Mujhse Dosti Karoge!
 
@@ -16321,8 +16736,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2GP9HNBxW7U`
 - release_date: `2002-08-08`
 - runtime: `149`
-- vote_average: `6.258`
-- vote_count: `91`
+- vote_average: `6.229`
+- vote_count: `94`
 - genres: `Romance`, `Comedy`, `Drama`
 - movie_row:
   - import_tmdb_id: `26277`
@@ -16332,8 +16747,8 @@
   - backdrop_path: `/oibblWJhYxxHZozV6pSrgyiW4Fj.jpg`
   - release_date: `2002-08-08`
   - runtime: `149`
-  - vote_average: `6.258`
-  - vote_count: `91`
+  - vote_average: `6.229`
+  - vote_count: `94`
   - genres: `Romance`, `Comedy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=2GP9HNBxW7U`
   - status: `active`
@@ -16364,8 +16779,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qnsN2tuBgNg`
 - release_date: `2024-05-25`
 - runtime: `93`
-- vote_average: `6.083`
-- vote_count: `24`
+- vote_average: `6.385`
+- vote_count: `26`
 - genres: `Science Fiction`, `Romance`, `War`
 - movie_row:
   - import_tmdb_id: `1295415`
@@ -16375,8 +16790,8 @@
   - backdrop_path: `/hPaZByAT7gXRaJ6YU3NAX13DLdO.jpg`
   - release_date: `2024-05-25`
   - runtime: `93`
-  - vote_average: `6.083`
-  - vote_count: `24`
+  - vote_average: `6.385`
+  - vote_count: `26`
   - genres: `Science Fiction`, `Romance`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=qnsN2tuBgNg`
   - status: `active`
@@ -16575,8 +16990,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=po5IAj7iGyw`
 - release_date: `2002-11-15`
 - runtime: `90`
-- vote_average: `6.776`
-- vote_count: `399`
+- vote_average: `6.77`
+- vote_count: `402`
 - genres: `Action`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `10855`
@@ -16586,8 +17001,8 @@
   - backdrop_path: `/82kYHPzaE1Mv2MVnwmCYAqTDJQT.jpg`
   - release_date: `2002-11-15`
   - runtime: `90`
-  - vote_average: `6.776`
-  - vote_count: `399`
+  - vote_average: `6.77`
+  - vote_count: `402`
   - genres: `Action`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=po5IAj7iGyw`
   - status: `active`
@@ -16659,8 +17074,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ETlOSBR92Fs`
 - release_date: `2025-01-29`
 - runtime: `144`
-- vote_average: `8.168`
-- vote_count: `701`
+- vote_average: `8.156`
+- vote_count: `733`
 - genres: `Animation`, `Action`, `Fantasy`, `Adventure`
 - movie_row:
   - import_tmdb_id: `980477`
@@ -16670,8 +17085,8 @@
   - backdrop_path: `/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg`
   - release_date: `2025-01-29`
   - runtime: `144`
-  - vote_average: `8.168`
-  - vote_count: `701`
+  - vote_average: `8.156`
+  - vote_count: `733`
   - genres: `Animation`, `Action`, `Fantasy`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=ETlOSBR92Fs`
   - status: `active`
@@ -16701,8 +17116,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=e73J71RZRn8`
 - release_date: `2014-03-12`
 - runtime: `132`
-- vote_average: `6.434`
-- vote_count: `4706`
+- vote_average: `6.437`
+- vote_count: `4724`
 - genres: `Action`, `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `136797`
@@ -16712,8 +17127,8 @@
   - backdrop_path: `/syVAWAnY6fTBDDFntHsM8vFjKex.jpg`
   - release_date: `2014-03-12`
   - runtime: `132`
-  - vote_average: `6.434`
-  - vote_count: `4706`
+  - vote_average: `6.437`
+  - vote_count: `4724`
   - genres: `Action`, `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=e73J71RZRn8`
   - status: `active`
@@ -16743,8 +17158,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZNu-G-rd4H4`
 - release_date: `2021-10-20`
 - runtime: `107`
-- vote_average: `6.438`
-- vote_count: `866`
+- vote_average: `6.433`
+- vote_count: `876`
 - genres: `Horror`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `669671`
@@ -16754,8 +17169,8 @@
   - backdrop_path: `/xmqXQOGxFaUCZr9wXrD2WD2V3aT.jpg`
   - release_date: `2021-10-20`
   - runtime: `107`
-  - vote_average: `6.438`
-  - vote_count: `866`
+  - vote_average: `6.433`
+  - vote_count: `876`
   - genres: `Horror`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=ZNu-G-rd4H4`
   - status: `active`
@@ -16785,8 +17200,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7uaYhPpV7G4`
 - release_date: `2014-10-23`
 - runtime: `118`
-- vote_average: `7.708`
-- vote_count: `11732`
+- vote_average: `7.709`
+- vote_count: `11784`
 - genres: `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `242582`
@@ -16796,8 +17211,8 @@
   - backdrop_path: `/bdI6U1mT0kCdTJ6TWtiFxQ42GSn.jpg`
   - release_date: `2014-10-23`
   - runtime: `118`
-  - vote_average: `7.708`
-  - vote_count: `11732`
+  - vote_average: `7.709`
+  - vote_count: `11784`
   - genres: `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=7uaYhPpV7G4`
   - status: `active`
@@ -16865,8 +17280,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Dxmal-7WmyA`
 - release_date: `2013-12-27`
 - runtime: `95`
-- vote_average: `6.685`
-- vote_count: `425`
+- vote_average: `6.692`
+- vote_count: `431`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `180894`
@@ -16876,8 +17291,8 @@
   - backdrop_path: `/7Q67AjYx1EUC5lopy51wxgES6ap.jpg`
   - release_date: `2013-12-27`
   - runtime: `95`
-  - vote_average: `6.685`
-  - vote_count: `425`
+  - vote_average: `6.692`
+  - vote_count: `431`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Dxmal-7WmyA`
   - status: `active`
@@ -16907,8 +17322,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Dxmal-7WmyA`
 - release_date: `2013-12-27`
 - runtime: `95`
-- vote_average: `6.685`
-- vote_count: `425`
+- vote_average: `6.692`
+- vote_count: `431`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `180894`
@@ -16918,8 +17333,8 @@
   - backdrop_path: `/7Q67AjYx1EUC5lopy51wxgES6ap.jpg`
   - release_date: `2013-12-27`
   - runtime: `95`
-  - vote_average: `6.685`
-  - vote_count: `425`
+  - vote_average: `6.692`
+  - vote_count: `431`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Dxmal-7WmyA`
   - status: `active`
@@ -16942,26 +17357,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/jIXZEvL4dmgkjyhD5JUDeOaASKB.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/jIXZEvL4dmgkjyhD5JUDeOaASKB.jpg`
+- poster_path: `/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg`
 - backdrop_path: `/e3xcYVsoR5dfVM0kq1l0BTkSgzJ.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/e3xcYVsoR5dfVM0kq1l0BTkSgzJ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=DOjj07EuO50`
 - release_date: `2015-08-26`
 - runtime: `103`
-- vote_average: `6.94`
-- vote_count: `2721`
+- vote_average: `6.944`
+- vote_count: `2741`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `192141`
   - title: `No Escape`
   - overview: `In their new overseas home, an American family soon finds themselves caught in the middle of a coup, and they frantically look for a safe escape in an environment where foreigners are being immediately executed.`
-  - poster_path: `/jIXZEvL4dmgkjyhD5JUDeOaASKB.jpg`
+  - poster_path: `/6WLnzTG4Hz3lFvfZGSsyB8NFGgM.jpg`
   - backdrop_path: `/e3xcYVsoR5dfVM0kq1l0BTkSgzJ.jpg`
   - release_date: `2015-08-26`
   - runtime: `103`
-  - vote_average: `6.94`
-  - vote_count: `2721`
+  - vote_average: `6.944`
+  - vote_count: `2741`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=DOjj07EuO50`
   - status: `active`
@@ -16991,8 +17406,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Z4HxhzBG0ag`
 - release_date: `2013-03-09`
 - runtime: `87`
-- vote_average: `5.996`
-- vote_count: `692`
+- vote_average: `5.993`
+- vote_count: `694`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `123109`
@@ -17002,8 +17417,8 @@
   - backdrop_path: `/hoZHoGRC44auu2rc0smBtMMxsR7.jpg`
   - release_date: `2013-03-09`
   - runtime: `87`
-  - vote_average: `5.996`
-  - vote_count: `692`
+  - vote_average: `5.993`
+  - vote_count: `694`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Z4HxhzBG0ag`
   - status: `active`
@@ -17033,8 +17448,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=e1k1PC0TtmE`
 - release_date: `2024-01-18`
 - runtime: `90`
-- vote_average: `6.25`
-- vote_count: `1114`
+- vote_average: `6.244`
+- vote_count: `1121`
 - genres: `Thriller`, `Horror`, `Action`
 - movie_row:
   - import_tmdb_id: `1096197`
@@ -17044,8 +17459,8 @@
   - backdrop_path: `/4woSOUD0equAYzvwhWBHIJDCM88.jpg`
   - release_date: `2024-01-18`
   - runtime: `90`
-  - vote_average: `6.25`
-  - vote_count: `1114`
+  - vote_average: `6.244`
+  - vote_count: `1121`
   - genres: `Thriller`, `Horror`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=e1k1PC0TtmE`
   - status: `active`
@@ -17076,8 +17491,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wZti8QKBWPo`
 - release_date: `2021-03-18`
 - runtime: `91`
-- vote_average: `7.878`
-- vote_count: `8359`
+- vote_average: `7.876`
+- vote_count: `8419`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `615457`
@@ -17087,8 +17502,8 @@
   - backdrop_path: `/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg`
   - release_date: `2021-03-18`
   - runtime: `91`
-  - vote_average: `7.878`
-  - vote_count: `8359`
+  - vote_average: `7.876`
+  - vote_count: `8419`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=wZti8QKBWPo`
   - status: `active`
@@ -17121,8 +17536,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=UGOvEad8qd4`
 - release_date: `2025-08-13`
 - runtime: `89`
-- vote_average: `6.936`
-- vote_count: `1582`
+- vote_average: `6.931`
+- vote_count: `1634`
 - genres: `Action`, `Thriller`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1007734`
@@ -17132,8 +17547,8 @@
   - backdrop_path: `/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg`
   - release_date: `2025-08-13`
   - runtime: `89`
-  - vote_average: `6.936`
-  - vote_count: `1582`
+  - vote_average: `6.931`
+  - vote_count: `1634`
   - genres: `Action`, `Thriller`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=UGOvEad8qd4`
   - status: `active`
@@ -17143,6 +17558,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Nobody 2 - ROCKY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/nobody-2-rocky-agasobanuye-mu-kinyarwanda | Rocky | 1007734 | 1007734 | https://hglink.to/e/mymc6m67942t | hglink.to | https://www.mediafire.com/file/l58sadeioi7pnru/NOBODY_PART_2_A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 2 | Nobody 2B - ROCKY Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/nobody-2b-rocky-agasobanuye-mu-kinyarwanda | Rocky | 1007734 | 1007736 | https://hglink.to/e/48jmarz4f4h6 | hglink.to | https://www.mediafire.com/file/e5rfcg2kliogi8b/NOBODY_PART_2_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Normal
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1242332`
+- canonical_title: `Normal`
+- original_title: `Normal`
+- normalized_title_guess: `Normal`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/g8JqVRu2eC5SGJd9idauTXurMl2.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg`
+- backdrop_path: `/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=5OndK0w1lYY`
+- release_date: `2026-04-16`
+- runtime: `91`
+- vote_average: `6.446`
+- vote_count: `185`
+- genres: `Action`, `Crime`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `1242332`
+  - title: `Normal`
+  - overview: `An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.`
+  - poster_path: `/g8JqVRu2eC5SGJd9idauTXurMl2.jpg`
+  - backdrop_path: `/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg`
+  - release_date: `2026-04-16`
+  - runtime: `91`
+  - vote_average: `6.446`
+  - vote_count: `185`
+  - genres: `Action`, `Crime`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=5OndK0w1lYY`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Normal | https://oshakurfilms.com/watch/normal | UNSPECIFIED | 1242332 | 1242332 | https://www.mediafire.com/file/agnnor4678glc1t/Normal.mp4/file | www.mediafire.com | https://www.mediafire.com/file/agnnor4678glc1t/Normal.mp4/file | www.mediafire.com |  |
 
 ## Now You See Me
 
@@ -17164,8 +17621,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DaavRAV8a0A`
 - release_date: `2013-05-29`
 - runtime: `116`
-- vote_average: `7.332`
-- vote_count: `16800`
+- vote_average: `7.33`
+- vote_count: `16857`
 - genres: `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `75656`
@@ -17175,8 +17632,8 @@
   - backdrop_path: `/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg`
   - release_date: `2013-05-29`
   - runtime: `116`
-  - vote_average: `7.332`
-  - vote_count: `16800`
+  - vote_average: `7.33`
+  - vote_count: `16857`
   - genres: `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=DaavRAV8a0A`
   - status: `active`
@@ -17208,7 +17665,7 @@
 - release_date: `2016-06-02`
 - runtime: `129`
 - vote_average: `6.827`
-- vote_count: `11588`
+- vote_count: `11625`
 - genres: `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `291805`
@@ -17219,7 +17676,7 @@
   - release_date: `2016-06-02`
   - runtime: `129`
   - vote_average: `6.827`
-  - vote_count: `11588`
+  - vote_count: `11625`
   - genres: `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=JzZh8kJJwe4`
   - status: `active`
@@ -17250,8 +17707,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2M4hKmuBzUU`
 - release_date: `2026-02-13`
 - runtime: `178`
-- vote_average: `5.5`
-- vote_count: `12`
+- vote_average: `5.643`
+- vote_count: `14`
 - genres: `Romance`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `1275574`
@@ -17261,8 +17718,8 @@
   - backdrop_path: `/7AypNX6eZrqyUPZl77jvwTfHgeV.jpg`
   - release_date: `2026-02-13`
   - runtime: `178`
-  - vote_average: `5.5`
-  - vote_count: `12`
+  - vote_average: `5.643`
+  - vote_count: `14`
   - genres: `Romance`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=2M4hKmuBzUU`
   - status: `active`
@@ -17273,6 +17730,90 @@
 | 1 | O Romeo A . Perfect | https://oshakurfilms.com/watch/o-romeo-a-perfect | Perfect | 1275574 | 1275574 | https://hgcloud.to/e/66212yhu7zxn | hgcloud.to | https://www.mediafire.com/file/4bwy9ctn6hsxov1/O_Romeo_A_.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 2 | O Romeo B . Perfect | https://oshakurfilms.com/watch/o-romeo-b-perfect | Perfect | 1275574 | 1275576 | https://hgcloud.to/e/hq3vp2587xjf | hgcloud.to | https://www.mediafire.com/file/x9azfydnd7wf1v2/O_Remeo_B_2026_Perfect_India.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
 | 3 | O Romeo C . Perfect | https://oshakurfilms.com/watch/o-romeo-c-perfect | Perfect | 1275574 | 1275577 | https://hgcloud.to/e/1ta1l63axqgt | hgcloud.to | https://www.mediafire.com/file/z9si4brej87xci3/O_REMEO_C_2026_PERFECT_INDIA.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Office Romance
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1358005`
+- canonical_title: `Office Romance`
+- original_title: `Office Romance`
+- normalized_title_guess: `Office Romance`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg`
+- backdrop_path: `/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=11gcNa-TBRA`
+- release_date: `2026-06-04`
+- runtime: `115`
+- vote_average: `6.483`
+- vote_count: `271`
+- genres: `Romance`, `Comedy`
+- movie_row:
+  - import_tmdb_id: `1358005`
+  - title: `Office Romance`
+  - overview: `Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.`
+  - poster_path: `/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg`
+  - backdrop_path: `/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg`
+  - release_date: `2026-06-04`
+  - runtime: `115`
+  - vote_average: `6.483`
+  - vote_count: `271`
+  - genres: `Romance`, `Comedy`
+  - trailer_url: `https://www.youtube.com/watch?v=11gcNa-TBRA`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Office Romance | https://oshakurfilms.com/watch/office-romance | UNSPECIFIED | 1358005 | 1358005 | https://hgcloud.to/e/3ce19gbyxdaq | hgcloud.to | https://www.mediafire.com/file/ia8rjgd1syttnhj/Office+Romance+2026+Perfect.mp4/file | www.mediafire.com |  |
+
+## Old Boys
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `best_effort`
+- tmdb_match_notes: `Canonical title/name partially matched query.`
+- real_tmdb_id: `498301`
+- canonical_title: `Old Boys`
+- original_title: `Old Boys`
+- normalized_title_guess: `OLD BOY`
+- narrators_found: `Sankra`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/3CeLDFEGXfOQJeGyNafhC0jas5g.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/3CeLDFEGXfOQJeGyNafhC0jas5g.jpg`
+- backdrop_path: `/szo4wkPE5oC3F9islj8AJUGIhds.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/szo4wkPE5oC3F9islj8AJUGIhds.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=zHT-Ua6x_-4`
+- release_date: `2018-06-22`
+- runtime: `96`
+- vote_average: `6.566`
+- vote_count: `61`
+- genres: `Comedy`
+- movie_row:
+  - import_tmdb_id: `498301`
+  - title: `Old Boys`
+  - overview: `In the school-set re-working of Cyrano, an awkward but imaginative pupil helps the handsome but spectacularly dim school-hero pursue the fiery daughter of a visiting French teacher.`
+  - poster_path: `/3CeLDFEGXfOQJeGyNafhC0jas5g.jpg`
+  - backdrop_path: `/szo4wkPE5oC3F9islj8AJUGIhds.jpg`
+  - release_date: `2018-06-22`
+  - runtime: `96`
+  - vote_average: `6.566`
+  - vote_count: `61`
+  - genres: `Comedy`
+  - trailer_url: `https://www.youtube.com/watch?v=zHT-Ua6x_-4`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | OLD BOY - SANKRA | https://oshakurfilms.com/watch/old-boy-sankra | Sankra | 498301 | 498301 | https://drive.google.com/file/d/1nouicbPAlLyiFuzU4nz-7_BSwCKDqWI7/preview | drive.google.com | https://drive.google.com/file/d/1nouicbPAlLyiFuzU4nz-7_BSwCKDqWI7/preview | drive.google.com |  |
 
 ## Olympus Has Fallen
 
@@ -17294,8 +17835,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ar-IaAx7s8k`
 - release_date: `2013-03-20`
 - runtime: `120`
-- vote_average: `6.417`
-- vote_count: `7068`
+- vote_average: `6.416`
+- vote_count: `7094`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `117263`
@@ -17305,8 +17846,8 @@
   - backdrop_path: `/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg`
   - release_date: `2013-03-20`
   - runtime: `120`
-  - vote_average: `6.417`
-  - vote_count: `7068`
+  - vote_average: `6.416`
+  - vote_count: `7094`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=ar-IaAx7s8k`
   - status: `active`
@@ -17418,8 +17959,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Bx08Cumv-wc`
 - release_date: `2008-12-04`
 - runtime: `98`
-- vote_average: `6.472`
-- vote_count: `720`
+- vote_average: `6.482`
+- vote_count: `726`
 - genres: `Adventure`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `16353`
@@ -17429,8 +17970,8 @@
   - backdrop_path: `/3ZH69oLWaAmnR0WNGnTQkituwSF.jpg`
   - release_date: `2008-12-04`
   - runtime: `98`
-  - vote_average: `6.472`
-  - vote_count: `720`
+  - vote_average: `6.482`
+  - vote_count: `726`
   - genres: `Adventure`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Bx08Cumv-wc`
   - status: `active`
@@ -17525,6 +18066,48 @@
 | 1 | Operation Mekong - GAHEZA | https://oshakurfilms.com/watch/operation-mekong-gaheza | Gaheza | 415214 | 415214 | https://hglink.to/e/4wpetvodxzug | hglink.to | https://www.mediafire.com/file/1vp6y0ot6oungbo/Operation_mekong_by_GAHEZA.mp4/file | www.mediafire.com |  |
 | 1 | Operation mekong - Pk | https://oshakurfilms.com/watch/operation-mekong-pk | PK | 415214 | 415214 | https://drive.google.com/file/d/1vJ8auS9PhVFeR519YgMZo1illzAHyPao/preview | drive.google.com | https://drive.google.com/file/d/1vJ8auS9PhVFeR519YgMZo1illzAHyPao/preview | drive.google.com |  |
 
+## Over Your Dead Body
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1390300`
+- canonical_title: `Over Your Dead Body`
+- original_title: `Over Your Dead Body`
+- normalized_title_guess: `Over Your Dead Body`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg`
+- backdrop_path: `/sb76azrAXr9U13uEQxNP5e3fujY.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/sb76azrAXr9U13uEQxNP5e3fujY.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=pGxKTIegUZ4`
+- release_date: `2026-03-14`
+- runtime: `105`
+- vote_average: `6.511`
+- vote_count: `365`
+- genres: `Action`, `Comedy`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `1390300`
+  - title: `Over Your Dead Body`
+  - overview: `A dysfunctional couple head to a remote cabin to "reconnect", but each has secret intentions to kill the other.`
+  - poster_path: `/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg`
+  - backdrop_path: `/sb76azrAXr9U13uEQxNP5e3fujY.jpg`
+  - release_date: `2026-03-14`
+  - runtime: `105`
+  - vote_average: `6.511`
+  - vote_count: `365`
+  - genres: `Action`, `Comedy`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=pGxKTIegUZ4`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Over Your Dead Body | https://oshakurfilms.com/watch/over-your-dead-body | UNSPECIFIED | 1390300 | 1390300 | https://hgcloud.to/e/iyvogjre7g35 | hgcloud.to | https://www.mediafire.com/file/yezun0g3odw0pfd/Over_Your_Dead_Body.mp4/file | www.mediafire.com |  |
+
 ## Overdrive
 
 - content_type: `movie`
@@ -17536,28 +18119,30 @@
 - original_title: `Overdrive`
 - normalized_title_guess: `Overdrive`
 - narrators_found: `Gaheza`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
 - poster_path: `/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg`
-- backdrop_path: `/3jKQt2uo8vDXvULMjEEnEzDtFWL.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/3jKQt2uo8vDXvULMjEEnEzDtFWL.jpg`
+- backdrop_path: `/ywMkKd0heYn5TOYykSNZnw5xqnh.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/ywMkKd0heYn5TOYykSNZnw5xqnh.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=fXk9S9cwsEg`
 - release_date: `2017-06-16`
 - runtime: `93`
 - vote_average: `6.1`
-- vote_count: `1009`
+- vote_count: `1015`
 - genres: `Thriller`, `Action`, `Mystery`
 - movie_row:
   - import_tmdb_id: `404733`
   - title: `Overdrive`
   - overview: `Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.`
   - poster_path: `/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg`
-  - backdrop_path: `/3jKQt2uo8vDXvULMjEEnEzDtFWL.jpg`
+  - backdrop_path: `/ywMkKd0heYn5TOYykSNZnw5xqnh.jpg`
   - release_date: `2017-06-16`
   - runtime: `93`
   - vote_average: `6.1`
-  - vote_count: `1009`
+  - vote_count: `1015`
   - genres: `Thriller`, `Action`, `Mystery`
+  - trailer_url: `https://www.youtube.com/watch?v=fXk9S9cwsEg`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
@@ -17585,8 +18170,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=V4lCZg3GR9c`
 - release_date: `2018-02-09`
 - runtime: `140`
-- vote_average: `7.452`
-- vote_count: `240`
+- vote_average: `7.469`
+- vote_count: `244`
 - genres: `Comedy`, `Drama`
 - movie_row:
   - import_tmdb_id: `447856`
@@ -17596,8 +18181,8 @@
   - backdrop_path: `/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg`
   - release_date: `2018-02-09`
   - runtime: `140`
-  - vote_average: `7.452`
-  - vote_count: `240`
+  - vote_average: `7.469`
+  - vote_count: `244`
   - genres: `Comedy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=V4lCZg3GR9c`
   - status: `active`
@@ -17628,8 +18213,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kb1C19HGBu8`
 - release_date: `2024-10-01`
 - runtime: `99`
-- vote_average: `6.8`
-- vote_count: `290`
+- vote_average: `6.9`
+- vote_count: `294`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `1160956`
@@ -17639,8 +18224,8 @@
   - backdrop_path: `/8cc4AypHsnqcCQeIIpNoh6Wrc5B.jpg`
   - release_date: `2024-10-01`
   - runtime: `99`
-  - vote_average: `6.8`
-  - vote_count: `290`
+  - vote_average: `6.9`
+  - vote_count: `294`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=kb1C19HGBu8`
   - status: `active`
@@ -17663,26 +18248,26 @@
 - narrators_found: `Gaheza`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg`
+- poster_path: `/wa5zWJgomqEmCZTfoLSpBBYAcLr.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/wa5zWJgomqEmCZTfoLSpBBYAcLr.jpg`
 - backdrop_path: `/9wRAIQeOv2qzcgpfvA4dYZKeezl.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/9wRAIQeOv2qzcgpfvA4dYZKeezl.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=yswBxKPFSvA`
 - release_date: `2023-01-25`
 - runtime: `146`
-- vote_average: `6.427`
-- vote_count: `253`
+- vote_average: `6.4`
+- vote_count: `258`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `864692`
   - title: `Pathaan`
   - overview: `A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.`
-  - poster_path: `/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg`
+  - poster_path: `/wa5zWJgomqEmCZTfoLSpBBYAcLr.jpg`
   - backdrop_path: `/9wRAIQeOv2qzcgpfvA4dYZKeezl.jpg`
   - release_date: `2023-01-25`
   - runtime: `146`
-  - vote_average: `6.427`
-  - vote_count: `253`
+  - vote_average: `6.4`
+  - vote_count: `258`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=yswBxKPFSvA`
   - status: `active`
@@ -17713,8 +18298,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=cRvHl1dThlg`
 - release_date: `2020-07-15`
 - runtime: `116`
-- vote_average: `6.719`
-- vote_count: `2583`
+- vote_average: `6.716`
+- vote_count: `2597`
 - genres: `Horror`, `Action`, `Thriller`, `Adventure`
 - movie_row:
   - import_tmdb_id: `581392`
@@ -17724,8 +18309,8 @@
   - backdrop_path: `/gEjNlhZhyHeto6Fy5wWy5Uk3A9D.jpg`
   - release_date: `2020-07-15`
   - runtime: `116`
-  - vote_average: `6.719`
-  - vote_count: `2583`
+  - vote_average: `6.716`
+  - vote_count: `2597`
   - genres: `Horror`, `Action`, `Thriller`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=cRvHl1dThlg`
   - status: `active`
@@ -17756,8 +18341,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3ittn4f0Em4`
 - release_date: `2018-02-07`
 - runtime: `93`
-- vote_average: `6.699`
-- vote_count: `1919`
+- vote_average: `6.7`
+- vote_count: `1932`
 - genres: `Animation`, `Adventure`, `Family`
 - movie_row:
   - import_tmdb_id: `381719`
@@ -17767,8 +18352,8 @@
   - backdrop_path: `/1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg`
   - release_date: `2018-02-07`
   - runtime: `93`
-  - vote_average: `6.699`
-  - vote_count: `1919`
+  - vote_average: `6.7`
+  - vote_count: `1932`
   - genres: `Animation`, `Adventure`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=3ittn4f0Em4`
   - status: `active`
@@ -17798,8 +18383,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=oCR7-3cxL48`
 - release_date: `2021-03-25`
 - runtime: `93`
-- vote_average: `7.056`
-- vote_count: `890`
+- vote_average: `7.042`
+- vote_count: `897`
 - genres: `Comedy`, `Family`, `Adventure`
 - movie_row:
   - import_tmdb_id: `522478`
@@ -17809,8 +18394,8 @@
   - backdrop_path: `/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg`
   - release_date: `2021-03-25`
   - runtime: `93`
-  - vote_average: `7.056`
-  - vote_count: `890`
+  - vote_average: `7.042`
+  - vote_count: `897`
   - genres: `Comedy`, `Family`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=oCR7-3cxL48`
   - status: `active`
@@ -17835,24 +18420,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg`
-- backdrop_path: `/tZvdyLP2F6x2TTuh292ceH87qZT.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/tZvdyLP2F6x2TTuh292ceH87qZT.jpg`
+- backdrop_path: `/7C921eWK06n12c1miRXnYoEu5Yv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/7C921eWK06n12c1miRXnYoEu5Yv.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=jnVk2C2YrSA`
 - release_date: `2017-05-23`
 - runtime: `129`
-- vote_average: `6.658`
-- vote_count: `12819`
+- vote_average: `6.661`
+- vote_count: `12860`
 - genres: `Adventure`, `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `166426`
   - title: `Pirates of the Caribbean: Dead Men Tell No Tales`
   - overview: `Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.`
   - poster_path: `/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg`
-  - backdrop_path: `/tZvdyLP2F6x2TTuh292ceH87qZT.jpg`
+  - backdrop_path: `/7C921eWK06n12c1miRXnYoEu5Yv.jpg`
   - release_date: `2017-05-23`
   - runtime: `129`
-  - vote_average: `6.658`
-  - vote_count: `12819`
+  - vote_average: `6.661`
+  - vote_count: `12860`
   - genres: `Adventure`, `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=jnVk2C2YrSA`
   - status: `active`
@@ -17877,26 +18462,26 @@
 - narrators_found: `PK`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg`
-- backdrop_path: `/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg`
+- poster_path: `/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg`
+- backdrop_path: `/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=-9HT0l9HV4c`
 - release_date: `2003-07-09`
 - runtime: `143`
-- vote_average: `7.826`
-- vote_count: `22270`
+- vote_average: `7.828`
+- vote_count: `22352`
 - genres: `Adventure`, `Fantasy`, `Action`
 - movie_row:
   - import_tmdb_id: `22`
   - title: `Pirates of the Caribbean: The Curse of the Black Pearl`
   - overview: `When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.`
-  - poster_path: `/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg`
-  - backdrop_path: `/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg`
+  - poster_path: `/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg`
+  - backdrop_path: `/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg`
   - release_date: `2003-07-09`
   - runtime: `143`
-  - vote_average: `7.826`
-  - vote_count: `22270`
+  - vote_average: `7.828`
+  - vote_count: `22352`
   - genres: `Adventure`, `Fantasy`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=-9HT0l9HV4c`
   - status: `active`
@@ -17908,7 +18493,7 @@
 
 ## PK
 
-- content_type: `movie_part`
+- content_type: `movie`
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
@@ -17916,7 +18501,7 @@
 - canonical_title: `PK`
 - original_title: `पीके`
 - normalized_title_guess: `PK`
-- narrators_found: `Savimbi`
+- narrators_found: `PK`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg`
@@ -17926,8 +18511,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=SOXWc32k4zA`
 - release_date: `2014-12-18`
 - runtime: `153`
-- vote_average: `7.697`
-- vote_count: `1158`
+- vote_average: `7.7`
+- vote_count: `1169`
 - genres: `Comedy`, `Drama`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `297222`
@@ -17937,8 +18522,8 @@
   - backdrop_path: `/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg`
   - release_date: `2014-12-18`
   - runtime: `153`
-  - vote_average: `7.697`
-  - vote_count: `1158`
+  - vote_average: `7.7`
+  - vote_count: `1169`
   - genres: `Comedy`, `Drama`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=SOXWc32k4zA`
   - status: `active`
@@ -17946,8 +18531,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | PK . Savimbi | https://oshakurfilms.com/watch/pk-savimbi | Savimbi | 297222 | 297222 | https://hgcloud.to/e/jerqv7yuh3ky | hgcloud.to | https://www.mediafire.com/file/jd2b4s2ihr7b8l9/Pk+A+By+Savimb.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | PK B . Savimbi | https://oshakurfilms.com/watch/pk-b-savimbi | Savimbi | 297222 | 297224 | https://hgcloud.to/e/45mzq96ez9c2 | hgcloud.to | https://www.mediafire.com/file/xv42ppf9z015kgr/Pk+B+By+Savimb.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | PK | https://oshakurfilms.com/watch/pk | PK | 297222 | 297222 | https://hgcloud.to/e/jerqv7yuh3ky | hgcloud.to | https://www.mediafire.com/file/jd2b4s2ihr7b8l9/Pk+A+By+Savimb.mp4/file | www.mediafire.com |  |
 
 ## Play Dirty
 
@@ -17969,8 +18553,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=6paP2-ry-QY`
 - release_date: `2025-09-30`
 - runtime: `128`
-- vote_average: `6.573`
-- vote_count: `624`
+- vote_average: `6.568`
+- vote_count: `644`
 - genres: `Crime`, `Action`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `941109`
@@ -17980,8 +18564,8 @@
   - backdrop_path: `/k6tdiMTO39RQj3dhfspuzprfoe0.jpg`
   - release_date: `2025-09-30`
   - runtime: `128`
-  - vote_average: `6.573`
-  - vote_count: `624`
+  - vote_average: `6.568`
+  - vote_count: `644`
   - genres: `Crime`, `Action`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=6paP2-ry-QY`
   - status: `active`
@@ -18047,26 +18631,26 @@
 - narrators_found: `Yanga`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg`
+- poster_path: `/mUJOyCd4g0pNsU8thYI7UGrIpkl.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/mUJOyCd4g0pNsU8thYI7UGrIpkl.jpg`
 - backdrop_path: `/A6razMAH4tyHE3vuxYhsClGQ18z.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/A6razMAH4tyHE3vuxYhsClGQ18z.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=7grXAiYDX3c`
 - release_date: `1992-07-04`
 - runtime: `95`
-- vote_average: `6.908`
-- vote_count: `571`
+- vote_average: `6.9`
+- vote_count: `580`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `11134`
   - title: `Police Story 3: Super Cop`
   - overview: `A Hong Kong detective teams up with his female Red Chinese counterpart to stop a Chinese drug czar.`
-  - poster_path: `/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg`
+  - poster_path: `/mUJOyCd4g0pNsU8thYI7UGrIpkl.jpg`
   - backdrop_path: `/A6razMAH4tyHE3vuxYhsClGQ18z.jpg`
   - release_date: `1992-07-04`
   - runtime: `95`
-  - vote_average: `6.908`
-  - vote_count: `571`
+  - vote_average: `6.9`
+  - vote_count: `580`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=7grXAiYDX3c`
   - status: `active`
@@ -18091,24 +18675,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg`
-- backdrop_path: `/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg`
+- backdrop_path: `/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=LkBqjfg8TGM`
 - release_date: `2025-11-05`
 - runtime: `107`
-- vote_average: `7.774`
-- vote_count: `3024`
+- vote_average: `7.812`
+- vote_count: `3196`
 - genres: `Action`, `Science Fiction`, `Adventure`
 - movie_row:
   - import_tmdb_id: `1242898`
   - title: `Predator: Badlands`
   - overview: `Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.`
   - poster_path: `/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg`
-  - backdrop_path: `/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg`
+  - backdrop_path: `/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg`
   - release_date: `2025-11-05`
   - runtime: `107`
-  - vote_average: `7.774`
-  - vote_count: `3024`
+  - vote_average: `7.812`
+  - vote_count: `3196`
   - genres: `Action`, `Science Fiction`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=LkBqjfg8TGM`
   - status: `active`
@@ -18117,46 +18701,6 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Predator Badlands . Gaheza SImba Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/predator-badlands-gaheza-simba-agasobanuye-mu-kinyarwanda | Gaheza Simba | 1242898 | 1242898 | https://hglink.to/e/fuihtrzdfa4x | hglink.to | https://www.mediafire.com/file/mlsv4w1bv8miqnw/PREDATOR_BADLANDS.mp4/file | www.mediafire.com |  |
-
-## Pretty Cure All Stars DX2: The Light of Hope - Protect the Rainbow Jewel!
-
-- content_type: `movie`
-- upload_target_tables: `movies`
-- tmdb_match_status: `needs_review`
-- tmdb_match_notes: `No strong lexical match; chose best available search result.`
-- real_tmdb_id: `57869`
-- canonical_title: `Pretty Cure All Stars DX2: The Light of Hope - Protect the Rainbow Jewel!`
-- original_title: `映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ！`
-- normalized_title_guess: `The Cure 2`
-- narrators_found: `Sankra`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/aFD9uh6alAK66B3RZtJIGtHAMrB.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/aFD9uh6alAK66B3RZtJIGtHAMrB.jpg`
-- backdrop_path: `/2wWQzGP3JOJg70EKtZosqFMlKO6.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/2wWQzGP3JOJg70EKtZosqFMlKO6.jpg`
-- release_date: `2010-03-14`
-- runtime: `70`
-- vote_average: `6`
-- vote_count: `13`
-- genres: `Animation`, `Comedy`, `Fantasy`, `Action`, `Adventure`, `Family`
-- movie_row:
-  - import_tmdb_id: `57869`
-  - title: `Pretty Cure All Stars DX2: The Light of Hope - Protect the Rainbow Jewel!`
-  - overview: `Tsubomi Hanasaki is woken by her best friend Erika Kurumi only to find out that their two fairies, Coffret and Shypre, have left just leaving a note explaining where to find them. Fairy Park is not only the destination of both girls, it is also the meeting point of all other Precures who planned to spend this special day together. This magical theme park holds the Rainbow Jewel, a special gem that represents all of the hopes and dreams of the world. Such a powerful stone is the object of desire of a malefic entity named Bottom who has waited one thousand years for the opportunity to possess it.`
-  - poster_path: `/aFD9uh6alAK66B3RZtJIGtHAMrB.jpg`
-  - backdrop_path: `/2wWQzGP3JOJg70EKtZosqFMlKO6.jpg`
-  - release_date: `2010-03-14`
-  - runtime: `70`
-  - vote_average: `6`
-  - vote_count: `13`
-  - genres: `Animation`, `Comedy`, `Fantasy`, `Action`, `Adventure`, `Family`
-  - status: `active`
-  - scheduled_release: `OPTIONAL_NOT_SET`
-- movie_parts:
-| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Cure 2 - SANKRA | https://oshakurfilms.com/watch/the-cure-2-sankra | Sankra | 57869 | 57869 | https://dhcplay.com/e/xng0ywmg4h6k | dhcplay.com | https://www.mediafire.com/file/egcxby7ld1q77hb/The_Cure_2_by_sankra.mp4/file | www.mediafire.com |  |
 
 ## Prey
 
@@ -18171,26 +18715,26 @@
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg`
-- backdrop_path: `/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg`
+- poster_path: `/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg`
+- backdrop_path: `/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=wZ7LytagKlc`
 - release_date: `2022-08-02`
 - runtime: `100`
-- vote_average: `7.658`
-- vote_count: `7730`
+- vote_average: `7.659`
+- vote_count: `7775`
 - genres: `Thriller`, `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `766507`
   - title: `Prey`
   - overview: `When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.`
-  - poster_path: `/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg`
-  - backdrop_path: `/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg`
+  - poster_path: `/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg`
+  - backdrop_path: `/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg`
   - release_date: `2022-08-02`
   - runtime: `100`
-  - vote_average: `7.658`
-  - vote_count: `7730`
+  - vote_average: `7.659`
+  - vote_count: `7775`
   - genres: `Thriller`, `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=wZ7LytagKlc`
   - status: `active`
@@ -18220,8 +18764,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=IRKGIuL3728`
 - release_date: `2026-02-20`
 - runtime: `90`
-- vote_average: `7.947`
-- vote_count: `161`
+- vote_average: `8.549`
+- vote_count: `381`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1383731`
@@ -18231,8 +18775,8 @@
   - backdrop_path: `/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg`
   - release_date: `2026-02-20`
   - runtime: `90`
-  - vote_average: `7.947`
-  - vote_count: `161`
+  - vote_average: `8.549`
+  - vote_count: `381`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=IRKGIuL3728`
   - status: `active`
@@ -18262,8 +18806,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=WTLgg8oRSBE`
 - release_date: `2022-07-29`
 - runtime: `122`
-- vote_average: `8.042`
-- vote_count: `2876`
+- vote_average: `8.046`
+- vote_count: `2889`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `762975`
@@ -18273,8 +18817,8 @@
   - backdrop_path: `/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg`
   - release_date: `2022-07-29`
   - runtime: `122`
-  - vote_average: `8.042`
-  - vote_count: `2876`
+  - vote_average: `8.046`
+  - vote_count: `2889`
   - genres: `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=WTLgg8oRSBE`
   - status: `active`
@@ -18303,8 +18847,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg`
 - release_date: `2024-12-04`
 - runtime: `201`
-- vote_average: `6.279`
-- vote_count: `145`
+- vote_average: `6.3`
+- vote_count: `148`
 - genres: `Action`, `Drama`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `857598`
@@ -18314,8 +18858,8 @@
   - backdrop_path: `/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg`
   - release_date: `2024-12-04`
   - runtime: `201`
-  - vote_average: `6.279`
-  - vote_count: `145`
+  - vote_average: `6.3`
+  - vote_count: `148`
   - genres: `Action`, `Drama`, `Thriller`, `Crime`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -18341,26 +18885,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/oaRk2HgOirEeNuDCwwScmq7rKvS.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/oaRk2HgOirEeNuDCwwScmq7rKvS.jpg`
+- poster_path: `/4DpNRjV7ITZ1GzCvrvCk86th0w.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/4DpNRjV7ITZ1GzCvrvCk86th0w.jpg`
 - backdrop_path: `/jQIcn51nsvMrpB9NFwEOb9QHhFt.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/jQIcn51nsvMrpB9NFwEOb9QHhFt.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=ou6h-22tMnA`
 - release_date: `2021-12-16`
 - runtime: `179`
-- vote_average: `6.765`
-- vote_count: `185`
+- vote_average: `6.8`
+- vote_count: `190`
 - genres: `Action`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `690957`
   - title: `Pushpa: The Rise`
   - overview: `As Pushpa, a labourer, rises in the world of red sandalwood smuggling, he ends up making many enemies. However, violence ensues when the police try to topple his illegal business.`
-  - poster_path: `/oaRk2HgOirEeNuDCwwScmq7rKvS.jpg`
+  - poster_path: `/4DpNRjV7ITZ1GzCvrvCk86th0w.jpg`
   - backdrop_path: `/jQIcn51nsvMrpB9NFwEOb9QHhFt.jpg`
   - release_date: `2021-12-16`
   - runtime: `179`
-  - vote_average: `6.765`
-  - vote_count: `185`
+  - vote_average: `6.8`
+  - vote_count: `190`
   - genres: `Action`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=ou6h-22tMnA`
   - status: `active`
@@ -18391,9 +18935,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=k2qgYK1CrkQ`
 - release_date: `2025-01-09`
 - runtime: `109`
-- vote_average: `6.161`
-- vote_count: `56`
-- genres: `Thriller`, `War`, `Crime`
+- vote_average: `6.088`
+- vote_count: `57`
+- genres: `Thriller`, `Crime`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `1255795`
   - title: `Putin`
@@ -18402,9 +18946,9 @@
   - backdrop_path: `/8FSB22d8lFe7OIHNXVcw8t8OSri.jpg`
   - release_date: `2025-01-09`
   - runtime: `109`
-  - vote_average: `6.161`
-  - vote_count: `56`
-  - genres: `Thriller`, `War`, `Crime`
+  - vote_average: `6.088`
+  - vote_count: `57`
+  - genres: `Thriller`, `Crime`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=k2qgYK1CrkQ`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -18434,8 +18978,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=V496LGfxr38`
 - release_date: `2016-06-17`
 - runtime: `127`
-- vote_average: `4`
-- vote_count: `28`
+- vote_average: `3.983`
+- vote_count: `29`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `363335`
@@ -18445,8 +18989,8 @@
   - backdrop_path: `/hqTHJo3ZujarFb19IXoW0JYV2t3.jpg`
   - release_date: `2016-06-17`
   - runtime: `127`
-  - vote_average: `4`
-  - vote_count: `28`
+  - vote_average: `3.983`
+  - vote_count: `29`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=V496LGfxr38`
   - status: `active`
@@ -18472,23 +19016,23 @@
 - tmdb_unavailable_fields: `trailer_url`
 - poster_path: `/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg`
-- backdrop_path: `/dXE0wWG9vaFd7HZ7Zi2cmExQ2ih.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/dXE0wWG9vaFd7HZ7Zi2cmExQ2ih.jpg`
+- backdrop_path: `/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg`
 - release_date: `2008-12-11`
 - runtime: `167`
-- vote_average: `7.122`
-- vote_count: `316`
+- vote_average: `7.098`
+- vote_count: `322`
 - genres: `Comedy`, `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `14072`
   - title: `Rab Ne Bana Di Jodi`
   - overview: `A lonely 40-ish man, likely to remain a bachelor, has a chance to find the love of his life when he falls for a vivacious young woman.`
   - poster_path: `/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg`
-  - backdrop_path: `/dXE0wWG9vaFd7HZ7Zi2cmExQ2ih.jpg`
+  - backdrop_path: `/AcLsfw3TVZGFFT8yRA5StPKk65y.jpg`
   - release_date: `2008-12-11`
   - runtime: `167`
-  - vote_average: `7.122`
-  - vote_count: `316`
+  - vote_average: `7.098`
+  - vote_count: `322`
   - genres: `Comedy`, `Drama`, `Romance`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -18510,25 +19054,25 @@
 - narrators_found: `Didier`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/n6kZfTjuTK3P9ByRFTkBlUwdBRA.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/n6kZfTjuTK3P9ByRFTkBlUwdBRA.jpg`
+- poster_path: `/3jXfMEyO1Xat7HsoMVhtOxFN6Cn.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/3jXfMEyO1Xat7HsoMVhtOxFN6Cn.jpg`
 - backdrop_path: `/wzTvcz6wxG6OZc8YhDFPYBITwTl.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/wzTvcz6wxG6OZc8YhDFPYBITwTl.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=n5MVzhwupBY`
 - release_date: `2021-05-12`
 - runtime: `135`
-- vote_average: `3.799`
+- vote_average: `3.8`
 - vote_count: `67`
 - genres: `Action`, `Adventure`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `679844`
   - title: `Radhe`
   - overview: `As Mumbai’s youth are falling prey to rampant drug abuse, suspended cop Radhe is recalled for a clean-up mission. But Radhe is up against a dangerous new outlaw Rana, who will stop at nothing to rule the city.`
-  - poster_path: `/n6kZfTjuTK3P9ByRFTkBlUwdBRA.jpg`
+  - poster_path: `/3jXfMEyO1Xat7HsoMVhtOxFN6Cn.jpg`
   - backdrop_path: `/wzTvcz6wxG6OZc8YhDFPYBITwTl.jpg`
   - release_date: `2021-05-12`
   - runtime: `135`
-  - vote_average: `3.799`
+  - vote_average: `3.8`
   - vote_count: `67`
   - genres: `Action`, `Adventure`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=n5MVzhwupBY`
@@ -18559,8 +19103,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=GGmK2iW9ZgM`
 - release_date: `2022-03-10`
 - runtime: `138`
-- vote_average: `5`
-- vote_count: `38`
+- vote_average: `5.113`
+- vote_count: `40`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `673392`
@@ -18570,8 +19114,8 @@
   - backdrop_path: `/gRBToD4AcpWJhHQraA69CeMLNXu.jpg`
   - release_date: `2022-03-10`
   - runtime: `138`
-  - vote_average: `5`
-  - vote_count: `38`
+  - vote_average: `5.113`
+  - vote_count: `40`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=GGmK2iW9ZgM`
   - status: `active`
@@ -18602,8 +19146,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=spy-dhYLRxI`
 - release_date: `2021-07-28`
 - runtime: `125`
-- vote_average: `7.074`
-- vote_count: `299`
+- vote_average: `7.1`
+- vote_count: `302`
 - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Mystery`
 - movie_row:
   - import_tmdb_id: `513692`
@@ -18613,8 +19157,8 @@
   - backdrop_path: `/qLtREPyJgxewgK3l68epEQeHTVR.jpg`
   - release_date: `2021-07-28`
   - runtime: `125`
-  - vote_average: `7.074`
-  - vote_count: `299`
+  - vote_average: `7.1`
+  - vote_count: `302`
   - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=spy-dhYLRxI`
   - status: `active`
@@ -18644,8 +19188,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ejM7ZCEzs5A`
 - release_date: `2009-08-12`
 - runtime: `113`
-- vote_average: `6.442`
-- vote_count: `78`
+- vote_average: `6.437`
+- vote_count: `79`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `25855`
@@ -18655,8 +19199,8 @@
   - backdrop_path: `/8t9pNKhcGFnum8nuLWvKdmZccum.jpg`
   - release_date: `2009-08-12`
   - runtime: `113`
-  - vote_average: `6.442`
-  - vote_count: `78`
+  - vote_average: `6.437`
+  - vote_count: `79`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=ejM7ZCEzs5A`
   - status: `active`
@@ -18686,8 +19230,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=UysNzAH4xHc`
 - release_date: `1996-11-15`
 - runtime: `177`
-- vote_average: `6.429`
-- vote_count: `70`
+- vote_average: `6.417`
+- vote_count: `72`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `21566`
@@ -18697,8 +19241,8 @@
   - backdrop_path: `/20iAq3KbalEdV7ODys9YnE7RnBV.jpg`
   - release_date: `1996-11-15`
   - runtime: `177`
-  - vote_average: `6.429`
-  - vote_count: `70`
+  - vote_average: `6.417`
+  - vote_count: `72`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=UysNzAH4xHc`
   - status: `active`
@@ -18728,8 +19272,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2oVMgRVk4lE`
 - release_date: `2008-01-24`
 - runtime: `92`
-- vote_average: `6.697`
-- vote_count: `4268`
+- vote_average: `6.699`
+- vote_count: `4292`
 - genres: `Action`, `Thriller`, `War`
 - movie_row:
   - import_tmdb_id: `7555`
@@ -18739,8 +19283,8 @@
   - backdrop_path: `/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg`
   - release_date: `2008-01-24`
   - runtime: `92`
-  - vote_average: `6.697`
-  - vote_count: `4268`
+  - vote_average: `6.699`
+  - vote_count: `4292`
   - genres: `Action`, `Thriller`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=2oVMgRVk4lE`
   - status: `active`
@@ -18773,7 +19317,7 @@
 - release_date: `2011-03-02`
 - runtime: `107`
 - vote_average: `6.9`
-- vote_count: `7111`
+- vote_count: `7154`
 - genres: `Animation`, `Comedy`, `Family`, `Western`, `Adventure`
 - movie_row:
   - import_tmdb_id: `44896`
@@ -18784,7 +19328,7 @@
   - release_date: `2011-03-02`
   - runtime: `107`
   - vote_average: `6.9`
-  - vote_count: `7111`
+  - vote_count: `7154`
   - genres: `Animation`, `Comedy`, `Family`, `Western`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=_gQys92pTqM`
   - status: `active`
@@ -18814,8 +19358,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LBwfO9Hj6oQ`
 - release_date: `2019-08-21`
 - runtime: `96`
-- vote_average: `7.072`
-- vote_count: `5495`
+- vote_average: `7.076`
+- vote_count: `5558`
 - genres: `Horror`, `Comedy`
 - movie_row:
   - import_tmdb_id: `567609`
@@ -18825,8 +19369,8 @@
   - backdrop_path: `/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg`
   - release_date: `2019-08-21`
   - runtime: `96`
-  - vote_average: `7.072`
-  - vote_count: `5495`
+  - vote_average: `7.076`
+  - vote_count: `5558`
   - genres: `Horror`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=LBwfO9Hj6oQ`
   - status: `active`
@@ -18858,8 +19402,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=zUTQ8atM_9U`
 - release_date: `2023-12-15`
 - runtime: `134`
-- vote_average: `6.218`
-- vote_count: `2558`
+- vote_average: `6.217`
+- vote_count: `2583`
 - genres: `Science Fiction`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `848326`
@@ -18869,8 +19413,8 @@
   - backdrop_path: `/w4d1jESRZK12oTMMgmh0IWqlHw.jpg`
   - release_date: `2023-12-15`
   - runtime: `134`
-  - vote_average: `6.218`
-  - vote_count: `2558`
+  - vote_average: `6.217`
+  - vote_count: `2583`
   - genres: `Science Fiction`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=zUTQ8atM_9U`
   - status: `active`
@@ -18900,8 +19444,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gF3gZicntIw`
 - release_date: `2024-08-27`
 - runtime: `131`
-- vote_average: `6.965`
-- vote_count: `1624`
+- vote_average: `6.961`
+- vote_count: `1637`
 - genres: `Crime`, `Action`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `646097`
@@ -18911,8 +19455,8 @@
   - backdrop_path: `/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg`
   - release_date: `2024-08-27`
   - runtime: `131`
-  - vote_average: `6.965`
-  - vote_count: `1624`
+  - vote_average: `6.961`
+  - vote_count: `1637`
   - genres: `Crime`, `Action`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=gF3gZicntIw`
   - status: `active`
@@ -18943,8 +19487,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qtzL95vq3xQ`
 - release_date: `2012-03-15`
 - runtime: `93`
-- vote_average: `5.713`
-- vote_count: `1736`
+- vote_average: `5.707`
+- vote_count: `1745`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `60747`
@@ -18954,8 +19498,8 @@
   - backdrop_path: `/jFh87Hj9Yp8QQPYmcNBAZNaa4Y.jpg`
   - release_date: `2012-03-15`
   - runtime: `93`
-  - vote_average: `5.713`
-  - vote_count: `1736`
+  - vote_average: `5.707`
+  - vote_count: `1745`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=qtzL95vq3xQ`
   - status: `active`
@@ -18985,8 +19529,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Pj0wz7zu3Ms`
 - release_date: `2021-11-04`
 - runtime: `118`
-- vote_average: `6.733`
-- vote_count: `6445`
+- vote_average: `6.732`
+- vote_count: `6473`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `512195`
@@ -18996,8 +19540,8 @@
   - backdrop_path: `/p34WRcgkN2QIHcds5FtFiSpV3PC.jpg`
   - release_date: `2021-11-04`
   - runtime: `118`
-  - vote_average: `6.733`
-  - vote_count: `6445`
+  - vote_average: `6.732`
+  - vote_count: `6473`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=Pj0wz7zu3Ms`
   - status: `active`
@@ -19027,8 +19571,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7l3hfD74X-4`
 - release_date: `2024-10-31`
 - runtime: `124`
-- vote_average: `6.989`
-- vote_count: `3046`
+- vote_average: `6.982`
+- vote_count: `3060`
 - genres: `Action`, `Comedy`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `845781`
@@ -19038,8 +19582,8 @@
   - backdrop_path: `/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg`
   - release_date: `2024-10-31`
   - runtime: `124`
-  - vote_average: `6.989`
-  - vote_count: `3046`
+  - vote_average: `6.982`
+  - vote_count: `3060`
   - genres: `Action`, `Comedy`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=7l3hfD74X-4`
   - status: `active`
@@ -19059,7 +19603,7 @@
 - canonical_title: `Red Tails`
 - original_title: `Red Tails`
 - normalized_title_guess: `Red Tails`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/dXmhYTdeMiuQFW4VpiWbfjtxtl9.jpg`
@@ -19069,9 +19613,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=NVq6Xr5fcfk`
 - release_date: `2012-01-19`
 - runtime: `125`
-- vote_average: `6.6`
-- vote_count: `691`
-- genres: `Drama`, `History`, `War`
+- vote_average: `6.632`
+- vote_count: `713`
+- genres: `Drama`, `History`, `War`, `Action`
 - movie_row:
   - import_tmdb_id: `72431`
   - title: `Red Tails`
@@ -19080,16 +19624,16 @@
   - backdrop_path: `/j89IzBAT9Ob0zGLR30h7coB6YVy.jpg`
   - release_date: `2012-01-19`
   - runtime: `125`
-  - vote_average: `6.6`
-  - vote_count: `691`
-  - genres: `Drama`, `History`, `War`
+  - vote_average: `6.632`
+  - vote_count: `713`
+  - genres: `Drama`, `History`, `War`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=NVq6Xr5fcfk`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Red Tails . Pk | https://oshakurfilms.com/watch/red-tails-pk | PK | 72431 | 72431 | https://hgcloud.to/e/l4ukeja5p5li | hgcloud.to | https://www.mediafire.com/file/yf8m7g74ev65dva/Red+Tails+Hd+Mp4.mp4/file | www.mediafire.com |  |
+| 1 | Red Tails | https://oshakurfilms.com/watch/red-tails | UNSPECIFIED | 72431 | 72431 | https://hgcloud.to/e/l4ukeja5p5li | hgcloud.to | https://www.mediafire.com/file/yf8m7g74ev65dva/Red+Tails+Hd+Mp4.mp4/file | www.mediafire.com |  |
 
 ## Redeeming Love
 
@@ -19111,8 +19655,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=NJSjS36Pgx8`
 - release_date: `2022-01-21`
 - runtime: `134`
-- vote_average: `7.845`
-- vote_count: `747`
+- vote_average: `7.857`
+- vote_count: `753`
 - genres: `Romance`, `Drama`, `Western`
 - movie_row:
   - import_tmdb_id: `698508`
@@ -19122,8 +19666,8 @@
   - backdrop_path: `/lD8dFIk9wDEvOwZw0RB47e346io.jpg`
   - release_date: `2022-01-21`
   - runtime: `134`
-  - vote_average: `7.845`
-  - vote_count: `747`
+  - vote_average: `7.857`
+  - vote_count: `753`
   - genres: `Romance`, `Drama`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=NJSjS36Pgx8`
   - status: `active`
@@ -19149,24 +19693,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/1UKNef590A0ZaMnxsscIcWuK1Em.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/1UKNef590A0ZaMnxsscIcWuK1Em.jpg`
-- backdrop_path: `/xcENFGw9AlsmtiQGWuzIGbg1bdi.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/xcENFGw9AlsmtiQGWuzIGbg1bdi.jpg`
+- backdrop_path: `/5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=HhBAIDHvRTc`
 - release_date: `2002-03-15`
 - runtime: `100`
-- vote_average: `6.66`
-- vote_count: `6934`
+- vote_average: `6.663`
+- vote_count: `6982`
 - genres: `Horror`, `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `1576`
   - title: `Resident Evil`
   - overview: `When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.`
   - poster_path: `/1UKNef590A0ZaMnxsscIcWuK1Em.jpg`
-  - backdrop_path: `/xcENFGw9AlsmtiQGWuzIGbg1bdi.jpg`
+  - backdrop_path: `/5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg`
   - release_date: `2002-03-15`
   - runtime: `100`
-  - vote_average: `6.66`
-  - vote_count: `6934`
+  - vote_average: `6.663`
+  - vote_count: `6982`
   - genres: `Horror`, `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=HhBAIDHvRTc`
   - status: `active`
@@ -19192,24 +19736,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg`
-- backdrop_path: `/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg`
+- backdrop_path: `/yQvjqIvOwpawVZje41Wno365kR.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/yQvjqIvOwpawVZje41Wno365kR.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=Sxyzdo-RBKc`
 - release_date: `2023-08-23`
 - runtime: `91`
-- vote_average: `6.533`
-- vote_count: `1368`
+- vote_average: `6.527`
+- vote_count: `1376`
 - genres: `Thriller`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `762430`
   - title: `Retribution`
   - overview: `When a mysterious caller plants a bomb under his car seat, a bank executive begins a high-speed chase across the city to complete a specific series of tasks — all with his kids trapped in the back seat.`
   - poster_path: `/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg`
-  - backdrop_path: `/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg`
+  - backdrop_path: `/yQvjqIvOwpawVZje41Wno365kR.jpg`
   - release_date: `2023-08-23`
   - runtime: `91`
-  - vote_average: `6.533`
-  - vote_count: `1368`
+  - vote_average: `6.527`
+  - vote_count: `1376`
   - genres: `Thriller`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=Sxyzdo-RBKc`
   - status: `active`
@@ -19283,8 +19827,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Y0ZsLudtfjI`
 - release_date: `2024-03-08`
 - runtime: `121`
-- vote_average: `6.9`
-- vote_count: `3053`
+- vote_average: `6.945`
+- vote_count: `3089`
 - genres: `Action`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `359410`
@@ -19294,8 +19838,8 @@
   - backdrop_path: `/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg`
   - release_date: `2024-03-08`
   - runtime: `121`
-  - vote_average: `6.9`
-  - vote_count: `3053`
+  - vote_average: `6.945`
+  - vote_count: `3089`
   - genres: `Action`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=Y0ZsLudtfjI`
   - status: `active`
@@ -19325,8 +19869,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mMjPokU5-0w`
 - release_date: `2016-03-25`
 - runtime: `126`
-- vote_average: `6.273`
-- vote_count: `75`
+- vote_average: `6.253`
+- vote_count: `77`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `376873`
@@ -19336,8 +19880,8 @@
   - backdrop_path: `/pmGEEA8a4O7JGOz37ThRbjCloNI.jpg`
   - release_date: `2016-03-25`
   - runtime: `126`
-  - vote_average: `6.273`
-  - vote_count: `75`
+  - vote_average: `6.253`
+  - vote_count: `77`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mMjPokU5-0w`
   - status: `active`
@@ -19368,8 +19912,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gvCpDknV6Ps`
 - release_date: `1968-04-02`
 - runtime: `138`
-- vote_average: `7.4`
-- vote_count: `731`
+- vote_average: `7.405`
+- vote_count: `734`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `6003`
@@ -19379,8 +19923,8 @@
   - backdrop_path: `/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg`
   - release_date: `1968-04-02`
   - runtime: `138`
-  - vote_average: `7.4`
-  - vote_count: `731`
+  - vote_average: `7.405`
+  - vote_count: `734`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=gvCpDknV6Ps`
   - status: `active`
@@ -19411,8 +19955,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=0S0me9gHK00`
 - release_date: `2025-05-01`
 - runtime: `88`
-- vote_average: `5.49`
-- vote_count: `98`
+- vote_average: `5.447`
+- vote_count: `103`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `1297028`
@@ -19422,8 +19966,8 @@
   - backdrop_path: `/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg`
   - release_date: `2025-05-01`
   - runtime: `88`
-  - vote_average: `5.49`
-  - vote_count: `98`
+  - vote_average: `5.447`
+  - vote_count: `103`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=0S0me9gHK00`
   - status: `active`
@@ -19453,8 +19997,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=i4pjiLGUTtk`
 - release_date: `2022-03-24`
 - runtime: `187`
-- vote_average: `7.717`
-- vote_count: `1601`
+- vote_average: `7.714`
+- vote_count: `1616`
 - genres: `Action`, `History`, `Drama`
 - movie_row:
   - import_tmdb_id: `579974`
@@ -19464,8 +20008,8 @@
   - backdrop_path: `/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg`
   - release_date: `2022-03-24`
   - runtime: `187`
-  - vote_average: `7.717`
-  - vote_count: `1601`
+  - vote_average: `7.714`
+  - vote_count: `1616`
   - genres: `Action`, `History`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=i4pjiLGUTtk`
   - status: `active`
@@ -19538,8 +20082,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=plrh783KCqg`
 - release_date: `2015-03-11`
 - runtime: `114`
-- vote_average: `6.4`
-- vote_count: `2976`
+- vote_average: `6.434`
+- vote_count: `2990`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `241554`
@@ -19549,8 +20093,8 @@
   - backdrop_path: `/dqTvzfXhUWPoBuIbQInOBmYvEL4.jpg`
   - release_date: `2015-03-11`
   - runtime: `114`
-  - vote_average: `6.4`
-  - vote_count: `2976`
+  - vote_average: `6.434`
+  - vote_count: `2990`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=plrh783KCqg`
   - status: `active`
@@ -19580,9 +20124,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=zCZY9Z6WvSY`
 - release_date: `1984-12-14`
 - runtime: `100`
-- vote_average: `5.633`
-- vote_count: `290`
-- genres: `Science Fiction`, `Crime`, `Thriller`, `Drama`
+- vote_average: `5.6`
+- vote_count: `291`
+- genres: `Science Fiction`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `9507`
   - title: `Runaway`
@@ -19591,9 +20135,9 @@
   - backdrop_path: `/gzFiZIXzl6k9M8fafoXL7bSXPir.jpg`
   - release_date: `1984-12-14`
   - runtime: `100`
-  - vote_average: `5.633`
-  - vote_count: `290`
-  - genres: `Science Fiction`, `Crime`, `Thriller`, `Drama`
+  - vote_average: `5.6`
+  - vote_count: `291`
+  - genres: `Science Fiction`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=zCZY9Z6WvSY`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -19623,8 +20167,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hgrQLDbs1qU`
 - release_date: `1998-09-18`
 - runtime: `97`
-- vote_average: `7.076`
-- vote_count: `5667`
+- vote_average: `7.08`
+- vote_count: `5718`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `2109`
@@ -19634,8 +20178,8 @@
   - backdrop_path: `/9FrpAtF87VKblKkDEiIZzYgO40K.jpg`
   - release_date: `1998-09-18`
   - runtime: `97`
-  - vote_average: `7.076`
-  - vote_count: `5667`
+  - vote_average: `7.08`
+  - vote_count: `5718`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=hgrQLDbs1qU`
   - status: `active`
@@ -19665,8 +20209,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Wwow2VOxGZQ`
 - release_date: `2007-08-08`
 - runtime: `90`
-- vote_average: `6.5`
-- vote_count: `3721`
+- vote_average: `6.498`
+- vote_count: `3747`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `5174`
@@ -19676,8 +20220,8 @@
   - backdrop_path: `/ozsLB1HRCN6ZAmJN89pWtoiAwnb.jpg`
   - release_date: `2007-08-08`
   - runtime: `90`
-  - vote_average: `6.5`
-  - vote_count: `3721`
+  - vote_average: `6.498`
+  - vote_count: `3747`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=Wwow2VOxGZQ`
   - status: `active`
@@ -19708,8 +20252,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=L83qMnbJ198`
 - release_date: `2016-08-12`
 - runtime: `148`
-- vote_average: `6.679`
-- vote_count: `140`
+- vote_average: `6.704`
+- vote_count: `142`
 - genres: `Thriller`, `Drama`, `Crime`
 - movie_row:
   - import_tmdb_id: `392572`
@@ -19719,8 +20263,8 @@
   - backdrop_path: `/a7sHhxRbIt2TXS2HS2R1FFIXog6.jpg`
   - release_date: `2016-08-12`
   - runtime: `148`
-  - vote_average: `6.679`
-  - vote_count: `140`
+  - vote_average: `6.704`
+  - vote_count: `142`
   - genres: `Thriller`, `Drama`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=L83qMnbJ198`
   - status: `active`
@@ -19752,8 +20296,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=lOUrPTdg3bc`
 - release_date: `2019-08-29`
 - runtime: `171`
-- vote_average: `5.7`
-- vote_count: `111`
+- vote_average: `5.765`
+- vote_count: `113`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `454292`
@@ -19763,8 +20307,8 @@
   - backdrop_path: `/svYKd14P9i3Ai7F0tRl3WNwjRa1.jpg`
   - release_date: `2019-08-29`
   - runtime: `171`
-  - vote_average: `5.7`
-  - vote_count: `111`
+  - vote_average: `5.765`
+  - vote_count: `113`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=lOUrPTdg3bc`
   - status: `active`
@@ -19796,7 +20340,7 @@
 - release_date: `2012-02-08`
 - runtime: `115`
 - vote_average: `6.492`
-- vote_count: `3926`
+- vote_count: `3943`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `59961`
@@ -19807,7 +20351,7 @@
   - release_date: `2012-02-08`
   - runtime: `115`
   - vote_average: `6.492`
-  - vote_count: `3926`
+  - vote_count: `3943`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=oWzTOoOpFa8`
   - status: `active`
@@ -19838,8 +20382,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9Im1q4gvk1M`
 - release_date: `2023-12-21`
 - runtime: `175`
-- vote_average: `6.674`
-- vote_count: `112`
+- vote_average: `6.654`
+- vote_count: `114`
 - genres: `Action`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `770906`
@@ -19849,8 +20393,8 @@
   - backdrop_path: `/xtOCTmGemASooRkAxRorYODig1p.jpg`
   - release_date: `2023-12-21`
   - runtime: `175`
-  - vote_average: `6.674`
-  - vote_count: `112`
+  - vote_average: `6.654`
+  - vote_count: `114`
   - genres: `Action`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=9Im1q4gvk1M`
   - status: `active`
@@ -19875,26 +20419,26 @@
 - narrators_found: `Gaheza Simba`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg`
+- poster_path: `/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg`
 - backdrop_path: `/7RwAE11n2nd5pSqI9mCk4tPaEtM.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/7RwAE11n2nd5pSqI9mCk4tPaEtM.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=LbkQTB-OJsk`
 - release_date: `2010-07-21`
 - runtime: `100`
-- vote_average: `6.418`
-- vote_count: `5938`
+- vote_average: `6.419`
+- vote_count: `5958`
 - genres: `Action`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `27576`
   - title: `Salt`
   - overview: `As a CIA officer, Evelyn Salt swore an oath to duty, honor, and country. Her loyalty will be tested when a Russian defector accuses her of being a Russian sleeper spy. She goes on the run, using all her skills and years of experience as a covert operative to elude capture, protect her husband, and stay one step ahead of her colleagues at the CIA. Her efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: "Who is Salt?"`
-  - poster_path: `/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg`
+  - poster_path: `/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg`
   - backdrop_path: `/7RwAE11n2nd5pSqI9mCk4tPaEtM.jpg`
   - release_date: `2010-07-21`
   - runtime: `100`
-  - vote_average: `6.418`
-  - vote_count: `5938`
+  - vote_average: `6.419`
+  - vote_count: `5958`
   - genres: `Action`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=LbkQTB-OJsk`
   - status: `active`
@@ -19924,7 +20468,7 @@
 - release_date: `2021-10-15`
 - runtime: `117`
 - vote_average: `6.2`
-- vote_count: `23`
+- vote_count: `24`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `790019`
@@ -19935,7 +20479,7 @@
   - release_date: `2021-10-15`
   - runtime: `117`
   - vote_average: `6.2`
-  - vote_count: `23`
+  - vote_count: `24`
   - genres: `Action`, `Thriller`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -19943,6 +20487,48 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | SANAK - ROCKY | https://oshakurfilms.com/watch/sanak-rocky | Rocky | 790019 | 790019 | https://cybervynx.com/e/ozjj79b7d1ow | cybervynx.com | https://www.mediafire.com/file/g7w0ezp7umz9nts/Sanak.mp4/file | www.mediafire.com |  |
+
+## SAS: Red Notice
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `595743`
+- canonical_title: `SAS: Red Notice`
+- original_title: `SAS: Red Notice`
+- normalized_title_guess: `SAS: Red Notice`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg`
+- backdrop_path: `/feLcWM4lSq4fNSRZomeKVDBBOLK.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/feLcWM4lSq4fNSRZomeKVDBBOLK.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=JAScNCtcu5Y`
+- release_date: `2021-08-11`
+- runtime: `120`
+- vote_average: `5.764`
+- vote_count: `593`
+- genres: `Drama`, `Action`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `595743`
+  - title: `SAS: Red Notice`
+  - overview: `An off-duty SAS soldier, Tom Buckingham, must thwart a terror attack on a train running through the Channel Tunnel. As the action escalates on the train, events transpire in the corridors of power that may make the difference as to whether Buckingham and the civilian passengers make it out of the tunnel alive.`
+  - poster_path: `/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg`
+  - backdrop_path: `/feLcWM4lSq4fNSRZomeKVDBBOLK.jpg`
+  - release_date: `2021-08-11`
+  - runtime: `120`
+  - vote_average: `5.764`
+  - vote_count: `593`
+  - genres: `Drama`, `Action`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=JAScNCtcu5Y`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | SAS: Red Notice | https://oshakurfilms.com/watch/sas-red-notice | UNSPECIFIED | 595743 | 595743 | https://www.mediafire.com/file/nwrkphdfm9ff2tn/Red_Notice_A.mp4/file | www.mediafire.com | https://www.mediafire.com/file/nwrkphdfm9ff2tn/Red_Notice_A.mp4/file | www.mediafire.com |  |
 
 ## Satyameva Jayate
 
@@ -19964,8 +20550,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=odXKXLG43co`
 - release_date: `2018-08-15`
 - runtime: `142`
-- vote_average: `6.4`
-- vote_count: `58`
+- vote_average: `6.383`
+- vote_count: `60`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `531597`
@@ -19975,8 +20561,8 @@
   - backdrop_path: `/i2KL4H2C2IIAE0LyJZbmN8LaHvS.jpg`
   - release_date: `2018-08-15`
   - runtime: `142`
-  - vote_average: `6.4`
-  - vote_count: `58`
+  - vote_average: `6.383`
+  - vote_count: `60`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=odXKXLG43co`
   - status: `active`
@@ -20006,7 +20592,7 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/hWO3bXmW2G2T44uSWYFTana2BkP.jpg`
 - release_date: `2024-05-31`
 - runtime: `123`
-- vote_average: `6.833`
+- vote_average: `6.8`
 - vote_count: `21`
 - genres: `Action`, `Thriller`
 - movie_row:
@@ -20017,7 +20603,7 @@
   - backdrop_path: `/hWO3bXmW2G2T44uSWYFTana2BkP.jpg`
   - release_date: `2024-05-31`
   - runtime: `123`
-  - vote_average: `6.833`
+  - vote_average: `6.8`
   - vote_count: `21`
   - genres: `Action`, `Thriller`
   - status: `active`
@@ -20034,41 +20620,36 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `2042`
+- real_tmdb_id: `432123`
 - canonical_title: `Savior`
 - original_title: `Savior`
 - normalized_title_guess: `Savior`
 - narrators_found: `Yanga`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `none`
-- poster_path: `/7qMfDjUTEvLg5640CUAddk2BNpG.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/7qMfDjUTEvLg5640CUAddk2BNpG.jpg`
-- backdrop_path: `/iLyQVeo4Jm9UmLM8YEWStdgTuV4.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/iLyQVeo4Jm9UmLM8YEWStdgTuV4.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=NF18FCr3vuM`
-- release_date: `1998-06-01`
-- runtime: `103`
-- vote_average: `7.1`
-- vote_count: `187`
-- genres: `History`, `Drama`, `War`
+- tmdb_available_fields: `poster_path`, `poster_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `backdrop_path`, `backdrop_url`, `trailer_url`
+- poster_path: `/wcZleoLz2us9dCxraSivVhyES0z.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/wcZleoLz2us9dCxraSivVhyES0z.jpg`
+- release_date: `2015-12-01`
+- runtime: `50`
+- vote_average: `0`
+- vote_count: `0`
+- genres: `Drama`
 - movie_row:
-  - import_tmdb_id: `2042`
+  - import_tmdb_id: `432123`
   - title: `Savior`
-  - overview: `A hardened mercenary in the Foreign Legion begins to find his own humanity when confronted with atrocities during the fighting in Bosnia.`
-  - poster_path: `/7qMfDjUTEvLg5640CUAddk2BNpG.jpg`
-  - backdrop_path: `/iLyQVeo4Jm9UmLM8YEWStdgTuV4.jpg`
-  - release_date: `1998-06-01`
-  - runtime: `103`
-  - vote_average: `7.1`
-  - vote_count: `187`
-  - genres: `History`, `Drama`, `War`
-  - trailer_url: `https://www.youtube.com/watch?v=NF18FCr3vuM`
+  - overview: `What would it look like if Jesus was born in the 21st century? Savior is a contemprary interpretation of the Christmas story set in modern England.`
+  - poster_path: `/wcZleoLz2us9dCxraSivVhyES0z.jpg`
+  - release_date: `2015-12-01`
+  - runtime: `50`
+  - vote_average: `0`
+  - vote_count: `0`
+  - genres: `Drama`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Savior . Yanga | https://oshakurfilms.com/watch/savior-yanga | Yanga | 2042 | 2042 | https://hgcloud.to/e/xl62gh2c72yn | hgcloud.to | https://www.mediafire.com/file/9xybgb3r9uqykyj/Savior+Hd.mp4/file | www.mediafire.com |  |
+| 1 | Savior . Yanga | https://oshakurfilms.com/watch/savior-yanga | Yanga | 432123 | 432123 | https://hgcloud.to/e/xl62gh2c72yn | hgcloud.to | https://www.mediafire.com/file/9xybgb3r9uqykyj/Savior+Hd.mp4/file | www.mediafire.com |  |
 
 ## Scary Stories to Tell in the Dark
 
@@ -20090,8 +20671,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=FLsr5nsa8qg`
 - release_date: `2019-08-08`
 - runtime: `108`
-- vote_average: `6.489`
-- vote_count: `2855`
+- vote_average: `6.491`
+- vote_count: `2877`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `417384`
@@ -20101,8 +20682,8 @@
   - backdrop_path: `/snll1zUi2oxIah9qifXOvbfjcrG.jpg`
   - release_date: `2019-08-08`
   - runtime: `108`
-  - vote_average: `6.489`
-  - vote_count: `2855`
+  - vote_average: `6.491`
+  - vote_count: `2877`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=FLsr5nsa8qg`
   - status: `active`
@@ -20132,8 +20713,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=UWjxS8EJ4Z8`
 - release_date: `2019-09-13`
 - runtime: `124`
-- vote_average: `7.458`
-- vote_count: `72`
+- vote_average: `7.448`
+- vote_count: `77`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `507941`
@@ -20143,8 +20724,8 @@
   - backdrop_path: `/idHYrf8r4a8tX9PCwbsuOFSrKc0.jpg`
   - release_date: `2019-09-13`
   - runtime: `124`
-  - vote_average: `7.458`
-  - vote_count: `72`
+  - vote_average: `7.448`
+  - vote_count: `77`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=UWjxS8EJ4Z8`
   - status: `active`
@@ -20174,8 +20755,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kNyEosZQJiA`
 - release_date: `2020-10-13`
 - runtime: `85`
-- vote_average: `6.673`
-- vote_count: `194`
+- vote_average: `6.7`
+- vote_count: `195`
 - genres: `Action`, `Thriller`, `Adventure`
 - movie_row:
   - import_tmdb_id: `572751`
@@ -20185,8 +20766,8 @@
   - backdrop_path: `/bs3hu2Qi3QEAGbYFhdbWdT2QRLU.jpg`
   - release_date: `2020-10-13`
   - runtime: `85`
-  - vote_average: `6.673`
-  - vote_count: `194`
+  - vote_average: `6.7`
+  - vote_count: `195`
   - genres: `Action`, `Thriller`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=kNyEosZQJiA`
   - status: `active`
@@ -20216,8 +20797,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wAJcykyq7DU`
 - release_date: `2021-03-05`
 - runtime: `80`
-- vote_average: `5.834`
-- vote_count: `632`
+- vote_average: `5.831`
+- vote_count: `635`
 - genres: `Thriller`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `793723`
@@ -20227,8 +20808,8 @@
   - backdrop_path: `/eTgQlyIQH0nA5BsmYpvCzSPAorg.jpg`
   - release_date: `2021-03-05`
   - runtime: `80`
-  - vote_average: `5.834`
-  - vote_count: `632`
+  - vote_average: `5.831`
+  - vote_count: `635`
   - genres: `Thriller`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=wAJcykyq7DU`
   - status: `active`
@@ -20238,6 +20819,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Sentinelle A - ROCKY | https://oshakurfilms.com/watch/sentinelle-a-rocky | Rocky | 793723 | 793723 | https://iplayerhls.com/e/cufhe437nboc | iplayerhls.com | https://www.mediafire.com/file/w25s75r67tmbaho/SENTINELLE+A.mp4/file | www.mediafire.com | Part 1 / base movie row. |
 | 2 | Sentinelle B - ROCKY | https://oshakurfilms.com/watch/sentinelle-b-rocky | Rocky | 793723 | 793725 | https://iplayerhls.com/e/v3n80cervvim | iplayerhls.com | https://www.mediafire.com/file/e80vwems6snlprm/SENTINELLE_B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+
+## Seven Snipers
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1288341`
+- canonical_title: `Seven Snipers`
+- original_title: `Seven Snipers`
+- normalized_title_guess: `Seven Snipers`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg`
+- backdrop_path: `/g2aOpyCO1vEyUZURh3V5uaHu187.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/g2aOpyCO1vEyUZURh3V5uaHu187.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=-r-HtsJPgto`
+- release_date: `2026-04-30`
+- runtime: `87`
+- vote_average: `5.788`
+- vote_count: `40`
+- genres: `Action`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `1288341`
+  - title: `Seven Snipers`
+  - overview: `When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.`
+  - poster_path: `/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg`
+  - backdrop_path: `/g2aOpyCO1vEyUZURh3V5uaHu187.jpg`
+  - release_date: `2026-04-30`
+  - runtime: `87`
+  - vote_average: `5.788`
+  - vote_count: `40`
+  - genres: `Action`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=-r-HtsJPgto`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Seven Snipers | https://oshakurfilms.com/watch/seven-snipers | UNSPECIFIED | 1288341 | 1288341 | https://hgcloud.to/e/a0x5p1rk92c9 | hgcloud.to | https://www.mediafire.com/file/1fsxgisxeclw2qv/Seven_Snipers.mp4/file | www.mediafire.com |  |
 
 ## Shadow Force
 
@@ -20259,8 +20882,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=M7LhGytiHFM`
 - release_date: `2025-05-01`
 - runtime: `103`
-- vote_average: `6.3`
-- vote_count: `300`
+- vote_average: `6.316`
+- vote_count: `305`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `757725`
@@ -20270,8 +20893,8 @@
   - backdrop_path: `/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg`
   - release_date: `2025-05-01`
   - runtime: `103`
-  - vote_average: `6.3`
-  - vote_count: `300`
+  - vote_average: `6.316`
+  - vote_count: `305`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=M7LhGytiHFM`
   - status: `active`
@@ -20302,8 +20925,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3NNwjUgXv64`
 - release_date: `2022-11-03`
 - runtime: `90`
-- vote_average: `6.685`
-- vote_count: `116`
+- vote_average: `6.623`
+- vote_count: `118`
 - genres: `Action`, `Fantasy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1036561`
@@ -20313,8 +20936,8 @@
   - backdrop_path: `/xDEVdWduhRdNS4PzA6wif6FjUQb.jpg`
   - release_date: `2022-11-03`
   - runtime: `90`
-  - vote_average: `6.685`
-  - vote_count: `116`
+  - vote_average: `6.623`
+  - vote_count: `118`
   - genres: `Action`, `Fantasy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=3NNwjUgXv64`
   - status: `active`
@@ -20384,8 +21007,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=KEWUDWYDdYs`
 - release_date: `2001-07-05`
 - runtime: `113`
-- vote_average: `7.168`
-- vote_count: `2534`
+- vote_average: `7.17`
+- vote_count: `2550`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `11770`
@@ -20395,8 +21018,8 @@
   - backdrop_path: `/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg`
   - release_date: `2001-07-05`
   - runtime: `113`
-  - vote_average: `7.168`
-  - vote_count: `2534`
+  - vote_average: `7.17`
+  - vote_count: `2550`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=KEWUDWYDdYs`
   - status: `active`
@@ -20426,9 +21049,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=r00ldaPQbjs`
 - release_date: `2023-02-10`
 - runtime: `115`
-- vote_average: `6.847`
-- vote_count: `687`
-- genres: `Thriller`, `Crime`
+- vote_average: `6.9`
+- vote_count: `689`
+- genres: `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `717980`
   - title: `Sharper`
@@ -20437,9 +21060,9 @@
   - backdrop_path: `/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg`
   - release_date: `2023-02-10`
   - runtime: `115`
-  - vote_average: `6.847`
-  - vote_count: `687`
-  - genres: `Thriller`, `Crime`
+  - vote_average: `6.9`
+  - vote_count: `689`
+  - genres: `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=r00ldaPQbjs`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -20468,8 +21091,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9Vroml-GvR8`
 - release_date: `1984-08-17`
 - runtime: `117`
-- vote_average: `5.669`
-- vote_count: `157`
+- vote_average: `5.652`
+- vote_count: `158`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `24264`
@@ -20479,8 +21102,8 @@
   - backdrop_path: `/bIgSbKHjCXEijKPwE0lJuXUWPiw.jpg`
   - release_date: `1984-08-17`
   - runtime: `117`
-  - vote_average: `5.669`
-  - vote_count: `157`
+  - vote_average: `5.652`
+  - vote_count: `158`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=9Vroml-GvR8`
   - status: `active`
@@ -20504,26 +21127,26 @@
 - narrators_found: `Gaheza`, `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg`
+- poster_path: `/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg`
 - backdrop_path: `/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=auHiLFjaIc0`
 - release_date: `2026-01-28`
 - runtime: `107`
-- vote_average: `7.6`
-- vote_count: `1134`
+- vote_average: `7.694`
+- vote_count: `1351`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1290821`
   - title: `Shelter`
   - overview: `A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.`
-  - poster_path: `/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg`
+  - poster_path: `/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg`
   - backdrop_path: `/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg`
   - release_date: `2026-01-28`
   - runtime: `107`
-  - vote_average: `7.6`
-  - vote_count: `1134`
+  - vote_average: `7.694`
+  - vote_count: `1351`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=auHiLFjaIc0`
   - status: `active`
@@ -20555,8 +21178,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=A3lPVwYOdzA`
 - release_date: `2007-03-22`
 - runtime: `124`
-- vote_average: `7.123`
-- vote_count: `5461`
+- vote_average: `7.127`
+- vote_count: `5490`
 - genres: `Drama`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `7485`
@@ -20566,8 +21189,8 @@
   - backdrop_path: `/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg`
   - release_date: `2007-03-22`
   - runtime: `124`
-  - vote_average: `7.123`
-  - vote_count: `5461`
+  - vote_average: `7.127`
+  - vote_count: `5490`
   - genres: `Drama`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=A3lPVwYOdzA`
   - status: `active`
@@ -20598,8 +21221,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=VcRqxzS0I68`
 - release_date: `2023-06-02`
 - runtime: `116`
-- vote_average: `7.777`
-- vote_count: `168`
+- vote_average: `7.787`
+- vote_count: `171`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `970284`
@@ -20609,8 +21232,8 @@
   - backdrop_path: `/fMRrTziefy0c6v45IUyByGjZCRo.jpg`
   - release_date: `2023-06-02`
   - runtime: `116`
-  - vote_average: `7.777`
-  - vote_count: `168`
+  - vote_average: `7.787`
+  - vote_count: `171`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=VcRqxzS0I68`
   - status: `active`
@@ -20640,8 +21263,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=IlS90jL1EHQ`
 - release_date: `2022-09-11`
 - runtime: `83`
-- vote_average: `6.13`
-- vote_count: `353`
+- vote_average: `6.12`
+- vote_count: `357`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `829410`
@@ -20651,8 +21274,8 @@
   - backdrop_path: `/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg`
   - release_date: `2022-09-11`
   - runtime: `83`
-  - vote_average: `6.13`
-  - vote_count: `353`
+  - vote_average: `6.12`
+  - vote_count: `357`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=IlS90jL1EHQ`
   - status: `active`
@@ -20723,8 +21346,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=eKmEdwQLzoA`
 - release_date: `2023-11-30`
 - runtime: `104`
-- vote_average: `6.153`
-- vote_count: `947`
+- vote_average: `6.15`
+- vote_count: `956`
 - genres: `Action`, `Thriller`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `891699`
@@ -20734,8 +21357,8 @@
   - backdrop_path: `/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg`
   - release_date: `2023-11-30`
   - runtime: `104`
-  - vote_average: `6.153`
-  - vote_count: `947`
+  - vote_average: `6.15`
+  - vote_count: `956`
   - genres: `Action`, `Thriller`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=eKmEdwQLzoA`
   - status: `active`
@@ -20765,8 +21388,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DovbhJavvfU`
 - release_date: `2024-11-01`
 - runtime: `145`
-- vote_average: `5`
-- vote_count: `41`
+- vote_average: `5.07`
+- vote_count: `43`
 - genres: `Action`, `Drama`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `1014214`
@@ -20776,8 +21399,8 @@
   - backdrop_path: `/kQGJ3Cv7AKAvmdUaCLihkxVMMqs.jpg`
   - release_date: `2024-11-01`
   - runtime: `145`
-  - vote_average: `5`
-  - vote_count: `41`
+  - vote_average: `5.07`
+  - vote_count: `43`
   - genres: `Action`, `Drama`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=DovbhJavvfU`
   - status: `active`
@@ -20800,26 +21423,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg`
+- poster_path: `/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg`
 - backdrop_path: `/nAxGnGHOsfzufThz20zgmRwKur3.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=l2h2lC0vlX4`
 - release_date: `2025-04-16`
 - runtime: `138`
-- vote_average: `7.5`
-- vote_count: `4592`
+- vote_average: `7.494`
+- vote_count: `4698`
 - genres: `Horror`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1233413`
   - title: `Sinners`
   - overview: `Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.`
-  - poster_path: `/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg`
+  - poster_path: `/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg`
   - backdrop_path: `/nAxGnGHOsfzufThz20zgmRwKur3.jpg`
   - release_date: `2025-04-16`
   - runtime: `138`
-  - vote_average: `7.5`
-  - vote_count: `4592`
+  - vote_average: `7.494`
+  - vote_count: `4698`
   - genres: `Horror`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=l2h2lC0vlX4`
   - status: `active`
@@ -20850,8 +21473,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kM-vzkPnfNM`
 - release_date: `2010-06-30`
 - runtime: `104`
-- vote_average: `5.561`
-- vote_count: `106`
+- vote_average: `5.575`
+- vote_count: `107`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `66193`
@@ -20861,8 +21484,8 @@
   - backdrop_path: `/ekvoB0FWr9qwP19ERtNVTikN3qd.jpg`
   - release_date: `2010-06-30`
   - runtime: `104`
-  - vote_average: `5.561`
-  - vote_count: `106`
+  - vote_average: `5.575`
+  - vote_count: `107`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=kM-vzkPnfNM`
   - status: `active`
@@ -20893,8 +21516,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=d2k4QAItiSA`
 - release_date: `2022-09-09`
 - runtime: `91`
-- vote_average: `7.407`
-- vote_count: `2832`
+- vote_average: `7.412`
+- vote_count: `2856`
 - genres: `Action`, `War`, `Thriller`
 - movie_row:
   - import_tmdb_id: `840326`
@@ -20904,8 +21527,8 @@
   - backdrop_path: `/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg`
   - release_date: `2022-09-09`
   - runtime: `91`
-  - vote_average: `7.407`
-  - vote_count: `2832`
+  - vote_average: `7.412`
+  - vote_count: `2856`
   - genres: `Action`, `War`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=d2k4QAItiSA`
   - status: `active`
@@ -20935,8 +21558,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=VmStqCXIgio`
 - release_date: `2025-10-21`
 - runtime: `89`
-- vote_average: `7.281`
-- vote_count: `774`
+- vote_average: `7.313`
+- vote_count: `817`
 - genres: `Action`, `War`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1223601`
@@ -20946,8 +21569,8 @@
   - backdrop_path: `/10MiMMNzWeE53cHhSlfroPiO8vi.jpg`
   - release_date: `2025-10-21`
   - runtime: `89`
-  - vote_average: `7.281`
-  - vote_count: `774`
+  - vote_average: `7.313`
+  - vote_count: `817`
   - genres: `Action`, `War`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=VmStqCXIgio`
   - status: `active`
@@ -20999,47 +21622,47 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Sixty Minutes - SANKRA | https://oshakurfilms.com/watch/sixty-minutes-sankra | Sankra | 1212073 | 1212073 | https://ghbrisk.com/e/o2r72aqwl0c1 | ghbrisk.com | https://www.mediafire.com/file/oondayeaan22i6y/Watch_Sixty_Minutes_2024.mp4/file | www.mediafire.com |  |
 
-## Skinford: Death Sentence
+## Skinford: Chapter Two
 
 - content_type: `movie`
 - upload_target_tables: `movies`
 - tmdb_match_status: `best_effort`
 - tmdb_match_notes: `Canonical title/name partially matched query.`
-- real_tmdb_id: `445821`
-- canonical_title: `Skinford: Death Sentence`
-- original_title: `Skinford: Death Sentence`
+- real_tmdb_id: `563575`
+- canonical_title: `Skinford: Chapter Two`
+- original_title: `Skinford: Chapter Two`
 - normalized_title_guess: `Skinford`
 - narrators_found: `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/uKVCqDDQsViHocWr8lfGTOUEmJ5.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/uKVCqDDQsViHocWr8lfGTOUEmJ5.jpg`
-- backdrop_path: `/4MQCDsGSd8LeYU1nRZywixObqSa.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/4MQCDsGSd8LeYU1nRZywixObqSa.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=j7manc1WO7I`
-- release_date: `2017-03-12`
-- runtime: `84`
-- vote_average: `4.7`
-- vote_count: `19`
-- genres: `Fantasy`, `Thriller`
+- poster_path: `/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg`
+- backdrop_path: `/nSPAm9PuDc3Yg4UqnVlN6IRYPBA.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/nSPAm9PuDc3Yg4UqnVlN6IRYPBA.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=6tl6tc-vork`
+- release_date: `2018-11-21`
+- runtime: `88`
+- vote_average: `4.6`
+- vote_count: `5`
+- genres: `Thriller`, `Fantasy`, `Crime`, `Horror`
 - movie_row:
-  - import_tmdb_id: `445821`
-  - title: `Skinford: Death Sentence`
-  - overview: `It was supposed to be so simple. You do a job, you make the meet, you get paid. As an experienced flipper, Jimmy “Skinny” Skinford knows the protocol all too well. Having said that, being kidnapped and forced to dig your own grave will spanner the nicest of deals in the sharpest of ways. But his fortune turns when a push of his dead mans shovel unearths the opportunity of a life time; a woman, buried but still breathing, who just can’t seem to die. Her mysterious gift extends to others through touch and in her company Skinny launches head first into a scheme of unparalleled mayhem. Coming face to face with the most depraved deviates of the criminal underworld, Skinny will have to pay his dues in order to make the meet, get his payload and have his chance at immortality. But this gift horse comes with plans of her own, and dark consequences that threaten to sever Skinny’s world piece by piece.`
-  - poster_path: `/uKVCqDDQsViHocWr8lfGTOUEmJ5.jpg`
-  - backdrop_path: `/4MQCDsGSd8LeYU1nRZywixObqSa.jpg`
-  - release_date: `2017-03-12`
-  - runtime: `84`
-  - vote_average: `4.7`
-  - vote_count: `19`
-  - genres: `Fantasy`, `Thriller`
-  - trailer_url: `https://www.youtube.com/watch?v=j7manc1WO7I`
+  - import_tmdb_id: `563575`
+  - title: `Skinford: Chapter Two`
+  - overview: `Silver-tongued  Jimmy  Skinford  is  on  the  run  with  the  only  person  he  can  trust,  Zo-phia,  a  woman  hunted  by  every  underworld  crook  in  town  for  her  coveted  curse  of  immortality.  To  stop  the  relentless  onslaught  of  violence  and  get  their  lives  back  they  must  search  through  Zophia’s  past  to  fnd  a  cure.  But  what  future  can  you  have  when  your  survival  depends  on  losing  the  one  thing  keeping  you  alive?`
+  - poster_path: `/dnQRqMY9Gtujp8ZxHOZxBWj9zau.jpg`
+  - backdrop_path: `/nSPAm9PuDc3Yg4UqnVlN6IRYPBA.jpg`
+  - release_date: `2018-11-21`
+  - runtime: `88`
+  - vote_average: `4.6`
+  - vote_count: `5`
+  - genres: `Thriller`, `Fantasy`, `Crime`, `Horror`
+  - trailer_url: `https://www.youtube.com/watch?v=6tl6tc-vork`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Skinford - SANKRA Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/skinford-sankra-agasobanuye-mu-kinyarwanda | Sankra | 445821 | 445821 | https://hglink.to/e/d6qle1u4bndc | hglink.to | https://www.mediafire.com/file/m50ouwz1epzagx3/!SKINFOLD+DEATH+SENTENCE.mp4/file | www.mediafire.com |  |
+| 1 | Skinford - SANKRA Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/skinford-sankra-agasobanuye-mu-kinyarwanda | Sankra | 563575 | 563575 | https://hglink.to/e/d6qle1u4bndc | hglink.to | https://www.mediafire.com/file/m50ouwz1epzagx3/!SKINFOLD+DEATH+SENTENCE.mp4/file | www.mediafire.com |  |
 
 ## Slaxx
 
@@ -21061,8 +21684,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YBUwi9eXtXM`
 - release_date: `2020-09-11`
 - runtime: `77`
-- vote_average: `5.7`
-- vote_count: `243`
+- vote_average: `5.696`
+- vote_count: `245`
 - genres: `Horror`, `Comedy`
 - movie_row:
   - import_tmdb_id: `605133`
@@ -21072,8 +21695,8 @@
   - backdrop_path: `/xYQnMWHWtgF5VjwuV66v90N7K6p.jpg`
   - release_date: `2020-09-11`
   - runtime: `77`
-  - vote_average: `5.7`
-  - vote_count: `243`
+  - vote_average: `5.696`
+  - vote_count: `245`
   - genres: `Horror`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=YBUwi9eXtXM`
   - status: `active`
@@ -21098,8 +21721,8 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/r8yevwmnISUYA9OiIjbjZsVtLbN.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/r8yevwmnISUYA9OiIjbjZsVtLbN.jpg`
-- backdrop_path: `/xS3dURwQbIZvXx9N5BRbVR8gS74.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/xS3dURwQbIZvXx9N5BRbVR8gS74.jpg`
+- backdrop_path: `/yTz0uICWvbcBLAR3D0PUXDjSYv6.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/yTz0uICWvbcBLAR3D0PUXDjSYv6.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=WY7AwXW4RbU`
 - release_date: `2024-03-22`
 - runtime: `98`
@@ -21111,7 +21734,7 @@
   - title: `Slay`
   - overview: `After a booking mistake, four drag queens find themselves performing for a mostly unwelcoming crowd, but when vampires attack, the crowd looks to the queens to save the day.`
   - poster_path: `/r8yevwmnISUYA9OiIjbjZsVtLbN.jpg`
-  - backdrop_path: `/xS3dURwQbIZvXx9N5BRbVR8gS74.jpg`
+  - backdrop_path: `/yTz0uICWvbcBLAR3D0PUXDjSYv6.jpg`
   - release_date: `2024-03-22`
   - runtime: `98`
   - vote_average: `5.9`
@@ -21145,8 +21768,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=yDoP9C5fBRc`
 - release_date: `2019-10-18`
 - runtime: `82`
-- vote_average: `6.022`
-- vote_count: `23`
+- vote_average: `6.021`
+- vote_count: `24`
 - genres: `Thriller`, `TV Movie`
 - movie_row:
   - import_tmdb_id: `644682`
@@ -21156,8 +21779,8 @@
   - backdrop_path: `/sU0hrt4qXC66Wi9H4ZM7iAVW09G.jpg`
   - release_date: `2019-10-18`
   - runtime: `82`
-  - vote_average: `6.022`
-  - vote_count: `23`
+  - vote_average: `6.021`
+  - vote_count: `24`
   - genres: `Thriller`, `TV Movie`
   - trailer_url: `https://www.youtube.com/watch?v=yDoP9C5fBRc`
   - status: `active`
@@ -21187,8 +21810,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=FU_bAopCcSE`
 - release_date: `2024-10-16`
 - runtime: `127`
-- vote_average: `6.593`
-- vote_count: `2163`
+- vote_average: `6.59`
+- vote_count: `2203`
 - genres: `Horror`, `Music`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1100782`
@@ -21198,8 +21821,8 @@
   - backdrop_path: `/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg`
   - release_date: `2024-10-16`
   - runtime: `127`
-  - vote_average: `6.593`
-  - vote_count: `2163`
+  - vote_average: `6.59`
+  - vote_count: `2203`
   - genres: `Horror`, `Music`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=FU_bAopCcSE`
   - status: `active`
@@ -21219,7 +21842,7 @@
 - canonical_title: `Sniper: Ghost Shooter`
 - original_title: `Sniper: Ghost Shooter`
 - normalized_title_guess: `Sniper Ghost Shooter`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/92YFviTZnjA6rj2jADoA2gmsjsz.jpg`
@@ -21229,8 +21852,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Y1IdgK-YtGQ`
 - release_date: `2016-08-02`
 - runtime: `100`
-- vote_average: `6.326`
-- vote_count: `290`
+- vote_average: `6.3`
+- vote_count: `292`
 - genres: `Action`, `Drama`, `War`
 - movie_row:
   - import_tmdb_id: `407375`
@@ -21240,8 +21863,8 @@
   - backdrop_path: `/kgjg3FaCgv37ivD9g7v9d02Ap7J.jpg`
   - release_date: `2016-08-02`
   - runtime: `100`
-  - vote_average: `6.326`
-  - vote_count: `290`
+  - vote_average: `6.3`
+  - vote_count: `292`
   - genres: `Action`, `Drama`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=Y1IdgK-YtGQ`
   - status: `active`
@@ -21249,7 +21872,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Sniper Ghost Shooter . Pk | https://oshakurfilms.com/watch/sniper-ghost-shooter-pk | PK | 407375 | 407375 | https://hgcloud.to/e/2987xe6tpknx | hgcloud.to | https://www.mediafire.com/file/uk4rqjs71afv28g/Sniper+Ghost+Hd+Mp4.mp4/file | www.mediafire.com |  |
+| 1 | Sniper Ghost Shooter | https://oshakurfilms.com/watch/sniper-ghost-shooter | UNSPECIFIED | 407375 | 407375 | https://hgcloud.to/e/2987xe6tpknx | hgcloud.to | https://www.mediafire.com/file/uk4rqjs71afv28g/Sniper+Ghost+Hd+Mp4.mp4/file | www.mediafire.com |  |
 
 ## Sniper: The Last Stand
 
@@ -21271,8 +21894,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YSwYhvG0Hy4`
 - release_date: `2025-01-21`
 - runtime: `99`
-- vote_average: `6.761`
-- vote_count: `180`
+- vote_average: `6.8`
+- vote_count: `183`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1410082`
@@ -21282,8 +21905,8 @@
   - backdrop_path: `/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg`
   - release_date: `2025-01-21`
   - runtime: `99`
-  - vote_average: `6.761`
-  - vote_count: `180`
+  - vote_average: `6.8`
+  - vote_count: `183`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=YSwYhvG0Hy4`
   - status: `active`
@@ -21313,8 +21936,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=cZIhRHSXtyU`
 - release_date: `2022-05-03`
 - runtime: `120`
-- vote_average: `7.679`
-- vote_count: `910`
+- vote_average: `7.692`
+- vote_count: `918`
 - genres: `War`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `966220`
@@ -21324,8 +21947,8 @@
   - backdrop_path: `/oal5fDK90yX6b8yunj6JahBqX2J.jpg`
   - release_date: `2022-05-03`
   - runtime: `120`
-  - vote_average: `7.679`
-  - vote_count: `910`
+  - vote_average: `7.692`
+  - vote_count: `918`
   - genres: `War`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=cZIhRHSXtyU`
   - status: `active`
@@ -21356,8 +21979,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=tuER-MHKbQ4`
 - release_date: `1998-10-23`
 - runtime: `99`
-- vote_average: `6.415`
-- vote_count: `949`
+- vote_average: `6.417`
+- vote_count: `956`
 - genres: `Science Fiction`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `9425`
@@ -21367,8 +21990,8 @@
   - backdrop_path: `/eYrjffVvcc0MEgy9RcquvWyBGtQ.jpg`
   - release_date: `1998-10-23`
   - runtime: `99`
-  - vote_average: `6.415`
-  - vote_count: `949`
+  - vote_average: `6.417`
+  - vote_count: `956`
   - genres: `Science Fiction`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=tuER-MHKbQ4`
   - status: `active`
@@ -21398,8 +22021,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=u5r77-OQwa8`
 - release_date: `2021-11-05`
 - runtime: `145`
-- vote_average: `5.8`
-- vote_count: `177`
+- vote_average: `5.775`
+- vote_count: `180`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `592508`
@@ -21409,8 +22032,8 @@
   - backdrop_path: `/7w06baRS9VPm5RYz8lawTCLiR4j.jpg`
   - release_date: `2021-11-05`
   - runtime: `145`
-  - vote_average: `5.8`
-  - vote_count: `177`
+  - vote_average: `5.775`
+  - vote_count: `180`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=u5r77-OQwa8`
   - status: `active`
@@ -21441,8 +22064,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=PiyQb28geOg`
 - release_date: `2013-02-07`
 - runtime: `144`
-- vote_average: `7.309`
-- vote_count: `222`
+- vote_average: `7.325`
+- vote_count: `229`
 - genres: `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `165904`
@@ -21452,8 +22075,8 @@
   - backdrop_path: `/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg`
   - release_date: `2013-02-07`
   - runtime: `144`
-  - vote_average: `7.309`
-  - vote_count: `222`
+  - vote_average: `7.325`
+  - vote_count: `229`
   - genres: `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=PiyQb28geOg`
   - status: `active`
@@ -21483,8 +22106,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Ke3ZSQe8SiM`
 - release_date: `2011-11-02`
 - runtime: `109`
-- vote_average: `6.7`
-- vote_count: `633`
+- vote_average: `6.726`
+- vote_count: `634`
 - genres: `Action`, `Drama`, `War`
 - movie_row:
   - import_tmdb_id: `74513`
@@ -21494,8 +22117,8 @@
   - backdrop_path: `/cImYSNm0piuUfjlBCozNPEEvTK2.jpg`
   - release_date: `2011-11-02`
   - runtime: `109`
-  - vote_average: `6.7`
-  - vote_count: `633`
+  - vote_average: `6.726`
+  - vote_count: `634`
   - genres: `Action`, `Drama`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=Ke3ZSQe8SiM`
   - status: `active`
@@ -21525,8 +22148,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=QsklD0y0GKU`
 - release_date: `2013-10-17`
 - runtime: `98`
-- vote_average: `5.964`
-- vote_count: `181`
+- vote_average: `5.986`
+- vote_count: `182`
 - genres: `Drama`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `222216`
@@ -21536,8 +22159,8 @@
   - backdrop_path: `/ofFQoVSgGsgTuQ919v8ipOE4nFV.jpg`
   - release_date: `2013-10-17`
   - runtime: `98`
-  - vote_average: `5.964`
-  - vote_count: `181`
+  - vote_average: `5.986`
+  - vote_count: `182`
   - genres: `Drama`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=QsklD0y0GKU`
   - status: `active`
@@ -21558,7 +22181,7 @@
 - canonical_title: `Spectral`
 - original_title: `Spectral`
 - normalized_title_guess: `Spectral`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg`
@@ -21568,8 +22191,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=rmC3ZhIHHi4`
 - release_date: `2016-12-09`
 - runtime: `109`
-- vote_average: `6.544`
-- vote_count: `1999`
+- vote_average: `6.551`
+- vote_count: `2016`
 - genres: `Science Fiction`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `324670`
@@ -21579,8 +22202,8 @@
   - backdrop_path: `/cBrzOqgAJv1YG4Jww9dt1B54Sv8.jpg`
   - release_date: `2016-12-09`
   - runtime: `109`
-  - vote_average: `6.544`
-  - vote_count: `1999`
+  - vote_average: `6.551`
+  - vote_count: `2016`
   - genres: `Science Fiction`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=rmC3ZhIHHi4`
   - status: `active`
@@ -21588,7 +22211,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Spectral . Pk | https://oshakurfilms.com/watch/spectral-pk | PK | 324670 | 324670 | https://hgcloud.to/e/wi3uu7x58x37 | hgcloud.to | https://www.mediafire.com/file/8mvuy0kos5kli4n/Spectral+Hd+Mp4.mp4/file | www.mediafire.com |  |
+| 1 | Spectral | https://oshakurfilms.com/watch/spectral | UNSPECIFIED | 324670 | 324670 | https://hgcloud.to/e/wi3uu7x58x37 | hgcloud.to | https://www.mediafire.com/file/8mvuy0kos5kli4n/Spectral+Hd+Mp4.mp4/file | www.mediafire.com |  |
 
 ## Spider-Man
 
@@ -21610,8 +22233,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=t06RUxPbp_c`
 - release_date: `2002-05-01`
 - runtime: `121`
-- vote_average: `7.3`
-- vote_count: `20685`
+- vote_average: `7.333`
+- vote_count: `20775`
 - genres: `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `557`
@@ -21621,8 +22244,8 @@
   - backdrop_path: `/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg`
   - release_date: `2002-05-01`
   - runtime: `121`
-  - vote_average: `7.3`
-  - vote_count: `20685`
+  - vote_average: `7.333`
+  - vote_count: `20775`
   - genres: `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=t06RUxPbp_c`
   - status: `active`
@@ -21653,8 +22276,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=iah3S6lCPvI`
 - release_date: `2015-06-18`
 - runtime: `120`
-- vote_average: `6.943`
-- vote_count: `282`
+- vote_average: `7`
+- vote_count: `284`
 - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Drama`
 - movie_row:
   - import_tmdb_id: `331576`
@@ -21664,8 +22287,8 @@
   - backdrop_path: `/qJv6sRmbflGGyazciLZVXB4h3kg.jpg`
   - release_date: `2015-06-18`
   - runtime: `120`
-  - vote_average: `6.943`
-  - vote_count: `282`
+  - vote_average: `7`
+  - vote_count: `284`
   - genres: `Action`, `Crime`, `Thriller`, `Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=iah3S6lCPvI`
   - status: `active`
@@ -21695,7 +22318,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=JmJyXOIgyV4`
 - release_date: `2005-11-18`
 - runtime: `93`
-- vote_average: `6.933`
+- vote_average: `6.9`
 - vote_count: `356`
 - genres: `Action`, `Crime`, `Drama`, `Thriller`
 - movie_row:
@@ -21706,7 +22329,7 @@
   - backdrop_path: `/7uJmhgeKWYEGp4UydW9NhsOEhYP.jpg`
   - release_date: `2005-11-18`
   - runtime: `93`
-  - vote_average: `6.933`
+  - vote_average: `6.9`
   - vote_count: `356`
   - genres: `Action`, `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=JmJyXOIgyV4`
@@ -21716,6 +22339,46 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | SPL Sha Po Lang 1 Kill Zone - Yanga | https://oshakurfilms.com/watch/spl-sha-po-lang-1-kill-zone-yanga | Yanga | 13127 | 13127 | https://dhcplay.com/e/15ajpzrzs1li | dhcplay.com | https://www.mediafire.com/file/xhnnpfzylsawpvm/Spl_1_Yanga_Hd.mp4/file | www.mediafire.com |  |
+
+## Star Detective Pretty Cure! The Movie: The Mysterious Garden and The Pair’s Secret
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `alias`
+- tmdb_match_notes: `Original TMDB title/name partially matched query.`
+- real_tmdb_id: `1663937`
+- canonical_title: `Star Detective Pretty Cure! The Movie: The Mysterious Garden and The Pair’s Secret`
+- original_title: `映画名探偵プリキュア！ ⠀不思議な庭と2人の秘密`
+- normalized_title_guess: `The Cure 2`
+- narrators_found: `Sankra`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `trailer_url`
+- poster_path: `/qNVrKzpt8Yeh7qvmrXc9JZpZqsq.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/qNVrKzpt8Yeh7qvmrXc9JZpZqsq.jpg`
+- backdrop_path: `/misJa6SmXR1GWUBtgjHNB90LayE.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/misJa6SmXR1GWUBtgjHNB90LayE.jpg`
+- release_date: `2026-09-18`
+- runtime: `0`
+- vote_average: `0`
+- vote_count: `0`
+- genres: `Animation`, `Action`, `Adventure`, `Comedy`, `Family`
+- movie_row:
+  - import_tmdb_id: `1663937`
+  - title: `Star Detective Pretty Cure! The Movie: The Mysterious Garden and The Pair’s Secret`
+  - overview: `Movie based on Star Detective PreCure!`
+  - poster_path: `/qNVrKzpt8Yeh7qvmrXc9JZpZqsq.jpg`
+  - backdrop_path: `/misJa6SmXR1GWUBtgjHNB90LayE.jpg`
+  - release_date: `2026-09-18`
+  - runtime: `0`
+  - vote_average: `0`
+  - vote_count: `0`
+  - genres: `Animation`, `Action`, `Adventure`, `Comedy`, `Family`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | The Cure 2 - SANKRA | https://oshakurfilms.com/watch/the-cure-2-sankra | Sankra | 1663937 | 1663937 | https://dhcplay.com/e/xng0ywmg4h6k | dhcplay.com | https://www.mediafire.com/file/egcxby7ld1q77hb/The_Cure_2_by_sankra.mp4/file | www.mediafire.com |  |
 
 ## STRAW
 
@@ -21738,7 +22401,7 @@
 - release_date: `2025-06-05`
 - runtime: `105`
 - vote_average: `7.709`
-- vote_count: `962`
+- vote_count: `967`
 - genres: `Thriller`, `Drama`, `Crime`
 - movie_row:
   - import_tmdb_id: `1426776`
@@ -21749,7 +22412,7 @@
   - release_date: `2025-06-05`
   - runtime: `105`
   - vote_average: `7.709`
-  - vote_count: `962`
+  - vote_count: `967`
   - genres: `Thriller`, `Drama`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=k1vWhii4tkE`
   - status: `active`
@@ -21781,9 +22444,9 @@
 - trailer_url: `https://www.youtube.com/watch?v=uXfzJb-IUrk`
 - release_date: `2024-12-05`
 - runtime: `111`
-- vote_average: `7.44`
-- vote_count: `167`
-- genres: `Action`, `Crime`, `Thriller`
+- vote_average: `7.456`
+- vote_count: `170`
+- genres: `Action`, `Crime`, `Thriller`, `Drama`
 - movie_row:
   - import_tmdb_id: `1382406`
   - title: `Striking Rescue`
@@ -21792,9 +22455,9 @@
   - backdrop_path: `/yth78N88nwokepnOe5atwPGfTL1.jpg`
   - release_date: `2024-12-05`
   - runtime: `111`
-  - vote_average: `7.44`
-  - vote_count: `167`
-  - genres: `Action`, `Crime`, `Thriller`
+  - vote_average: `7.456`
+  - vote_count: `170`
+  - genres: `Action`, `Crime`, `Thriller`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=uXfzJb-IUrk`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -21823,8 +22486,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=fnMO7zSitto`
 - release_date: `2024-06-19`
 - runtime: `90`
-- vote_average: `5.852`
-- vote_count: `381`
+- vote_average: `5.865`
+- vote_count: `388`
 - genres: `Science Fiction`, `Thriller`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `1196470`
@@ -21834,8 +22497,8 @@
   - backdrop_path: `/2xnLwNvea2TSH0M0oc9iEq2KEVp.jpg`
   - release_date: `2024-06-19`
   - runtime: `90`
-  - vote_average: `5.852`
-  - vote_count: `381`
+  - vote_average: `5.865`
+  - vote_count: `388`
   - genres: `Science Fiction`, `Thriller`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=fnMO7zSitto`
   - status: `active`
@@ -21865,8 +22528,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=1lnEyZEoYJU`
 - release_date: `2015-05-21`
 - runtime: `96`
-- vote_average: `5.696`
-- vote_count: `1081`
+- vote_average: `5.694`
+- vote_count: `1086`
 - genres: `Action`, `Crime`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `334074`
@@ -21876,8 +22539,8 @@
   - backdrop_path: `/kbvSneIEkEcxHZ3AayZUEN2xC1P.jpg`
   - release_date: `2015-05-21`
   - runtime: `96`
-  - vote_average: `5.696`
-  - vote_count: `1081`
+  - vote_average: `5.694`
+  - vote_count: `1086`
   - genres: `Action`, `Crime`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=1lnEyZEoYJU`
   - status: `active`
@@ -21907,8 +22570,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wlJwxYmfSuo`
 - release_date: `2019-01-28`
 - runtime: `82`
-- vote_average: `6.396`
-- vote_count: `410`
+- vote_average: `6.377`
+- vote_count: `415`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `463843`
@@ -21918,8 +22581,8 @@
   - backdrop_path: `/de51GG0AQZj8dUm00aQUi4wisBr.jpg`
   - release_date: `2019-01-28`
   - runtime: `82`
-  - vote_average: `6.396`
-  - vote_count: `410`
+  - vote_average: `6.377`
+  - vote_count: `415`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=wlJwxYmfSuo`
   - status: `active`
@@ -21987,8 +22650,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=zW_CvNUGzQE`
 - release_date: `2007-04-27`
 - runtime: `153`
-- vote_average: `6.247`
-- vote_count: `87`
+- vote_average: `6.222`
+- vote_count: `88`
 - genres: `Family`, `Comedy`, `Romance`
 - movie_row:
   - import_tmdb_id: `14165`
@@ -21998,8 +22661,8 @@
   - backdrop_path: `/whxg6N0RNh7rF6foXs46BnRLTch.jpg`
   - release_date: `2007-04-27`
   - runtime: `153`
-  - vote_average: `6.247`
-  - vote_count: `87`
+  - vote_average: `6.222`
+  - vote_count: `88`
   - genres: `Family`, `Comedy`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=zW_CvNUGzQE`
   - status: `active`
@@ -22025,24 +22688,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg`
-- backdrop_path: `/lMRMjd9yJsZLyaT97eiURu2zVb4.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lMRMjd9yJsZLyaT97eiURu2zVb4.jpg`
+- backdrop_path: `/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=ZxKDnpiJaVc`
 - release_date: `2008-02-18`
 - runtime: `94`
-- vote_average: `7.406`
-- vote_count: `12112`
+- vote_average: `7.407`
+- vote_count: `12148`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `8681`
   - title: `Taken`
   - overview: `Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.`
   - poster_path: `/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg`
-  - backdrop_path: `/lMRMjd9yJsZLyaT97eiURu2zVb4.jpg`
+  - backdrop_path: `/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg`
   - release_date: `2008-02-18`
   - runtime: `94`
-  - vote_average: `7.406`
-  - vote_count: `12112`
+  - vote_average: `7.407`
+  - vote_count: `12148`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=ZxKDnpiJaVc`
   - status: `active`
@@ -22066,26 +22729,26 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/2It3pUKN9EdG1bIzfvKJccd0gW8.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/2It3pUKN9EdG1bIzfvKJccd0gW8.jpg`
-- backdrop_path: `/yeCbnYYCPGnUnzax47OlQ49Ge09.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/yeCbnYYCPGnUnzax47OlQ49Ge09.jpg`
+- poster_path: `/s2zx7JA87rkQcmsV40k0vbVJ6oh.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/s2zx7JA87rkQcmsV40k0vbVJ6oh.jpg`
+- backdrop_path: `/2MmcWazB76kabQ1livKMqIUfN80.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2MmcWazB76kabQ1livKMqIUfN80.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=0DItbZIVKhk`
 - release_date: `2010-08-26`
 - runtime: `107`
-- vote_average: `6.241`
-- vote_count: `1386`
+- vote_average: `6.25`
+- vote_count: `1398`
 - genres: `Action`, `Crime`, `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `22907`
   - title: `Takers`
   - overview: `A seasoned team of bank robbers, including Gordon Jennings, John Rahway, A.J., and brothers Jake and Jesse Attica successfully complete their latest heist and lead a life of luxury while planning their next job. When Ghost, a former member of their team, is released from prison he convinces the group to strike an armored car carrying $20 million. As the "Takers" carefully plot out their strategy and draw nearer to exacting the grand heist, a reckless police officer inches closer to apprehending the criminals.`
-  - poster_path: `/2It3pUKN9EdG1bIzfvKJccd0gW8.jpg`
-  - backdrop_path: `/yeCbnYYCPGnUnzax47OlQ49Ge09.jpg`
+  - poster_path: `/s2zx7JA87rkQcmsV40k0vbVJ6oh.jpg`
+  - backdrop_path: `/2MmcWazB76kabQ1livKMqIUfN80.jpg`
   - release_date: `2010-08-26`
   - runtime: `107`
-  - vote_average: `6.241`
-  - vote_count: `1386`
+  - vote_average: `6.25`
+  - vote_count: `1398`
   - genres: `Action`, `Crime`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=0DItbZIVKhk`
   - status: `active`
@@ -22115,8 +22778,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=PGo4wfCejsk`
 - release_date: `2023-07-26`
 - runtime: `95`
-- vote_average: `7.143`
-- vote_count: `3750`
+- vote_average: `7.141`
+- vote_count: `3782`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `1008042`
@@ -22126,8 +22789,8 @@
   - backdrop_path: `/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg`
   - release_date: `2023-07-26`
   - runtime: `95`
-  - vote_average: `7.143`
-  - vote_count: `3750`
+  - vote_average: `7.141`
+  - vote_count: `3782`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=PGo4wfCejsk`
   - status: `active`
@@ -22157,8 +22820,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DuTlpSfptO0`
 - release_date: `2003-03-07`
 - runtime: `121`
-- vote_average: `6.889`
-- vote_count: `2617`
+- vote_average: `6.895`
+- vote_count: `2633`
 - genres: `War`, `Action`, `Drama`
 - movie_row:
   - import_tmdb_id: `9567`
@@ -22168,8 +22831,8 @@
   - backdrop_path: `/cMkUwVCe6dpQnDqDwn0KwyBB2iv.jpg`
   - release_date: `2003-03-07`
   - runtime: `121`
-  - vote_average: `6.889`
-  - vote_count: `2617`
+  - vote_average: `6.895`
+  - vote_count: `2633`
   - genres: `War`, `Action`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=DuTlpSfptO0`
   - status: `active`
@@ -22199,8 +22862,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=MzNbhA4WFqg`
 - release_date: `2024-11-29`
 - runtime: `114`
-- vote_average: `6.2`
-- vote_count: `290`
+- vote_average: `6.1`
+- vote_count: `296`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `1252309`
@@ -22210,8 +22873,8 @@
   - backdrop_path: `/kHJlXiwxcMAf9R934f0ncEBAMXg.jpg`
   - release_date: `2024-11-29`
   - runtime: `114`
-  - vote_average: `6.2`
-  - vote_count: `290`
+  - vote_average: `6.1`
+  - vote_count: `296`
   - genres: `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=MzNbhA4WFqg`
   - status: `active`
@@ -22242,7 +22905,7 @@
 - release_date: `1962-08-01`
 - runtime: `114`
 - vote_average: `6.4`
-- vote_count: `149`
+- vote_count: `150`
 - genres: `Adventure`, `History`, `War`
 - movie_row:
   - import_tmdb_id: `19972`
@@ -22253,7 +22916,7 @@
   - release_date: `1962-08-01`
   - runtime: `114`
   - vote_average: `6.4`
-  - vote_count: `149`
+  - vote_count: `150`
   - genres: `Adventure`, `History`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=ncviqBoQCMg`
   - status: `active`
@@ -22284,8 +22947,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=SV0s2S9reT0`
 - release_date: `2022-01-05`
 - runtime: `122`
-- vote_average: `6.027`
-- vote_count: `1146`
+- vote_average: `6`
+- vote_count: `1150`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `522016`
@@ -22295,8 +22958,8 @@
   - backdrop_path: `/oSNqhngemquRBzxKSC3ysAmnC5e.jpg`
   - release_date: `2022-01-05`
   - runtime: `122`
-  - vote_average: `6.027`
-  - vote_count: `1146`
+  - vote_average: `6`
+  - vote_count: `1150`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=SV0s2S9reT0`
   - status: `active`
@@ -22327,7 +22990,7 @@
 - release_date: `2015-04-16`
 - runtime: `112`
 - vote_average: `7.466`
-- vote_count: `7095`
+- vote_count: `7106`
 - genres: `Romance`, `Fantasy`, `Drama`
 - movie_row:
   - import_tmdb_id: `293863`
@@ -22338,7 +23001,7 @@
   - release_date: `2015-04-16`
   - runtime: `112`
   - vote_average: `7.466`
-  - vote_count: `7095`
+  - vote_count: `7106`
   - genres: `Romance`, `Fantasy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=7UzSekc0LoQ`
   - status: `active`
@@ -22364,24 +23027,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/A7EByudX0eOzlkQ2FIbogzyazm2.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg`
-- backdrop_path: `/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg`
+- backdrop_path: `/f0ACHVpV707zqu4etZrXnWNdSgL.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/f0ACHVpV707zqu4etZrXnWNdSgL.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=CHKn-yDCE2w`
 - release_date: `2024-01-08`
 - runtime: `106`
-- vote_average: `7.264`
-- vote_count: `4253`
+- vote_average: `7.272`
+- vote_count: `4308`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `866398`
   - title: `The Beekeeper`
   - overview: `One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.`
   - poster_path: `/A7EByudX0eOzlkQ2FIbogzyazm2.jpg`
-  - backdrop_path: `/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg`
+  - backdrop_path: `/f0ACHVpV707zqu4etZrXnWNdSgL.jpg`
   - release_date: `2024-01-08`
   - runtime: `106`
-  - vote_average: `7.264`
-  - vote_count: `4253`
+  - vote_average: `7.272`
+  - vote_count: `4308`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=CHKn-yDCE2w`
   - status: `active`
@@ -22396,13 +23059,13 @@
 
 - content_type: `movie`
 - upload_target_tables: `movies`
-- tmdb_match_status: `best_effort`
-- tmdb_match_notes: `Canonical title/name partially matched query.`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
 - real_tmdb_id: `160704`
 - canonical_title: `The Berlin File`
 - original_title: `베를린`
-- normalized_title_guess: `BERLIN FILE`
-- narrators_found: `Savimbi`
+- normalized_title_guess: `The Berlin File`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/bX8OXtPoxbJWcHszHmYQGhLtTmm.jpg`
@@ -22412,8 +23075,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=XgbwtgIF0mQ`
 - release_date: `2013-01-30`
 - runtime: `120`
-- vote_average: `6.7`
-- vote_count: `226`
+- vote_average: `6.675`
+- vote_count: `228`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `160704`
@@ -22423,8 +23086,8 @@
   - backdrop_path: `/hiib86sJwcqFlCJAPK8yhk63QcY.jpg`
   - release_date: `2013-01-30`
   - runtime: `120`
-  - vote_average: `6.7`
-  - vote_count: `226`
+  - vote_average: `6.675`
+  - vote_count: `228`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=XgbwtgIF0mQ`
   - status: `active`
@@ -22432,7 +23095,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | BERLIN FILE - SAVIMBI | https://oshakurfilms.com/watch/berlin-file-savimbi | Savimbi | 160704 | 160704 | https://drive.google.com/file/d/1eSuP5QQAj2VrHyQSZtz_M3E20rxdXnRE/preview | drive.google.com | https://drive.google.com/file/d/1eSuP5QQAj2VrHyQSZtz_M3E20rxdXnRE/preview | drive.google.com |  |
+| 1 | The Berlin File | https://oshakurfilms.com/watch/the-berlin-file | UNSPECIFIED | 160704 | 160704 | https://drive.google.com/file/d/1eSuP5QQAj2VrHyQSZtz_M3E20rxdXnRE/preview | drive.google.com | https://drive.google.com/file/d/1eSuP5QQAj2VrHyQSZtz_M3E20rxdXnRE/preview | drive.google.com |  |
 
 ## The Best of Me
 
@@ -22444,7 +23107,7 @@
 - canonical_title: `The Best of Me`
 - original_title: `The Best of Me`
 - normalized_title_guess: `The Best of Me`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/fUSemUPEJ9wKar5uYzMyIlLmWjS.jpg`
@@ -22454,8 +23117,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=IrzON-dCQ84`
 - release_date: `2014-10-15`
 - runtime: `117`
-- vote_average: `7.462`
-- vote_count: `2697`
+- vote_average: `7.463`
+- vote_count: `2709`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `239571`
@@ -22465,8 +23128,8 @@
   - backdrop_path: `/ydRoUWyhAMv1FstnWlo5EiZWEbc.jpg`
   - release_date: `2014-10-15`
   - runtime: `117`
-  - vote_average: `7.462`
-  - vote_count: `2697`
+  - vote_average: `7.463`
+  - vote_count: `2709`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=IrzON-dCQ84`
   - status: `active`
@@ -22474,7 +23137,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Best of Me . Pk | https://oshakurfilms.com/watch/the-best-of-me-pk | PK | 239571 | 239571 | https://hgcloud.to/e/lgduz94ork82 | hgcloud.to | https://www.mediafire.com/file/dvqwx1mk5up03mi/The+Best+Of+Me+Hd+Mp4.mp4/file | www.mediafire.com |  |
+| 1 | The Best of Me | https://oshakurfilms.com/watch/the-best-of-me | UNSPECIFIED | 239571 | 239571 | https://hgcloud.to/e/lgduz94ork82 | hgcloud.to | https://www.mediafire.com/file/dvqwx1mk5up03mi/The+Best+Of+Me+Hd+Mp4.mp4/file | www.mediafire.com |  |
 
 ## The BFG
 
@@ -22496,8 +23159,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Y6ZbRD1T7uI`
 - release_date: `2016-06-01`
 - runtime: `117`
-- vote_average: `6.292`
-- vote_count: `3628`
+- vote_average: `6.29`
+- vote_count: `3642`
 - genres: `Adventure`, `Family`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `267935`
@@ -22507,8 +23170,8 @@
   - backdrop_path: `/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg`
   - release_date: `2016-06-01`
   - runtime: `117`
-  - vote_average: `6.292`
-  - vote_count: `3628`
+  - vote_average: `6.29`
+  - vote_count: `3642`
   - genres: `Adventure`, `Family`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=Y6ZbRD1T7uI`
   - status: `active`
@@ -22583,8 +23246,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=E_f5GAMFfTM`
 - release_date: `2023-09-22`
 - runtime: `124`
-- vote_average: `6.687`
-- vote_count: `99`
+- vote_average: `6.7`
+- vote_count: `100`
 - genres: `Action`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1172009`
@@ -22594,8 +23257,8 @@
   - backdrop_path: `/9WxqnP9c29wXd03sALSpxpTx8fk.jpg`
   - release_date: `2023-09-22`
   - runtime: `124`
-  - vote_average: `6.687`
-  - vote_count: `99`
+  - vote_average: `6.7`
+  - vote_count: `100`
   - genres: `Action`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=E_f5GAMFfTM`
   - status: `active`
@@ -22625,8 +23288,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=uUYMqRjNxhM`
 - release_date: `2026-02-17`
 - runtime: `103`
-- vote_average: `6.704`
-- vote_count: `135`
+- vote_average: `6.818`
+- vote_count: `154`
 - genres: `Drama`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `799882`
@@ -22636,8 +23299,8 @@
   - backdrop_path: `/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg`
   - release_date: `2026-02-17`
   - runtime: `103`
-  - vote_average: `6.704`
-  - vote_count: `135`
+  - vote_average: `6.818`
+  - vote_count: `154`
   - genres: `Drama`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=uUYMqRjNxhM`
   - status: `active`
@@ -22669,8 +23332,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ntNS-ANoMyM`
 - release_date: `2024-01-11`
 - runtime: `129`
-- vote_average: `5.8`
-- vote_count: `136`
+- vote_average: `5.855`
+- vote_count: `138`
 - genres: `Adventure`, `Comedy`, `Drama`
 - movie_row:
   - import_tmdb_id: `976584`
@@ -22680,8 +23343,8 @@
   - backdrop_path: `/6e4M1qL4TN5mdP5LQVF6nIKdUJq.jpg`
   - release_date: `2024-01-11`
   - runtime: `129`
-  - vote_average: `5.8`
-  - vote_count: `136`
+  - vote_average: `5.855`
+  - vote_count: `138`
   - genres: `Adventure`, `Comedy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=ntNS-ANoMyM`
   - status: `active`
@@ -22711,8 +23374,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=MgbBwovOOoc`
 - release_date: `2015-01-23`
 - runtime: `91`
-- vote_average: `4.933`
-- vote_count: `2117`
+- vote_average: `4.936`
+- vote_count: `2123`
 - genres: `Thriller`
 - movie_row:
   - import_tmdb_id: `241251`
@@ -22722,8 +23385,8 @@
   - backdrop_path: `/96iXwJibeNW9RGEa58zYa0SQV6m.jpg`
   - release_date: `2015-01-23`
   - runtime: `91`
-  - vote_average: `4.933`
-  - vote_count: `2117`
+  - vote_average: `4.936`
+  - vote_count: `2123`
   - genres: `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=MgbBwovOOoc`
   - status: `active`
@@ -22753,8 +23416,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=nPkr9HmglG0`
 - release_date: `2019-02-14`
 - runtime: `113`
-- vote_average: `7.882`
-- vote_count: `1870`
+- vote_average: `7.884`
+- vote_count: `1879`
 - genres: `Drama`, `History`
 - movie_row:
   - import_tmdb_id: `491480`
@@ -22764,8 +23427,8 @@
   - backdrop_path: `/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg`
   - release_date: `2019-02-14`
   - runtime: `113`
-  - vote_average: `7.882`
-  - vote_count: `1870`
+  - vote_average: `7.884`
+  - vote_count: `1879`
   - genres: `Drama`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=nPkr9HmglG0`
   - status: `active`
@@ -22795,8 +23458,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=c7Aer6QJee4`
 - release_date: `2006-05-17`
 - runtime: `90`
-- vote_average: `5.499`
-- vote_count: `424`
+- vote_average: `5.494`
+- vote_count: `426`
 - genres: `Thriller`, `Horror`
 - movie_row:
   - import_tmdb_id: `10063`
@@ -22806,8 +23469,8 @@
   - backdrop_path: `/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg`
   - release_date: `2006-05-17`
   - runtime: `90`
-  - vote_average: `5.499`
-  - vote_count: `424`
+  - vote_average: `5.494`
+  - vote_count: `426`
   - genres: `Thriller`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=c7Aer6QJee4`
   - status: `active`
@@ -22859,6 +23522,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | The Brink . Sankra Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/the-brink-sankra-agasobanuye-mu-kinyarwanda | Sankra | 458257 | 458257 | https://hglink.to/e/thygmttsv49l | hglink.to | https://www.mediafire.com/file/x33unv553jm9qk4/THe_Brink.mp4/file | www.mediafire.com |  |
 
+## The Call
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `158011`
+- canonical_title: `The Call`
+- original_title: `The Call`
+- normalized_title_guess: `The Call`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/mG334OlDVJpD8gMfTCM2Mpp0gQH.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/mG334OlDVJpD8gMfTCM2Mpp0gQH.jpg`
+- backdrop_path: `/9jih8et3fkd0Zdo4NHf3cnPj05Z.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/9jih8et3fkd0Zdo4NHf3cnPj05Z.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=LHrZxG9W3RI`
+- release_date: `2013-03-14`
+- runtime: `96`
+- vote_average: `6.794`
+- vote_count: `3084`
+- genres: `Crime`, `Thriller`
+- movie_row:
+  - import_tmdb_id: `158011`
+  - title: `The Call`
+  - overview: `Jordan Turner is an experienced 911 operator but when she makes an error in judgment and a call ends badly, Jordan is rattled and unsure if she can continue. But when teenager Casey Welson is abducted in the back of a man's car and calls 911, Jordan is the one called upon to use all of her experience, insights and quick thinking to help Casey escape, and not just to save her, but to make sure the man is brought to justice.`
+  - poster_path: `/mG334OlDVJpD8gMfTCM2Mpp0gQH.jpg`
+  - backdrop_path: `/9jih8et3fkd0Zdo4NHf3cnPj05Z.jpg`
+  - release_date: `2013-03-14`
+  - runtime: `96`
+  - vote_average: `6.794`
+  - vote_count: `3084`
+  - genres: `Crime`, `Thriller`
+  - trailer_url: `https://www.youtube.com/watch?v=LHrZxG9W3RI`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | The Call | https://oshakurfilms.com/watch/the-call | UNSPECIFIED | 158011 | 158011 | https://hgcloud.to/e/ofrd8iu3xmew | hgcloud.to | https://www.mediafire.com/file/ae1h1lvmo0wsstl/The_Call_A.mp4/file | www.mediafire.com |  |
+
 ## The Carpenter's Son
 
 - content_type: `movie`
@@ -22879,8 +23584,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3GSUbJB0oOg`
 - release_date: `2025-11-13`
 - runtime: `94`
-- vote_average: `5.995`
-- vote_count: `92`
+- vote_average: `5.943`
+- vote_count: `97`
 - genres: `Horror`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `1286185`
@@ -22890,8 +23595,8 @@
   - backdrop_path: `/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg`
   - release_date: `2025-11-13`
   - runtime: `94`
-  - vote_average: `5.995`
-  - vote_count: `92`
+  - vote_average: `5.943`
+  - vote_count: `97`
   - genres: `Horror`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=3GSUbJB0oOg`
   - status: `active`
@@ -22963,8 +23668,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=DmMfVrovN4Q`
 - release_date: `2021-10-12`
 - runtime: `93`
-- vote_average: `5.5`
-- vote_count: `31`
+- vote_average: `5.391`
+- vote_count: `32`
 - genres: `Crime`, `Drama`, `Mystery`
 - movie_row:
   - import_tmdb_id: `876024`
@@ -22974,8 +23679,8 @@
   - backdrop_path: `/qhPPEveBOh9IAY6ITNd71vR8jPN.jpg`
   - release_date: `2021-10-12`
   - runtime: `93`
-  - vote_average: `5.5`
-  - vote_count: `31`
+  - vote_average: `5.391`
+  - vote_count: `32`
   - genres: `Crime`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=DmMfVrovN4Q`
   - status: `active`
@@ -23005,8 +23710,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qxJpe8d2dBQ`
 - release_date: `2012-04-04`
 - runtime: `93`
-- vote_average: `5.388`
-- vote_count: `988`
+- vote_average: `5.387`
+- vote_count: `994`
 - genres: `Action`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `77948`
@@ -23016,8 +23721,8 @@
   - backdrop_path: `/tkj4i4TQP6TijYxqUq6duPZUW2R.jpg`
   - release_date: `2012-04-04`
   - runtime: `93`
-  - vote_average: `5.388`
-  - vote_count: `988`
+  - vote_average: `5.387`
+  - vote_count: `994`
   - genres: `Action`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=qxJpe8d2dBQ`
   - status: `active`
@@ -23048,7 +23753,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=5UbiOLp-FsA`
 - release_date: `2023-08-04`
 - runtime: `86`
-- vote_average: `5.574`
+- vote_average: `5.6`
 - vote_count: `163`
 - genres: `Action`, `Thriller`
 - movie_row:
@@ -23059,7 +23764,7 @@
   - backdrop_path: `/biRLtgt3t8MwxeLRRJkf1BsHoeq.jpg`
   - release_date: `2023-08-04`
   - runtime: `86`
-  - vote_average: `5.574`
+  - vote_average: `5.6`
   - vote_count: `163`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=5UbiOLp-FsA`
@@ -23091,8 +23796,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=k10ETZ41q5o`
 - release_date: `2013-07-18`
 - runtime: `112`
-- vote_average: `7.539`
-- vote_count: `12724`
+- vote_average: `7.541`
+- vote_count: `12785`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `138843`
@@ -23102,8 +23807,8 @@
   - backdrop_path: `/ecKQlAEG95k62SMGhvX83oEqANK.jpg`
   - release_date: `2013-07-18`
   - runtime: `112`
-  - vote_average: `7.539`
-  - vote_count: `12724`
+  - vote_average: `7.541`
+  - vote_count: `12785`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=k10ETZ41q5o`
   - status: `active`
@@ -23126,26 +23831,26 @@
 - narrators_found: `Dylan`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/skHRXm3m0BDp2E2uHkAWKT6OlQH.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/skHRXm3m0BDp2E2uHkAWKT6OlQH.jpg`
+- poster_path: `/r6jbhgqKao3K3in4eftu7gqgMNH.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/r6jbhgqKao3K3in4eftu7gqgMNH.jpg`
 - backdrop_path: `/vn9BFSlvwILE4wPUITi4XDD3fEK.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/vn9BFSlvwILE4wPUITi4XDD3fEK.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=mNdijA2KlJo`
 - release_date: `2006-09-07`
 - runtime: `97`
-- vote_average: `5.6`
-- vote_count: `1103`
+- vote_average: `5.605`
+- vote_count: `1108`
 - genres: `Fantasy`, `Horror`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `9954`
   - title: `The Covenant`
   - overview: `Four young men who belong to a supernatural legacy are forced to battle a fifth power long thought to have died out. Another great force they must contend with is the jealousy and suspicion that threatens to tear them apart.`
-  - poster_path: `/skHRXm3m0BDp2E2uHkAWKT6OlQH.jpg`
+  - poster_path: `/r6jbhgqKao3K3in4eftu7gqgMNH.jpg`
   - backdrop_path: `/vn9BFSlvwILE4wPUITi4XDD3fEK.jpg`
   - release_date: `2006-09-07`
   - runtime: `97`
-  - vote_average: `5.6`
-  - vote_count: `1103`
+  - vote_average: `5.605`
+  - vote_count: `1108`
   - genres: `Fantasy`, `Horror`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=mNdijA2KlJo`
   - status: `active`
@@ -23175,8 +23880,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=TfeK0aN9w24`
 - release_date: `2010-02-26`
 - runtime: `101`
-- vote_average: `6.31`
-- vote_count: `2276`
+- vote_average: `6.311`
+- vote_count: `2299`
 - genres: `Mystery`, `Horror`, `Action`
 - movie_row:
   - import_tmdb_id: `29427`
@@ -23186,8 +23891,8 @@
   - backdrop_path: `/n6wLCq16XxY5p0PG3EWU18LdFAM.jpg`
   - release_date: `2010-02-26`
   - runtime: `101`
-  - vote_average: `6.31`
-  - vote_count: `2276`
+  - vote_average: `6.311`
+  - vote_count: `2299`
   - genres: `Mystery`, `Horror`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=TfeK0aN9w24`
   - status: `active`
@@ -23217,8 +23922,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=4fVCKy69zUY`
 - release_date: `2013-03-15`
 - runtime: `99`
-- vote_average: `6.9`
-- vote_count: `7534`
+- vote_average: `6.942`
+- vote_count: `7561`
 - genres: `Animation`, `Adventure`, `Family`, `Comedy`
 - movie_row:
   - import_tmdb_id: `49519`
@@ -23228,8 +23933,8 @@
   - backdrop_path: `/wFN8llYh215M8i2fqWAcPV8CSyL.jpg`
   - release_date: `2013-03-15`
   - runtime: `99`
-  - vote_average: `6.9`
-  - vote_count: `7534`
+  - vote_average: `6.942`
+  - vote_count: `7561`
   - genres: `Animation`, `Adventure`, `Family`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=4fVCKy69zUY`
   - status: `active`
@@ -23252,25 +23957,25 @@
 - narrators_found: `Fey`, `Sankra`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/vcSfab0S2gTm9302TfejcM2gzrg.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/vcSfab0S2gTm9302TfejcM2gzrg.jpg`
+- poster_path: `/irl4zGq3rh8UF0Ra0gvNg7mY5my.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/irl4zGq3rh8UF0Ra0gvNg7mY5my.jpg`
 - backdrop_path: `/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=AKq57Gr_i9E`
 - release_date: `1995-04-21`
 - runtime: `97`
-- vote_average: `7.922`
+- vote_average: `7.9`
 - vote_count: `353`
 - genres: `Drama`, `Family`
 - movie_row:
   - import_tmdb_id: `6715`
   - title: `The Cure`
   - overview: `Erik, a loner, finds a friend in Dexter, an eleven-year-old boy with AIDS. They vow to find a cure for AIDS together and save Dexter's life in an eventful summer.`
-  - poster_path: `/vcSfab0S2gTm9302TfejcM2gzrg.jpg`
+  - poster_path: `/irl4zGq3rh8UF0Ra0gvNg7mY5my.jpg`
   - backdrop_path: `/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg`
   - release_date: `1995-04-21`
   - runtime: `97`
-  - vote_average: `7.922`
+  - vote_average: `7.9`
   - vote_count: `353`
   - genres: `Drama`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=AKq57Gr_i9E`
@@ -23302,8 +24007,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wZC5FoJ-cPU`
 - release_date: `2017-08-03`
 - runtime: `95`
-- vote_average: `5.8`
-- vote_count: `5526`
+- vote_average: `5.792`
+- vote_count: `5547`
 - genres: `Fantasy`, `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `353491`
@@ -23313,8 +24018,8 @@
   - backdrop_path: `/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg`
   - release_date: `2017-08-03`
   - runtime: `95`
-  - vote_average: `5.8`
-  - vote_count: `5526`
+  - vote_average: `5.792`
+  - vote_count: `5547`
   - genres: `Fantasy`, `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=wZC5FoJ-cPU`
   - status: `active`
@@ -23344,8 +24049,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=N0O5iwmXzXM`
 - release_date: `2018-06-05`
 - runtime: `96`
-- vote_average: `5.776`
-- vote_count: `248`
+- vote_average: `5.788`
+- vote_count: `252`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `513691`
@@ -23355,8 +24060,8 @@
   - backdrop_path: `/vEr6UxWjUVS55JZHSaQL8cZZCrN.jpg`
   - release_date: `2018-06-05`
   - runtime: `96`
-  - vote_average: `5.776`
-  - vote_count: `248`
+  - vote_average: `5.788`
+  - vote_count: `252`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=N0O5iwmXzXM`
   - status: `active`
@@ -23386,8 +24091,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=etrZJJC4ox8`
 - release_date: `1997-10-17`
 - runtime: `144`
-- vote_average: `7.474`
-- vote_count: `6803`
+- vote_average: `7.477`
+- vote_count: `6842`
 - genres: `Horror`, `Drama`, `Mystery`
 - movie_row:
   - import_tmdb_id: `1813`
@@ -23397,8 +24102,8 @@
   - backdrop_path: `/2Y6Q7eYDXoolcHjYCAyJQlE2CVT.jpg`
   - release_date: `1997-10-17`
   - runtime: `144`
-  - vote_average: `7.474`
-  - vote_count: `6803`
+  - vote_average: `7.477`
+  - vote_count: `6842`
   - genres: `Horror`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=etrZJJC4ox8`
   - status: `active`
@@ -23466,24 +24171,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
-- backdrop_path: `/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
+- backdrop_path: `/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=BP_FwE0Z7no`
 - release_date: `2014-09-24`
 - runtime: `132`
-- vote_average: `7.287`
-- vote_count: `9952`
+- vote_average: `7.3`
+- vote_count: `9991`
 - genres: `Thriller`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `156022`
   - title: `The Equalizer`
   - overview: `McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.`
   - poster_path: `/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
-  - backdrop_path: `/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
+  - backdrop_path: `/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
   - release_date: `2014-09-24`
   - runtime: `132`
-  - vote_average: `7.287`
-  - vote_count: `9952`
+  - vote_average: `7.3`
+  - vote_count: `9991`
   - genres: `Thriller`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=BP_FwE0Z7no`
   - status: `active`
@@ -23508,24 +24213,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
-- backdrop_path: `/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
+- backdrop_path: `/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=BP_FwE0Z7no`
 - release_date: `2014-09-24`
 - runtime: `132`
-- vote_average: `7.287`
-- vote_count: `9952`
+- vote_average: `7.3`
+- vote_count: `9991`
 - genres: `Thriller`, `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `156022`
   - title: `The Equalizer`
   - overview: `McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.`
   - poster_path: `/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg`
-  - backdrop_path: `/wNAfVj1ObGNye5fQM4tJXJGtU0.jpg`
+  - backdrop_path: `/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg`
   - release_date: `2014-09-24`
   - runtime: `132`
-  - vote_average: `7.287`
-  - vote_count: `9952`
+  - vote_average: `7.3`
+  - vote_count: `9991`
   - genres: `Thriller`, `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=BP_FwE0Z7no`
   - status: `active`
@@ -23550,24 +24255,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg`
-- backdrop_path: `/55eNvuXNumZ3oDmtcsJvzGhKyLZ.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/55eNvuXNumZ3oDmtcsJvzGhKyLZ.jpg`
+- backdrop_path: `/a24i4Qw6qFTtkFLQsncv8WPwevj.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/a24i4Qw6qFTtkFLQsncv8WPwevj.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=EiaVnU18pcs`
 - release_date: `2018-07-19`
 - runtime: `121`
-- vote_average: `6.789`
-- vote_count: `5985`
+- vote_average: `6.793`
+- vote_count: `6020`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `345887`
   - title: `The Equalizer 2`
   - overview: `Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.`
   - poster_path: `/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg`
-  - backdrop_path: `/55eNvuXNumZ3oDmtcsJvzGhKyLZ.jpg`
+  - backdrop_path: `/a24i4Qw6qFTtkFLQsncv8WPwevj.jpg`
   - release_date: `2018-07-19`
   - runtime: `121`
-  - vote_average: `6.789`
-  - vote_count: `5985`
+  - vote_average: `6.793`
+  - vote_count: `6020`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=EiaVnU18pcs`
   - status: `active`
@@ -23592,24 +24297,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg`
-- backdrop_path: `/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg`
+- backdrop_path: `/gystuaqp5AkVqqu3Nf0564zeOv4.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/gystuaqp5AkVqqu3Nf0564zeOv4.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=fQfrzHFmVe8`
 - release_date: `2023-08-30`
 - runtime: `109`
-- vote_average: `7.292`
-- vote_count: `3726`
+- vote_average: `7.3`
+- vote_count: `3760`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `926393`
   - title: `The Equalizer 3`
   - overview: `Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.`
   - poster_path: `/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg`
-  - backdrop_path: `/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg`
+  - backdrop_path: `/gystuaqp5AkVqqu3Nf0564zeOv4.jpg`
   - release_date: `2023-08-30`
   - runtime: `109`
-  - vote_average: `7.292`
-  - vote_count: `3726`
+  - vote_average: `7.3`
+  - vote_count: `3760`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=fQfrzHFmVe8`
   - status: `active`
@@ -23640,8 +24345,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=VdLI8I4jZD0`
 - release_date: `2022-03-11`
 - runtime: `98`
-- vote_average: `7.072`
-- vote_count: `1162`
+- vote_average: `7.075`
+- vote_count: `1167`
 - genres: `Horror`, `Crime`, `Drama`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `836225`
@@ -23651,8 +24356,8 @@
   - backdrop_path: `/mjIuTXM4FhLAT1apxHULetAZAfj.jpg`
   - release_date: `2022-03-11`
   - runtime: `98`
-  - vote_average: `7.072`
-  - vote_count: `1162`
+  - vote_average: `7.075`
+  - vote_count: `1167`
   - genres: `Horror`, `Crime`, `Drama`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=VdLI8I4jZD0`
   - status: `active`
@@ -23722,8 +24427,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ns8weNznn1Y`
 - release_date: `2023-12-14`
 - runtime: `118`
-- vote_average: `7.221`
-- vote_count: `1884`
+- vote_average: `7.213`
+- vote_count: `1904`
 - genres: `Action`, `Comedy`, `Adventure`
 - movie_row:
   - import_tmdb_id: `1029575`
@@ -23733,8 +24438,8 @@
   - backdrop_path: `/arNhhBd88bP3Bjoe4HT8MFE1JQA.jpg`
   - release_date: `2023-12-14`
   - runtime: `118`
-  - vote_average: `7.221`
-  - vote_count: `1884`
+  - vote_average: `7.213`
+  - vote_count: `1904`
   - genres: `Action`, `Comedy`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=ns8weNznn1Y`
   - status: `active`
@@ -23765,8 +24470,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jprhe-cWKGs`
 - release_date: `2023-06-13`
 - runtime: `144`
-- vote_average: `6.617`
-- vote_count: `4995`
+- vote_average: `6.62`
+- vote_count: `5040`
 - genres: `Action`, `Science Fiction`, `Adventure`
 - movie_row:
   - import_tmdb_id: `298618`
@@ -23776,8 +24481,8 @@
   - backdrop_path: `/yF1eOkaYvwiORauRCPWznV9xVvi.jpg`
   - release_date: `2023-06-13`
   - runtime: `144`
-  - vote_average: `6.617`
-  - vote_count: `4995`
+  - vote_average: `6.62`
+  - vote_count: `5040`
   - genres: `Action`, `Science Fiction`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=jprhe-cWKGs`
   - status: `active`
@@ -23809,8 +24514,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=xOrXpK-rUaI`
 - release_date: `2021-06-30`
 - runtime: `103`
-- vote_average: `6.867`
-- vote_count: `2680`
+- vote_average: `6.864`
+- vote_count: `2693`
 - genres: `Action`, `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `602223`
@@ -23820,8 +24525,8 @@
   - backdrop_path: `/ciKBP3tgzUxp7sHFNZxofBXUS8k.jpg`
   - release_date: `2021-06-30`
   - runtime: `103`
-  - vote_average: `6.867`
-  - vote_count: `2680`
+  - vote_average: `6.864`
+  - vote_count: `2693`
   - genres: `Action`, `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=xOrXpK-rUaI`
   - status: `active`
@@ -23933,8 +24638,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=rUSdnuOLebE`
 - release_date: `2025-02-13`
 - runtime: `128`
-- vote_average: `7.641`
-- vote_count: `3753`
+- vote_average: `7.661`
+- vote_count: `3852`
 - genres: `Romance`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `950396`
@@ -23944,8 +24649,8 @@
   - backdrop_path: `/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg`
   - release_date: `2025-02-13`
   - runtime: `128`
-  - vote_average: `7.641`
-  - vote_count: `3753`
+  - vote_average: `7.661`
+  - vote_count: `3852`
   - genres: `Romance`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=rUSdnuOLebE`
   - status: `active`
@@ -23971,24 +24676,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg`
-- backdrop_path: `/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg`
+- backdrop_path: `/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=OryyR6ad2rQ`
 - release_date: `2022-07-13`
 - runtime: `128`
-- vote_average: `6.899`
-- vote_count: `4234`
+- vote_average: `6.911`
+- vote_count: `4292`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `725201`
   - title: `The Gray Man`
   - overview: `When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.`
   - poster_path: `/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg`
-  - backdrop_path: `/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg`
+  - backdrop_path: `/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg`
   - release_date: `2022-07-13`
   - runtime: `128`
-  - vote_average: `6.899`
-  - vote_count: `4234`
+  - vote_average: `6.911`
+  - vote_count: `4292`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=OryyR6ad2rQ`
   - status: `active`
@@ -24018,8 +24723,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=s3xlf7o5GCs`
 - release_date: `2018-09-19`
 - runtime: `135`
-- vote_average: `6.8`
-- vote_count: `189`
+- vote_average: `6.747`
+- vote_count: `190`
 - genres: `War`, `History`, `Action`
 - movie_row:
   - import_tmdb_id: `535389`
@@ -24029,8 +24734,8 @@
   - backdrop_path: `/oGe84ddxe2R90hFwvCDxOINE8qL.jpg`
   - release_date: `2018-09-19`
   - runtime: `135`
-  - vote_average: `6.8`
-  - vote_count: `189`
+  - vote_average: `6.747`
+  - vote_count: `190`
   - genres: `War`, `History`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=s3xlf7o5GCs`
   - status: `active`
@@ -24060,8 +24765,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Bnsesxk5LF4`
 - release_date: `2016-12-16`
 - runtime: `103`
-- vote_average: `6.03`
-- vote_count: `5537`
+- vote_average: `6.032`
+- vote_count: `5568`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `311324`
@@ -24071,8 +24776,8 @@
   - backdrop_path: `/th26RNksfM9nn7DPH06OqiV6BA2.jpg`
   - release_date: `2016-12-16`
   - runtime: `103`
-  - vote_average: `6.03`
-  - vote_count: `5537`
+  - vote_average: `6.032`
+  - vote_count: `5568`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=Bnsesxk5LF4`
   - status: `active`
@@ -24103,8 +24808,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=9tyL6OzBMt8`
 - release_date: `2014-09-05`
 - runtime: `101`
-- vote_average: `6.637`
-- vote_count: `2140`
+- vote_average: `6.632`
+- vote_count: `2153`
 - genres: `Mystery`, `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `241848`
@@ -24114,8 +24819,8 @@
   - backdrop_path: `/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg`
   - release_date: `2014-09-05`
   - runtime: `101`
-  - vote_average: `6.637`
-  - vote_count: `2140`
+  - vote_average: `6.632`
+  - vote_count: `2153`
   - genres: `Mystery`, `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=9tyL6OzBMt8`
   - status: `active`
@@ -24145,8 +24850,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3MM8OkVT0hw`
 - release_date: `2018-10-19`
 - runtime: `133`
-- vote_average: `8.1`
-- vote_count: `2222`
+- vote_average: `8.082`
+- vote_count: `2226`
 - genres: `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `470044`
@@ -24156,8 +24861,8 @@
   - backdrop_path: `/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg`
   - release_date: `2018-10-19`
   - runtime: `133`
-  - vote_average: `8.1`
-  - vote_count: `2222`
+  - vote_average: `8.082`
+  - vote_count: `2226`
   - genres: `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=3MM8OkVT0hw`
   - status: `active`
@@ -24187,8 +24892,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=swgom5tFwWI`
 - release_date: `2008-12-17`
 - runtime: `108`
-- vote_average: `6.045`
-- vote_count: `587`
+- vote_average: `6.031`
+- vote_count: `592`
 - genres: `Adventure`, `Drama`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `14400`
@@ -24198,8 +24903,8 @@
   - backdrop_path: `/qWSjUUPWHwDvFhUisPan5BPGFPA.jpg`
   - release_date: `2008-12-17`
   - runtime: `108`
-  - vote_average: `6.045`
-  - vote_count: `587`
+  - vote_average: `6.031`
+  - vote_count: `592`
   - genres: `Adventure`, `Drama`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=swgom5tFwWI`
   - status: `active`
@@ -24228,8 +24933,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/ez0zntkwczsv1d1n8WFhMe5rtq5.jpg`
 - release_date: `2011-09-16`
 - runtime: `92`
-- vote_average: `7.302`
-- vote_count: `1141`
+- vote_average: `7.305`
+- vote_count: `1146`
 - genres: `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `80184`
@@ -24239,8 +24944,8 @@
   - backdrop_path: `/ez0zntkwczsv1d1n8WFhMe5rtq5.jpg`
   - release_date: `2011-09-16`
   - runtime: `92`
-  - vote_average: `7.302`
-  - vote_count: `1141`
+  - vote_average: `7.305`
+  - vote_count: `1146`
   - genres: `Thriller`, `Mystery`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -24269,8 +24974,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=v_Icvb9lFms`
 - release_date: `2017-06-08`
 - runtime: `91`
-- vote_average: `5.641`
-- vote_count: `435`
+- vote_average: `5.6`
+- vote_count: `439`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `302150`
@@ -24280,8 +24985,8 @@
   - backdrop_path: `/fevCa67iK0QuboWsIS3LnCcAlCw.jpg`
   - release_date: `2017-06-08`
   - runtime: `91`
-  - vote_average: `5.641`
-  - vote_count: `435`
+  - vote_average: `5.6`
+  - vote_count: `439`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=v_Icvb9lFms`
   - status: `active`
@@ -24301,7 +25006,7 @@
 - canonical_title: `The Huntsman: Winter's War`
 - original_title: `The Huntsman: Winter's War`
 - normalized_title_guess: `The Huntsman Winter War`
-- narrators_found: `PK`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/ekHPrneEoa1EoDclWdillOKznqM.jpg`
@@ -24311,8 +25016,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=V9cPxenX1-0`
 - release_date: `2016-04-06`
 - runtime: `114`
-- vote_average: `6.292`
-- vote_count: `5052`
+- vote_average: `6.293`
+- vote_count: `5063`
 - genres: `Action`, `Adventure`, `Drama`
 - movie_row:
   - import_tmdb_id: `290595`
@@ -24322,8 +25027,8 @@
   - backdrop_path: `/4kCDWJhceLHwPbRWd9uTR8bJpLz.jpg`
   - release_date: `2016-04-06`
   - runtime: `114`
-  - vote_average: `6.292`
-  - vote_count: `5052`
+  - vote_average: `6.293`
+  - vote_count: `5063`
   - genres: `Action`, `Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=V9cPxenX1-0`
   - status: `active`
@@ -24331,7 +25036,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Huntsman Winter War . Pk | https://oshakurfilms.com/watch/the-huntsman-winter-war-pk | PK | 290595 | 290595 | https://hgcloud.to/e/ra2q6d0jr3s6 | hgcloud.to | https://www.mediafire.com/file/b8ngemsianprf67/The_Huntsman_Winter_War_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | The Huntsman Winter War | https://oshakurfilms.com/watch/the-huntsman-winter-war | UNSPECIFIED | 290595 | 290595 | https://hgcloud.to/e/ra2q6d0jr3s6 | hgcloud.to | https://www.mediafire.com/file/b8ngemsianprf67/The_Huntsman_Winter_War_Hd_Mp4.mp4/file | www.mediafire.com |  |
 
 ## The Ice Road
 
@@ -24353,8 +25058,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=_XfS6kjoM24`
 - release_date: `2021-06-24`
 - runtime: `108`
-- vote_average: `6.758`
-- vote_count: `1914`
+- vote_average: `6.754`
+- vote_count: `1923`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `646207`
@@ -24364,8 +25069,8 @@
   - backdrop_path: `/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg`
   - release_date: `2021-06-24`
   - runtime: `108`
-  - vote_average: `6.758`
-  - vote_count: `1914`
+  - vote_average: `6.754`
+  - vote_count: `1923`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=_XfS6kjoM24`
   - status: `active`
@@ -24395,8 +25100,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=pz6qx4n2Ewc`
 - release_date: `2024-05-02`
 - runtime: `116`
-- vote_average: `7.29`
-- vote_count: `1950`
+- vote_average: `7.278`
+- vote_count: `1967`
 - genres: `Music`, `Comedy`, `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `843527`
@@ -24406,8 +25111,8 @@
   - backdrop_path: `/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg`
   - release_date: `2024-05-02`
   - runtime: `116`
-  - vote_average: `7.29`
-  - vote_count: `1950`
+  - vote_average: `7.278`
+  - vote_count: `1967`
   - genres: `Music`, `Comedy`, `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=pz6qx4n2Ewc`
   - status: `active`
@@ -24439,7 +25144,7 @@
 - release_date: `2004-10-27`
 - runtime: `115`
 - vote_average: `7.726`
-- vote_count: `18900`
+- vote_count: `18977`
 - genres: `Action`, `Adventure`, `Animation`, `Family`
 - movie_row:
   - import_tmdb_id: `9806`
@@ -24450,7 +25155,7 @@
   - release_date: `2004-10-27`
   - runtime: `115`
   - vote_average: `7.726`
-  - vote_count: `18900`
+  - vote_count: `18977`
   - genres: `Action`, `Adventure`, `Animation`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=sJCjKQQOqT0`
   - status: `active`
@@ -24466,42 +25171,42 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `116741`
+- real_tmdb_id: `1584215`
 - canonical_title: `The Internship`
 - original_title: `The Internship`
 - normalized_title_guess: `The Internship`
 - narrators_found: `Rocky`, `Skov`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/hIh3ZgsZ31nbUAGn5SKIZGKiKCX.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/hIh3ZgsZ31nbUAGn5SKIZGKiKCX.jpg`
-- backdrop_path: `/kms4PhWfP1Q2jidPLOf26qm0paJ.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/kms4PhWfP1Q2jidPLOf26qm0paJ.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=G3W6IESxRKs`
-- release_date: `2013-06-07`
-- runtime: `119`
-- vote_average: `6.2`
-- vote_count: `4478`
-- genres: `Comedy`
+- poster_path: `/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg`
+- backdrop_path: `/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=uXRFha7MLTM`
+- release_date: `2026-01-13`
+- runtime: `91`
+- vote_average: `6.802`
+- vote_count: `106`
+- genres: `Action`
 - movie_row:
-  - import_tmdb_id: `116741`
+  - import_tmdb_id: `1584215`
   - title: `The Internship`
-  - overview: `Two recently laid-off men in their 40s try to make it as interns at a successful Internet company where their managers are in their 20s.`
-  - poster_path: `/hIh3ZgsZ31nbUAGn5SKIZGKiKCX.jpg`
-  - backdrop_path: `/kms4PhWfP1Q2jidPLOf26qm0paJ.jpg`
-  - release_date: `2013-06-07`
-  - runtime: `119`
-  - vote_average: `6.2`
-  - vote_count: `4478`
-  - genres: `Comedy`
-  - trailer_url: `https://www.youtube.com/watch?v=G3W6IESxRKs`
+  - overview: `A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.`
+  - poster_path: `/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg`
+  - backdrop_path: `/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg`
+  - release_date: `2026-01-13`
+  - runtime: `91`
+  - vote_average: `6.802`
+  - vote_count: `106`
+  - genres: `Action`
+  - trailer_url: `https://www.youtube.com/watch?v=uXRFha7MLTM`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Internship . Rocky | https://oshakurfilms.com/watch/the-internship-rocky | Rocky | 116741 | 116741 | https://hglink.to/e/njj9j7w0ske3 | hglink.to | https://www.mediafire.com/file/bugsmmjbn9xftyy/INTERNERSHIP+ROCKY.mp4/file | www.mediafire.com |  |
-| 1 | The Internship . Skov | https://oshakurfilms.com/watch/the-internship-skov | Skov | 116741 | 116741 | https://hglink.to/e/2w2cy9fdic97 | hglink.to | https://www.mediafire.com/file/9ugpxk4wvg8vesq/THE_INTERNSHIP.mp4/file | www.mediafire.com |  |
+| 1 | The Internship . Rocky | https://oshakurfilms.com/watch/the-internship-rocky | Rocky | 1584215 | 1584215 | https://hglink.to/e/njj9j7w0ske3 | hglink.to | https://www.mediafire.com/file/bugsmmjbn9xftyy/INTERNERSHIP+ROCKY.mp4/file | www.mediafire.com |  |
+| 1 | The Internship . Skov | https://oshakurfilms.com/watch/the-internship-skov | Skov | 1584215 | 1584215 | https://hglink.to/e/2w2cy9fdic97 | hglink.to | https://www.mediafire.com/file/9ugpxk4wvg8vesq/THE_INTERNSHIP.mp4/file | www.mediafire.com |  |
 
 ## The Italian Job
 
@@ -24518,24 +25223,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg`
-- backdrop_path: `/wryDL17raofFbO5AfhH1WSm034Y.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/wryDL17raofFbO5AfhH1WSm034Y.jpg`
+- backdrop_path: `/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=mJgGUnV9i54`
 - release_date: `2003-05-30`
 - runtime: `110`
-- vote_average: `6.791`
-- vote_count: `6018`
+- vote_average: `6.793`
+- vote_count: `6056`
 - genres: `Action`, `Crime`
 - movie_row:
   - import_tmdb_id: `9654`
   - title: `The Italian Job`
   - overview: `Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.`
   - poster_path: `/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg`
-  - backdrop_path: `/wryDL17raofFbO5AfhH1WSm034Y.jpg`
+  - backdrop_path: `/jPH8ROhZMLvP0owQCE1J6it7fN0.jpg`
   - release_date: `2003-05-30`
   - runtime: `110`
-  - vote_average: `6.791`
-  - vote_count: `6018`
+  - vote_average: `6.793`
+  - vote_count: `6056`
   - genres: `Action`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=mJgGUnV9i54`
   - status: `active`
@@ -24565,8 +25270,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=zgNOS5ofQhw`
 - release_date: `2024-08-22`
 - runtime: `126`
-- vote_average: `6.254`
-- vote_count: `560`
+- vote_average: `6.262`
+- vote_count: `581`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `970347`
@@ -24576,8 +25281,8 @@
   - backdrop_path: `/tCQfubckzzcuCbsGugkpLhfjS5z.jpg`
   - release_date: `2024-08-22`
   - runtime: `126`
-  - vote_average: `6.254`
-  - vote_count: `560`
+  - vote_average: `6.262`
+  - vote_count: `581`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=zgNOS5ofQhw`
   - status: `active`
@@ -24608,8 +25313,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=rVjysY9-L-I`
 - release_date: `2024-06-28`
 - runtime: `96`
-- vote_average: `5.901`
-- vote_count: `166`
+- vote_average: `5.9`
+- vote_count: `167`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1241674`
@@ -24619,8 +25324,8 @@
   - backdrop_path: `/4wXTv2LhZrVWIyIHG4dVIsjxCon.jpg`
   - release_date: `2024-06-28`
   - runtime: `96`
-  - vote_average: `5.901`
-  - vote_count: `166`
+  - vote_average: `5.9`
+  - vote_count: `167`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=rVjysY9-L-I`
   - status: `active`
@@ -24650,8 +25355,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=2EZyJxabVck`
 - release_date: `2009-03-13`
 - runtime: `113`
-- vote_average: `6.494`
-- vote_count: `1952`
+- vote_average: `6.497`
+- vote_count: `1968`
 - genres: `Crime`, `Thriller`, `Horror`, `Drama`
 - movie_row:
   - import_tmdb_id: `18405`
@@ -24661,8 +25366,8 @@
   - backdrop_path: `/114yPZmKgsQVTSt0BDx5WagBOvW.jpg`
   - release_date: `2009-03-13`
   - runtime: `113`
-  - vote_average: `6.494`
-  - vote_count: `1952`
+  - vote_average: `6.497`
+  - vote_count: `1968`
   - genres: `Crime`, `Thriller`, `Horror`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=2EZyJxabVck`
   - status: `active`
@@ -24692,18 +25397,18 @@
 - trailer_url: `https://www.youtube.com/watch?v=R1VeyLrVaIo`
 - release_date: `2024-05-09`
 - runtime: `105`
-- vote_average: `6.784`
+- vote_average: `6.8`
 - vote_count: `125`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1115623`
   - title: `The Last Kumite`
-  - overview: `When Karate champion Michael Rivers wins the last tournament of his career, shady businessman Ron Hall offers him the opportunity to fight in an illegal Kumite in Bulgaria against the world’s best martial artists.  When Michael declines, Hall has his daughter kidnapped and, in order to rescue her, Rivers is left with no choice but to compete in the deadly tournament. Arriving in Bulgaria, he finds out that he is not the only fighter whose loved one was taken. Rivers enlists the help of trainers Master Loren, and Julie Jackson but will it be enough for him to win the tournament and save his daughter’s life?`
+  - overview: `When shady businessman Ron Hall kidnaps his daughter, retired karate champion Michael Rivers is forced to enter a deadly illegal Kumite tournament in Bulgaria. Enlisting the help of seasoned trainers Master Loren and Julie Jackson, he discovers other fighters face the same desperate struggle to save their loved ones.`
   - poster_path: `/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg`
   - backdrop_path: `/g5Ha2DhXIuxsUl4gaDnbw3jOAlo.jpg`
   - release_date: `2024-05-09`
   - runtime: `105`
-  - vote_average: `6.784`
+  - vote_average: `6.8`
   - vote_count: `125`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=R1VeyLrVaIo`
@@ -24735,8 +25440,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=BS-FyAh9cv8`
 - release_date: `2013-01-12`
 - runtime: `107`
-- vote_average: `6.085`
-- vote_count: `2981`
+- vote_average: `6.093`
+- vote_count: `3002`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `76640`
@@ -24746,8 +25451,8 @@
   - backdrop_path: `/86yCBuxCX5PV60Y1Gp0VO6K8imM.jpg`
   - release_date: `2013-01-12`
   - runtime: `107`
-  - vote_average: `6.085`
-  - vote_count: `2981`
+  - vote_average: `6.093`
+  - vote_count: `3002`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=BS-FyAh9cv8`
   - status: `active`
@@ -24776,8 +25481,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=paPp5F_TNGA`
 - release_date: `2025-10-23`
 - runtime: `87`
-- vote_average: `6.5`
-- vote_count: `2`
+- vote_average: `7`
+- vote_count: `5`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `1663082`
@@ -24786,8 +25491,8 @@
   - poster_path: `/6rGa9huzhmG1i2iu2Vcyv5HI02t.jpg`
   - release_date: `2025-10-23`
   - runtime: `87`
-  - vote_average: `6.5`
-  - vote_count: `2`
+  - vote_average: `7`
+  - vote_count: `5`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=paPp5F_TNGA`
   - status: `active`
@@ -24799,7 +25504,7 @@
 
 ## The Lion King
 
-- content_type: `movie_part`
+- content_type: `movie`
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
@@ -24807,7 +25512,7 @@
 - canonical_title: `The Lion King`
 - original_title: `The Lion King`
 - normalized_title_guess: `The Lion King`
-- narrators_found: `Rocky`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg`
@@ -24817,8 +25522,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=lFzVJEksoDY`
 - release_date: `1994-06-15`
 - runtime: `89`
-- vote_average: `8.3`
-- vote_count: `19704`
+- vote_average: `8.253`
+- vote_count: `19778`
 - genres: `Animation`, `Family`, `Drama`
 - movie_row:
   - import_tmdb_id: `8587`
@@ -24828,8 +25533,8 @@
   - backdrop_path: `/q00H8EqULYSK74lgevMkhmGGLHn.jpg`
   - release_date: `1994-06-15`
   - runtime: `89`
-  - vote_average: `8.3`
-  - vote_count: `19704`
+  - vote_average: `8.253`
+  - vote_count: `19778`
   - genres: `Animation`, `Family`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=lFzVJEksoDY`
   - status: `active`
@@ -24837,8 +25542,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Lion King - ROCKY | https://oshakurfilms.com/watch/the-lion-king-rocky | Rocky | 8587 | 8587 | https://iplayerhls.com/e/ncq1n2h5jmks | iplayerhls.com | https://www.mediafire.com/file/hlfxxhwj4u2jyqu/The+Lion+King.mp4/file | www.mediafire.com | Part 1 / base movie row. |
-| 2 | The Lion King B - ROCKY | https://oshakurfilms.com/watch/the-lion-king-b-rocky | Rocky | 8587 | 8589 | https://iplayerhls.com/e/7gkex702cvb9 | iplayerhls.com | https://www.mediafire.com/file/dyevji1bfbtm3zj/The+Lion+King+B.mp4/file | www.mediafire.com | Import tmdb_id follows current app rule: base real_tmdb_id + part_number. |
+| 1 | The Lion King | https://oshakurfilms.com/watch/the-lion-king | UNSPECIFIED | 8587 | 8587 | https://iplayerhls.com/e/ncq1n2h5jmks | iplayerhls.com | https://www.mediafire.com/file/hlfxxhwj4u2jyqu/The+Lion+King.mp4/file | www.mediafire.com |  |
 
 ## The Lone Ranger
 
@@ -24853,26 +25557,26 @@
 - narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/inABvhkFvz54jSEa6qoe8afIHwj.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/inABvhkFvz54jSEa6qoe8afIHwj.jpg`
-- backdrop_path: `/3gx3ls1iJHoSK4qwMVcBk02322p.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/3gx3ls1iJHoSK4qwMVcBk02322p.jpg`
+- poster_path: `/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg`
+- backdrop_path: `/vHd8RTXTGFwexUC2Mj1HOgSy9J3.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/vHd8RTXTGFwexUC2Mj1HOgSy9J3.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=LoVhgaj6PiE`
 - release_date: `2013-07-03`
 - runtime: `149`
-- vote_average: `6.124`
-- vote_count: `6158`
+- vote_average: `6.125`
+- vote_count: `6179`
 - genres: `Action`, `Adventure`, `Western`
 - movie_row:
   - import_tmdb_id: `57201`
   - title: `The Lone Ranger`
   - overview: `The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.`
-  - poster_path: `/inABvhkFvz54jSEa6qoe8afIHwj.jpg`
-  - backdrop_path: `/3gx3ls1iJHoSK4qwMVcBk02322p.jpg`
+  - poster_path: `/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg`
+  - backdrop_path: `/vHd8RTXTGFwexUC2Mj1HOgSy9J3.jpg`
   - release_date: `2013-07-03`
   - runtime: `149`
-  - vote_average: `6.124`
-  - vote_count: `6158`
+  - vote_average: `6.125`
+  - vote_count: `6179`
   - genres: `Action`, `Adventure`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=LoVhgaj6PiE`
   - status: `active`
@@ -24902,8 +25606,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wPe6BNPUmI0`
 - release_date: `1978-11-15`
 - runtime: `132`
-- vote_average: `6.599`
-- vote_count: `1047`
+- vote_average: `6.593`
+- vote_count: `1057`
 - genres: `Adventure`, `Animation`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `123`
@@ -24913,8 +25617,8 @@
   - backdrop_path: `/TXSxV23MWYkezZ3219gtgcSX6n.jpg`
   - release_date: `1978-11-15`
   - runtime: `132`
-  - vote_average: `6.599`
-  - vote_count: `1047`
+  - vote_average: `6.593`
+  - vote_count: `1057`
   - genres: `Adventure`, `Animation`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=wPe6BNPUmI0`
   - status: `active`
@@ -24945,7 +25649,7 @@
 - release_date: `2010-04-23`
 - runtime: `97`
 - vote_average: `6.259`
-- vote_count: `1983`
+- vote_count: `1995`
 - genres: `Action`, `Adventure`, `Crime`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `34813`
@@ -24956,7 +25660,7 @@
   - release_date: `2010-04-23`
   - runtime: `97`
   - vote_average: `6.259`
-  - vote_count: `1983`
+  - vote_count: `1995`
   - genres: `Action`, `Adventure`, `Crime`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=OmFTjvdrfyY`
   - status: `active`
@@ -25067,8 +25771,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=urqy8DrcGBs`
 - release_date: `2022-12-23`
 - runtime: `113`
-- vote_average: `6.375`
-- vote_count: `512`
+- vote_average: `6.37`
+- vote_count: `516`
 - genres: `Action`, `Adventure`, `Comedy`
 - movie_row:
   - import_tmdb_id: `667739`
@@ -25078,8 +25782,8 @@
   - backdrop_path: `/cw1BkYi8bP62hTw5HoEngVZfTTw.jpg`
   - release_date: `2022-12-23`
   - runtime: `113`
-  - vote_average: `6.375`
-  - vote_count: `512`
+  - vote_average: `6.37`
+  - vote_count: `516`
   - genres: `Action`, `Adventure`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=urqy8DrcGBs`
   - status: `active`
@@ -25102,26 +25806,26 @@
 - narrators_found: `Savimbi`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg`
+- poster_path: `/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg`
 - backdrop_path: `/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=FVI84Dfx2-I`
 - release_date: `1999-03-31`
 - runtime: `136`
-- vote_average: `8.247`
-- vote_count: `27964`
+- vote_average: `8.25`
+- vote_count: `28095`
 - genres: `Action`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `603`
   - title: `The Matrix`
   - overview: `Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.`
-  - poster_path: `/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg`
+  - poster_path: `/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg`
   - backdrop_path: `/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg`
   - release_date: `1999-03-31`
   - runtime: `136`
-  - vote_average: `8.247`
-  - vote_count: `27964`
+  - vote_average: `8.25`
+  - vote_count: `28095`
   - genres: `Action`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=FVI84Dfx2-I`
   - status: `active`
@@ -25151,8 +25855,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=n8JP2Zh7Www`
 - release_date: `2003-08-15`
 - runtime: `88`
-- vote_average: `5.616`
-- vote_count: `1199`
+- vote_average: `5.607`
+- vote_count: `1211`
 - genres: `Thriller`, `Fantasy`, `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `10610`
@@ -25162,8 +25866,8 @@
   - backdrop_path: `/bfegQ8scwwEASEXZzdtTNQErY7F.jpg`
   - release_date: `2003-08-15`
   - runtime: `88`
-  - vote_average: `5.616`
-  - vote_count: `1199`
+  - vote_average: `5.607`
+  - vote_count: `1211`
   - genres: `Thriller`, `Fantasy`, `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=n8JP2Zh7Www`
   - status: `active`
@@ -25193,8 +25897,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wtUiRfMy_uI`
 - release_date: `2008-08-07`
 - runtime: `103`
-- vote_average: `6.182`
-- vote_count: `1256`
+- vote_average: `6.178`
+- vote_count: `1269`
 - genres: `Horror`, `Mystery`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `10185`
@@ -25204,8 +25908,8 @@
   - backdrop_path: `/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg`
   - release_date: `2008-08-07`
   - runtime: `103`
-  - vote_average: `6.182`
-  - vote_count: `1256`
+  - vote_average: `6.178`
+  - vote_count: `1269`
   - genres: `Horror`, `Mystery`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=wtUiRfMy_uI`
   - status: `active`
@@ -25235,8 +25939,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=8BFdFeOS3oM`
 - release_date: `2023-05-04`
 - runtime: `115`
-- vote_average: `6.627`
-- vote_count: `1427`
+- vote_average: `6.618`
+- vote_count: `1436`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `552688`
@@ -25246,8 +25950,8 @@
   - backdrop_path: `/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg`
   - release_date: `2023-05-04`
   - runtime: `115`
-  - vote_average: `6.627`
-  - vote_count: `1427`
+  - vote_average: `6.618`
+  - vote_count: `1436`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=8BFdFeOS3oM`
   - status: `active`
@@ -25335,6 +26039,48 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Lo Capitano - SAVIMBI Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/lo-capitano-savimbi-agasobanuye-mu-kinyarwanda | Savimbi | 355101 | 355101 | https://ghbrisk.com/e/11oo671p69ok | ghbrisk.com | https://www.mediafire.com/file/nk56i3xn1guuceh/LO_CAPITANO.mp4/file | www.mediafire.com |  |
 
+## The Myth
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `11653`
+- canonical_title: `The Myth`
+- original_title: `神話`
+- normalized_title_guess: `The Myth`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/iBDFnLkTZZxQlbb6IIeYkufnPCY.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/iBDFnLkTZZxQlbb6IIeYkufnPCY.jpg`
+- backdrop_path: `/xChyWmjDeEH8zOVi9dwVrtIJEfd.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/xChyWmjDeEH8zOVi9dwVrtIJEfd.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=tcK1vl36dUs`
+- release_date: `2005-05-11`
+- runtime: `118`
+- vote_average: `6.437`
+- vote_count: `422`
+- genres: `Action`, `Adventure`, `Comedy`, `Drama`, `Fantasy`
+- movie_row:
+  - import_tmdb_id: `11653`
+  - title: `The Myth`
+  - overview: `When a fellow scientist asks for Jack's help in locating the mausoleum of China's first emperor, the past collides violently with the present as Jack discovers his amazing visions are based in fact.`
+  - poster_path: `/iBDFnLkTZZxQlbb6IIeYkufnPCY.jpg`
+  - backdrop_path: `/xChyWmjDeEH8zOVi9dwVrtIJEfd.jpg`
+  - release_date: `2005-05-11`
+  - runtime: `118`
+  - vote_average: `6.437`
+  - vote_count: `422`
+  - genres: `Action`, `Adventure`, `Comedy`, `Drama`, `Fantasy`
+  - trailer_url: `https://www.youtube.com/watch?v=tcK1vl36dUs`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | The Myth | https://oshakurfilms.com/watch/the-myth | UNSPECIFIED | 11653 | 11653 | https://hgcloud.to/e/gnncv9b7b4dp | hgcloud.to | https://www.mediafire.com/file/lfopf5a6fexsqk0/The+Myth+Hd.mp4/file | www.mediafire.com |  |
+
 ## The Night Owl
 
 - content_type: `movie`
@@ -25355,8 +26101,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=z5rPprTas88`
 - release_date: `2022-11-23`
 - runtime: `118`
-- vote_average: `7.3`
-- vote_count: `63`
+- vote_average: `7.383`
+- vote_count: `64`
 - genres: `Thriller`, `Mystery`, `History`
 - movie_row:
   - import_tmdb_id: `806128`
@@ -25366,8 +26112,8 @@
   - backdrop_path: `/aIKxC8mGq44EUDLPYw1ckCwciqz.jpg`
   - release_date: `2022-11-23`
   - runtime: `118`
-  - vote_average: `7.3`
-  - vote_count: `63`
+  - vote_average: `7.383`
+  - vote_count: `64`
   - genres: `Thriller`, `Mystery`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=z5rPprTas88`
   - status: `active`
@@ -25397,8 +26143,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=FC6biTjEyZw`
 - release_date: `2004-06-25`
 - runtime: `123`
-- vote_average: `7.887`
-- vote_count: `12553`
+- vote_average: `7.889`
+- vote_count: `12621`
 - genres: `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `11036`
@@ -25408,8 +26154,8 @@
   - backdrop_path: `/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg`
   - release_date: `2004-06-25`
   - runtime: `123`
-  - vote_average: `7.887`
-  - vote_count: `12553`
+  - vote_average: `7.889`
+  - vote_count: `12621`
   - genres: `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=FC6biTjEyZw`
   - status: `active`
@@ -25440,7 +26186,7 @@
 - release_date: `2018-09-05`
 - runtime: `96`
 - vote_average: `5.905`
-- vote_count: `7171`
+- vote_count: `7192`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `439079`
@@ -25451,7 +26197,7 @@
   - release_date: `2018-09-05`
   - runtime: `96`
   - vote_average: `5.905`
-  - vote_count: `7171`
+  - vote_count: `7192`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=UvMVjwwZOF4`
   - status: `active`
@@ -25481,8 +26227,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=aK-X2d0lJ_s`
 - release_date: `2020-07-09`
 - runtime: `125`
-- vote_average: `7.098`
-- vote_count: `4824`
+- vote_average: `7.097`
+- vote_count: `4847`
 - genres: `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `547016`
@@ -25492,8 +26238,8 @@
   - backdrop_path: `/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg`
   - release_date: `2020-07-09`
   - runtime: `125`
-  - vote_average: `7.098`
-  - vote_count: `4824`
+  - vote_average: `7.097`
+  - vote_count: `4847`
   - genres: `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=aK-X2d0lJ_s`
   - status: `active`
@@ -25524,8 +26270,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=lyivgZ074PY`
 - release_date: `2025-07-01`
 - runtime: `107`
-- vote_average: `5.907`
-- vote_count: `965`
+- vote_average: `5.91`
+- vote_count: `984`
 - genres: `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `846422`
@@ -25535,8 +26281,8 @@
   - backdrop_path: `/fd9K7ZDfzRAcbLh8JlG4HIKbtuR.jpg`
   - release_date: `2025-07-01`
   - runtime: `107`
-  - vote_average: `5.907`
-  - vote_count: `965`
+  - vote_average: `5.91`
+  - vote_count: `984`
   - genres: `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=lyivgZ074PY`
   - status: `active`
@@ -25568,8 +26314,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=eWakq9qQ6Ik`
 - release_date: `2023-01-06`
 - runtime: `95`
-- vote_average: `5.724`
-- vote_count: `292`
+- vote_average: `5.7`
+- vote_count: `296`
 - genres: `Action`, `Drama`, `Western`
 - movie_row:
   - import_tmdb_id: `872954`
@@ -25579,8 +26325,8 @@
   - backdrop_path: `/gGkm2TDZjXQjtcLy8F5V0lrhYNw.jpg`
   - release_date: `2023-01-06`
   - runtime: `95`
-  - vote_average: `5.724`
-  - vote_count: `292`
+  - vote_average: `5.7`
+  - vote_count: `296`
   - genres: `Action`, `Drama`, `Western`
   - trailer_url: `https://www.youtube.com/watch?v=eWakq9qQ6Ik`
   - status: `active`
@@ -25610,8 +26356,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=f4LM9a02q9Q`
 - release_date: `2020-06-24`
 - runtime: `123`
-- vote_average: `6.882`
-- vote_count: `1170`
+- vote_average: `6.871`
+- vote_count: `1180`
 - genres: `War`, `Drama`, `History`, `Action`
 - movie_row:
   - import_tmdb_id: `531876`
@@ -25621,8 +26367,8 @@
   - backdrop_path: `/n1RohH2VoK1CdVI2fXvcP19dSlm.jpg`
   - release_date: `2020-06-24`
   - runtime: `123`
-  - vote_average: `6.882`
-  - vote_count: `1170`
+  - vote_average: `6.871`
+  - vote_count: `1180`
   - genres: `War`, `Drama`, `History`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=f4LM9a02q9Q`
   - status: `active`
@@ -25652,8 +26398,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=4Aif1qEB_JU`
 - release_date: `2004-02-25`
 - runtime: `127`
-- vote_average: `7.543`
-- vote_count: `5208`
+- vote_average: `7.544`
+- vote_count: `5228`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `615`
@@ -25663,8 +26409,8 @@
   - backdrop_path: `/4840rkbpsiuow5ew155oVKcqJwj.jpg`
   - release_date: `2004-02-25`
   - runtime: `127`
-  - vote_average: `7.543`
-  - vote_count: `5208`
+  - vote_average: `7.544`
+  - vote_count: `5228`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=4Aif1qEB_JU`
   - status: `active`
@@ -25695,8 +26441,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YIcga73lPFE`
 - release_date: `2025-07-27`
 - runtime: `94`
-- vote_average: `6.398`
-- vote_count: `472`
+- vote_average: `6.394`
+- vote_count: `482`
 - genres: `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `1106289`
@@ -25706,8 +26452,8 @@
   - backdrop_path: `/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg`
   - release_date: `2025-07-27`
   - runtime: `94`
-  - vote_average: `6.398`
-  - vote_count: `472`
+  - vote_average: `6.394`
+  - vote_count: `482`
   - genres: `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=YIcga73lPFE`
   - status: `active`
@@ -25738,8 +26484,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=YJXqvnT_rsk`
 - release_date: `2023-04-05`
 - runtime: `103`
-- vote_average: `6.9`
-- vote_count: `3162`
+- vote_average: `6.922`
+- vote_count: `3191`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `758323`
@@ -25749,8 +26495,8 @@
   - backdrop_path: `/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg`
   - release_date: `2023-04-05`
   - runtime: `103`
-  - vote_average: `6.9`
-  - vote_count: `3162`
+  - vote_average: `6.922`
+  - vote_count: `3191`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=YJXqvnT_rsk`
   - status: `active`
@@ -25780,8 +26526,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=RHAgri92JP8`
 - release_date: `2018-11-29`
 - runtime: `86`
-- vote_average: `5.633`
-- vote_count: `1486`
+- vote_average: `5.634`
+- vote_count: `1496`
 - genres: `Horror`, `Drama`
 - movie_row:
   - import_tmdb_id: `434555`
@@ -25791,8 +26537,8 @@
   - backdrop_path: `/kkdymnbzSR5qUfpwKDZ5csitfv1.jpg`
   - release_date: `2018-11-29`
   - runtime: `86`
-  - vote_average: `5.633`
-  - vote_count: `1486`
+  - vote_average: `5.634`
+  - vote_count: `1496`
   - genres: `Horror`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=RHAgri92JP8`
   - status: `active`
@@ -25822,8 +26568,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=j5c13X9j_0o`
 - release_date: `2024-12-08`
 - runtime: `117`
-- vote_average: `7.017`
-- vote_count: `212`
+- vote_average: `7.1`
+- vote_count: `220`
 - genres: `Action`, `Drama`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1128650`
@@ -25833,8 +26579,8 @@
   - backdrop_path: `/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg`
   - release_date: `2024-12-08`
   - runtime: `117`
-  - vote_average: `7.017`
-  - vote_count: `212`
+  - vote_average: `7.1`
+  - vote_count: `220`
   - genres: `Action`, `Drama`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=j5c13X9j_0o`
   - status: `active`
@@ -25864,8 +26610,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=fSqa0a3mGk8`
 - release_date: `2021-08-19`
 - runtime: `109`
-- vote_average: `6.557`
-- vote_count: `1150`
+- vote_average: `6.549`
+- vote_count: `1156`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `645788`
@@ -25875,8 +26621,8 @@
   - backdrop_path: `/fbTxsnJcQwuwzCEu9VEiU9lV75Y.jpg`
   - release_date: `2021-08-19`
   - runtime: `109`
-  - vote_average: `6.557`
-  - vote_count: `1150`
+  - vote_average: `6.549`
+  - vote_count: `1156`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=fSqa0a3mGk8`
   - status: `active`
@@ -25907,8 +26653,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=GDYwcjhvD-Y`
 - release_date: `2012-03-22`
 - runtime: `101`
-- vote_average: `7.402`
-- vote_count: `3866`
+- vote_average: `7.408`
+- vote_count: `3903`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `94329`
@@ -25918,8 +26664,8 @@
   - backdrop_path: `/kFD6fVwnrHq085JIHCDXsSIqAZf.jpg`
   - release_date: `2012-03-22`
   - runtime: `101`
-  - vote_average: `7.402`
-  - vote_count: `3866`
+  - vote_average: `7.408`
+  - vote_count: `3903`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=GDYwcjhvD-Y`
   - status: `active`
@@ -25949,8 +26695,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=7VuBSopwyO4`
 - release_date: `2014-03-27`
 - runtime: `150`
-- vote_average: `7.611`
-- vote_count: `2589`
+- vote_average: `7.616`
+- vote_count: `2609`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `180299`
@@ -25960,8 +26706,8 @@
   - backdrop_path: `/wJD1VaO6XMkOSAacUGLkzOKAd4D.jpg`
   - release_date: `2014-03-27`
   - runtime: `150`
-  - vote_average: `7.611`
-  - vote_count: `2589`
+  - vote_average: `7.616`
+  - vote_count: `2609`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=7VuBSopwyO4`
   - status: `active`
@@ -25984,26 +26730,26 @@
 - narrators_found: `Skov`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg`
-- backdrop_path: `/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg`
+- poster_path: `/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg`
+- backdrop_path: `/kwNIQW7egAmI66sb0zIugMbpCfU.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/kwNIQW7egAmI66sb0zIugMbpCfU.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=yeR5bcbRPak`
 - release_date: `2026-01-13`
 - runtime: `113`
-- vote_average: `7.072`
-- vote_count: `1646`
+- vote_average: `7.085`
+- vote_count: `1703`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `1306368`
   - title: `The Rip`
   - overview: `Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.`
-  - poster_path: `/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg`
-  - backdrop_path: `/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg`
+  - poster_path: `/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg`
+  - backdrop_path: `/kwNIQW7egAmI66sb0zIugMbpCfU.jpg`
   - release_date: `2026-01-13`
   - runtime: `113`
-  - vote_average: `7.072`
-  - vote_count: `1646`
+  - vote_average: `7.085`
+  - vote_count: `1703`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=yeR5bcbRPak`
   - status: `active`
@@ -26023,7 +26769,7 @@
 - canonical_title: `The Royal Treatment`
 - original_title: `The Royal Treatment`
 - normalized_title_guess: `The Royal Treatment`
-- narrators_found: `Rocky`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/mYAv0YUoXJzLxIdEirOken8Quwf.jpg`
@@ -26033,8 +26779,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=KWxJXZ3S3-g`
 - release_date: `2022-01-20`
 - runtime: `96`
-- vote_average: `6.65`
-- vote_count: `800`
+- vote_average: `6.7`
+- vote_count: `801`
 - genres: `Romance`, `Comedy`
 - movie_row:
   - import_tmdb_id: `790142`
@@ -26044,8 +26790,8 @@
   - backdrop_path: `/on1p1AdcfxmlyHhVXoycWt75D8H.jpg`
   - release_date: `2022-01-20`
   - runtime: `96`
-  - vote_average: `6.65`
-  - vote_count: `800`
+  - vote_average: `6.7`
+  - vote_count: `801`
   - genres: `Romance`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=KWxJXZ3S3-g`
   - status: `active`
@@ -26053,7 +26799,7 @@
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | The Royal Treatment - ROCKY | https://oshakurfilms.com/watch/the-royal-treatment-rocky | Rocky | 790142 | 790142 | https://hlswish.com/e/5i1i70gzfr29 | hlswish.com | https://www.mediafire.com/file/201f9d6su7mst5o/The_Royal_Treatment.mp4/file | www.mediafire.com |  |
+| 1 | The Royal Treatment | https://oshakurfilms.com/watch/the-royal-treatment | UNSPECIFIED | 790142 | 790142 | https://hlswish.com/e/5i1i70gzfr29 | hlswish.com | https://www.mediafire.com/file/201f9d6su7mst5o/The_Royal_Treatment.mp4/file | www.mediafire.com |  |
 
 ## The Ruin
 
@@ -26111,9 +26857,9 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=_iHJHYjq7XI`
 - release_date: `2025-11-11`
-- runtime: `134`
-- vote_average: `6.783`
-- vote_count: `1603`
+- runtime: `133`
+- vote_average: `6.779`
+- vote_count: `1670`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `798645`
@@ -26122,9 +26868,9 @@
   - poster_path: `/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg`
   - backdrop_path: `/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg`
   - release_date: `2025-11-11`
-  - runtime: `134`
-  - vote_average: `6.783`
-  - vote_count: `1603`
+  - runtime: `133`
+  - vote_average: `6.779`
+  - vote_count: `1670`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=_iHJHYjq7XI`
   - status: `active`
@@ -26154,8 +26900,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=P-E-IGQCsPo`
 - release_date: `2022-06-24`
 - runtime: `115`
-- vote_average: `7.331`
-- vote_count: `1707`
+- vote_average: `7.332`
+- vote_count: `1724`
 - genres: `Animation`, `Adventure`, `Action`, `Family`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `560057`
@@ -26165,8 +26911,8 @@
   - backdrop_path: `/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg`
   - release_date: `2022-06-24`
   - runtime: `115`
-  - vote_average: `7.331`
-  - vote_count: `1707`
+  - vote_average: `7.332`
+  - vote_count: `1724`
   - genres: `Animation`, `Adventure`, `Action`, `Family`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=P-E-IGQCsPo`
   - status: `active`
@@ -26196,8 +26942,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jsKo8nvOfck`
 - release_date: `2024-09-10`
 - runtime: `145`
-- vote_average: `7.19`
-- vote_count: `315`
+- vote_average: `7.227`
+- vote_count: `320`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1151949`
@@ -26207,8 +26953,8 @@
   - backdrop_path: `/lkzBusEFoXTQnxFMEsYAZ1QwRqu.jpg`
   - release_date: `2024-09-10`
   - runtime: `145`
-  - vote_average: `7.19`
-  - vote_count: `315`
+  - vote_average: `7.227`
+  - vote_count: `320`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=jsKo8nvOfck`
   - status: `active`
@@ -26282,7 +27028,7 @@
 - release_date: `2019-05-16`
 - runtime: `91`
 - vote_average: `6.019`
-- vote_count: `1693`
+- vote_count: `1699`
 - genres: `Horror`, `Drama`, `Thriller`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `527261`
@@ -26293,7 +27039,7 @@
   - release_date: `2019-05-16`
   - runtime: `91`
   - vote_average: `6.019`
-  - vote_count: `1693`
+  - vote_count: `1699`
   - genres: `Horror`, `Drama`, `Thriller`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=Y-ufZuqTd5c`
   - status: `active`
@@ -26364,7 +27110,7 @@
 - release_date: `1946-06-02`
 - runtime: `95`
 - vote_average: `7.218`
-- vote_count: `640`
+- vote_count: `641`
 - genres: `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `20246`
@@ -26375,7 +27121,7 @@
   - release_date: `1946-06-02`
   - runtime: `95`
   - vote_average: `7.218`
-  - vote_count: `640`
+  - vote_count: `641`
   - genres: `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=ZbiLI6gfAiw`
   - status: `active`
@@ -26406,8 +27152,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=eiwOVqVFoXM`
 - release_date: `2022-10-28`
 - runtime: `97`
-- vote_average: `7`
-- vote_count: `122`
+- vote_average: `7.108`
+- vote_count: `130`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1024627`
@@ -26417,8 +27163,8 @@
   - backdrop_path: `/iVytJHJmbAQ5wnPCbYYAt4xZqR6.jpg`
   - release_date: `2022-10-28`
   - runtime: `97`
-  - vote_average: `7`
-  - vote_count: `122`
+  - vote_average: `7.108`
+  - vote_count: `130`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=eiwOVqVFoXM`
   - status: `active`
@@ -26490,8 +27236,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=nGrW-OR2uDk`
 - release_date: `1984-10-26`
 - runtime: `108`
-- vote_average: `7.683`
-- vote_count: `14626`
+- vote_average: `7.684`
+- vote_count: `14705`
 - genres: `Action`, `Thriller`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `218`
@@ -26501,8 +27247,8 @@
   - backdrop_path: `/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg`
   - release_date: `1984-10-26`
   - runtime: `108`
-  - vote_average: `7.683`
-  - vote_count: `14626`
+  - vote_average: `7.684`
+  - vote_count: `14705`
   - genres: `Action`, `Thriller`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=nGrW-OR2uDk`
   - status: `active`
@@ -26532,8 +27278,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=iSxFeBdcqeE`
 - release_date: `1974-10-11`
 - runtime: `83`
-- vote_average: `7.284`
-- vote_count: `3817`
+- vote_average: `7.286`
+- vote_count: `3842`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `30497`
@@ -26543,8 +27289,8 @@
   - backdrop_path: `/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg`
   - release_date: `1974-10-11`
   - runtime: `83`
-  - vote_average: `7.284`
-  - vote_count: `3817`
+  - vote_average: `7.286`
+  - vote_count: `3842`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=iSxFeBdcqeE`
   - status: `active`
@@ -26574,8 +27320,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=RQGXqn00hf4`
 - release_date: `2012-04-13`
 - runtime: `92`
-- vote_average: `5.806`
-- vote_count: `643`
+- vote_average: `5.813`
+- vote_count: `651`
 - genres: `Comedy`
 - movie_row:
   - import_tmdb_id: `76489`
@@ -26585,8 +27331,8 @@
   - backdrop_path: `/qiXR2emZXBiqCIXNwq0XRypHTmY.jpg`
   - release_date: `2012-04-13`
   - runtime: `92`
-  - vote_average: `5.806`
-  - vote_count: `643`
+  - vote_average: `5.813`
+  - vote_count: `651`
   - genres: `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=RQGXqn00hf4`
   - status: `active`
@@ -26661,8 +27407,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=RQjEbkV-9ZM`
 - release_date: `2021-09-03`
 - runtime: `138`
-- vote_average: `7.486`
-- vote_count: `4159`
+- vote_average: `7.51`
+- vote_count: `4234`
 - genres: `Action`, `Science Fiction`, `Adventure`
 - movie_row:
   - import_tmdb_id: `588228`
@@ -26672,8 +27418,8 @@
   - backdrop_path: `/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg`
   - release_date: `2021-09-03`
   - runtime: `138`
-  - vote_average: `7.486`
-  - vote_count: `4159`
+  - vote_average: `7.51`
+  - vote_count: `4234`
   - genres: `Action`, `Science Fiction`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=RQjEbkV-9ZM`
   - status: `active`
@@ -26696,26 +27442,26 @@
 - narrators_found: `Savimbi`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg`
+- poster_path: `/qwfUH9gnvaXwvVRsgbL4L2jpLUz.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/qwfUH9gnvaXwvVRsgbL4L2jpLUz.jpg`
 - backdrop_path: `/z8xSqfnq4TYfD95vfqdDxbxp2FH.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/z8xSqfnq4TYfD95vfqdDxbxp2FH.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=HgNiFN_gttA`
 - release_date: `2010-12-08`
 - runtime: `103`
-- vote_average: `6.183`
-- vote_count: `5754`
+- vote_average: `6.2`
+- vote_count: `5772`
 - genres: `Action`, `Thriller`, `Romance`
 - movie_row:
   - import_tmdb_id: `37710`
   - title: `The Tourist`
   - overview: `American tourist Frank meets mysterious British woman Elise on the train to Venice. Romance seems to bud, but there's more to her than meets the eye.`
-  - poster_path: `/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg`
+  - poster_path: `/qwfUH9gnvaXwvVRsgbL4L2jpLUz.jpg`
   - backdrop_path: `/z8xSqfnq4TYfD95vfqdDxbxp2FH.jpg`
   - release_date: `2010-12-08`
   - runtime: `103`
-  - vote_average: `6.183`
-  - vote_count: `5754`
+  - vote_average: `6.2`
+  - vote_count: `5772`
   - genres: `Action`, `Thriller`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=HgNiFN_gttA`
   - status: `active`
@@ -26745,8 +27491,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ZQzH98dSSk0`
 - release_date: `2009-05-01`
 - runtime: `95`
-- vote_average: `5.948`
-- vote_count: `679`
+- vote_average: `5.949`
+- vote_count: `682`
 - genres: `Horror`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `24056`
@@ -26756,8 +27502,8 @@
   - backdrop_path: `/oRfGMshVwOh5gqRiVMsFDPolEXF.jpg`
   - release_date: `2009-05-01`
   - runtime: `95`
-  - vote_average: `5.948`
-  - vote_count: `679`
+  - vote_average: `5.949`
+  - vote_count: `682`
   - genres: `Horror`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=ZQzH98dSSk0`
   - status: `active`
@@ -26787,8 +27533,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=0poXFSvX0_4`
 - release_date: `2002-10-02`
 - runtime: `92`
-- vote_average: `6.726`
-- vote_count: `5823`
+- vote_average: `6.727`
+- vote_count: `5851`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `4108`
@@ -26798,8 +27544,8 @@
   - backdrop_path: `/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg`
   - release_date: `2002-10-02`
   - runtime: `92`
-  - vote_average: `6.726`
-  - vote_count: `5823`
+  - vote_average: `6.727`
+  - vote_count: `5851`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=0poXFSvX0_4`
   - status: `active`
@@ -26829,8 +27575,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=sc3Cba0qOco`
 - release_date: `2009-01-09`
 - runtime: `87`
-- vote_average: `5.2`
-- vote_count: `1427`
+- vote_average: `5.177`
+- vote_count: `1432`
 - genres: `Horror`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `13788`
@@ -26840,8 +27586,8 @@
   - backdrop_path: `/b7QjZbmKj2wLnKlqwHTXP0GKjzB.jpg`
   - release_date: `2009-01-09`
   - runtime: `87`
-  - vote_average: `5.2`
-  - vote_count: `1427`
+  - vote_average: `5.177`
+  - vote_count: `1432`
   - genres: `Horror`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=sc3Cba0qOco`
   - status: `active`
@@ -26871,8 +27617,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=NmQiJPLYzPI`
 - release_date: `2021-03-31`
 - runtime: `99`
-- vote_average: `6.554`
-- vote_count: `2252`
+- vote_average: `6.546`
+- vote_count: `2261`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `632357`
@@ -26882,8 +27628,8 @@
   - backdrop_path: `/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg`
   - release_date: `2021-03-31`
   - runtime: `99`
-  - vote_average: `6.554`
-  - vote_count: `2252`
+  - vote_average: `6.546`
+  - vote_count: `2261`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=NmQiJPLYzPI`
   - status: `active`
@@ -26913,8 +27659,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=vea9SdnRMyg`
 - release_date: `2024-08-15`
 - runtime: `109`
-- vote_average: `6.069`
-- vote_count: `1160`
+- vote_average: `6.058`
+- vote_count: `1171`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `704239`
@@ -26924,8 +27670,8 @@
   - backdrop_path: `/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg`
   - release_date: `2024-08-15`
   - runtime: `109`
-  - vote_average: `6.069`
-  - vote_count: `1160`
+  - vote_average: `6.058`
+  - vote_count: `1171`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=vea9SdnRMyg`
   - status: `active`
@@ -26956,8 +27702,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=rU2LmSVElDM`
 - release_date: `2021-03-04`
 - runtime: `114`
-- vote_average: `6.806`
-- vote_count: `1076`
+- vote_average: `6.792`
+- vote_count: `1084`
 - genres: `Drama`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `630004`
@@ -26967,8 +27713,8 @@
   - backdrop_path: `/s1ohP4iE2Lg2TVBJILOkbTsGGgu.jpg`
   - release_date: `2021-03-04`
   - runtime: `114`
-  - vote_average: `6.806`
-  - vote_count: `1076`
+  - vote_average: `6.792`
+  - vote_count: `1084`
   - genres: `Drama`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=rU2LmSVElDM`
   - status: `active`
@@ -26998,8 +27744,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=U18vQk1n4tg`
 - release_date: `2020-08-27`
 - runtime: `98`
-- vote_average: `6.444`
-- vote_count: `1058`
+- vote_average: `6.436`
+- vote_count: `1066`
 - genres: `Comedy`, `Family`
 - movie_row:
   - import_tmdb_id: `425001`
@@ -27009,8 +27755,8 @@
   - backdrop_path: `/a9jZrU7LJk6mAUjmkbEmTiC52l0.jpg`
   - release_date: `2020-08-27`
   - runtime: `98`
-  - vote_average: `6.444`
-  - vote_count: `1058`
+  - vote_average: `6.436`
+  - vote_count: `1066`
   - genres: `Comedy`, `Family`
   - trailer_url: `https://www.youtube.com/watch?v=U18vQk1n4tg`
   - status: `active`
@@ -27081,8 +27827,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=97OQ7MQC5Ck`
 - release_date: `2016-02-19`
 - runtime: `92`
-- vote_average: `7.003`
-- vote_count: `7652`
+- vote_average: `7.001`
+- vote_count: `7687`
 - genres: `Horror`
 - movie_row:
   - import_tmdb_id: `310131`
@@ -27092,8 +27838,8 @@
   - backdrop_path: `/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg`
   - release_date: `2016-02-19`
   - runtime: `92`
-  - vote_average: `7.003`
-  - vote_count: `7652`
+  - vote_average: `7.001`
+  - vote_count: `7687`
   - genres: `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=97OQ7MQC5Ck`
   - status: `active`
@@ -27123,8 +27869,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=27aEM6q1Wqs`
 - release_date: `2025-03-27`
 - runtime: `88`
-- vote_average: `5.663`
-- vote_count: `420`
+- vote_average: `5.667`
+- vote_count: `433`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `1244944`
@@ -27134,8 +27880,8 @@
   - backdrop_path: `/3lEV4CoKoeT2cZ4fbKEJugZcw6Z.jpg`
   - release_date: `2025-03-27`
   - runtime: `88`
-  - vote_average: `5.663`
-  - vote_count: `420`
+  - vote_average: `5.667`
+  - vote_count: `433`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=27aEM6q1Wqs`
   - status: `active`
@@ -27165,8 +27911,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3RDaPV_rJ1Y`
 - release_date: `2022-09-16`
 - runtime: `135`
-- vote_average: `7.601`
-- vote_count: `2363`
+- vote_average: `7.586`
+- vote_count: `2377`
 - genres: `Action`, `Drama`, `History`, `War`
 - movie_row:
   - import_tmdb_id: `724495`
@@ -27176,8 +27922,8 @@
   - backdrop_path: `/p5kb4VwnK0bkxsOmME3SBKAcBoe.jpg`
   - release_date: `2022-09-16`
   - runtime: `135`
-  - vote_average: `7.601`
-  - vote_count: `2363`
+  - vote_average: `7.586`
+  - vote_count: `2377`
   - genres: `Action`, `Drama`, `History`, `War`
   - trailer_url: `https://www.youtube.com/watch?v=3RDaPV_rJ1Y`
   - status: `active`
@@ -27207,8 +27953,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=v8R0xDczERo`
 - release_date: `2026-01-28`
 - runtime: `125`
-- vote_average: `6.98`
-- vote_count: `1049`
+- vote_average: `7.037`
+- vote_count: `1102`
 - genres: `Action`, `Comedy`, `Crime`, `Mystery`
 - movie_row:
   - import_tmdb_id: `1168190`
@@ -27218,8 +27964,8 @@
   - backdrop_path: `/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg`
   - release_date: `2026-01-28`
   - runtime: `125`
-  - vote_average: `6.98`
-  - vote_count: `1049`
+  - vote_average: `7.037`
+  - vote_count: `1102`
   - genres: `Action`, `Comedy`, `Crime`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=v8R0xDczERo`
   - status: `active`
@@ -27251,8 +27997,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=TvAkPZpCor0`
 - release_date: `1980-02-09`
 - runtime: `107`
-- vote_average: `7.012`
-- vote_count: `245`
+- vote_average: `7`
+- vote_count: `247`
 - genres: `Action`, `Comedy`
 - movie_row:
   - import_tmdb_id: `11563`
@@ -27262,8 +28008,8 @@
   - backdrop_path: `/yIPSVMtuKeMEd3hxji5c5n0myvD.jpg`
   - release_date: `1980-02-09`
   - runtime: `107`
-  - vote_average: `7.012`
-  - vote_count: `245`
+  - vote_average: `7`
+  - vote_count: `247`
   - genres: `Action`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=TvAkPZpCor0`
   - status: `active`
@@ -27286,26 +28032,26 @@
 - narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg`
-- backdrop_path: `/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg`
+- poster_path: `/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg`
+- backdrop_path: `/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=s0PGrtw0X1Q`
 - release_date: `2026-03-25`
 - runtime: `94`
-- vote_average: `7`
-- vote_count: `673`
+- vote_average: `7.007`
+- vote_count: `847`
 - genres: `Action`, `Comedy`, `Horror`
 - movie_row:
   - import_tmdb_id: `1292695`
   - title: `They Will Kill You`
   - overview: `A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.`
-  - poster_path: `/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg`
-  - backdrop_path: `/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg`
+  - poster_path: `/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg`
+  - backdrop_path: `/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg`
   - release_date: `2026-03-25`
   - runtime: `94`
-  - vote_average: `7`
-  - vote_count: `673`
+  - vote_average: `7.007`
+  - vote_count: `847`
   - genres: `Action`, `Comedy`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=s0PGrtw0X1Q`
   - status: `active`
@@ -27314,6 +28060,48 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | They Will Kill You | https://oshakurfilms.com/watch/they-will-kill-you | UNSPECIFIED | 1292695 | 1292695 | https://hgcloud.to/e/yflu42o3jqw4 | hgcloud.to | https://www.mediafire.com/file/mcwvyj162t1w4tt/They+will+kill+you+.mp4/file | www.mediafire.com |  |
+
+## Thieves Highway
+
+- content_type: `movie`
+- upload_target_tables: `movies`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `1293162`
+- canonical_title: `Thieves Highway`
+- original_title: `Thieves Highway`
+- normalized_title_guess: `Thieves Highway`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/78B66xBCgmnh88d10B85uFjC88V.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/78B66xBCgmnh88d10B85uFjC88V.jpg`
+- backdrop_path: `/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=3cJSS8I7hz8`
+- release_date: `2026-05-10`
+- runtime: `83`
+- vote_average: `7.75`
+- vote_count: `24`
+- genres: `Crime`, `Thriller`, `Western`, `Action`
+- movie_row:
+  - import_tmdb_id: `1293162`
+  - title: `Thieves Highway`
+  - overview: `After discovering a plot to haul stolen cattle in the middle of nowhere, a desperate and isolated lawman becomes the only thing standing between a group of dangerous rustlers and a clear run to the border.`
+  - poster_path: `/78B66xBCgmnh88d10B85uFjC88V.jpg`
+  - backdrop_path: `/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg`
+  - release_date: `2026-05-10`
+  - runtime: `83`
+  - vote_average: `7.75`
+  - vote_count: `24`
+  - genres: `Crime`, `Thriller`, `Western`, `Action`
+  - trailer_url: `https://www.youtube.com/watch?v=3cJSS8I7hz8`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+- movie_parts:
+| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Thieves Highway | https://oshakurfilms.com/watch/thieves-highway | UNSPECIFIED | 1293162 | 1293162 | https://www.mediafire.com/file/jjqpzsix2etkxeq/Thieves_Highway.mp4/file | www.mediafire.com | https://www.mediafire.com/file/jjqpzsix2etkxeq/Thieves_Highway.mp4/file | www.mediafire.com |  |
 
 ## Thor
 
@@ -27330,24 +28118,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg`
-- backdrop_path: `/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg`
+- backdrop_path: `/jWAJlgICJbn2kyohrokteRoD3cZ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/jWAJlgICJbn2kyohrokteRoD3cZ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=uHBnrJowBZE`
 - release_date: `2011-04-21`
 - runtime: `115`
-- vote_average: `6.77`
-- vote_count: `22356`
+- vote_average: `6.771`
+- vote_count: `22408`
 - genres: `Adventure`, `Fantasy`, `Action`
 - movie_row:
   - import_tmdb_id: `10195`
   - title: `Thor`
   - overview: `Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.`
   - poster_path: `/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg`
-  - backdrop_path: `/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg`
+  - backdrop_path: `/jWAJlgICJbn2kyohrokteRoD3cZ.jpg`
   - release_date: `2011-04-21`
   - runtime: `115`
-  - vote_average: `6.77`
-  - vote_count: `22356`
+  - vote_average: `6.771`
+  - vote_count: `22408`
   - genres: `Adventure`, `Fantasy`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=uHBnrJowBZE`
   - status: `active`
@@ -27377,8 +28165,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
 - release_date: `2021-05-05`
 - runtime: `100`
-- vote_average: `6.608`
-- vote_count: `1850`
+- vote_average: `6.604`
+- vote_count: `1864`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `578701`
@@ -27388,8 +28176,8 @@
   - backdrop_path: `/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg`
   - release_date: `2021-05-05`
   - runtime: `100`
-  - vote_average: `6.608`
-  - vote_count: `1850`
+  - vote_average: `6.604`
+  - vote_count: `1864`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
   - status: `active`
@@ -27419,8 +28207,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
 - release_date: `2021-05-05`
 - runtime: `100`
-- vote_average: `6.608`
-- vote_count: `1850`
+- vote_average: `6.604`
+- vote_count: `1864`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `578701`
@@ -27430,8 +28218,8 @@
   - backdrop_path: `/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg`
   - release_date: `2021-05-05`
   - runtime: `100`
-  - vote_average: `6.608`
-  - vote_count: `1850`
+  - vote_average: `6.604`
+  - vote_count: `1864`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
   - status: `active`
@@ -27461,8 +28249,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
 - release_date: `2021-05-05`
 - runtime: `100`
-- vote_average: `6.608`
-- vote_count: `1850`
+- vote_average: `6.604`
+- vote_count: `1864`
 - genres: `Thriller`, `Action`
 - movie_row:
   - import_tmdb_id: `578701`
@@ -27472,8 +28260,8 @@
   - backdrop_path: `/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg`
   - release_date: `2021-05-05`
   - runtime: `100`
-  - vote_average: `6.608`
-  - vote_count: `1850`
+  - vote_average: `6.604`
+  - vote_count: `1864`
   - genres: `Thriller`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=sV6VNNjBkcE`
   - status: `active`
@@ -27503,8 +28291,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=hzyOsNyDkbM`
 - release_date: `2026-04-10`
 - runtime: `84`
-- vote_average: `6.059`
-- vote_count: `622`
+- vote_average: `6.053`
+- vote_count: `665`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1290417`
@@ -27514,8 +28302,8 @@
   - backdrop_path: `/hniERZojXCEc7Fp3yljZUigOAhm.jpg`
   - release_date: `2026-04-10`
   - runtime: `84`
-  - vote_average: `6.059`
-  - vote_count: `622`
+  - vote_average: `6.053`
+  - vote_count: `665`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=hzyOsNyDkbM`
   - status: `active`
@@ -27524,48 +28312,6 @@
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Thrash . Gaheza | https://oshakurfilms.com/watch/thrash-gaheza | Gaheza | 1290417 | 1290417 | https://hgcloud.to/e/o0aaskhjbgqh | hgcloud.to | https://www.mediafire.com/file/57pw50wvhmzbn68/Thrash+-+Gaheza.mp4/file | www.mediafire.com |  |
-
-## Three Old Boys
-
-- content_type: `movie`
-- upload_target_tables: `movies`
-- tmdb_match_status: `best_effort`
-- tmdb_match_notes: `Canonical title/name partially matched query.`
-- real_tmdb_id: `1275536`
-- canonical_title: `Three Old Boys`
-- original_title: `三叉戟`
-- normalized_title_guess: `OLD BOY`
-- narrators_found: `Sankra`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `none`
-- poster_path: `/u4c1EUPk8EEX9mMG7hs7VzZ8EtF.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/u4c1EUPk8EEX9mMG7hs7VzZ8EtF.jpg`
-- backdrop_path: `/cM8dGWhiiEz1w4wrTtZt9D0FZbo.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/cM8dGWhiiEz1w4wrTtZt9D0FZbo.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=H50f7htZ1xk`
-- release_date: `2024-05-24`
-- runtime: `109`
-- vote_average: `6`
-- vote_count: `5`
-- genres: `Crime`, `Thriller`, `Action`
-- movie_row:
-  - import_tmdb_id: `1275536`
-  - title: `Three Old Boys`
-  - overview: `The masterminds behind the scenes attempted to unfreeze billions of assets, not hesitating to hire yakuza forces to launder money by extreme means. Behind everything lies a more intricate and complex criminal network and connections. In the face of the temptation of rivals and difficulties, "Trident" can firmly believe, hand in hand to solve the case, to bring the criminals to justice?`
-  - poster_path: `/u4c1EUPk8EEX9mMG7hs7VzZ8EtF.jpg`
-  - backdrop_path: `/cM8dGWhiiEz1w4wrTtZt9D0FZbo.jpg`
-  - release_date: `2024-05-24`
-  - runtime: `109`
-  - vote_average: `6`
-  - vote_count: `5`
-  - genres: `Crime`, `Thriller`, `Action`
-  - trailer_url: `https://www.youtube.com/watch?v=H50f7htZ1xk`
-  - status: `active`
-  - scheduled_release: `OPTIONAL_NOT_SET`
-- movie_parts:
-| part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | OLD BOY - SANKRA | https://oshakurfilms.com/watch/old-boy-sankra | Sankra | 1275536 | 1275536 | https://drive.google.com/file/d/1nouicbPAlLyiFuzU4nz-7_BSwCKDqWI7/preview | drive.google.com | https://drive.google.com/file/d/1nouicbPAlLyiFuzU4nz-7_BSwCKDqWI7/preview | drive.google.com |  |
 
 ## Thugs of Hindostan
 
@@ -27586,8 +28332,8 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/qFfcH6T5QkBHKFJd3n3YrQA4ekS.jpg`
 - release_date: `2018-11-07`
 - runtime: `164`
-- vote_average: `5.536`
-- vote_count: `124`
+- vote_average: `5.524`
+- vote_count: `125`
 - genres: `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `472138`
@@ -27597,8 +28343,8 @@
   - backdrop_path: `/qFfcH6T5QkBHKFJd3n3YrQA4ekS.jpg`
   - release_date: `2018-11-07`
   - runtime: `164`
-  - vote_average: `5.536`
-  - vote_count: `124`
+  - vote_average: `5.524`
+  - vote_count: `125`
   - genres: `Adventure`, `Action`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
@@ -27627,9 +28373,9 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=9Xmfb5hmlfI`
 - release_date: `2023-11-12`
-- runtime: `155`
-- vote_average: `5.8`
-- vote_count: `61`
+- runtime: `153`
+- vote_average: `5.706`
+- vote_count: `63`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `720557`
@@ -27638,9 +28384,9 @@
   - poster_path: `/hVYSsDvXPkTNE9WNOUQzbn2Imvj.jpg`
   - backdrop_path: `/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg`
   - release_date: `2023-11-12`
-  - runtime: `155`
-  - vote_average: `5.8`
-  - vote_count: `61`
+  - runtime: `153`
+  - vote_average: `5.706`
+  - vote_count: `63`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=9Xmfb5hmlfI`
   - status: `active`
@@ -27670,8 +28416,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=a8F6yN56zB0`
 - release_date: `2024-10-29`
 - runtime: `90`
-- vote_average: `5.648`
-- vote_count: `598`
+- vote_average: `5.639`
+- vote_count: `603`
 - genres: `Horror`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `827931`
@@ -27681,8 +28427,8 @@
   - backdrop_path: `/qYvOcinXcnebhmCxYeivurh91T1.jpg`
   - release_date: `2024-10-29`
   - runtime: `90`
-  - vote_average: `5.648`
-  - vote_count: `598`
+  - vote_average: `5.639`
+  - vote_count: `603`
   - genres: `Horror`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=a8F6yN56zB0`
   - status: `active`
@@ -27713,8 +28459,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wO44qBPBG4c`
 - release_date: `1997-12-18`
 - runtime: `194`
-- vote_average: `7.903`
-- vote_count: `27189`
+- vote_average: `7.902`
+- vote_count: `27273`
 - genres: `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `597`
@@ -27724,8 +28470,8 @@
   - backdrop_path: `/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg`
   - release_date: `1997-12-18`
   - runtime: `194`
-  - vote_average: `7.903`
-  - vote_count: `27189`
+  - vote_average: `7.902`
+  - vote_count: `27273`
   - genres: `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=wO44qBPBG4c`
   - status: `active`
@@ -27757,8 +28503,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=555oiY9RWM4`
 - release_date: `2018-08-17`
 - runtime: `100`
-- vote_average: `7.6`
-- vote_count: `8712`
+- vote_average: `7.594`
+- vote_count: `8724`
 - genres: `Comedy`, `Romance`
 - movie_row:
   - import_tmdb_id: `466282`
@@ -27768,8 +28514,8 @@
   - backdrop_path: `/xXhta1NIKn09IXy0mfp68cabdWS.jpg`
   - release_date: `2018-08-17`
   - runtime: `100`
-  - vote_average: `7.6`
-  - vote_count: `8712`
+  - vote_average: `7.594`
+  - vote_count: `8724`
   - genres: `Comedy`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=555oiY9RWM4`
   - status: `active`
@@ -27841,8 +28587,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=3KkhD0MnaJU`
 - release_date: `2018-03-05`
 - runtime: `118`
-- vote_average: `6.367`
-- vote_count: `8366`
+- vote_average: `6.365`
+- vote_count: `8392`
 - genres: `Action`, `Adventure`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `338970`
@@ -27852,8 +28598,8 @@
   - backdrop_path: `/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg`
   - release_date: `2018-03-05`
   - runtime: `118`
-  - vote_average: `6.367`
-  - vote_count: `8366`
+  - vote_average: `6.365`
+  - vote_count: `8392`
   - genres: `Action`, `Adventure`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=3KkhD0MnaJU`
   - status: `active`
@@ -27883,8 +28629,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=lNzukD8pS_s`
 - release_date: `2015-05-19`
 - runtime: `130`
-- vote_average: `6.3`
-- vote_count: `7362`
+- vote_average: `6.294`
+- vote_count: `7387`
 - genres: `Adventure`, `Family`, `Mystery`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `158852`
@@ -27894,8 +28640,8 @@
   - backdrop_path: `/udYOmbW1JEZjVd726PWHlmptxPi.jpg`
   - release_date: `2015-05-19`
   - runtime: `130`
-  - vote_average: `6.3`
-  - vote_count: `7362`
+  - vote_average: `6.294`
+  - vote_count: `7387`
   - genres: `Adventure`, `Family`, `Mystery`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=lNzukD8pS_s`
   - status: `active`
@@ -27926,8 +28672,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Klc__shdj88`
 - release_date: `1986-05-16`
 - runtime: `110`
-- vote_average: `7.067`
-- vote_count: `9579`
+- vote_average: `7.068`
+- vote_count: `9634`
 - genres: `Action`, `Drama`, `Romance`
 - movie_row:
   - import_tmdb_id: `744`
@@ -27937,8 +28683,8 @@
   - backdrop_path: `/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg`
   - release_date: `1986-05-16`
   - runtime: `110`
-  - vote_average: `7.067`
-  - vote_count: `9579`
+  - vote_average: `7.068`
+  - vote_count: `9634`
   - genres: `Action`, `Drama`, `Romance`
   - trailer_url: `https://www.youtube.com/watch?v=Klc__shdj88`
   - status: `active`
@@ -27969,7 +28715,7 @@
 - release_date: `2005-08-03`
 - runtime: `88`
 - vote_average: `6.331`
-- vote_count: `3955`
+- vote_count: `3976`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `9335`
@@ -27980,7 +28726,7 @@
   - release_date: `2005-08-03`
   - runtime: `88`
   - vote_average: `6.331`
-  - vote_count: `3955`
+  - vote_count: `3976`
   - genres: `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=rEggzzOVOyo`
   - status: `active`
@@ -28003,28 +28749,28 @@
 - narrators_found: `Be The Great`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/p4R9Le2jYW2XB2QxbUeu74jJQ5D.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/p4R9Le2jYW2XB2QxbUeu74jJQ5D.jpg`
-- backdrop_path: `/5yrQsEuuqc4s8t8nszLxAAGQpR2.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/5yrQsEuuqc4s8t8nszLxAAGQpR2.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=aNO-fmVu4RI`
+- poster_path: `/o4w9VF3GRZuXe9NHHvZ07pJespl.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/o4w9VF3GRZuXe9NHHvZ07pJespl.jpg`
+- backdrop_path: `/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=Pbh3CDBNIQA`
 - release_date: `2008-11-26`
 - runtime: `104`
 - vote_average: `6.167`
-- vote_count: `3668`
+- vote_count: `3684`
 - genres: `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `13387`
   - title: `Transporter 3`
   - overview: `Frank Martin puts the driving gloves on to deliver Valentina, the kidnapped daughter of a Ukrainian government official, from Marseilles to Odessa on the Black Sea. En route, he has to contend with thugs who want to intercept Valentina's safe delivery and not let his personal feelings get in the way of his dangerous objective.`
-  - poster_path: `/p4R9Le2jYW2XB2QxbUeu74jJQ5D.jpg`
-  - backdrop_path: `/5yrQsEuuqc4s8t8nszLxAAGQpR2.jpg`
+  - poster_path: `/o4w9VF3GRZuXe9NHHvZ07pJespl.jpg`
+  - backdrop_path: `/nNbxrSyKUTMVwpnFgnKH9ZV0QZ8.jpg`
   - release_date: `2008-11-26`
   - runtime: `104`
   - vote_average: `6.167`
-  - vote_count: `3668`
+  - vote_count: `3684`
   - genres: `Action`, `Thriller`, `Crime`
-  - trailer_url: `https://www.youtube.com/watch?v=aNO-fmVu4RI`
+  - trailer_url: `https://www.youtube.com/watch?v=Pbh3CDBNIQA`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
@@ -28052,8 +28798,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mps1HbpECIA`
 - release_date: `2024-07-31`
 - runtime: `105`
-- vote_average: `6.238`
-- vote_count: `2842`
+- vote_average: `6.237`
+- vote_count: `2879`
 - genres: `Crime`, `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1032823`
@@ -28063,8 +28809,8 @@
   - backdrop_path: `/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg`
   - release_date: `2024-07-31`
   - runtime: `105`
-  - vote_average: `6.238`
-  - vote_count: `2842`
+  - vote_average: `6.237`
+  - vote_count: `2879`
   - genres: `Crime`, `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=mps1HbpECIA`
   - status: `active`
@@ -28094,8 +28840,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=VN08JrXZ9eM`
 - release_date: `2014-10-09`
 - runtime: `114`
-- vote_average: `7.076`
-- vote_count: `664`
+- vote_average: `7.093`
+- vote_count: `670`
 - genres: `Adventure`, `Crime`, `Drama`, `Thriller`, `Mystery`
 - movie_row:
   - import_tmdb_id: `206563`
@@ -28105,8 +28851,8 @@
   - backdrop_path: `/dwFZb1ddwY3TYUVKrkuCNs7Iy2c.jpg`
   - release_date: `2014-10-09`
   - runtime: `114`
-  - vote_average: `7.076`
-  - vote_count: `664`
+  - vote_average: `7.093`
+  - vote_count: `670`
   - genres: `Adventure`, `Crime`, `Drama`, `Thriller`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=VN08JrXZ9eM`
   - status: `active`
@@ -28136,8 +28882,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=MnHTLh6ruW0`
 - release_date: `2024-06-20`
 - runtime: `106`
-- vote_average: `5.681`
-- vote_count: `579`
+- vote_average: `5.7`
+- vote_count: `582`
 - genres: `Action`
 - movie_row:
   - import_tmdb_id: `704673`
@@ -28147,8 +28893,8 @@
   - backdrop_path: `/cmgjr2saprHvYw6Ee7MUIqGVQHn.jpg`
   - release_date: `2024-06-20`
   - runtime: `106`
-  - vote_average: `5.681`
-  - vote_count: `579`
+  - vote_average: `5.7`
+  - vote_count: `582`
   - genres: `Action`
   - trailer_url: `https://www.youtube.com/watch?v=MnHTLh6ruW0`
   - status: `active`
@@ -28165,41 +28911,41 @@
 - upload_target_tables: `movies`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `1132491`
+- real_tmdb_id: `715239`
 - canonical_title: `Triggered`
-- original_title: `Topakk`
+- original_title: `Triggered`
 - normalized_title_guess: `TRIGGERED`
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/50g702Thykuc49lhVpz4zMSpPtL.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/50g702Thykuc49lhVpz4zMSpPtL.jpg`
-- backdrop_path: `/lC6l36m9M9343mqC9coouVbNwGe.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/lC6l36m9M9343mqC9coouVbNwGe.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=YkGnZ66xN10`
-- release_date: `2024-12-25`
-- runtime: `111`
-- vote_average: `5.4`
-- vote_count: `9`
-- genres: `Action`, `Thriller`, `Crime`
+- poster_path: `/aqcCIyvVYa5BnmtCL7NVB2Ifn2C.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/aqcCIyvVYa5BnmtCL7NVB2Ifn2C.jpg`
+- backdrop_path: `/tI3cI6cixizFm5IAB6V5KlzqzYf.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/tI3cI6cixizFm5IAB6V5KlzqzYf.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=MdsnUibXbl8`
+- release_date: `2020-08-28`
+- runtime: `90`
+- vote_average: `5.264`
+- vote_count: `127`
+- genres: `Horror`, `Action`
 - movie_row:
-  - import_tmdb_id: `1132491`
+  - import_tmdb_id: `715239`
   - title: `Triggered`
-  - overview: `In a bid for redemption, an Ex-Special Forces security guard attempts to save the life of a woman who is being hunted by a corrupt police death squad working for a drug cartel.`
-  - poster_path: `/50g702Thykuc49lhVpz4zMSpPtL.jpg`
-  - backdrop_path: `/lC6l36m9M9343mqC9coouVbNwGe.jpg`
-  - release_date: `2024-12-25`
-  - runtime: `111`
-  - vote_average: `5.4`
-  - vote_count: `9`
-  - genres: `Action`, `Thriller`, `Crime`
-  - trailer_url: `https://www.youtube.com/watch?v=YkGnZ66xN10`
+  - overview: `Nine friends, all harboring a dark secret, go camping in the woods. After a wild night of partying, they wake up with suicide bombs strapped to their chests, all with varying times on their countdown clocks. They decide to work out how to disarm the bombs or find help - until they discover they can 'take' one another's time by killing each other.`
+  - poster_path: `/aqcCIyvVYa5BnmtCL7NVB2Ifn2C.jpg`
+  - backdrop_path: `/tI3cI6cixizFm5IAB6V5KlzqzYf.jpg`
+  - release_date: `2020-08-28`
+  - runtime: `90`
+  - vote_average: `5.264`
+  - vote_count: `127`
+  - genres: `Horror`, `Action`
+  - trailer_url: `https://www.youtube.com/watch?v=MdsnUibXbl8`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
 | part_number | source_title | source_page_url | narrator_guess | real_tmdb_id | import_tmdb_id | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | TRIGGERED - ROCKY | https://oshakurfilms.com/watch/triggered-rocky | Rocky | 1132491 | 1132491 | https://drive.google.com/file/d/1oWsgb7_QYFKo2ZbJDQ1da2HBaBltekOw/preview | drive.google.com | https://drive.google.com/file/d/1oWsgb7_QYFKo2ZbJDQ1da2HBaBltekOw/preview | drive.google.com |  |
+| 1 | TRIGGERED - ROCKY | https://oshakurfilms.com/watch/triggered-rocky | Rocky | 715239 | 715239 | https://drive.google.com/file/d/1oWsgb7_QYFKo2ZbJDQ1da2HBaBltekOw/preview | drive.google.com | https://drive.google.com/file/d/1oWsgb7_QYFKo2ZbJDQ1da2HBaBltekOw/preview | drive.google.com |  |
 
 ## Triple Frontier
 
@@ -28221,8 +28967,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Fo3yRLLrXQA`
 - release_date: `2019-03-06`
 - runtime: `125`
-- vote_average: `6.33`
-- vote_count: `3537`
+- vote_average: `6.329`
+- vote_count: `3555`
 - genres: `Action`, `Thriller`, `Crime`, `Adventure`
 - movie_row:
   - import_tmdb_id: `399361`
@@ -28232,8 +28978,8 @@
   - backdrop_path: `/s9I2LmQMYCanl6DvC3X1AOHs2r8.jpg`
   - release_date: `2019-03-06`
   - runtime: `125`
-  - vote_average: `6.33`
-  - vote_count: `3537`
+  - vote_average: `6.329`
+  - vote_count: `3555`
   - genres: `Action`, `Thriller`, `Crime`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=Fo3yRLLrXQA`
   - status: `active`
@@ -28264,8 +29010,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Hzk4ovnGOyw`
 - release_date: `2025-11-30`
 - runtime: `102`
-- vote_average: `6.392`
-- vote_count: `479`
+- vote_average: `6.385`
+- vote_count: `486`
 - genres: `Action`, `Fantasy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1180831`
@@ -28275,8 +29021,8 @@
   - backdrop_path: `/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg`
   - release_date: `2025-11-30`
   - runtime: `102`
-  - vote_average: `6.392`
-  - vote_count: `479`
+  - vote_average: `6.385`
+  - vote_count: `486`
   - genres: `Action`, `Fantasy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Hzk4ovnGOyw`
   - status: `active`
@@ -28307,7 +29053,7 @@
 - release_date: `2019-08-08`
 - runtime: `88`
 - vote_average: `6.6`
-- vote_count: `241`
+- vote_count: `243`
 - genres: `Animation`, `Adventure`, `Family`, `Comedy`, `Music`
 - movie_row:
   - import_tmdb_id: `570480`
@@ -28318,7 +29064,7 @@
   - release_date: `2019-08-08`
   - runtime: `88`
   - vote_average: `6.6`
-  - vote_count: `241`
+  - vote_count: `243`
   - genres: `Animation`, `Adventure`, `Family`, `Comedy`, `Music`
   - trailer_url: `https://www.youtube.com/watch?v=vfIOnOz0ERQ`
   - status: `active`
@@ -28344,26 +29090,26 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/51auXjXepW1zblzhaN7CAhwvf5i.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/51auXjXepW1zblzhaN7CAhwvf5i.jpg`
-- backdrop_path: `/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg`
-- trailer_url: `https://www.youtube.com/watch?v=6FG3BfPuwBA`
+- backdrop_path: `/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=SalHFAZVxAg`
 - release_date: `2004-05-13`
 - runtime: `163`
-- vote_average: `7.175`
-- vote_count: `11068`
+- vote_average: `7.176`
+- vote_count: `11115`
 - genres: `War`, `Action`, `History`
 - movie_row:
   - import_tmdb_id: `652`
   - title: `Troy`
   - overview: `In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.`
   - poster_path: `/51auXjXepW1zblzhaN7CAhwvf5i.jpg`
-  - backdrop_path: `/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg`
+  - backdrop_path: `/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg`
   - release_date: `2004-05-13`
   - runtime: `163`
-  - vote_average: `7.175`
-  - vote_count: `11068`
+  - vote_average: `7.176`
+  - vote_count: `11115`
   - genres: `War`, `Action`, `History`
-  - trailer_url: `https://www.youtube.com/watch?v=6FG3BfPuwBA`
+  - trailer_url: `https://www.youtube.com/watch?v=SalHFAZVxAg`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 - movie_parts:
@@ -28392,8 +29138,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gLgnZYNf84c`
 - release_date: `2010-02-09`
 - runtime: `115`
-- vote_average: `6.57`
-- vote_count: `242`
+- vote_average: `6.564`
+- vote_count: `243`
 - genres: `Action`, `Fantasy`
 - movie_row:
   - import_tmdb_id: `37034`
@@ -28403,8 +29149,8 @@
   - backdrop_path: `/A21DGQkh8io9CsBtyDCTbeSh0VT.jpg`
   - release_date: `2010-02-09`
   - runtime: `115`
-  - vote_average: `6.57`
-  - vote_count: `242`
+  - vote_average: `6.564`
+  - vote_count: `243`
   - genres: `Action`, `Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=gLgnZYNf84c`
   - status: `active`
@@ -28436,8 +29182,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=yGi0O0zDSjQ`
 - release_date: `2024-07-11`
 - runtime: `121`
-- vote_average: `7.231`
-- vote_count: `80`
+- vote_average: `7.167`
+- vote_count: `81`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1213742`
@@ -28447,8 +29193,8 @@
   - backdrop_path: `/gZMxWasedXCUOTv2ZpCJiAMkTtH.jpg`
   - release_date: `2024-07-11`
   - runtime: `121`
-  - vote_average: `7.231`
-  - vote_count: `80`
+  - vote_average: `7.167`
+  - vote_count: `81`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=yGi0O0zDSjQ`
   - status: `active`
@@ -28561,8 +29307,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=gvzQGXGFD14`
 - release_date: `2003-09-19`
 - runtime: `122`
-- vote_average: `6.851`
-- vote_count: `6595`
+- vote_average: `6.855`
+- vote_count: `6624`
 - genres: `Fantasy`, `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `277`
@@ -28572,8 +29318,8 @@
   - backdrop_path: `/zsgdVbuEwqZbnUN9qLGEMBYf2Zo.jpg`
   - release_date: `2003-09-19`
   - runtime: `122`
-  - vote_average: `6.851`
-  - vote_count: `6595`
+  - vote_average: `6.855`
+  - vote_count: `6624`
   - genres: `Fantasy`, `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=gvzQGXGFD14`
   - status: `active`
@@ -28603,8 +29349,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=AKu7CigaE3A`
 - release_date: `2002-07-17`
 - runtime: `96`
-- vote_average: `6.507`
-- vote_count: `822`
+- vote_average: `6.518`
+- vote_count: `828`
 - genres: `Action`, `Drama`, `Crime`
 - movie_row:
   - import_tmdb_id: `15070`
@@ -28614,8 +29360,8 @@
   - backdrop_path: `/sTkJSkDkJnxCsk2FvKY2OL7NQcy.jpg`
   - release_date: `2002-07-17`
   - runtime: `96`
-  - vote_average: `6.507`
-  - vote_count: `822`
+  - vote_average: `6.518`
+  - vote_count: `828`
   - genres: `Action`, `Drama`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=AKu7CigaE3A`
   - status: `active`
@@ -28645,8 +29391,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=qq-yqajCo6k`
 - release_date: `2010-04-17`
 - runtime: `96`
-- vote_average: `7.56`
-- vote_count: `1022`
+- vote_average: `7.578`
+- vote_count: `1034`
 - genres: `Action`, `Thriller`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `38234`
@@ -28656,8 +29402,8 @@
   - backdrop_path: `/fTZlSRATSk7QJyUrpbmjScDtY8Z.jpg`
   - release_date: `2010-04-17`
   - runtime: `96`
-  - vote_average: `7.56`
-  - vote_count: `1022`
+  - vote_average: `7.578`
+  - vote_count: `1034`
   - genres: `Action`, `Thriller`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=qq-yqajCo6k`
   - status: `active`
@@ -28688,8 +29434,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=vNJ0szhjvdM`
 - release_date: `2020-07-16`
 - runtime: `90`
-- vote_average: `6.431`
-- vote_count: `2516`
+- vote_average: `6.428`
+- vote_count: `2527`
 - genres: `Action`, `Thriller`, `Horror`
 - movie_row:
   - import_tmdb_id: `625568`
@@ -28699,8 +29445,8 @@
   - backdrop_path: `/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg`
   - release_date: `2020-07-16`
   - runtime: `90`
-  - vote_average: `6.431`
-  - vote_count: `2516`
+  - vote_average: `6.428`
+  - vote_count: `2527`
   - genres: `Action`, `Thriller`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=vNJ0szhjvdM`
   - status: `active`
@@ -28732,7 +29478,7 @@
 - release_date: `2017-04-27`
 - runtime: `98`
 - vote_average: `6.273`
-- vote_count: `1205`
+- vote_count: `1212`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `291276`
@@ -28743,7 +29489,7 @@
   - release_date: `2017-04-27`
   - runtime: `98`
   - vote_average: `6.273`
-  - vote_count: `1205`
+  - vote_count: `1212`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=0-t9iIpsbgA`
   - status: `active`
@@ -28773,8 +29519,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=F_7b3kzWzg8`
 - release_date: `2010-05-26`
 - runtime: `97`
-- vote_average: `6.804`
-- vote_count: `1450`
+- vote_average: `6.811`
+- vote_count: `1461`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `38199`
@@ -28784,8 +29530,8 @@
   - backdrop_path: `/p80dRTtTQE5U7FeDoJXanxFX2xO.jpg`
   - release_date: `2010-05-26`
   - runtime: `97`
-  - vote_average: `6.804`
-  - vote_count: `1450`
+  - vote_average: `6.811`
+  - vote_count: `1461`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=F_7b3kzWzg8`
   - status: `active`
@@ -28815,8 +29561,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=xR3lVHnh0Gg`
 - release_date: `2025-04-23`
 - runtime: `103`
-- vote_average: `6.274`
-- vote_count: `1422`
+- vote_average: `6.278`
+- vote_count: `1457`
 - genres: `Horror`, `Mystery`
 - movie_row:
   - import_tmdb_id: `1232546`
@@ -28826,8 +29572,8 @@
   - backdrop_path: `/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg`
   - release_date: `2025-04-23`
   - runtime: `103`
-  - vote_average: `6.274`
-  - vote_count: `1422`
+  - vote_average: `6.278`
+  - vote_count: `1457`
   - genres: `Horror`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=xR3lVHnh0Gg`
   - status: `active`
@@ -28858,8 +29604,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=W6C6qcCW2JE`
 - release_date: `2004-05-03`
 - runtime: `132`
-- vote_average: `6.416`
-- vote_count: `6664`
+- vote_average: `6.42`
+- vote_count: `6703`
 - genres: `Horror`, `Adventure`, `Action`
 - movie_row:
   - import_tmdb_id: `7131`
@@ -28869,8 +29615,8 @@
   - backdrop_path: `/d72ROyJqXQtw2OupW0l15eicRAF.jpg`
   - release_date: `2004-05-03`
   - runtime: `132`
-  - vote_average: `6.416`
-  - vote_count: `6664`
+  - vote_average: `6.42`
+  - vote_count: `6703`
   - genres: `Horror`, `Adventure`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=W6C6qcCW2JE`
   - status: `active`
@@ -28901,8 +29647,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=LGnLCP-lfrA`
 - release_date: `2008-02-01`
 - runtime: `90`
-- vote_average: `6.414`
-- vote_count: `2182`
+- vote_average: `6.415`
+- vote_count: `2198`
 - genres: `Drama`, `Action`, `Thriller`, `Crime`
 - movie_row:
   - import_tmdb_id: `7461`
@@ -28912,8 +29658,8 @@
   - backdrop_path: `/5c3RpVjkNzrguLUBHqOG1kFI5Kb.jpg`
   - release_date: `2008-02-01`
   - runtime: `90`
-  - vote_average: `6.414`
-  - vote_count: `2182`
+  - vote_average: `6.415`
+  - vote_count: `2198`
   - genres: `Drama`, `Action`, `Thriller`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=LGnLCP-lfrA`
   - status: `active`
@@ -28943,7 +29689,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=eGfYMhdKR0Q`
 - release_date: `2024-08-15`
 - runtime: `151`
-- vote_average: `5.81`
+- vote_average: `5.8`
 - vote_count: `21`
 - genres: `Action`, `Drama`, `Thriller`
 - movie_row:
@@ -28954,7 +29700,7 @@
   - backdrop_path: `/qMneo4vk6e42lS8UqYIfG9xf7ol.jpg`
   - release_date: `2024-08-15`
   - runtime: `151`
-  - vote_average: `5.81`
+  - vote_average: `5.8`
   - vote_count: `21`
   - genres: `Action`, `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=eGfYMhdKR0Q`
@@ -29070,7 +29816,7 @@
 - release_date: `2018-09-28`
 - runtime: `112`
 - vote_average: `6.826`
-- vote_count: `17247`
+- vote_count: `17298`
 - genres: `Science Fiction`, `Action`
 - movie_row:
   - import_tmdb_id: `335983`
@@ -29081,7 +29827,7 @@
   - release_date: `2018-09-28`
   - runtime: `112`
   - vote_average: `6.826`
-  - vote_count: `17247`
+  - vote_count: `17298`
   - genres: `Science Fiction`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=xLCn88bfW1o`
   - status: `active`
@@ -29111,8 +29857,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=FKBN1qAzW3s`
 - release_date: `2024-10-22`
 - runtime: `109`
-- vote_average: `6.7`
-- vote_count: `4235`
+- vote_average: `6.674`
+- vote_count: `4279`
 - genres: `Science Fiction`, `Action`, `Adventure`
 - movie_row:
   - import_tmdb_id: `912649`
@@ -29122,8 +29868,8 @@
   - backdrop_path: `/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg`
   - release_date: `2024-10-22`
   - runtime: `109`
-  - vote_average: `6.7`
-  - vote_count: `4235`
+  - vote_average: `6.674`
+  - vote_count: `4279`
   - genres: `Science Fiction`, `Action`, `Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=FKBN1qAzW3s`
   - status: `active`
@@ -29153,8 +29899,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=RSDKJ3Irhp4`
 - release_date: `2023-09-21`
 - runtime: `94`
-- vote_average: `9.3`
-- vote_count: `3`
+- vote_average: `9`
+- vote_count: `4`
 - genres: `Thriller`, `Romance`, `Drama`
 - movie_row:
   - import_tmdb_id: `1170985`
@@ -29164,8 +29910,8 @@
   - backdrop_path: `/zN9aCIHTXgt0Bbq77VJp53ADL5f.jpg`
   - release_date: `2023-09-21`
   - runtime: `94`
-  - vote_average: `9.3`
-  - vote_count: `3`
+  - vote_average: `9`
+  - vote_count: `4`
   - genres: `Thriller`, `Romance`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=RSDKJ3Irhp4`
   - status: `active`
@@ -29195,8 +29941,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=a53e4HHnx_s`
 - release_date: `2022-11-30`
 - runtime: `112`
-- vote_average: `7.2`
-- vote_count: `2551`
+- vote_average: `7.222`
+- vote_count: `2570`
 - genres: `Action`, `Comedy`, `Fantasy`, `Thriller`
 - movie_row:
   - import_tmdb_id: `899112`
@@ -29206,8 +29952,8 @@
   - backdrop_path: `/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg`
   - release_date: `2022-11-30`
   - runtime: `112`
-  - vote_average: `7.2`
-  - vote_count: `2551`
+  - vote_average: `7.222`
+  - vote_count: `2570`
   - genres: `Action`, `Comedy`, `Fantasy`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=a53e4HHnx_s`
   - status: `active`
@@ -29237,8 +29983,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=ywzmicMitN0`
 - release_date: `2019-09-07`
 - runtime: `99`
-- vote_average: `6.044`
-- vote_count: `2538`
+- vote_average: `6.061`
+- vote_count: `2583`
 - genres: `Science Fiction`, `Mystery`, `Horror`
 - movie_row:
   - import_tmdb_id: `458305`
@@ -29248,8 +29994,8 @@
   - backdrop_path: `/zLa8fA7boGtNoNH7n6iYi9UqoaH.jpg`
   - release_date: `2019-09-07`
   - runtime: `99`
-  - vote_average: `6.044`
-  - vote_count: `2538`
+  - vote_average: `6.061`
+  - vote_count: `2583`
   - genres: `Science Fiction`, `Mystery`, `Horror`
   - trailer_url: `https://www.youtube.com/watch?v=ywzmicMitN0`
   - status: `active`
@@ -29279,8 +30025,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=eKqbjcR_YD8`
 - release_date: `2007-08-24`
 - runtime: `103`
-- vote_average: `6.399`
-- vote_count: `2047`
+- vote_average: `6.401`
+- vote_count: `2063`
 - genres: `Action`, `Crime`, `Thriller`
 - movie_row:
   - import_tmdb_id: `10431`
@@ -29290,8 +30036,8 @@
   - backdrop_path: `/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg`
   - release_date: `2007-08-24`
   - runtime: `103`
-  - vote_average: `6.399`
-  - vote_count: `2047`
+  - vote_average: `6.401`
+  - vote_count: `2063`
   - genres: `Action`, `Crime`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=eKqbjcR_YD8`
   - status: `active`
@@ -29323,8 +30069,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=dK1W-AViQ-M`
 - release_date: `2025-08-13`
 - runtime: `173`
-- vote_average: `5.906`
-- vote_count: `64`
+- vote_average: `6`
+- vote_count: `65`
 - genres: `Action`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1109086`
@@ -29334,8 +30080,8 @@
   - backdrop_path: `/pKIRUTnwY3YYU9urSdsuobdcliP.jpg`
   - release_date: `2025-08-13`
   - runtime: `173`
-  - vote_average: `5.906`
-  - vote_count: `64`
+  - vote_average: `6`
+  - vote_count: `65`
   - genres: `Action`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=dK1W-AViQ-M`
   - status: `active`
@@ -29359,26 +30105,26 @@
 - narrators_found: `Gaheza`, `Skov`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `release_date`, `runtime`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/niPqU1GGEqLoUUa8QnXNsbgGW0D.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/niPqU1GGEqLoUUa8QnXNsbgGW0D.jpg`
+- poster_path: `/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg`
 - backdrop_path: `/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=AFuE1LRxm80`
 - release_date: `2026-02-12`
 - runtime: `110`
-- vote_average: `7.357`
-- vote_count: `1845`
+- vote_average: `7.409`
+- vote_count: `1994`
 - genres: `Action`, `Science Fiction`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1265609`
   - title: `War Machine`
   - overview: `On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.`
-  - poster_path: `/niPqU1GGEqLoUUa8QnXNsbgGW0D.jpg`
+  - poster_path: `/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg`
   - backdrop_path: `/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg`
   - release_date: `2026-02-12`
   - runtime: `110`
-  - vote_average: `7.357`
-  - vote_count: `1845`
+  - vote_average: `7.409`
+  - vote_count: `1994`
   - genres: `Action`, `Science Fiction`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=AFuE1LRxm80`
   - status: `active`
@@ -29409,7 +30155,7 @@
 - trailer_url: `https://www.youtube.com/watch?v=-9qhQUxBTx4`
 - release_date: `2011-08-10`
 - runtime: `122`
-- vote_average: `7.203`
+- vote_average: `7.2`
 - vote_count: `286`
 - genres: `Drama`, `Action`, `History`
 - movie_row:
@@ -29420,7 +30166,7 @@
   - backdrop_path: `/l9KInBleoVHFB2TXxChn6pjlDxz.jpg`
   - release_date: `2011-08-10`
   - runtime: `122`
-  - vote_average: `7.203`
+  - vote_average: `7.2`
   - vote_count: `286`
   - genres: `Drama`, `Action`, `History`
   - trailer_url: `https://www.youtube.com/watch?v=-9qhQUxBTx4`
@@ -29451,8 +30197,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=mIl-XY9t_Lw`
 - release_date: `2015-08-28`
 - runtime: `120`
-- vote_average: `7.847`
-- vote_count: `581`
+- vote_average: `7.831`
+- vote_count: `585`
 - genres: `Drama`
 - movie_row:
   - import_tmdb_id: `323272`
@@ -29462,8 +30208,8 @@
   - backdrop_path: `/oCCvZEbqCCcALQtah8HJm9Ja4HT.jpg`
   - release_date: `2015-08-28`
   - runtime: `120`
-  - vote_average: `7.847`
-  - vote_count: `581`
+  - vote_average: `7.831`
+  - vote_count: `585`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=mIl-XY9t_Lw`
   - status: `active`
@@ -29493,8 +30239,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=63rL3f2zl8Q`
 - release_date: `2023-06-30`
 - runtime: `125`
-- vote_average: `7.201`
-- vote_count: `334`
+- vote_average: `7.202`
+- vote_count: `336`
 - genres: `Action`, `War`, `Drama`
 - movie_row:
   - import_tmdb_id: `1076487`
@@ -29504,8 +30250,8 @@
   - backdrop_path: `/csu96RxWGh2tReD9gYQRdUOSuUE.jpg`
   - release_date: `2023-06-30`
   - runtime: `125`
-  - vote_average: `7.201`
-  - vote_count: `334`
+  - vote_average: `7.202`
+  - vote_count: `336`
   - genres: `Action`, `War`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=63rL3f2zl8Q`
   - status: `active`
@@ -29613,24 +30359,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg`
-- backdrop_path: `/9n2gwsUiCmDVLjaIkbaOSHxcEsI.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/9n2gwsUiCmDVLjaIkbaOSHxcEsI.jpg`
+- backdrop_path: `/zafjILdj6K91LOX4w4lCD48utxZ.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/zafjILdj6K91LOX4w4lCD48utxZ.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=GlRRhAF5TVM`
 - release_date: `2024-09-19`
 - runtime: `101`
-- vote_average: `6.402`
-- vote_count: `283`
+- vote_average: `6.445`
+- vote_count: `289`
 - genres: `Action`, `Adventure`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1167271`
   - title: `Weekend in Taipei`
   - overview: `A former DEA agent and a former undercover operative revisit their romance during a fateful weekend in Taipei, unaware of the dangerous consequences of their past.`
   - poster_path: `/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg`
-  - backdrop_path: `/9n2gwsUiCmDVLjaIkbaOSHxcEsI.jpg`
+  - backdrop_path: `/zafjILdj6K91LOX4w4lCD48utxZ.jpg`
   - release_date: `2024-09-19`
   - runtime: `101`
-  - vote_average: `6.402`
-  - vote_count: `283`
+  - vote_average: `6.445`
+  - vote_count: `289`
   - genres: `Action`, `Adventure`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=GlRRhAF5TVM`
   - status: `active`
@@ -29660,8 +30406,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=idZPTuwcMJA`
 - release_date: `2017-08-18`
 - runtime: `123`
-- vote_average: `7.147`
-- vote_count: `6440`
+- vote_average: `7.145`
+- vote_count: `6460`
 - genres: `Science Fiction`, `Thriller`, `Mystery`, `Action`
 - movie_row:
   - import_tmdb_id: `406990`
@@ -29671,8 +30417,8 @@
   - backdrop_path: `/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg`
   - release_date: `2017-08-18`
   - runtime: `123`
-  - vote_average: `7.147`
-  - vote_count: `6440`
+  - vote_average: `7.145`
+  - vote_count: `6460`
   - genres: `Science Fiction`, `Thriller`, `Mystery`, `Action`
   - trailer_url: `https://www.youtube.com/watch?v=idZPTuwcMJA`
   - status: `active`
@@ -29701,9 +30447,9 @@
 - backdrop_url: `https://image.tmdb.org/t/p/original/bhJwUazhSk735vkZLkmrBeqDxSH.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=kSYEu47WbJY`
 - release_date: `1984-08-17`
-- runtime: `109`
-- vote_average: `6.9`
-- vote_count: `438`
+- runtime: `108`
+- vote_average: `6.901`
+- vote_count: `440`
 - genres: `Romance`, `Action`, `Comedy`, `Crime`
 - movie_row:
   - import_tmdb_id: `11205`
@@ -29712,9 +30458,9 @@
   - poster_path: `/zCii0fXuI7xzroEEG1KBJDlqu0O.jpg`
   - backdrop_path: `/bhJwUazhSk735vkZLkmrBeqDxSH.jpg`
   - release_date: `1984-08-17`
-  - runtime: `109`
-  - vote_average: `6.9`
-  - vote_count: `438`
+  - runtime: `108`
+  - vote_average: `6.901`
+  - vote_count: `440`
   - genres: `Romance`, `Action`, `Comedy`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=kSYEu47WbJY`
   - status: `active`
@@ -29744,8 +30490,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=Ws74Ie4fMc8`
 - release_date: `2016-09-09`
 - runtime: `97`
-- vote_average: `5.828`
-- vote_count: `435`
+- vote_average: `5.839`
+- vote_count: `438`
 - genres: `Drama`, `Thriller`
 - movie_row:
   - import_tmdb_id: `335791`
@@ -29755,8 +30501,8 @@
   - backdrop_path: `/vjGYFfG8Amm019QoSB9csEZC4X2.jpg`
   - release_date: `2016-09-09`
   - runtime: `97`
-  - vote_average: `5.828`
-  - vote_count: `435`
+  - vote_average: `5.839`
+  - vote_count: `438`
   - genres: `Drama`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=Ws74Ie4fMc8`
   - status: `active`
@@ -29786,8 +30532,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=-5rdRvkG-gQ`
 - release_date: `2022-08-12`
 - runtime: `106`
-- vote_average: `6.6`
-- vote_count: `323`
+- vote_average: `6.643`
+- vote_count: `325`
 - genres: `Science Fiction`, `Mystery`, `Thriller`
 - movie_row:
   - import_tmdb_id: `1001835`
@@ -29797,8 +30543,8 @@
   - backdrop_path: `/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg`
   - release_date: `2022-08-12`
   - runtime: `106`
-  - vote_average: `6.6`
-  - vote_count: `323`
+  - vote_average: `6.643`
+  - vote_count: `325`
   - genres: `Science Fiction`, `Mystery`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=-5rdRvkG-gQ`
   - status: `active`
@@ -29864,8 +30610,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=kAw4PH2IQgo`
 - release_date: `2025-01-15`
 - runtime: `103`
-- vote_average: `6.182`
-- vote_count: `982`
+- vote_average: `6.154`
+- vote_count: `1001`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `710295`
@@ -29875,8 +30621,8 @@
   - backdrop_path: `/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg`
   - release_date: `2025-01-15`
   - runtime: `103`
-  - vote_average: `6.182`
-  - vote_count: `982`
+  - vote_average: `6.154`
+  - vote_count: `1001`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=kAw4PH2IQgo`
   - status: `active`
@@ -29908,7 +30654,7 @@
 - release_date: `2020-08-07`
 - runtime: `93`
 - vote_average: `7.494`
-- vote_count: `1222`
+- vote_count: `1223`
 - genres: `Comedy`, `Music`
 - movie_row:
   - import_tmdb_id: `612706`
@@ -29919,7 +30665,7 @@
   - release_date: `2020-08-07`
   - runtime: `93`
   - vote_average: `7.494`
-  - vote_count: `1222`
+  - vote_count: `1223`
   - genres: `Comedy`, `Music`
   - trailer_url: `https://www.youtube.com/watch?v=OqcP_wkcl2I`
   - status: `active`
@@ -29944,24 +30690,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg`
-- backdrop_path: `/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg`
+- backdrop_path: `/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=TvRCQM2HrXs`
 - release_date: `2013-06-19`
 - runtime: `116`
-- vote_average: `6.835`
-- vote_count: `16587`
+- vote_average: `6.839`
+- vote_count: `16666`
 - genres: `Action`, `Horror`, `Science Fiction`
 - movie_row:
   - import_tmdb_id: `72190`
   - title: `World War Z`
   - overview: `Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.`
   - poster_path: `/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg`
-  - backdrop_path: `/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg`
+  - backdrop_path: `/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg`
   - release_date: `2013-06-19`
   - runtime: `116`
-  - vote_average: `6.835`
-  - vote_count: `16587`
+  - vote_average: `6.839`
+  - vote_count: `16666`
   - genres: `Action`, `Horror`, `Science Fiction`
   - trailer_url: `https://www.youtube.com/watch?v=TvRCQM2HrXs`
   - status: `active`
@@ -29992,8 +30738,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=wo1kO8m2Nik`
 - release_date: `2021-04-22`
 - runtime: `119`
-- vote_average: `7.6`
-- vote_count: `6103`
+- vote_average: `7.576`
+- vote_count: `6140`
 - genres: `Thriller`, `Crime`, `Drama`
 - movie_row:
   - import_tmdb_id: `637649`
@@ -30003,8 +30749,8 @@
   - backdrop_path: `/70AV2Xx5FQYj20labp0EGdbjI6E.jpg`
   - release_date: `2021-04-22`
   - runtime: `119`
-  - vote_average: `7.6`
-  - vote_count: `6103`
+  - vote_average: `7.576`
+  - vote_count: `6140`
   - genres: `Thriller`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=wo1kO8m2Nik`
   - status: `active`
@@ -30029,24 +30775,24 @@
 - tmdb_unavailable_fields: `none`
 - poster_path: `/12G5V0dTmljnv7RFMT144dJ2chh.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/12G5V0dTmljnv7RFMT144dJ2chh.jpg`
-- backdrop_path: `/qHHlBPTpKyh9iTjx1cNMU8sXBnj.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/qHHlBPTpKyh9iTjx1cNMU8sXBnj.jpg`
+- backdrop_path: `/wT9GbyGHmJExhBsJuVQ9Lfga533.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/wT9GbyGHmJExhBsJuVQ9Lfga533.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=_WqHuwZcENM`
 - release_date: `2003-05-30`
 - runtime: `84`
-- vote_average: `6.397`
-- vote_count: `3004`
+- vote_average: `6.404`
+- vote_count: `3027`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `9902`
   - title: `Wrong Turn`
   - overview: `Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.`
   - poster_path: `/12G5V0dTmljnv7RFMT144dJ2chh.jpg`
-  - backdrop_path: `/qHHlBPTpKyh9iTjx1cNMU8sXBnj.jpg`
+  - backdrop_path: `/wT9GbyGHmJExhBsJuVQ9Lfga533.jpg`
   - release_date: `2003-05-30`
   - runtime: `84`
-  - vote_average: `6.397`
-  - vote_count: `3004`
+  - vote_average: `6.404`
+  - vote_count: `3027`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=_WqHuwZcENM`
   - status: `active`
@@ -30076,8 +30822,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=VanCRj8eI9o`
 - release_date: `2007-08-25`
 - runtime: `97`
-- vote_average: `6.149`
-- vote_count: `1547`
+- vote_average: `6.168`
+- vote_count: `1563`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `13186`
@@ -30087,8 +30833,8 @@
   - backdrop_path: `/o2SeAw8ARPB1D8oudCRJcxW3w60.jpg`
   - release_date: `2007-08-25`
   - runtime: `97`
-  - vote_average: `6.149`
-  - vote_count: `1547`
+  - vote_average: `6.168`
+  - vote_count: `1563`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=VanCRj8eI9o`
   - status: `active`
@@ -30118,8 +30864,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=yYAyDmOjZi0`
 - release_date: `2009-10-08`
 - runtime: `91`
-- vote_average: `5.704`
-- vote_count: `1275`
+- vote_average: `5.702`
+- vote_count: `1285`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `23823`
@@ -30129,8 +30875,8 @@
   - backdrop_path: `/8568C7FeSsjmqLGuObSB0oB6kOU.jpg`
   - release_date: `2009-10-08`
   - runtime: `91`
-  - vote_average: `5.704`
-  - vote_count: `1275`
+  - vote_average: `5.702`
+  - vote_count: `1285`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=yYAyDmOjZi0`
   - status: `active`
@@ -30160,8 +30906,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=fulKeIZM2-s`
 - release_date: `2011-10-17`
 - runtime: `93`
-- vote_average: `5.744`
-- vote_count: `1217`
+- vote_average: `5.742`
+- vote_count: `1227`
 - genres: `Horror`, `Thriller`
 - movie_row:
   - import_tmdb_id: `71672`
@@ -30171,8 +30917,8 @@
   - backdrop_path: `/8xyJcJnYbupkPPMvwTEJaUwjxDI.jpg`
   - release_date: `2011-10-17`
   - runtime: `93`
-  - vote_average: `5.744`
-  - vote_count: `1217`
+  - vote_average: `5.742`
+  - vote_count: `1227`
   - genres: `Horror`, `Thriller`
   - trailer_url: `https://www.youtube.com/watch?v=fulKeIZM2-s`
   - status: `active`
@@ -30202,8 +30948,8 @@
 - trailer_url: `https://www.youtube.com/watch?v=jWM0ct-OLsM`
 - release_date: `2016-02-11`
 - runtime: `109`
-- vote_average: `7.762`
-- vote_count: `18123`
+- vote_average: `7.764`
+- vote_count: `18199`
 - genres: `Animation`, `Adventure`, `Family`, `Comedy`
 - movie_row:
   - import_tmdb_id: `269149`
@@ -30213,8 +30959,8 @@
   - backdrop_path: `/9tOkjBEiiGcaClgJFtwocStZvIT.jpg`
   - release_date: `2016-02-11`
   - runtime: `109`
-  - vote_average: `7.762`
-  - vote_count: `18123`
+  - vote_average: `7.764`
+  - vote_count: `18199`
   - genres: `Animation`, `Adventure`, `Family`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=jWM0ct-OLsM`
   - status: `active`
@@ -30245,8 +30991,8 @@
 - last_air_date: `2020-10-07`
 - number_of_seasons: `2`
 - number_of_episodes: `24`
-- vote_average: `7.201`
-- vote_count: `97`
+- vote_average: `7.23`
+- vote_count: `98`
 - genres: `Drama`, `Crime`
 - tv_show_row:
   - tmdb_id: `94251`
@@ -30258,8 +31004,8 @@
   - last_air_date: `2020-10-07`
   - number_of_seasons: `2`
   - number_of_episodes: `24`
-  - vote_average: `7.201`
-  - vote_count: `97`
+  - vote_average: `7.23`
+  - vote_count: `98`
   - genres: `Drama`, `Crime`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -30302,10 +31048,10 @@
 - first_air_date: `2024-01-17`
 - last_air_date: `2024-02-07`
 - number_of_seasons: `2`
-- number_of_episodes: `16`
-- vote_average: `8.255`
-- vote_count: `159`
-- genres: `Drama`, `Action & Adventure`, `Mystery`, `Crime`
+- number_of_episodes: `9`
+- vote_average: `8.265`
+- vote_count: `166`
+- genres: `Drama`, `Action & Adventure`, `Mystery`
 - tv_show_row:
   - tmdb_id: `215072`
   - name: `A Shop for Killers`
@@ -30315,10 +31061,10 @@
   - first_air_date: `2024-01-17`
   - last_air_date: `2024-02-07`
   - number_of_seasons: `2`
-  - number_of_episodes: `16`
-  - vote_average: `8.255`
-  - vote_count: `159`
-  - genres: `Drama`, `Action & Adventure`, `Mystery`, `Crime`
+  - number_of_episodes: `9`
+  - vote_average: `8.265`
+  - vote_count: `166`
+  - genres: `Drama`, `Action & Adventure`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=69nzLpyMSHw`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -30362,8 +31108,8 @@
 - last_air_date: `2015-06-21`
 - number_of_seasons: `1`
 - number_of_episodes: `12`
-- vote_average: `7.5`
-- vote_count: `84`
+- vote_average: `7.517`
+- vote_count: `86`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `62287`
@@ -30375,8 +31121,8 @@
   - last_air_date: `2015-06-21`
   - number_of_seasons: `1`
   - number_of_episodes: `12`
-  - vote_average: `7.5`
-  - vote_count: `84`
+  - vote_average: `7.517`
+  - vote_count: `86`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=8kaT-kSUrsI`
   - download_url: `OPTIONAL_NOT_SET`
@@ -30495,7 +31241,7 @@
 - last_air_date: `2024-04-05`
 - number_of_seasons: `3`
 - number_of_episodes: `24`
-- vote_average: `7.779`
+- vote_average: `7.8`
 - vote_count: `362`
 - genres: `Drama`, `Action & Adventure`
 - tv_show_row:
@@ -30508,7 +31254,7 @@
   - last_air_date: `2024-04-05`
   - number_of_seasons: `3`
   - number_of_episodes: `24`
-  - vote_average: `7.779`
+  - vote_average: `7.8`
   - vote_count: `362`
   - genres: `Drama`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=wFYq8eqpQw4`
@@ -30554,8 +31300,8 @@
 - last_air_date: `2024-02-15`
 - number_of_seasons: `2`
 - number_of_episodes: `12`
-- vote_average: `7.526`
-- vote_count: `552`
+- vote_average: `7.531`
+- vote_count: `553`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `88516`
@@ -30567,8 +31313,8 @@
   - last_air_date: `2024-02-15`
   - number_of_seasons: `2`
   - number_of_episodes: `12`
-  - vote_average: `7.526`
-  - vote_count: `552`
+  - vote_average: `7.531`
+  - vote_count: `553`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=xxKnhO7Nq7I`
   - download_url: `OPTIONAL_NOT_SET`
@@ -30613,8 +31359,8 @@
 - last_air_date: `2020-02-28`
 - number_of_seasons: `2`
 - number_of_episodes: `18`
-- vote_average: `7.07`
-- vote_count: `142`
+- vote_average: `7.063`
+- vote_count: `143`
 - genres: `Sci-Fi & Fantasy`, `Drama`
 - tv_show_row:
   - tmdb_id: `85703`
@@ -30626,8 +31372,8 @@
   - last_air_date: `2020-02-28`
   - number_of_seasons: `2`
   - number_of_episodes: `18`
-  - vote_average: `7.07`
-  - vote_count: `142`
+  - vote_average: `7.063`
+  - vote_count: `143`
   - genres: `Sci-Fi & Fantasy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=EpP3Al2GaB8`
   - download_url: `OPTIONAL_NOT_SET`
@@ -30672,7 +31418,7 @@
 - last_air_date: `2024-04-11`
 - number_of_seasons: `3`
 - number_of_episodes: `24`
-- vote_average: `7.023`
+- vote_average: `7`
 - vote_count: `65`
 - genres: `Drama`
 - tv_show_row:
@@ -30685,7 +31431,7 @@
   - last_air_date: `2024-04-11`
   - number_of_seasons: `3`
   - number_of_episodes: `24`
-  - vote_average: `7.023`
+  - vote_average: `7`
   - vote_count: `65`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=VY_vTWAdffA`
@@ -30870,7 +31616,7 @@
 - last_air_date: `2024-11-08`
 - number_of_seasons: `1`
 - number_of_episodes: `5`
-- vote_average: `6.714`
+- vote_average: `6.7`
 - vote_count: `84`
 - genres: `Crime`, `Drama`, `Action & Adventure`
 - tv_show_row:
@@ -30883,7 +31629,7 @@
   - last_air_date: `2024-11-08`
   - number_of_seasons: `1`
   - number_of_episodes: `5`
-  - vote_average: `6.714`
+  - vote_average: `6.7`
   - vote_count: `84`
   - genres: `Crime`, `Drama`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=mwK_11zpSuA`
@@ -30937,8 +31683,8 @@
 - last_air_date: `2022-10-21`
 - number_of_seasons: `2`
 - number_of_episodes: `12`
-- vote_average: `7.297`
-- vote_count: `651`
+- vote_average: `7.301`
+- vote_count: `653`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `93785`
@@ -30950,8 +31696,8 @@
   - last_air_date: `2022-10-21`
   - number_of_seasons: `2`
   - number_of_episodes: `12`
-  - vote_average: `7.297`
-  - vote_count: `651`
+  - vote_average: `7.301`
+  - vote_count: `653`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=1mBnYJcZJ-A`
   - download_url: `OPTIONAL_NOT_SET`
@@ -30983,8 +31729,8 @@
 - real_tmdb_id: `246246`
 - canonical_name: `Beauty in Black`
 - original_name: `Beauty in Black`
-- aliases_found_in_source: `Beauty In Black`
-- narrators_found: `Rocky`
+- aliases_found_in_source: `Beauty in Black`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/i98Jl46WBpK7ymttNOakowtNuFF.jpg`
@@ -30996,8 +31742,8 @@
 - last_air_date: `2026-03-19`
 - number_of_seasons: `2`
 - number_of_episodes: `32`
-- vote_average: `7.784`
-- vote_count: `185`
+- vote_average: `7.819`
+- vote_count: `193`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `246246`
@@ -31009,14 +31755,48 @@
   - last_air_date: `2026-03-19`
   - number_of_seasons: `2`
   - number_of_episodes: `32`
-  - vote_average: `7.784`
-  - vote_count: `185`
+  - vote_average: `7.819`
+  - vote_count: `193`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=0dclNQV71-k`
   - download_url: `OPTIONAL_NOT_SET`
-  - narrator: `Rocky`
+  - narrator: `none`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
+
+### Season 1
+
+- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `overview`
+- season_row:
+  - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
+  - tmdb_id: `378783`
+  - season_number: `1`
+  - name: `Season 1`
+  - poster_path: `/i98Jl46WBpK7ymttNOakowtNuFF.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg`
+  - air_date: `2024-10-24`
+  - episode_count: `16`
+  - inference_notes: `Explicit season found in source title/slug.`
+- episode_rows:
+| season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 5141607 | Make It Rain | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/pzd8cqzir8ei | hgcloud.to | https://www.mediafire.com/file/hc7wny8jnva6d12/BACK_AND_BEAUTY_S01E01.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 5593675 | A Dance with Daddy | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/52dt9bl31b7n | hgcloud.to | https://www.mediafire.com/file/n2hvxnf8ag19yv1/BEAUTY_IN_BLACK_E02_A.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 5593676 | The Aftermath | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/6ug9kpdi595q | hgcloud.to | https://www.mediafire.com/file/dwwh9aq16ayymu2/BEAUTY_IN_BLACK_E02_B..mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 5593683 | A Family Affair | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://cybervynx.com/e/nnyprr8w7cqj | cybervynx.com | https://www.mediafire.com/file/31sti4r1kph0fhd/BEAUTY+IN+BLACK+S01E03.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 5593685 | Unraveling Threads | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/cxpw330y2ud6 | hgcloud.to | https://www.mediafire.com/file/xv227cssb3g55bs/BEAUTY_IN_BLACK_S01E4.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 5593686 | Bang Bang | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/womzdgvbdygr | hgcloud.to | https://www.mediafire.com/file/7rksvugw33tv6tz/BEAUTY_IN_BLACK_S01E05.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 5593688 | Even Playing Field | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/hdy35j4vm5xj | hgcloud.to | https://www.mediafire.com/file/n90it9zpu9cbkly/BEAUTY_IN_BLACK_S01E06.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 5593690 | Killing Karma | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/db7tfmnbqh7b | hgcloud.to | https://www.mediafire.com/file/ugoeqywapisf0v1/BEAUTY_IN_BLACK_S01E07.mp4/file | www.mediafire.com |  |
+| 1 | 9 |  | 5951248 | Blind Rage | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/na8hvelxk0um | hgcloud.to | https://www.mediafire.com/file/lrhv7v1ewzqn1vt/BEAUTY_IN_BLACK_S01E08.mp4/file | www.mediafire.com |  |
+| 1 | 10 |  | 5951249 | Power Struggle | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/dnws2el5l06k | hgcloud.to | https://www.mediafire.com/file/icy0alg0r4yp8pp/BEAUTY_IN_THE_BLACK_E09.mp4/file | www.mediafire.com |  |
+| 1 | 11 |  | 5951250 | Up Against the Wall | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/yic8f9gl98c8 | hgcloud.to | https://www.mediafire.com/file/g04d2yaf19kfxrs/BACK_AND_BEAUTY_S01EP10.mp4/file | www.mediafire.com |  |
+| 1 | 12 |  | 5951252 | Hot Seat | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/cfcunze8krm9 | hgcloud.to | https://www.mediafire.com/file/2wvs5dg5zc0075y/BEAUTY_IN_BLACK_E011.mp4/file | www.mediafire.com |  |
+| 1 | 13 |  | 5951255 | By Any Means | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/mfakujgbfqq1 | hgcloud.to | https://www.mediafire.com/file/hi5m6dsob41bpcd/BEAUTY_IN_BLACK_E12.mp4/file | www.mediafire.com |  |
+| 1 | 14 |  | 5951258 | Wild Ride | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/zgp2xevssygd | hgcloud.to | https://www.mediafire.com/file/yrfypzwexxk72vw/BEAUTY_IN_BLACK_E13.mp4/file | www.mediafire.com |  |
+| 1 | 15 |  | 5951261 | The Lion's Den | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/u9hztw0jn6jp | hgcloud.to | https://www.mediafire.com/file/bqht40whgydtokz/BEAUTY_IN_BLACK_S01E14.mp4/file | www.mediafire.com |  |
+| 1 | 16 |  | 5951262 | Now Make It Thunder | Beauty in Black Season 1 | https://oshakurfilms.com/watch/beauty-in-black-season-1 | https://hgcloud.to/e/84qp4oywef1g | hgcloud.to | https://www.mediafire.com/file/0lmgbraadcsoqkj/BEAUTY_IN_BLACK_EP15.mp4/file | www.mediafire.com |  |
 
 ### Season 2
 
@@ -31035,12 +31815,22 @@
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 1 |  | 6359657 | Crowned in Beauty | Beauty In Black S2 Ep1 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep1-rocky | https://hglink.to/e/0g41asjxvwd9 | hglink.to | https://www.mediafire.com/file/e6chl3zhlqp6drh/BEAUTY+IN+BLACK+S2+EP+01_.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 2 | 2 |  | 6359658 | When the Tables Turn | Beauty In Black S2 Ep2 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep2-rocky | https://hglink.to/e/a7zpqyfkj9tz | hglink.to | https://www.mediafire.com/file/48yqk96kb9qumao/BEAUTY_IN_BLACK_S02E02.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 2 | 3 |  | 6359659 | Blaze of Beauty | Beauty In Black S2 Ep3 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep3-rocky | https://hglink.to/e/9av7veqydtgb | hglink.to | https://www.mediafire.com/file/6hjufgvtg9z8ig7/BEAUTY_IN_BLACK_S2_EP_3.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 2 | 4 |  | 6359660 | The Next Chapter | Beauty In Black S2 Ep4 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep4-rocky | https://hglink.to/e/zn99152usbhz | hglink.to | https://www.mediafire.com/file/xfe3dmugbedrunr/BEAUTY_IN_BLACK_S2_EP_04.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 2 | 5 |  | 6359661 | Hunter's Prey | Beauty In Black S2 Ep5 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep5-rocky | https://hglink.to/e/qltzw4br7j7c | hglink.to | https://www.mediafire.com/file/3rzvvglngd5fj8z/BEAUTY+IN+BLACK+S2+EP+05__.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 2 | 6 |  | 6359662 | The Enemy of My Enemy | Beauty In Black S2 Ep6 - ROCKY | https://oshakurfilms.com/watch/beauty-in-black-s2-ep6-rocky | https://hglink.to/e/7ve39a9qw2oq | hglink.to | https://www.mediafire.com/file/e7je9wjoaqtoa17/BEAUTY+IN+BLACK+S2+EP+06.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 2 | 1 |  | 6359657 | Crowned in Beauty | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hglink.to/e/0g41asjxvwd9 | hglink.to | https://www.mediafire.com/file/e6chl3zhlqp6drh/BEAUTY+IN+BLACK+S2+EP+01_.mp4/file | www.mediafire.com |  |
+| 2 | 2 |  | 6359658 | When the Tables Turn | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/7xhn27rfj61o | hgcloud.to | https://www.mediafire.com/file/48yqk96kb9qumao/BEAUTY_IN_BLACK_S02E02.mp4/file | www.mediafire.com |  |
+| 2 | 3 |  | 6359659 | Blaze of Beauty | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/9av7veqydtgb | hgcloud.to | https://www.mediafire.com/file/6hjufgvtg9z8ig7/BEAUTY_IN_BLACK_S2_EP_3.mp4/file | www.mediafire.com |  |
+| 2 | 4 |  | 6359660 | The Next Chapter | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/zn99152usbhz | hgcloud.to | https://www.mediafire.com/file/xfe3dmugbedrunr/BEAUTY_IN_BLACK_S2_EP_04.mp4/file | www.mediafire.com |  |
+| 2 | 5 |  | 6359661 | Hunter's Prey | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/qltzw4br7j7c | hgcloud.to | https://www.mediafire.com/file/3rzvvglngd5fj8z/BEAUTY_IN_BLACK_S2_EP_05__.mp4/file | www.mediafire.com |  |
+| 2 | 6 |  | 6359662 | The Enemy of My Enemy | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/7ve39a9qw2oq | hgcloud.to | https://www.mediafire.com/file/e7je9wjoaqtoa17/BEAUTY_IN_BLACK_S2_EP_06.mp4/file | www.mediafire.com |  |
+| 2 | 7 |  | 6359663 | Gloves Off | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/uj8bl2odhfqm | hgcloud.to | https://www.mediafire.com/file/9uycz4uakx62e77/BEAUTY_IN_BLACK_S2E07.mp4/file | www.mediafire.com |  |
+| 2 | 8 |  | 6359664 | Hold the Pleasantries | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/d2kdi9yvu072 | hgcloud.to | https://www.mediafire.com/file/3yys7apysfc8ev4/BEAUTY_IN_BLACK_S2E08.mp4/file | www.mediafire.com |  |
+| 2 | 9 |  | 6963351 | Toxic Vibes | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/8fwte1xgpzlq | hgcloud.to | https://www.mediafire.com/file/pq8ms73lh039x1n/BEAUTY_IN_BLACK_S3_Ep1.mp4/file | www.mediafire.com |  |
+| 2 | 10 |  | 6963352 | Playing for Keeps | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/e5peysa89314 | hgcloud.to | https://www.mediafire.com/file/pd6pgb9le8baxn7/BEAUTY_IN_BLACK_S02_EP_10.mp4/file | www.mediafire.com |  |
+| 2 | 11 |  | 6963353 | Fed Up | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/gdjh57rftode | hgcloud.to | https://www.mediafire.com/file/2gad3n3a8ob5rw1/BEAUTY_IN_BLACK_S02_EP_11.mp4/file | www.mediafire.com |  |
+| 2 | 12 |  | 6963354 | Flames of Fury | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/o7j31wqhusix | hgcloud.to | https://www.mediafire.com/file/tsyt5pzn7g6y6a8/BEAUTY_IN_BLACK_S02E12.mp4/file | www.mediafire.com |  |
+| 2 | 13 |  | 6963355 | Boom! | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/lfxtua5z188p | hgcloud.to | https://www.mediafire.com/file/t5audqrc5x7aklg/BEAUTY_IN_BLACK_S02E13.mp4/file | www.mediafire.com |  |
+| 2 | 14 |  | 6963356 | Your Turn Is Coming | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/3w1agufocrct | hgcloud.to | https://www.mediafire.com/file/412bzbgancv48r7/BEAUTY_IN_BLACK_S02E14.mp4/file | www.mediafire.com |  |
+| 2 | 15 |  | 6963357 | The Power of Us | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/uvbb5s6asf8b | hgcloud.to | https://www.mediafire.com/file/mts5x4h31z8hh0q/BEAUTY_IN_BLACK_S02_E15.mp4/file | www.mediafire.com |  |
+| 2 | 16 |  | 6963358 | Queen's Gambit | Beauty In Black Season 2 | https://oshakurfilms.com/watch/beauty-in-black-season-2 | https://hgcloud.to/e/pwdvzpv4f0eu | hgcloud.to | https://www.mediafire.com/file/fwb2alj3f3acu10/BEAUTY_IN_BLACK_SO2_EP_16_FINAL.mp4/file | www.mediafire.com |  |
 
 ## Bel-Air
 
@@ -31064,8 +31854,8 @@
 - last_air_date: `2025-12-08`
 - number_of_seasons: `4`
 - number_of_episodes: `38`
-- vote_average: `7.681`
-- vote_count: `281`
+- vote_average: `7.665`
+- vote_count: `285`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `107365`
@@ -31077,8 +31867,8 @@
   - last_air_date: `2025-12-08`
   - number_of_seasons: `4`
   - number_of_episodes: `38`
-  - vote_average: `7.681`
-  - vote_count: `281`
+  - vote_average: `7.665`
+  - vote_count: `285`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=_-_P9DPMuy8`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31149,7 +31939,7 @@
 - canonical_name: `Berlin`
 - original_name: `Berlín`
 - aliases_found_in_source: `BERLIN`
-- narrators_found: `Rocky`
+- narrators_found: `none`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
 - poster_path: `/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg`
@@ -31162,7 +31952,7 @@
 - number_of_seasons: `1`
 - number_of_episodes: `8`
 - vote_average: `7.591`
-- vote_count: `655`
+- vote_count: `669`
 - genres: `Drama`, `Action & Adventure`, `Crime`
 - tv_show_row:
   - tmdb_id: `146176`
@@ -31175,11 +31965,11 @@
   - number_of_seasons: `1`
   - number_of_episodes: `8`
   - vote_average: `7.591`
-  - vote_count: `655`
+  - vote_count: `669`
   - genres: `Drama`, `Action & Adventure`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=RIlcxPaggeM`
   - download_url: `OPTIONAL_NOT_SET`
-  - narrator: `Rocky`
+  - narrator: `none`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 
@@ -31197,18 +31987,18 @@
   - poster_url: `https://image.tmdb.org/t/p/w500/69YuvoiWTtK6oyYH2Jl4Q6SgZ59.jpg`
   - air_date: `2023-12-29`
   - episode_count: `8`
-  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+  - inference_notes: `Explicit season found in source title/slug.`
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 |  | 3367141 | The Energy of Love | BERLIN EP1 - ROCKY | https://oshakurfilms.com/watch/berlin-ep1-rocky | https://hgcloud.to/e/hs6jtj3g4y60 | hgcloud.to | https://www.mediafire.com/file/vvfzn1qn5zk184b/BERLIN+S01E01.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 2 |  | 4740993 | Anchor and Lobo | BERLIN EP2 - ROCKY | https://oshakurfilms.com/watch/berlin-ep2-rocky | https://hgcloud.to/e/1s08w1caec92 | hgcloud.to | https://www.mediafire.com/file/x8gom4ecpsjaalx/BERLIN+S01E02.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 3 |  | 4740994 | Full House of Embryos | BERLIN EP3 - ROCKY | https://oshakurfilms.com/watch/berlin-ep3-rocky | https://hgcloud.to/e/jx903syu1vyf | hgcloud.to | https://www.mediafire.com/file/sxqjhzsjg7j3o5s/BERLIN+S01E03.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 4 |  | 4740995 | An Aquarium on Your Back | BERLIN EP4 - ROCKY | https://oshakurfilms.com/watch/berlin-ep4-rocky | https://hgcloud.to/e/qgzastld51ww | hgcloud.to | https://www.mediafire.com/file/epdsfpvytxpqwv2/BERLIN+S01E04.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 5 |  | 4740996 | After Love | BERLIN EP5 - ROCKY | https://oshakurfilms.com/watch/berlin-ep5-rocky | https://hgcloud.to/e/00li6wyqi35s | hgcloud.to | https://www.mediafire.com/file/jus1qjgf4i66etc/BERLIN+S01E05.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 6 |  | 4740998 | Night of the Lemons | BERLIN EP6 - ROCKY | https://oshakurfilms.com/watch/berlin-ep6-rocky | https://hgcloud.to/e/ps40iwj9h3k1 | hgcloud.to | https://www.mediafire.com/file/l4fv6t253uidbyl/BERLIN+S01E06.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 7 |  | 4740999 | The Last Virgin in the Western World | BERLIN EP7 - ROCKY | https://oshakurfilms.com/watch/berlin-ep7-rocky | https://hgcloud.to/e/tm778fdbfbsr | hgcloud.to | https://www.mediafire.com/file/1l1lb1zwo75oiry/BERLIN+S01E07.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 8 |  | 4741001 | An Endangered Elephant | BERLIN EP8 FINAL - ROCKY | https://oshakurfilms.com/watch/berlin-ep8-final-rocky | https://hgcloud.to/e/3fl66pogk2zd | hgcloud.to | https://www.mediafire.com/file/llpfkt8g2jyv3b8/BERLIN+S01E08.mp4/file | www.mediafire.com |  |
+| 1 | 1 |  | 3367141 | The Energy of Love | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/hs6jtj3g4y60 | hgcloud.to | https://www.mediafire.com/file/vvfzn1qn5zk184b/BERLIN+S01E01.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 4740993 | Anchor and Lobo | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/1s08w1caec92 | hgcloud.to | https://www.mediafire.com/file/x8gom4ecpsjaalx/BERLIN+S01E02.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 4740994 | Full House of Embryos | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/jx903syu1vyf | hgcloud.to | https://www.mediafire.com/file/sxqjhzsjg7j3o5s/BERLIN+S01E03.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 4740995 | An Aquarium on Your Back | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/qgzastld51ww | hgcloud.to | https://www.mediafire.com/file/epdsfpvytxpqwv2/BERLIN+S01E04.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 4740996 | After Love | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/00li6wyqi35s | hgcloud.to | https://www.mediafire.com/file/jus1qjgf4i66etc/BERLIN+S01E05.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 4740998 | Night of the Lemons | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/ps40iwj9h3k1 | hgcloud.to | https://www.mediafire.com/file/l4fv6t253uidbyl/BERLIN+S01E06.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 4740999 | The Last Virgin in the Western World | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/tm778fdbfbsr | hgcloud.to | https://www.mediafire.com/file/1l1lb1zwo75oiry/BERLIN+S01E07.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 4741001 | An Endangered Elephant | BERLIN Season 1 | https://oshakurfilms.com/watch/berlin-season-1 | https://hgcloud.to/e/3fl66pogk2zd | hgcloud.to | https://www.mediafire.com/file/llpfkt8g2jyv3b8/BERLIN+S01E08.mp4/file | www.mediafire.com |  |
 
 ### Season 2
 
@@ -31219,7 +32009,7 @@
   - tmdb_id: `LOOKUP_REQUIRED`
   - season_number: `2`
   - name: `Season 2`
-  - episode_count: `5`
+  - episode_count: `1`
   - inference_notes: `Explicit season found in source title/slug.`
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
@@ -31238,8 +32028,8 @@
 - narrators_found: `Rocky`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `none`
-- poster_path: `/87nmt1R1W34fNOb31fvDnw15fUa.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/87nmt1R1W34fNOb31fvDnw15fUa.jpg`
+- poster_path: `/mhHzaSZVrltLOwCSCeKC3nXGMV1.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/mhHzaSZVrltLOwCSCeKC3nXGMV1.jpg`
 - backdrop_path: `/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg`
 - backdrop_url: `https://image.tmdb.org/t/p/original/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=YSEVaVc-nOo`
@@ -31247,20 +32037,20 @@
 - last_air_date: `2020-05-24`
 - number_of_seasons: `1`
 - number_of_episodes: `4`
-- vote_average: `6.489`
+- vote_average: `6.5`
 - vote_count: `187`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `103759`
   - name: `Betaal`
   - overview: `A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.`
-  - poster_path: `/87nmt1R1W34fNOb31fvDnw15fUa.jpg`
+  - poster_path: `/mhHzaSZVrltLOwCSCeKC3nXGMV1.jpg`
   - backdrop_path: `/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg`
   - first_air_date: `2020-05-24`
   - last_air_date: `2020-05-24`
   - number_of_seasons: `1`
   - number_of_episodes: `4`
-  - vote_average: `6.489`
+  - vote_average: `6.5`
   - vote_count: `187`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=YSEVaVc-nOo`
@@ -31314,8 +32104,8 @@
 - last_air_date: `2025-05-23`
 - number_of_seasons: `8`
 - number_of_episodes: `81`
-- vote_average: `7.625`
-- vote_count: `1217`
+- vote_average: `7.62`
+- vote_count: `1225`
 - genres: `Comedy`, `Animation`
 - tv_show_row:
   - tmdb_id: `74204`
@@ -31327,8 +32117,8 @@
   - last_air_date: `2025-05-23`
   - number_of_seasons: `8`
   - number_of_episodes: `81`
-  - vote_average: `7.625`
-  - vote_count: `1217`
+  - vote_average: `7.62`
+  - vote_count: `1225`
   - genres: `Comedy`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=hk_BoK0OwZs`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31373,8 +32163,8 @@
 - last_air_date: `2025-09-19`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `6.3`
-- vote_count: `146`
+- vote_average: `6.33`
+- vote_count: `150`
 - genres: `Sci-Fi & Fantasy`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `245648`
@@ -31386,8 +32176,8 @@
   - last_air_date: `2025-09-19`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `6.3`
-  - vote_count: `146`
+  - vote_average: `6.33`
+  - vote_count: `150`
   - genres: `Sci-Fi & Fantasy`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=Ar68A3Kr-UM`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31428,6 +32218,87 @@
 | 1 | 7 |  | 5128037 | Learn to Live without Me | Billionaires' Bunker Ep7 - Skov Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/billionaires-bunker-ep7-skov-agasobanuye-mu-kinyarwanda | https://hglink.to/e/4oukkva249wy | hglink.to | https://www.mediafire.com/file/t6ctlnw3up0l6yg/Billionaires+Bunker+S1E7.mp4/file | www.mediafire.com | Narrator guess: Skov. |
 | 1 | 8 |  | 5128038 | Two Minutes without Roxán | Billionaires' Bunker Ep8 Final - Rocky | https://oshakurfilms.com/watch/billionaires-bunker-ep8-final-rocky | https://hgcloud.to/e/hhbsgt0s0wvk | hgcloud.to | https://www.mediafire.com/file/ydiyjlbmtq1ru7r/BILLIONAIRE+BANKER+EP+08.mp4/file | www.mediafire.com |  |
 | 1 | 8 |  | 5128038 | Two Minutes without Roxán | Billionaires' Bunker Ep8 Final - Skov Agasobanuye mu Kinyarwanda | https://oshakurfilms.com/watch/billionaires-bunker-ep8-final-skov-agasobanuye-mu-kinyarwanda | https://hglink.to/e/3mnleckpm1bj | hglink.to | https://www.mediafire.com/file/4ygya7a8bygjxw5/Billionaires+Bunker+S1E8+Final.mp4/file | www.mediafire.com |  |
+
+## Blade Man
+
+- content_type: `tv_show`
+- upload_target_tables: `tv_shows`, `seasons`, `episodes`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `61739`
+- canonical_name: `Blade Man`
+- original_name: `아이언맨`
+- aliases_found_in_source: `Blade Man`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/pRt6yU9zAJfzc9VhARcmn8tIFNl.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/pRt6yU9zAJfzc9VhARcmn8tIFNl.jpg`
+- backdrop_path: `/pvsWjucGkYmxHNf9RRVQ1mwaYGP.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/pvsWjucGkYmxHNf9RRVQ1mwaYGP.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=RnRXhBQKXSk`
+- first_air_date: `2014-09-10`
+- last_air_date: `2014-11-13`
+- number_of_seasons: `1`
+- number_of_episodes: `18`
+- vote_average: `5.9`
+- vote_count: `18`
+- genres: `Drama`, `Sci-Fi & Fantasy`, `Comedy`
+- tv_show_row:
+  - tmdb_id: `61739`
+  - name: `Blade Man`
+  - overview: `Hong Bin might've been oppressed by love and his father. However, he comes across his first love again.`
+  - poster_path: `/pRt6yU9zAJfzc9VhARcmn8tIFNl.jpg`
+  - backdrop_path: `/pvsWjucGkYmxHNf9RRVQ1mwaYGP.jpg`
+  - first_air_date: `2014-09-10`
+  - last_air_date: `2014-11-13`
+  - number_of_seasons: `1`
+  - number_of_episodes: `18`
+  - vote_average: `5.9`
+  - vote_count: `18`
+  - genres: `Drama`, `Sci-Fi & Fantasy`, `Comedy`
+  - trailer_url: `https://www.youtube.com/watch?v=RnRXhBQKXSk`
+  - download_url: `OPTIONAL_NOT_SET`
+  - narrator: `none`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+
+### Season 1
+
+- tmdb_available_fields: `tmdb_id`, `name`, `overview`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `none`
+- season_row:
+  - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
+  - tmdb_id: `63901`
+  - season_number: `1`
+  - name: `Season 1`
+  - overview: `Joo Hong Bin has a harsh and twisted personality under the influence of his oppressive father and memories of his failed first love. Not only that, but those wounds have damaged his psyche so that in a state of extreme anger and agitation, sharp spikes like blades come out of his whole body. Hong Bin, unable to forget his first love, Kim Tae Hee, while tracking her down, ends up meeting Son Se Dong. Hong Bin feels drawn to Se Dong, who is confident and upbeat even in front of his harsh self.`
+  - poster_path: `/kenDX2LAy0k8zpPaXKjWUHCTT8o.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/kenDX2LAy0k8zpPaXKjWUHCTT8o.jpg`
+  - air_date: `2014-09-10`
+  - episode_count: `18`
+  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+- episode_rows:
+| season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 1026832 | Episode 1 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/l9c7h1pbxy98 | hgcloud.to | https://www.mediafire.com/file/1rk282mss9r2e19/Blade_Man_Ep1_Hd.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 1027161 | Episode 2 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/8fy9ilke9nez | hgcloud.to | https://www.mediafire.com/file/4ts0xvd84ye5hvx/Blade+Man+Ep2+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 1027162 | Episode 3 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/rnvg2a5gbfu7 | hgcloud.to | https://www.mediafire.com/file/njfcy3363z33qir/Blade+Man+Ep3+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 1027163 | Episode 4 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/5bqlwwbe0x09 | hgcloud.to | https://www.mediafire.com/file/2lkrsqxofb04ylh/Blade+Man+Ep4+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 1027164 | Episode 5 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/rsw6xc0r4t2d | hgcloud.to | https://www.mediafire.com/file/pawvhzn2inmutyl/Blade+Man+S1+Ep5.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 1027165 | Episode 6 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/bvvo6l2ar0fz | hgcloud.to | https://www.mediafire.com/file/i0sbfy273x68dg8/Blade+Man+Ep6+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 1027166 | Episode 7 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/m3k3upg82m5z | hgcloud.to | https://www.mediafire.com/file/lzecqogedxkw5dy/Blade+Man+Ep7+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 1027167 | Episode 8 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/qnsphxm1avu0 | hgcloud.to | https://www.mediafire.com/file/kd6pb983qjvpdha/Blade+Man+Ep8+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 9 |  | 1027168 | Episode 9 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/lwwc5duubnum | hgcloud.to | https://www.mediafire.com/file/v2wt3ze1cc4lob4/Blade+Man+Ep9+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 10 |  | 1027169 | Episode 10 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://hgcloud.to/e/sit4fwnbxtko | hgcloud.to | https://www.mediafire.com/file/s7qn8jmfclihar9/Blade+Man+Ep10+Hd.mp4/file | www.mediafire.com |  |
+| 1 | 11 |  | 1027170 | Episode 11 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/ou7utjrycfe34xy/Bladesman_Ep_11_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/ou7utjrycfe34xy/Bladesman_Ep_11_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 12 |  | 1027171 | Episode 12 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/68ao21daoxmctl0/Bladesman_Ep12_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/68ao21daoxmctl0/Bladesman_Ep12_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 13 |  | 1027172 | Episode 13 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/nx8zhd1ga4hx1wh/Bladesman_Ep13_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/nx8zhd1ga4hx1wh/Bladesman_Ep13_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 14 |  | 1027173 | Episode 14 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/yz8f6y7koaqat3o/Bladesman_Ep14_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/yz8f6y7koaqat3o/Bladesman_Ep14_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 15 |  | 1027174 | Episode 15 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/niccol4jh80mag4/Bladesman_Ep15_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/niccol4jh80mag4/Bladesman_Ep15_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 16 |  | 1027175 | Episode 16 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/sz6kxd8dl4nqjmw/Bladesman_Ep16_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/sz6kxd8dl4nqjmw/Bladesman_Ep16_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 17 |  | 1027176 | Episode 17 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/madj9hdoofez29d/Bladesman_Ep17_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/madj9hdoofez29d/Bladesman_Ep17_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 18 |  | 1027177 | Episode 18 | Blade Man | https://oshakurfilms.com/watch/blade-man | https://www.mediafire.com/file/b9lmgrkz5aa2hsc/Bladesman_Ep18_Final_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/b9lmgrkz5aa2hsc/Bladesman_Ep18_Final_Hd_Mp4.mp4/file | www.mediafire.com |  |
 
 ## Blood Sisters
 
@@ -31475,16 +32346,17 @@
 
 ### Season 1
 
-- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
-- tmdb_unavailable_fields: `overview`
+- tmdb_available_fields: `tmdb_id`, `name`, `overview`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `none`
 - season_row:
   - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
   - tmdb_id: `287310`
   - season_number: `1`
-  - name: `Season 1`
+  - name: `Season 2`
+  - overview: `Sarah and Kemi face trial for the death of Uncle B and the attempted murder of Femi. Behind bars, they are targeted by dangerous inmates and relentless enemies, while back home, others battle for control of the family company`
   - poster_path: `/tUXHRoecSwzKc0k15sIIriQqwJs.jpg`
   - poster_url: `https://image.tmdb.org/t/p/w500/tUXHRoecSwzKc0k15sIIriQqwJs.jpg`
-  - air_date: `2022-05-05`
+  - air_date: `2022-05-04`
   - episode_count: `4`
   - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
 - episode_rows:
@@ -31517,8 +32389,8 @@
 - last_air_date: `2025-09-28`
 - number_of_seasons: `1`
 - number_of_episodes: `12`
-- vote_average: `8.639`
-- vote_count: `238`
+- vote_average: `8.654`
+- vote_count: `243`
 - genres: `Drama`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `280945`
@@ -31530,8 +32402,8 @@
   - last_air_date: `2025-09-28`
   - number_of_seasons: `1`
   - number_of_episodes: `12`
-  - vote_average: `8.639`
-  - vote_count: `238`
+  - vote_average: `8.654`
+  - vote_count: `243`
   - genres: `Drama`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=rkB623sLOiM`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31679,8 +32551,8 @@
 - last_air_date: `2025-12-26`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `7.327`
-- vote_count: `78`
+- vote_average: `7.3`
+- vote_count: `82`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `238458`
@@ -31692,8 +32564,8 @@
   - last_air_date: `2025-12-26`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `7.327`
-  - vote_count: `78`
+  - vote_average: `7.3`
+  - vote_count: `82`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=cI-iJmZbBXw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31744,8 +32616,8 @@
 - last_air_date: `2025-02-06`
 - number_of_seasons: `1`
 - number_of_episodes: `6`
-- vote_average: `7.102`
-- vote_count: `264`
+- vote_average: `7.086`
+- vote_count: `269`
 - genres: `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `248982`
@@ -31757,8 +32629,8 @@
   - last_air_date: `2025-02-06`
   - number_of_seasons: `1`
   - number_of_episodes: `6`
-  - vote_average: `7.102`
-  - vote_count: `264`
+  - vote_average: `7.086`
+  - vote_count: `269`
   - genres: `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=-u1WgNJgmug`
   - download_url: `OPTIONAL_NOT_SET`
@@ -31812,7 +32684,7 @@
 - last_air_date: `2010-03-25`
 - number_of_seasons: `1`
 - number_of_episodes: `24`
-- vote_average: `8.1`
+- vote_average: `8.071`
 - vote_count: `28`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
@@ -31825,7 +32697,7 @@
   - last_air_date: `2010-03-25`
   - number_of_seasons: `1`
   - number_of_episodes: `24`
-  - vote_average: `8.1`
+  - vote_average: `8.071`
   - vote_count: `28`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=BHVsFuY06mw`
@@ -32082,8 +32954,8 @@
 - last_air_date: `2024-10-09`
 - number_of_seasons: `1`
 - number_of_episodes: `6`
-- vote_average: `6.5`
-- vote_count: `53`
+- vote_average: `6.491`
+- vote_count: `54`
 - genres: `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `265156`
@@ -32095,8 +32967,8 @@
   - last_air_date: `2024-10-09`
   - number_of_seasons: `1`
   - number_of_episodes: `6`
-  - vote_average: `6.5`
-  - vote_count: `53`
+  - vote_average: `6.491`
+  - vote_count: `54`
   - genres: `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=HfN9hApi1wI`
   - download_url: `OPTIONAL_NOT_SET`
@@ -32360,8 +33232,8 @@
 - last_air_date: `2006-11-30`
 - number_of_seasons: `1`
 - number_of_episodes: `22`
-- vote_average: `8`
-- vote_count: `9`
+- vote_average: `7.7`
+- vote_count: `10`
 - genres: `Drama`, `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `1870`
@@ -32375,8 +33247,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2006-11-30`
   - number_of_seasons: `1`
   - number_of_episodes: `22`
-  - vote_average: `8`
-  - vote_count: `9`
+  - vote_average: `7.7`
+  - vote_count: `10`
   - genres: `Drama`, `Action & Adventure`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -32430,8 +33302,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2026-04-15`
 - number_of_seasons: `3`
 - number_of_episodes: `30`
-- vote_average: `7.304`
-- vote_count: `212`
+- vote_average: `7.333`
+- vote_count: `215`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `227371`
@@ -32443,8 +33315,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2026-04-15`
   - number_of_seasons: `3`
   - number_of_episodes: `30`
-  - vote_average: `7.304`
-  - vote_count: `212`
+  - vote_average: `7.333`
+  - vote_count: `215`
   - genres: `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -32507,8 +33379,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2026-03-13`
 - number_of_seasons: `3`
 - number_of_episodes: `35`
-- vote_average: `6.5`
-- vote_count: `88`
+- vote_average: `6.562`
+- vote_count: `89`
 - genres: `Crime`, `Mystery`, `Drama`
 - tv_show_row:
   - tmdb_id: `227975`
@@ -32520,8 +33392,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2026-03-13`
   - number_of_seasons: `3`
   - number_of_episodes: `35`
-  - vote_average: `6.5`
-  - vote_count: `88`
+  - vote_average: `6.562`
+  - vote_count: `89`
   - genres: `Crime`, `Mystery`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=6Dpi7CZHY84`
   - download_url: `OPTIONAL_NOT_SET`
@@ -32661,8 +33533,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2024-01-01`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `7.141`
-- vote_count: `486`
+- vote_average: `7.127`
+- vote_count: `497`
 - genres: `Drama`, `Crime`, `Mystery`
 - tv_show_row:
   - tmdb_id: `220801`
@@ -32674,8 +33546,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2024-01-01`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `7.141`
-  - vote_count: `486`
+  - vote_average: `7.127`
+  - vote_count: `497`
   - genres: `Drama`, `Crime`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=nhC8AG8cwcc`
   - download_url: `OPTIONAL_NOT_SET`
@@ -32732,8 +33604,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2026-03-18`
 - number_of_seasons: `2`
 - number_of_episodes: `14`
-- vote_average: `7.153`
-- vote_count: `131`
+- vote_average: `7.2`
+- vote_count: `133`
 - genres: `Action & Adventure`, `Crime`
 - tv_show_row:
   - tmdb_id: `212588`
@@ -32745,8 +33617,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2026-03-18`
   - number_of_seasons: `2`
   - number_of_episodes: `14`
-  - vote_average: `7.153`
-  - vote_count: `131`
+  - vote_average: `7.2`
+  - vote_count: `133`
   - genres: `Action & Adventure`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=b9K-nKECgxw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -32791,8 +33663,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2019-05-19`
 - number_of_seasons: `8`
 - number_of_episodes: `73`
-- vote_average: `8.462`
-- vote_count: `26958`
+- vote_average: `8.464`
+- vote_count: `27129`
 - genres: `Sci-Fi & Fantasy`, `Drama`, `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `1399`
@@ -32804,8 +33676,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2019-05-19`
   - number_of_seasons: `8`
   - number_of_episodes: `73`
-  - vote_average: `8.462`
-  - vote_count: `26958`
+  - vote_average: `8.464`
+  - vote_count: `27129`
   - genres: `Sci-Fi & Fantasy`, `Drama`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=KPLWWIOCOOQ`
   - download_url: `OPTIONAL_NOT_SET`
@@ -32915,8 +33787,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2022-11-17`
 - number_of_seasons: `1`
 - number_of_episodes: `20`
-- vote_average: `7.2`
-- vote_count: `22`
+- vote_average: `6.913`
+- vote_count: `23`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `205588`
@@ -32928,8 +33800,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2022-11-17`
   - number_of_seasons: `1`
   - number_of_episodes: `20`
-  - vote_average: `7.2`
-  - vote_count: `22`
+  - vote_average: `6.913`
+  - vote_count: `23`
   - genres: `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -32996,8 +33868,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2024-06-07`
 - number_of_seasons: `1`
 - number_of_episodes: `7`
-- vote_average: `7.7`
-- vote_count: `176`
+- vote_average: `7.693`
+- vote_count: `179`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `226527`
@@ -33009,8 +33881,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2024-06-07`
   - number_of_seasons: `1`
   - number_of_episodes: `7`
-  - vote_average: `7.7`
-  - vote_count: `176`
+  - vote_average: `7.693`
+  - vote_count: `179`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=LQCpNqVa3LU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33065,8 +33937,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2022-10-27`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `7.125`
-- vote_count: `24`
+- vote_average: `7.08`
+- vote_count: `25`
 - genres: `Drama`, `Comedy`
 - tv_show_row:
   - tmdb_id: `208061`
@@ -33078,8 +33950,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2022-10-27`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `7.125`
-  - vote_count: `24`
+  - vote_average: `7.08`
+  - vote_count: `25`
   - genres: `Drama`, `Comedy`
   - trailer_url: `https://www.youtube.com/watch?v=3vrDpTv7CQE`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33135,8 +34007,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2020-04-26`
 - number_of_seasons: `8`
 - number_of_episodes: `96`
-- vote_average: `7.588`
-- vote_count: `2577`
+- vote_average: `7.583`
+- vote_count: `2593`
 - genres: `Drama`, `War & Politics`, `Crime`
 - tv_show_row:
   - tmdb_id: `1407`
@@ -33148,8 +34020,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2020-04-26`
   - number_of_seasons: `8`
   - number_of_episodes: `96`
-  - vote_average: `7.588`
-  - vote_count: `2577`
+  - vote_average: `7.583`
+  - vote_count: `2593`
   - genres: `Drama`, `War & Politics`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=KyFmS3wRPCQ`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33200,8 +34072,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2025-08-21`
 - number_of_seasons: `1`
 - number_of_episodes: `5`
-- vote_average: `6.7`
-- vote_count: `98`
+- vote_average: `6.77`
+- vote_count: `100`
 - genres: `Drama`, `War & Politics`
 - tv_show_row:
   - tmdb_id: `248937`
@@ -33213,8 +34085,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2025-08-21`
   - number_of_seasons: `1`
   - number_of_episodes: `5`
-  - vote_average: `6.7`
-  - vote_count: `98`
+  - vote_average: `6.77`
+  - vote_count: `100`
   - genres: `Drama`, `War & Politics`
   - trailer_url: `https://www.youtube.com/watch?v=q20_wbeiVG8`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33265,8 +34137,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2025-11-16`
 - number_of_seasons: `2`
 - number_of_episodes: `16`
-- vote_average: `8.231`
-- vote_count: `255`
+- vote_average: `8.261`
+- vote_count: `264`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `243881`
@@ -33278,8 +34150,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2025-11-16`
   - number_of_seasons: `2`
   - number_of_episodes: `16`
-  - vote_average: `8.231`
-  - vote_count: `255`
+  - vote_average: `8.261`
+  - vote_count: `264`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=luTHd0QrBdE`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33351,7 +34223,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2017-02-21`
 - number_of_seasons: `1`
 - number_of_episodes: `20`
-- vote_average: `7.9`
+- vote_average: `7.891`
 - vote_count: `279`
 - genres: `Drama`, `Comedy`, `Action & Adventure`
 - tv_show_row:
@@ -33364,7 +34236,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2017-02-21`
   - number_of_seasons: `1`
   - number_of_episodes: `20`
-  - vote_average: `7.9`
+  - vote_average: `7.891`
   - vote_count: `279`
   - genres: `Drama`, `Comedy`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=Sd8zd9SmFXk`
@@ -33411,6 +34283,84 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 | 1 | 18 |  | 1264298 | Wonhwa | Hwarang Ep18 . Rocky | https://oshakurfilms.com/watch/hwarang-ep18-rocky | https://hglink.to/e/9xnamq2qzvrx | hglink.to | https://www.mediafire.com/file/bu8y21gpiqwz6oz/Hwarang_Ep18_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
 | 1 | 19 |  | 1264299 | Become King | Hwarang Ep19 . Rocky | https://oshakurfilms.com/watch/hwarang-ep19-rocky | https://hglink.to/e/anbgfwisop0k | hglink.to | https://www.mediafire.com/file/agdd24rsbxyt633/Hwarang_Ep19_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
 | 1 | 20 |  | 1264300 | Hail King Jinheung! | Hwarang Ep20 Final . Rocky | https://oshakurfilms.com/watch/hwarang-ep20-final-rocky | https://hglink.to/e/cx2ha5w0gsi5 | hglink.to | https://www.mediafire.com/file/4gu33danlrkw01b/Hwarang+Ep20+Final+Hd+Mp4.mp4/file | www.mediafire.com |  |
+
+## I Will Find You
+
+- content_type: `tv_show`
+- upload_target_tables: `tv_shows`, `seasons`, `episodes`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `278178`
+- canonical_name: `I Will Find You`
+- original_name: `I Will Find You`
+- aliases_found_in_source: `I Will Find You`
+- narrators_found: `Skov`, `Rocky`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/pb9oYHHNzauiCQZT03MpDAg46GI.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg`
+- backdrop_path: `/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=mObRUsA7dPY`
+- first_air_date: `2026-06-18`
+- last_air_date: `2026-06-18`
+- number_of_seasons: `1`
+- number_of_episodes: `8`
+- vote_average: `8.321`
+- vote_count: `168`
+- genres: `Drama`, `Mystery`, `Crime`
+- tv_show_row:
+  - tmdb_id: `278178`
+  - name: `I Will Find You`
+  - overview: `Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.`
+  - poster_path: `/pb9oYHHNzauiCQZT03MpDAg46GI.jpg`
+  - backdrop_path: `/z0R6ToCsMMkLwuQXjzzdd1QCdJv.jpg`
+  - first_air_date: `2026-06-18`
+  - last_air_date: `2026-06-18`
+  - number_of_seasons: `1`
+  - number_of_episodes: `8`
+  - vote_average: `8.321`
+  - vote_count: `168`
+  - genres: `Drama`, `Mystery`, `Crime`
+  - trailer_url: `https://www.youtube.com/watch?v=mObRUsA7dPY`
+  - download_url: `OPTIONAL_NOT_SET`
+  - narrator: `Skov`, `Rocky`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+
+### Season 1
+
+- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `overview`
+- season_row:
+  - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
+  - tmdb_id: `430534`
+  - season_number: `1`
+  - name: `Limited Series`
+  - poster_path: `/pb9oYHHNzauiCQZT03MpDAg46GI.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg`
+  - air_date: `2026-06-18`
+  - episode_count: `8`
+  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+- episode_rows:
+| season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 6343846 | Episode 1 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/bj0jib4ntcc1 | hgcloud.to | https://www.mediafire.com/file/onxzymdt7qxsuew/I_WILL_FIND_YOU_EP_1.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 1 |  | 6343846 | Episode 1 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/mvowutaebncn | hgcloud.to | https://www.mediafire.com/file/31d4aajqk61t8hf/i+will+find+you+Ep1.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 2 |  | 6829096 | Episode 2 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/zrmw885b6ya1 | hgcloud.to | https://www.mediafire.com/file/d46k2wb3anm9m3x/I_WILL_FIND_YOU_EP_2.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 2 |  | 6829096 | Episode 2 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/x7qveqah0w2u | hgcloud.to | https://www.mediafire.com/file/juhtsz80oifyxbd/i+will+find+You+Ep2.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 3 |  | 6829097 | Episode 3 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/xo1e053hyjyj | hgcloud.to | https://www.mediafire.com/file/9xgag4l3xjggcrl/I+WILL+FIND+YOU+E03.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 3 |  | 6829097 | Episode 3 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/y9uwkcqppf10 | hgcloud.to | https://www.mediafire.com/file/tsv6ennahbynd6x/i_will_find_you_Ep3.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 4 |  | 6829098 | Episode 4 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/y93hkwstvwyo | hgcloud.to | https://www.mediafire.com/file/4wc51amu4nav41t/I_WILL_FIND_YOU_EP_04.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 4 |  | 6829098 | Episode 4 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/vwdhbomhk9qo | hgcloud.to | https://www.mediafire.com/file/8wsl8bzhn4o8jss/I+will+find+You+Ep4.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 5 |  | 6829099 | Episode 5 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/dxjig9a659ve | hgcloud.to | https://www.mediafire.com/file/mk56mo57yyheip5/I_WILL_FIND_YOU_EP_05.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 5 |  | 6829099 | Episode 5 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/bgg0xdrmxni6 | hgcloud.to | https://www.mediafire.com/file/yr8dgydcu1s3dxj/I_will_find_you_Ep5.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 6 |  | 6829100 | Episode 6 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/fxhco3gamsa5 | hgcloud.to | https://www.mediafire.com/file/g911qzpkxm0m6av/I_WILL_FIND_YOU_EP_6.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 6 |  | 6829100 | Episode 6 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/e9oimcrf2h1v | hgcloud.to | https://www.mediafire.com/file/pvlu0cjd9szz7o8/I+will+FInd+You+Ep6.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 7 |  | 6829101 | Episode 7 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/b8xdtfrz4q51 | hgcloud.to | https://www.mediafire.com/file/4vvtr04p7j87tp6/I_WILL_FIND_YOU_EP_7.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 7 |  | 6829101 | Episode 7 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/nu8mdndz01fs | hgcloud.to | https://www.mediafire.com/file/cufpvcoe7gkvvr1/I+will+Find+You+Ep7.mp4/file | www.mediafire.com | Narrator guess: Skov. |
+| 1 | 8 |  | 6829102 | Episode 8 | I Will Find You Rocky | https://oshakurfilms.com/watch/i-will-find-you-rocky | https://hgcloud.to/e/jszckgimv3lo | hgcloud.to | https://www.mediafire.com/file/j0wuz4jew7fbh2i/I_WILL_FIND_YOU_EP_8_FINAL.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 8 |  | 6829102 | Episode 8 | I Will Find You Skov | https://oshakurfilms.com/watch/i-will-find-you-skov | https://hgcloud.to/e/g2y2zesg8tdo | hgcloud.to | https://www.mediafire.com/file/noxnhfksdw2y1u9/I+will+FInd+You+Ep8+Final+Skov.mp4/file | www.mediafire.com | Narrator guess: Skov. |
 
 ## Imlie
 
@@ -33613,55 +34563,65 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 |  | 342256 | Episode 1 | JUMONG EP1 - MASTER P | https://oshakurfilms.com/watch/jumong-ep1-master-p | https://hlswish.com/e/7kb09o9njp1d | hlswish.com | https://www.mediafire.com/file/wka9oz9cj1aqppz/Jumong_Ep1.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 2 |  | 342257 | Episode 2 | JUMONG EP2 - MASTER P | https://oshakurfilms.com/watch/jumong-ep2-master-p | https://hlswish.com/e/uk0egcopqqkh | hlswish.com | https://www.mediafire.com/file/a8859ssno854aev/Jumong_2.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 3 |  | 342259 | Episode 3 | JUMONG EP3 - MASTER P | https://oshakurfilms.com/watch/jumong-ep3-master-p | https://hlswish.com/e/hd66wo0en1a9 | hlswish.com | https://www.mediafire.com/file/vu609udrym66k1e/Jumong_3.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 4 |  | 342258 | Episode 4 | JUMONG EP4 - MASTER P | https://oshakurfilms.com/watch/jumong-ep4-master-p | https://hlswish.com/e/i9b5c7ggefc7 | hlswish.com | https://www.mediafire.com/file/y3a2boegk2cpbkr/Jumong_4.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 5 |  | 342261 | Episode 5 | JUMONG EP5 - MASTER P | https://oshakurfilms.com/watch/jumong-ep5-master-p | https://hlswish.com/e/p8vhi0brhik2 | hlswish.com | https://www.mediafire.com/file/hy59gwtwdc5b8gq/Jumong+Ep5(1).mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 6 |  | 342262 | Episode 6 | JUMONG EP6 - MASTER P | https://oshakurfilms.com/watch/jumong-ep6-master-p | https://hlswish.com/e/etn4lkosbhck | hlswish.com | https://www.mediafire.com/file/3bee8ipvr457a6o/Jumong_6.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 7 |  | 342263 | Episode 7 | JUMONG EP7 - MASTER P | https://oshakurfilms.com/watch/jumong-ep7-master-p | https://hlswish.com/e/5rz7pabasy6j | hlswish.com | https://www.mediafire.com/file/5kzccze1i7xdo0q/Jumong_Ep7.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 8 |  | 342264 | Episode 8 | JUMONG EP8 - MASTER P | https://oshakurfilms.com/watch/jumong-ep8-master-p | https://hlswish.com/e/ive1nljooqwt | hlswish.com | https://www.mediafire.com/file/o8v5ncum2363m3n/Jumong_8.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 9 |  | 342265 | Episode 9 | JUMONG EP9 - MASTER P | https://oshakurfilms.com/watch/jumong-ep9-master-p | https://hlswish.com/e/hm2pxuogskym | hlswish.com | https://www.mediafire.com/file/jrtiq3ktx98dh5b/Jumong_9.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 10 |  | 342266 | Episode 10 | JUMONG EP10 - MASTER P | https://oshakurfilms.com/watch/jumong-ep10-master-p | https://hlswish.com/e/0kr1uraqod14 | hlswish.com | https://www.mediafire.com/file/5od04uw5z0q6ced/Jumong_10.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 11 |  | 342268 | Episode 11 | JUMONG EP11 - MASTER P | https://oshakurfilms.com/watch/jumong-ep11-master-p | https://hlswish.com/e/itlhuz9dtw4i | hlswish.com | https://www.mediafire.com/file/01aooskzhob8z80/Jumong+11.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 12 |  | 342269 | Episode 12 | JUMONG EP12 - MASTER P | https://oshakurfilms.com/watch/jumong-ep12-master-p | https://hlswish.com/e/4nbs5vgrzmtw | hlswish.com | https://www.mediafire.com/file/kpdwyiis82bz0zr/Jumong_12.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 13 |  | 342270 | Episode 13 | JUMONG EP13 - MASTER P | https://oshakurfilms.com/watch/jumong-ep13-master-p | https://hlswish.com/e/rbk7ab63hiac | hlswish.com | https://www.mediafire.com/file/cz4x9w1wfej38qu/Jumong_13.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 14 |  | 342271 | Episode 14 | JUMONG EP14 - MASTER P | https://oshakurfilms.com/watch/jumong-ep14-master-p | https://hlswish.com/e/2i488wep7bqm | hlswish.com | https://www.mediafire.com/file/rbi0bn2wombc0qx/Jumong_14.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 15 |  | 342272 | Episode 15 | JUMONG EP15 - MASTER P | https://oshakurfilms.com/watch/jumong-ep15-master-p | https://hlswish.com/e/tycmfzbb227b | hlswish.com | https://www.mediafire.com/file/mln0lhs68blie0r/Jumong_15.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 16 |  | 342273 | Episode 16 | JUMONG EP16 - MASTER P | https://oshakurfilms.com/watch/jumong-ep16-master-p | https://hlswish.com/e/4lsinv1gqlum | hlswish.com | https://www.mediafire.com/file/i04d2p5qjv6klfk/Jumong_16.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 17 |  | 342274 | Episode 17 | JUMONG EP17 - MASTER P | https://oshakurfilms.com/watch/jumong-ep17-master-p | https://hlswish.com/e/i3gn2g3wbn0s | hlswish.com | https://www.mediafire.com/file/p7bhqu0ie8q3bgf/Jumong_17.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 18 |  | 342275 | Episode 18 | JUMONG EP18 - MASTER P | https://oshakurfilms.com/watch/jumong-ep18-master-p | https://hlswish.com/e/yt1jdef6inif | hlswish.com | https://www.mediafire.com/file/j7ut53srlehmwq1/Jumong_18.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 19 |  | 342277 | Episode 19 | JUMONG EP19 - MASTER P | https://oshakurfilms.com/watch/jumong-ep19-master-p | https://hlswish.com/e/t0jq4n4akinj | hlswish.com | https://www.mediafire.com/file/x64zdjs7gqr15j9/Jumong_19.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 20 |  | 342278 | Episode 20 | JUMONG EP20 - MASTER P | https://oshakurfilms.com/watch/jumong-ep20-master-p | https://hlswish.com/e/g0gm64bx0ryc | hlswish.com | https://www.mediafire.com/file/7oj96ce2cmh4sd8/Jumong_20.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 21 |  | 342279 | Episode 21 | JUMONG EP21 - MASTER P | https://oshakurfilms.com/watch/jumong-ep21-master-p | https://hlswish.com/e/rwubiizysa2f | hlswish.com | https://www.mediafire.com/file/hw4lu3j8sb3ck6k/Jumong_Ep_21.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 22 |  | 342280 | Episode 22 | JUMONG EP22 - MASTER P | https://oshakurfilms.com/watch/jumong-ep22-master-p | https://hlswish.com/e/kfvpm2h8r7wd | hlswish.com | https://www.mediafire.com/file/s70nvl21k5mzclc/Jumong_Ep22.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 23 |  | 342281 | Episode 23 | JUMONG EP23 - MASTER P | https://oshakurfilms.com/watch/jumong-ep23-master-p | https://www.mediafire.com/file/jw11jmwd8bp3y05/Jumong_Ep23.mp4/file | www.mediafire.com | https://hlswish.com/p73gjymb2i0w | hlswish.com | Narrator guess: Master P. |
-| 1 | 24 |  | 342282 | Episode 24 | JUMONG EP24 - MASTER P | https://oshakurfilms.com/watch/jumong-ep24-master-p | https://hlswish.com/e/f26skkrdgxf8 | hlswish.com | https://www.mediafire.com/file/kk0m1mn1sc3atnl/Jumong+24.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 25 |  | 342283 | Episode 25 | JUMONG EP25 - MASTER P | https://oshakurfilms.com/watch/jumong-ep25-master-p | https://hlswish.com/e/q34bdggr9w3y | hlswish.com | https://www.mediafire.com/file/3rw29kez5opswek/Jumong_25.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 26 |  | 342284 | Episode 26 | JUMONG EP26 - MASTER P | https://oshakurfilms.com/watch/jumong-ep26-master-p | https://swishsrv.com/e/yszl5h2u4t3g | swishsrv.com | https://www.mediafire.com/file/jvjgu96uwojevht/Jumong+Ep26.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 27 |  | 342285 | Episode 27 | JUMONG EP27 - MASTER P | https://oshakurfilms.com/watch/jumong-ep27-master-p | https://swishsrv.com/e/guuronrt1008 | swishsrv.com | https://www.mediafire.com/file/nrhnz2b83ddruma/Jumong+Ep27.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 28 |  | 342287 | Episode 28 | JUMONG EP28 - MASTER P | https://oshakurfilms.com/watch/jumong-ep28-master-p | https://drive.google.com/file/d/1AXe5Nm5tZ5hGL2EQCGKbexVb6x1Zw1cY/preview | drive.google.com | https://www.mediafire.com/file/hp90ijjgw0g8992/Jumong+Ep28.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 29 |  | 342289 | Episode 29 | JUMONG EP29 - MASTER P | https://oshakurfilms.com/watch/jumong-ep29-master-p | https://drive.google.com/file/d/16AWV_sYt48FUjqvj1_vzEXPVJQEjZmbO/preview | drive.google.com | https://www.mediafire.com/file/rn3xjh5cxspp715/Jumong+Ep29.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 30 |  | 342290 | Episode 30 | JUMONG EP30 - MASTER P | https://oshakurfilms.com/watch/jumong-ep30-master-p | https://drive.google.com/file/d/1wfxCncITAw3jpNxPLvipTu0MpQFeE0k3/preview | drive.google.com | https://www.mediafire.com/file/6b4k1a8q3nwgyzt/Jumong_Ep30.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 31 |  | 342291 | Episode 31 | JUMONG EP31 - MASTER P | https://oshakurfilms.com/watch/jumong-ep31-master-p | https://iplayerhls.com/e/xe0px6ry2qmq | iplayerhls.com | https://www.mediafire.com/file/uhvvxg5uv00r4nk/Jumong_31.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 32 |  | 342292 | Episode 32 | JUMONG EP32 - MASTER P | https://oshakurfilms.com/watch/jumong-ep32-master-p | https://iplayerhls.com/e/zgfyvr4aimcc | iplayerhls.com | https://www.mediafire.com/file/imedxj1ywhy1yto/Jumong_32.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 33 |  | 342294 | Episode 33 | JUMONG EP33 - MASTER P | https://oshakurfilms.com/watch/jumong-ep33-master-p | https://iplayerhls.com/e/zqememnpnw5g | iplayerhls.com | https://www.mediafire.com/file/ncku7ssjsx0xkco/Jumong_33.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 34 |  | 342293 | Episode 34 | JUMONG EP34 - MASTER P | https://oshakurfilms.com/watch/jumong-ep34-master-p | https://iplayerhls.com/e/8uc4p3nk1nc7 | iplayerhls.com | https://www.mediafire.com/file/ienxvgg08bqtlxj/Jumong_34.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 35 |  | 342295 | Episode 35 | JUMONG EP35 - MASTER P | https://oshakurfilms.com/watch/jumong-ep35-master-p | https://iplayerhls.com/e/4x7j4nnped8b | iplayerhls.com | https://www.mediafire.com/file/caabxd3bzyg5r83/Jumong_35.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 36 |  | 342296 | Episode 36 | JUMONG EP36 - MASTER P | https://oshakurfilms.com/watch/jumong-ep36-master-p | https://iplayerhls.com/e/dsu39jd19yim | iplayerhls.com | https://www.mediafire.com/file/0b03syh34cg9c87/Jumong_36.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 37 |  | 342297 | Episode 37 | JUMONG EP37 - MASTER P | https://oshakurfilms.com/watch/jumong-ep37-master-p | https://iplayerhls.com/e/d018h14u33yd | iplayerhls.com | https://www.mediafire.com/file/47w5w21gw21dy4l/Jumong_37.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 38 |  | 342299 | Episode 38 | JUMONG EP38 - MASTER P | https://oshakurfilms.com/watch/jumong-ep38-master-p | https://iplayerhls.com/e/77kf4htpx3io | iplayerhls.com | https://www.mediafire.com/file/xog0fkhb5ti1whg/Jumong_38.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 39 |  | 342300 | Episode 39 | JUMONG EP39 - MASTER P | https://oshakurfilms.com/watch/jumong-ep39-master-p | https://iplayerhls.com/e/u0yeme73xiah | iplayerhls.com | https://www.mediafire.com/file/pije2zrntqd538a/Jumong_39.mp4/file | www.mediafire.com | Narrator guess: Master P. |
-| 1 | 40 |  | 342301 | Episode 40 | JUMONG EP40 - MASTER P | https://oshakurfilms.com/watch/jumong-ep40-master-p | https://iplayerhls.com/e/eq6q240me4n1 | iplayerhls.com | https://www.mediafire.com/file/vbuqzxpqkghh1tq/Jumong_Ep40.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 1 |  | 342256 | Episode 1 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/7kb09o9njp1d | hlswish.com | https://www.mediafire.com/file/wka9oz9cj1aqppz/Jumong_Ep1.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 342257 | Episode 2 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/uk0egcopqqkh | hlswish.com | https://www.mediafire.com/file/a8859ssno854aev/Jumong_2.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 342259 | Episode 3 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/hd66wo0en1a9 | hlswish.com | https://www.mediafire.com/file/vu609udrym66k1e/Jumong_3.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 342258 | Episode 4 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/i9b5c7ggefc7 | hlswish.com | https://www.mediafire.com/file/y3a2boegk2cpbkr/Jumong_4.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 342261 | Episode 5 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/p8vhi0brhik2 | hlswish.com | https://www.mediafire.com/file/hy59gwtwdc5b8gq/Jumong+Ep5(1).mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 342262 | Episode 6 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/etn4lkosbhck | hlswish.com | https://www.mediafire.com/file/3bee8ipvr457a6o/Jumong_6.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 342263 | Episode 7 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/5rz7pabasy6j | hlswish.com | https://www.mediafire.com/file/5kzccze1i7xdo0q/Jumong_Ep7.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 342264 | Episode 8 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/ive1nljooqwt | hlswish.com | https://www.mediafire.com/file/o8v5ncum2363m3n/Jumong_8.mp4/file | www.mediafire.com |  |
+| 1 | 9 |  | 342265 | Episode 9 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/hm2pxuogskym | hlswish.com | https://www.mediafire.com/file/jrtiq3ktx98dh5b/Jumong_9.mp4/file | www.mediafire.com |  |
+| 1 | 10 |  | 342266 | Episode 10 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/0kr1uraqod14 | hlswish.com | https://www.mediafire.com/file/5od04uw5z0q6ced/Jumong_10.mp4/file | www.mediafire.com |  |
+| 1 | 11 |  | 342268 | Episode 11 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/itlhuz9dtw4i | hlswish.com | https://www.mediafire.com/file/01aooskzhob8z80/Jumong+11.mp4/file | www.mediafire.com |  |
+| 1 | 12 |  | 342269 | Episode 12 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/4nbs5vgrzmtw | hlswish.com | https://www.mediafire.com/file/kpdwyiis82bz0zr/Jumong_12.mp4/file | www.mediafire.com |  |
+| 1 | 13 |  | 342270 | Episode 13 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/rbk7ab63hiac | hlswish.com | https://www.mediafire.com/file/cz4x9w1wfej38qu/Jumong_13.mp4/file | www.mediafire.com |  |
+| 1 | 14 |  | 342271 | Episode 14 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/2i488wep7bqm | hlswish.com | https://www.mediafire.com/file/rbi0bn2wombc0qx/Jumong_14.mp4/file | www.mediafire.com |  |
+| 1 | 15 |  | 342272 | Episode 15 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/tycmfzbb227b | hlswish.com | https://www.mediafire.com/file/mln0lhs68blie0r/Jumong_15.mp4/file | www.mediafire.com |  |
+| 1 | 16 |  | 342273 | Episode 16 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/4lsinv1gqlum | hlswish.com | https://www.mediafire.com/file/i04d2p5qjv6klfk/Jumong_16.mp4/file | www.mediafire.com |  |
+| 1 | 17 |  | 342274 | Episode 17 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/i3gn2g3wbn0s | hlswish.com | https://www.mediafire.com/file/p7bhqu0ie8q3bgf/Jumong_17.mp4/file | www.mediafire.com |  |
+| 1 | 18 |  | 342275 | Episode 18 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/yt1jdef6inif | hlswish.com | https://www.mediafire.com/file/j7ut53srlehmwq1/Jumong_18.mp4/file | www.mediafire.com |  |
+| 1 | 19 |  | 342277 | Episode 19 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/t0jq4n4akinj | hlswish.com | https://www.mediafire.com/file/x64zdjs7gqr15j9/Jumong_19.mp4/file | www.mediafire.com |  |
+| 1 | 20 |  | 342278 | Episode 20 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/g0gm64bx0ryc | hlswish.com | https://www.mediafire.com/file/7oj96ce2cmh4sd8/Jumong_20.mp4/file | www.mediafire.com |  |
+| 1 | 21 |  | 342279 | Episode 21 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/rwubiizysa2f | hlswish.com | https://www.mediafire.com/file/hw4lu3j8sb3ck6k/Jumong_Ep_21.mp4/file | www.mediafire.com |  |
+| 1 | 22 |  | 342280 | Episode 22 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/kfvpm2h8r7wd | hlswish.com | https://www.mediafire.com/file/s70nvl21k5mzclc/Jumong_Ep22.mp4/file | www.mediafire.com |  |
+| 1 | 23 |  | 342281 | Episode 23 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/p73gjymb2i0w | hlswish.com | https://www.mediafire.com/file/jw11jmwd8bp3y05/Jumong_Ep23.mp4/file | www.mediafire.com |  |
+| 1 | 24 |  | 342282 | Episode 24 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/f26skkrdgxf8 | hlswish.com | https://www.mediafire.com/file/kk0m1mn1sc3atnl/Jumong+24.mp4/file | www.mediafire.com |  |
+| 1 | 25 |  | 342283 | Episode 25 | JUMONG | https://oshakurfilms.com/watch/jumong | https://hlswish.com/e/q34bdggr9w3y | hlswish.com | https://www.mediafire.com/file/3rw29kez5opswek/Jumong_25.mp4/file | www.mediafire.com |  |
+| 1 | 26 |  | 342284 | Episode 26 | JUMONG | https://oshakurfilms.com/watch/jumong | https://swishsrv.com/e/yszl5h2u4t3g | swishsrv.com | https://www.mediafire.com/file/jvjgu96uwojevht/Jumong+Ep26.mp4/file | www.mediafire.com |  |
+| 1 | 27 |  | 342285 | Episode 27 | JUMONG | https://oshakurfilms.com/watch/jumong | https://swishsrv.com/e/guuronrt1008 | swishsrv.com | https://www.mediafire.com/file/nrhnz2b83ddruma/Jumong+Ep27.mp4/file | www.mediafire.com |  |
+| 1 | 28 |  | 342287 | Episode 28 | JUMONG | https://oshakurfilms.com/watch/jumong | https://drive.google.com/file/d/1AXe5Nm5tZ5hGL2EQCGKbexVb6x1Zw1cY/preview | drive.google.com | https://www.mediafire.com/file/hp90ijjgw0g8992/Jumong+Ep28.mp4/file | www.mediafire.com |  |
+| 1 | 29 |  | 342289 | Episode 29 | JUMONG | https://oshakurfilms.com/watch/jumong | https://drive.google.com/file/d/16AWV_sYt48FUjqvj1_vzEXPVJQEjZmbO/preview | drive.google.com | https://www.mediafire.com/file/rn3xjh5cxspp715/Jumong+Ep29.mp4/file | www.mediafire.com |  |
+| 1 | 30 |  | 342290 | Episode 30 | JUMONG | https://oshakurfilms.com/watch/jumong | https://drive.google.com/file/d/1wfxCncITAw3jpNxPLvipTu0MpQFeE0k3/preview | drive.google.com | https://www.mediafire.com/file/6b4k1a8q3nwgyzt/Jumong_Ep30.mp4/file | www.mediafire.com |  |
+| 1 | 31 |  | 342291 | Episode 31 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/xe0px6ry2qmq | iplayerhls.com | https://www.mediafire.com/file/uhvvxg5uv00r4nk/Jumong_31.mp4/file | www.mediafire.com |  |
+| 1 | 32 |  | 342292 | Episode 32 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/zgfyvr4aimcc | iplayerhls.com | https://www.mediafire.com/file/imedxj1ywhy1yto/Jumong_32.mp4/file | www.mediafire.com |  |
+| 1 | 33 |  | 342294 | Episode 33 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/zqememnpnw5g | iplayerhls.com | https://www.mediafire.com/file/ncku7ssjsx0xkco/Jumong_33.mp4/file | www.mediafire.com |  |
+| 1 | 34 |  | 342293 | Episode 34 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/8uc4p3nk1nc7 | iplayerhls.com | https://www.mediafire.com/file/ienxvgg08bqtlxj/Jumong_34.mp4/file | www.mediafire.com |  |
+| 1 | 35 |  | 342295 | Episode 35 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/4x7j4nnped8b | iplayerhls.com | https://www.mediafire.com/file/caabxd3bzyg5r83/Jumong_35.mp4/file | www.mediafire.com |  |
+| 1 | 36 |  | 342296 | Episode 36 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/dsu39jd19yim | iplayerhls.com | https://www.mediafire.com/file/0b03syh34cg9c87/Jumong_36.mp4/file | www.mediafire.com |  |
+| 1 | 37 |  | 342297 | Episode 37 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/d018h14u33yd | iplayerhls.com | https://www.mediafire.com/file/47w5w21gw21dy4l/Jumong_37.mp4/file | www.mediafire.com |  |
+| 1 | 38 |  | 342299 | Episode 38 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/77kf4htpx3io | iplayerhls.com | https://www.mediafire.com/file/xog0fkhb5ti1whg/Jumong_38.mp4/file | www.mediafire.com |  |
+| 1 | 39 |  | 342300 | Episode 39 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/u0yeme73xiah | iplayerhls.com | https://www.mediafire.com/file/pije2zrntqd538a/Jumong_39.mp4/file | www.mediafire.com |  |
+| 1 | 40 |  | 342301 | Episode 40 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/eq6q240me4n1 | iplayerhls.com | https://www.mediafire.com/file/vbuqzxpqkghh1tq/Jumong_Ep40.mp4/file | www.mediafire.com |  |
+| 1 | 41 |  | 342302 | Episode 41 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/ek6rphm61jwb | iplayerhls.com | https://www.mediafire.com/file/nsygtc2ap36d5s9/Jumong_41.mp4/file | www.mediafire.com |  |
 | 1 | 41 |  | 342302 | Episode 41 | JUMONG EP41 - MASTER P | https://oshakurfilms.com/watch/jumong-ep41-master-p | https://iplayerhls.com/e/ek6rphm61jwb | iplayerhls.com | https://www.mediafire.com/file/nsygtc2ap36d5s9/Jumong_41.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 42 |  | 342303 | Episode 42 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/x5p33huqespb | iplayerhls.com | https://www.mediafire.com/file/08jm53ygmbu3lz9/Jumong_42.mp4/file | www.mediafire.com |  |
 | 1 | 42 |  | 342303 | Episode 42 | JUMONG EP42 - MASTER P | https://oshakurfilms.com/watch/jumong-ep42-master-p | https://iplayerhls.com/e/x5p33huqespb | iplayerhls.com | https://www.mediafire.com/file/08jm53ygmbu3lz9/Jumong_42.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 43 |  | 342304 | Episode 43 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/8muia5gbfn7z | iplayerhls.com | https://www.mediafire.com/file/k8iea67kh3wyg9r/Jumong_43.mp4/file | www.mediafire.com |  |
 | 1 | 43 |  | 342304 | Episode 43 | JUMONG EP43 - MASTER P | https://oshakurfilms.com/watch/jumong-ep43-master-p | https://iplayerhls.com/e/8muia5gbfn7z | iplayerhls.com | https://www.mediafire.com/file/k8iea67kh3wyg9r/Jumong_43.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 44 |  | 342305 | Episode 44 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/t6mw8qefut6c | iplayerhls.com | https://www.mediafire.com/file/i5euo36ajkrf1ag/Jumong_44.mp4/file | www.mediafire.com |  |
 | 1 | 44 |  | 342305 | Episode 44 | JUMONG EP44 - MASTER P | https://oshakurfilms.com/watch/jumong-ep44-master-p | https://iplayerhls.com/e/t6mw8qefut6c | iplayerhls.com | https://www.mediafire.com/file/i5euo36ajkrf1ag/Jumong_44.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 45 |  | 342306 | Episode 45 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/pt3lf2keifwh | iplayerhls.com | https://www.mediafire.com/file/ail2a6drzyboavq/Jumong_45.mp4/file | www.mediafire.com |  |
 | 1 | 45 |  | 342306 | Episode 45 | JUMONG EP45 - MASTER P | https://oshakurfilms.com/watch/jumong-ep45-master-p | https://iplayerhls.com/e/pt3lf2keifwh | iplayerhls.com | https://www.mediafire.com/file/ail2a6drzyboavq/Jumong_45.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 46 |  | 342307 | Episode 46 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/d612mxocgrmc | iplayerhls.com | https://www.mediafire.com/file/0tebyfso21vetjd/Jumong+46.mp4/file | www.mediafire.com |  |
 | 1 | 46 |  | 342307 | Episode 46 | JUMONG EP46 - MASTER P | https://oshakurfilms.com/watch/jumong-ep46-master-p | https://iplayerhls.com/e/d612mxocgrmc | iplayerhls.com | https://www.mediafire.com/file/0tebyfso21vetjd/Jumong+46.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 47 |  | 342308 | Episode 47 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/7fqi4nofe6dy | iplayerhls.com | https://www.mediafire.com/file/x74n4iswhptebe7/Jumong+47.mp4/file | www.mediafire.com |  |
 | 1 | 47 |  | 342308 | Episode 47 | JUMONG EP47 - MASTER P | https://oshakurfilms.com/watch/jumong-ep47-master-p | https://iplayerhls.com/e/7fqi4nofe6dy | iplayerhls.com | https://www.mediafire.com/file/x74n4iswhptebe7/Jumong+47.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 48 |  | 342309 | Episode 48 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/oqt6nreah1fp | iplayerhls.com | https://www.mediafire.com/file/y7kpt2wmc0nw4kf/Jumong_48.mp4/file | www.mediafire.com |  |
 | 1 | 48 |  | 342309 | Episode 48 | JUMONG EP48 - MASTER P | https://oshakurfilms.com/watch/jumong-ep48-master-p | https://iplayerhls.com/e/oqt6nreah1fp | iplayerhls.com | https://www.mediafire.com/file/y7kpt2wmc0nw4kf/Jumong_48.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 49 |  | 342311 | Episode 49 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/mcekff4i1ekj | iplayerhls.com | https://www.mediafire.com/file/ku4t9uuvpiuo97o/Jumong_Ep49.mp4/file | www.mediafire.com |  |
 | 1 | 49 |  | 342311 | Episode 49 | JUMONG EP49 - MASTER P | https://oshakurfilms.com/watch/jumong-ep49-master-p | https://iplayerhls.com/e/mcekff4i1ekj | iplayerhls.com | https://www.mediafire.com/file/ku4t9uuvpiuo97o/Jumong_Ep49.mp4/file | www.mediafire.com | Narrator guess: Master P. |
+| 1 | 50 |  | 342312 | Episode 50 | JUMONG | https://oshakurfilms.com/watch/jumong | https://iplayerhls.com/e/xogn1fo1tew4 | iplayerhls.com | https://www.mediafire.com/file/3bj07vdqwq81f81/Jumong_Ep50.mp4/file | www.mediafire.com |  |
 | 1 | 50 |  | 342312 | Episode 50 | JUMONG EP50 - MASTER P | https://oshakurfilms.com/watch/jumong-ep50-master-p | https://iplayerhls.com/e/xogn1fo1tew4 | iplayerhls.com | https://www.mediafire.com/file/3bj07vdqwq81f81/Jumong_Ep50.mp4/file | www.mediafire.com | Narrator guess: Master P. |
 | 1 | 51 |  | 342313 | Episode 51 | JUMONG EP51 - MASTER P | https://oshakurfilms.com/watch/jumong-ep51-master-p | https://iplayerhls.com/e/tyzbs608nunv | iplayerhls.com | https://www.mediafire.com/file/z4g9dp56tssnzax/Jumong_51.mp4/file | www.mediafire.com | Narrator guess: Master P. |
 | 1 | 52 |  | 342314 | Episode 52 | JUMONG EP52 - MASTER P | https://oshakurfilms.com/watch/jumong-ep52-master-p | https://iplayerhls.com/e/2csqo88wibkg | iplayerhls.com | https://www.mediafire.com/file/yj393386ugb173r/Jumong_52.mp4/file | www.mediafire.com | Narrator guess: Master P. |
@@ -33776,7 +34736,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - number_of_seasons: `1`
 - number_of_episodes: `10`
 - vote_average: `6.7`
-- vote_count: `107`
+- vote_count: `108`
 - genres: `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `135814`
@@ -33789,7 +34749,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - number_of_seasons: `1`
   - number_of_episodes: `10`
   - vote_average: `6.7`
-  - vote_count: `107`
+  - vote_count: `108`
   - genres: `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=xSMndqFwesU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33847,8 +34807,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2025-11-13`
 - number_of_seasons: `2`
 - number_of_episodes: `6`
-- vote_average: `7.757`
-- vote_count: `218`
+- vote_average: `7.81`
+- vote_count: `229`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `252193`
@@ -33860,8 +34820,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2025-11-13`
   - number_of_seasons: `2`
   - number_of_episodes: `6`
-  - vote_average: `7.757`
-  - vote_count: `218`
+  - vote_average: `7.81`
+  - vote_count: `229`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=eLfE-WiHAWU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33907,7 +34867,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - number_of_seasons: `1`
 - number_of_episodes: `16`
 - vote_average: `7.4`
-- vote_count: `72`
+- vote_count: `73`
 - genres: `Crime`, `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `78796`
@@ -33920,7 +34880,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - number_of_seasons: `1`
   - number_of_episodes: `16`
   - vote_average: `7.4`
-  - vote_count: `72`
+  - vote_count: `73`
   - genres: `Crime`, `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=HZ_QhFnAcTg`
   - download_url: `OPTIONAL_NOT_SET`
@@ -33983,8 +34943,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2010-05-22`
 - number_of_seasons: `2`
 - number_of_episodes: `44`
-- vote_average: `7.432`
-- vote_count: `347`
+- vote_average: `7.438`
+- vote_count: `352`
 - genres: `Sci-Fi & Fantasy`, `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `7704`
@@ -33996,8 +34956,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2010-05-22`
   - number_of_seasons: `2`
   - number_of_episodes: `44`
-  - vote_average: `7.432`
-  - vote_count: `347`
+  - vote_average: `7.438`
+  - vote_count: `352`
   - genres: `Sci-Fi & Fantasy`, `Action & Adventure`, `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Savimbi`
@@ -34041,8 +35001,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2024-12-08`
 - number_of_seasons: `3`
 - number_of_episodes: `24`
-- vote_average: `7.978`
-- vote_count: `1189`
+- vote_average: `7.992`
+- vote_count: `1211`
 - genres: `Drama`, `War & Politics`
 - tv_show_row:
   - tmdb_id: `113962`
@@ -34054,8 +35014,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2024-12-08`
   - number_of_seasons: `3`
   - number_of_episodes: `24`
-  - vote_average: `7.978`
-  - vote_count: `1189`
+  - vote_average: `7.992`
+  - vote_count: `1211`
   - genres: `Drama`, `War & Politics`
   - trailer_url: `https://www.youtube.com/watch?v=uEjcXhW7CXo`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34254,9 +35214,9 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - first_air_date: `2021-01-08`
 - last_air_date: `2023-10-05`
 - number_of_seasons: `3`
-- number_of_episodes: `17`
-- vote_average: `7.692`
-- vote_count: `2576`
+- number_of_episodes: `25`
+- vote_average: `7.7`
+- vote_count: `2588`
 - genres: `Crime`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `96677`
@@ -34267,9 +35227,9 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - first_air_date: `2021-01-08`
   - last_air_date: `2023-10-05`
   - number_of_seasons: `3`
-  - number_of_episodes: `17`
-  - vote_average: `7.692`
-  - vote_count: `2576`
+  - number_of_episodes: `25`
+  - vote_average: `7.7`
+  - vote_count: `2588`
   - genres: `Crime`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=ga0iTWXCGa0`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34291,6 +35251,77 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+## M.I.A.
+
+- content_type: `tv_show`
+- upload_target_tables: `tv_shows`, `seasons`, `episodes`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `262388`
+- canonical_name: `M.I.A.`
+- original_name: `M.I.A.`
+- aliases_found_in_source: `M.I.A`
+- narrators_found: `none`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg`
+- backdrop_path: `/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=6QZfHbpEUpI`
+- first_air_date: `2026-05-07`
+- last_air_date: `2026-05-07`
+- number_of_seasons: `1`
+- number_of_episodes: `9`
+- vote_average: `8.5`
+- vote_count: `82`
+- genres: `Drama`, `Crime`
+- tv_show_row:
+  - tmdb_id: `262388`
+  - name: `M.I.A.`
+  - overview: `Restless in the Florida Keys, Etta Tiger Jonze dreams of a life in Miami's glittering, sub-tropical kingdom. When her family's drug-running business shatters in tragedy, however, Etta embarks on a dangerous journey through Miami's neon-lit underbelly that will define who she is and what she's ultimately capable of.`
+  - poster_path: `/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg`
+  - backdrop_path: `/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg`
+  - first_air_date: `2026-05-07`
+  - last_air_date: `2026-05-07`
+  - number_of_seasons: `1`
+  - number_of_episodes: `9`
+  - vote_average: `8.5`
+  - vote_count: `82`
+  - genres: `Drama`, `Crime`
+  - trailer_url: `https://www.youtube.com/watch?v=6QZfHbpEUpI`
+  - download_url: `OPTIONAL_NOT_SET`
+  - narrator: `none`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+
+### Season 1
+
+- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `overview`
+- season_row:
+  - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
+  - tmdb_id: `407656`
+  - season_number: `1`
+  - name: `Season 1`
+  - poster_path: `/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg`
+  - air_date: `2026-05-07`
+  - episode_count: `9`
+  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+- episode_rows:
+| season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 6061110 | Revenge | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/t861ncjuym18 | hgcloud.to | https://www.mediafire.com/file/st5bscj1l3f1nlt/M.i.a_1_.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 6940632 | Orphans | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/7yr84p7zsozc | hgcloud.to | https://www.mediafire.com/file/eg5ka0q25450rpl/M.i.a_2.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 6940633 | American Immigrant | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/qxutmavyb0hm | hgcloud.to | https://www.mediafire.com/file/476d44zlxt0tnu6/M.i.a_3.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 6940634 | Can't Hardly Carlito | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/mmbp2d3runz4 | hgcloud.to | https://www.mediafire.com/file/lmkdu4mxnnupvot/M.i.a_4.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 6940635 | Fault Lines | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/dxxz82k0zqrm | hgcloud.to | https://www.mediafire.com/file/dlsuczaxsahzgvq/M.i.a_5.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 6940636 | Original Sin | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/ep170s5bwj5g | hgcloud.to | https://www.mediafire.com/file/432tvbu4jrobm7v/M.i.a_6.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 6940637 | Hammer Drop | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/hqog6u05jvel | hgcloud.to | https://www.mediafire.com/file/vt3gsth0jb35axz/M.i.a_7.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 6940642 | Heart Matters | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/ye2egd67uttl | hgcloud.to | https://www.mediafire.com/file/x8r8nw90ayno55m/M.i.a_8.mp4/file | www.mediafire.com |  |
+| 1 | 9 |  | 6940646 | Aperture | M.I.A | https://oshakurfilms.com/watch/m-i-a | https://hgcloud.to/e/xace41b8xqrh | hgcloud.to | https://www.mediafire.com/file/1ut9kc6jxq4hqk9/M.i.a_9_Final.mp4/file | www.mediafire.com |  |
 
 ## Master of the House
 
@@ -34315,7 +35346,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - number_of_seasons: `1`
 - number_of_episodes: `7`
 - vote_average: `8.6`
-- vote_count: `47`
+- vote_count: `48`
 - genres: `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `250850`
@@ -34328,7 +35359,7 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - number_of_seasons: `1`
   - number_of_episodes: `7`
   - vote_average: `8.6`
-  - vote_count: `47`
+  - vote_count: `48`
   - genres: `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=7G8AZYoNZww`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34382,8 +35413,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2020-04-30`
 - number_of_seasons: `1`
 - number_of_episodes: `16`
-- vote_average: `7.461`
-- vote_count: `38`
+- vote_average: `7.526`
+- vote_count: `39`
 - genres: `Mystery`, `Drama`, `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `99478`
@@ -34395,8 +35426,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2020-04-30`
   - number_of_seasons: `1`
   - number_of_episodes: `16`
-  - vote_average: `7.461`
-  - vote_count: `38`
+  - vote_average: `7.526`
+  - vote_count: `39`
   - genres: `Mystery`, `Drama`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=lIk6aTtjr9Q`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34450,8 +35481,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2020-01-01`
 - number_of_seasons: `1`
 - number_of_episodes: `10`
-- vote_average: `7.236`
-- vote_count: `423`
+- vote_average: `7.235`
+- vote_count: `425`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `81292`
@@ -34463,8 +35494,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2020-01-01`
   - number_of_seasons: `1`
   - number_of_episodes: `10`
-  - vote_average: `7.236`
-  - vote_count: `423`
+  - vote_average: `7.235`
+  - vote_count: `425`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=mjLWuzGVyew`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34521,8 +35552,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2021-12-03`
 - number_of_seasons: `3`
 - number_of_episodes: `41`
-- vote_average: `8.2`
-- vote_count: `19458`
+- vote_average: `8.231`
+- vote_count: `19506`
 - genres: `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `71446`
@@ -34534,8 +35565,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2021-12-03`
   - number_of_seasons: `3`
   - number_of_episodes: `41`
-  - vote_average: `8.2`
-  - vote_count: `19458`
+  - vote_average: `8.231`
+  - vote_count: `19506`
   - genres: `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=_InqQJRqGW4`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34553,8 +35584,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - season_number: `1`
   - name: `Season 1`
   - overview: `Under the guidance of The Professor, a group of eight very peculiar robbers have attacked the National Coinage and Stamp Factory of Spain and took hostages to carry out the most perfect robbery in the history, aiming to take home 2.4 billion Euros in cash.`
-  - poster_path: `/Al5ry93VbvtKACIUYoDjI4u4VWC.jpg`
-  - poster_url: `https://image.tmdb.org/t/p/w500/Al5ry93VbvtKACIUYoDjI4u4VWC.jpg`
+  - poster_path: `/aDS48mRJcJQvJSOql0Lq2wyWZJI.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/aDS48mRJcJQvJSOql0Lq2wyWZJI.jpg`
   - air_date: `2017-05-02`
   - episode_count: `15`
   - inference_notes: `Explicit season found in source title/slug.`
@@ -34585,8 +35616,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - season_number: `2`
   - name: `Season 2`
   - overview: `The Professor and his team reunite to free Rio, this time targeting the Bank of Spain with a daring and dangerous new plan. The Resistance continues.`
-  - poster_path: `/bp2MEZT8dsl33ULA8RA1IK6ZbZ.jpg`
-  - poster_url: `https://image.tmdb.org/t/p/w500/bp2MEZT8dsl33ULA8RA1IK6ZbZ.jpg`
+  - poster_path: `/4sjfcxqq7CXMi7Omozt72lvBbJL.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/4sjfcxqq7CXMi7Omozt72lvBbJL.jpg`
   - air_date: `2019-07-19`
   - episode_count: `16`
   - inference_notes: `Explicit season found in source title/slug.`
@@ -34613,8 +35644,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - season_number: `3`
   - name: `Season 3`
   - overview: `Three years after the heist on the Royal Mint of Spain, the robbers are enjoying their lives paired-up in diverse locations.`
-  - poster_path: `/kJxqdEfInoai6Ca2tUEWbelveUP.jpg`
-  - poster_url: `https://image.tmdb.org/t/p/w500/kJxqdEfInoai6Ca2tUEWbelveUP.jpg`
+  - poster_path: `/xvSfsOcMW5iJWPpFu2L7JjO0b0.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/xvSfsOcMW5iJWPpFu2L7JjO0b0.jpg`
   - air_date: `2021-09-03`
   - episode_count: `10`
   - inference_notes: `Explicit season found in source title/slug.`
@@ -34682,8 +35713,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2022-12-09`
 - number_of_seasons: `1`
 - number_of_episodes: `12`
-- vote_average: `7.715`
-- vote_count: `717`
+- vote_average: `7.707`
+- vote_count: `721`
 - genres: `Action & Adventure`, `Crime`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `112836`
@@ -34695,8 +35726,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2022-12-09`
   - number_of_seasons: `1`
   - number_of_episodes: `12`
-  - vote_average: `7.715`
-  - vote_count: `717`
+  - vote_average: `7.707`
+  - vote_count: `721`
   - genres: `Action & Adventure`, `Crime`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=Uafg97czxeQ`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34751,8 +35782,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2023-12-21`
 - number_of_seasons: `1`
 - number_of_episodes: `12`
-- vote_average: `7.886`
-- vote_count: `118`
+- vote_average: `7.888`
+- vote_count: `120`
 - genres: `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `229915`
@@ -34764,8 +35795,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2023-12-21`
   - number_of_seasons: `1`
   - number_of_episodes: `12`
-  - vote_average: `7.886`
-  - vote_count: `118`
+  - vote_average: `7.888`
+  - vote_count: `120`
   - genres: `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=yNkfTd8R7x0`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34827,8 +35858,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2025-04-06`
 - number_of_seasons: `1`
 - number_of_episodes: `6`
-- vote_average: `6.372`
-- vote_count: `43`
+- vote_average: `6.4`
+- vote_count: `45`
 - genres: `Mystery`, `Crime`
 - tv_show_row:
   - tmdb_id: `248330`
@@ -34840,8 +35871,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2025-04-06`
   - number_of_seasons: `1`
   - number_of_episodes: `6`
-  - vote_average: `6.372`
-  - vote_count: `43`
+  - vote_average: `6.4`
+  - vote_count: `45`
   - genres: `Mystery`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=6fP0YhZllxg`
   - download_url: `OPTIONAL_NOT_SET`
@@ -34895,8 +35926,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2023-04-13`
 - number_of_seasons: `1`
 - number_of_episodes: `4`
-- vote_average: `6.414`
-- vote_count: `181`
+- vote_average: `6.415`
+- vote_count: `183`
 - genres: `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `223313`
@@ -34908,8 +35939,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2023-04-13`
   - number_of_seasons: `1`
   - number_of_episodes: `4`
-  - vote_average: `6.414`
-  - vote_count: `181`
+  - vote_average: `6.415`
+  - vote_count: `183`
   - genres: `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=-7opSFFjPFk`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35030,8 +36061,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - last_air_date: `2026-05-13`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `9.001`
-- vote_count: `392`
+- vote_average: `8.964`
+- vote_count: `593`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `273240`
@@ -35043,8 +36074,8 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
   - last_air_date: `2026-05-13`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `9.001`
-  - vote_count: `392`
+  - vote_average: `8.964`
+  - vote_count: `593`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=wAozjf2frxw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35093,15 +36124,15 @@ The show struggled from the onset because it was up against ABC's Top 20 hit Los
 - tmdb_unavailable_fields: `none`
 - poster_path: `/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg`
 - poster_url: `https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg`
-- backdrop_path: `/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg`
+- backdrop_path: `/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=1KMcoJBMWE4`
 - first_air_date: `1999-10-20`
-- last_air_date: `2026-05-31`
+- last_air_date: `2026-06-28`
 - number_of_seasons: `23`
 - number_of_episodes: `1181`
-- vote_average: `8.737`
-- vote_count: `5333`
+- vote_average: `8.743`
+- vote_count: `5378`
 - genres: `Action & Adventure`, `Comedy`, `Animation`
 - tv_show_row:
   - tmdb_id: `37854`
@@ -35112,13 +36143,13 @@ Monkey D. Luffy, a boy who consumed a "Devil Fruit," decides to follow in the fo
 
 Luffy will do anything to get the One Piece and become King of the Pirates!`
   - poster_path: `/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg`
-  - backdrop_path: `/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg`
+  - backdrop_path: `/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg`
   - first_air_date: `1999-10-20`
-  - last_air_date: `2026-05-31`
+  - last_air_date: `2026-06-28`
   - number_of_seasons: `23`
   - number_of_episodes: `1181`
-  - vote_average: `8.737`
-  - vote_count: `5333`
+  - vote_average: `8.743`
+  - vote_count: `5378`
   - genres: `Action & Adventure`, `Comedy`, `Animation`
   - trailer_url: `https://www.youtube.com/watch?v=1KMcoJBMWE4`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35180,9 +36211,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - first_air_date: `2020-04-15`
 - last_air_date: `2024-11-07`
 - number_of_seasons: `5`
-- number_of_episodes: `41`
-- vote_average: `8.266`
-- vote_count: `1180`
+- number_of_episodes: `50`
+- vote_average: `8.271`
+- vote_count: `1188`
 - genres: `Action & Adventure`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `100757`
@@ -35193,9 +36224,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - first_air_date: `2020-04-15`
   - last_air_date: `2024-11-07`
   - number_of_seasons: `5`
-  - number_of_episodes: `41`
-  - vote_average: `8.266`
-  - vote_count: `1180`
+  - number_of_episodes: `50`
+  - vote_average: `8.271`
+  - vote_count: `1188`
   - genres: `Action & Adventure`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=pfY3j-3uQhk`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35341,8 +36372,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-10-28`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `7.01`
-- vote_count: `105`
+- vote_average: `6.972`
+- vote_count: `107`
 - genres: `Action & Adventure`, `War & Politics`
 - tv_show_row:
   - tmdb_id: `232018`
@@ -35354,8 +36385,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-10-28`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `7.01`
-  - vote_count: `105`
+  - vote_average: `6.972`
+  - vote_count: `107`
   - genres: `Action & Adventure`, `War & Politics`
   - trailer_url: `https://www.youtube.com/watch?v=6HZ_mInIfk4`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35412,8 +36443,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2017-05-30`
 - number_of_seasons: `5`
 - number_of_episodes: `88`
-- vote_average: `8.07`
-- vote_count: `5947`
+- vote_average: `8.068`
+- vote_count: `5986`
 - genres: `Action & Adventure`, `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `2288`
@@ -35425,8 +36456,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2017-05-30`
   - number_of_seasons: `5`
   - number_of_episodes: `88`
-  - vote_average: `8.07`
-  - vote_count: `5947`
+  - vote_average: `8.068`
+  - vote_count: `5986`
   - genres: `Action & Adventure`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=AL9zLctDJaU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35685,56 +36716,67 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - upload_target_tables: `tv_shows`, `seasons`, `episodes`
 - tmdb_match_status: `exact`
 - tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
-- real_tmdb_id: `4275`
+- real_tmdb_id: `311858`
 - canonical_name: `Prisoner`
 - original_name: `Prisoner`
 - aliases_found_in_source: `Prisoner`
 - narrators_found: `none`
-- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
-- tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/dQsM0p8znOZ4hEueVhpQxTI1QuT.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/dQsM0p8znOZ4hEueVhpQxTI1QuT.jpg`
-- backdrop_path: `/AqhMVAeGQNtBQbD2HJf2m2KrrUX.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/AqhMVAeGQNtBQbD2HJf2m2KrrUX.jpg`
-- first_air_date: `1979-02-27`
-- last_air_date: `1986-12-11`
-- number_of_seasons: `8`
-- number_of_episodes: `692`
-- vote_average: `7.6`
-- vote_count: `34`
-- genres: `Soap`, `Drama`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg`
+- backdrop_path: `/n5WBNNq1qdgnI0XULBH0XnCVaOc.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/n5WBNNq1qdgnI0XULBH0XnCVaOc.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=-dNbPQbTDYw`
+- first_air_date: `2026-04-30`
+- last_air_date: `2026-06-04`
+- number_of_seasons: `1`
+- number_of_episodes: `6`
+- vote_average: `5.455`
+- vote_count: `22`
+- genres: `Crime`, `Action & Adventure`
 - tv_show_row:
-  - tmdb_id: `4275`
+  - tmdb_id: `311858`
   - name: `Prisoner`
-  - overview: `Prisoner is an Australian soap opera that is set in the Wentworth Detention Centre, a fictional women's prison.`
-  - poster_path: `/dQsM0p8znOZ4hEueVhpQxTI1QuT.jpg`
-  - backdrop_path: `/AqhMVAeGQNtBQbD2HJf2m2KrrUX.jpg`
-  - first_air_date: `1979-02-27`
-  - last_air_date: `1986-12-11`
-  - number_of_seasons: `8`
-  - number_of_episodes: `692`
-  - vote_average: `7.6`
-  - vote_count: `34`
-  - genres: `Soap`, `Drama`
+  - overview: `A young and ambitious prison officer finds herself in the middle of a battle for the criminal underworld as crime lords try to evade justice. But in order to do that, she will have to learn quickly to put her faith in one of the very men she wants to put behind bars.`
+  - poster_path: `/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg`
+  - backdrop_path: `/n5WBNNq1qdgnI0XULBH0XnCVaOc.jpg`
+  - first_air_date: `2026-04-30`
+  - last_air_date: `2026-06-04`
+  - number_of_seasons: `1`
+  - number_of_episodes: `6`
+  - vote_average: `5.455`
+  - vote_count: `22`
+  - genres: `Crime`, `Action & Adventure`
+  - trailer_url: `https://www.youtube.com/watch?v=-dNbPQbTDYw`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `none`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 
-### Season LOOKUP_REQUIRED
+### Season 1
 
-- tmdb_available_fields: `none`
-- tmdb_unavailable_fields: `tmdb_id`, `name`, `overview`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `overview`
 - season_row:
   - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
-  - tmdb_id: `LOOKUP_REQUIRED`
-  - season_number: `LOOKUP_REQUIRED`
-  - name: `Season LOOKUP_REQUIRED`
-  - episode_count: `1`
-  - inference_notes: `Season not explicit in source and could not be inferred safely.`
+  - tmdb_id: `496174`
+  - season_number: `1`
+  - name: `Season 1`
+  - poster_path: `/2lpzBNYYSRdv8EIH9I28ysplD2f.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/2lpzBNYYSRdv8EIH9I28ysplD2f.jpg`
+  - air_date: `2026-04-30`
+  - episode_count: `6`
+  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 6868582 | Ambush | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/99do0k0mu3np | hgcloud.to | https://www.mediafire.com/file/rx7531rhcuvza9q/THE_PRISOBER_EP1.mp4/file | www.mediafire.com |  |
+| 1 | 2 |  | 6943953 | On the Run | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/f4vs8jxn0c0y | hgcloud.to | https://www.mediafire.com/file/3qy2wljk8j3xwm5/Watch_Prisoner_Ep2_%25282026%2529.mp4/file | www.mediafire.com |  |
+| 1 | 3 |  | 6943954 | Cat and Mouse | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/rg6fbwhbv7zz | hgcloud.to | https://www.mediafire.com/file/sw6d8g34zt7zp5t/Watch_Prisoner_Ep3_%25282026%2529.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 6943955 | The Deadline | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/mswwybnh6x3q | hgcloud.to | https://www.mediafire.com/file/jyqyfvynpeusl1h/Watch_Prisoner_Ep4_%25282026%2529.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 6943957 | Betrayal | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/urm03ly8z0wn | hgcloud.to | https://www.mediafire.com/file/iibkadkhz0b3flk/Watch_Prisoner_Ep5_%25282026%2529.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 6943958 | The Showdown | Prisoner Ep6 Final | https://oshakurfilms.com/watch/prisoner-ep6-final | https://hgcloud.to/e/6g9th4v95lnl | hgcloud.to | https://www.mediafire.com/file/4pb161afzfglt38/Prisoner_Ep6_Final_%25282026%2529.mp4/file | www.mediafire.com |  |
 
 ## Professionals
 
@@ -35758,8 +36800,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2020-12-21`
 - number_of_seasons: `1`
 - number_of_episodes: `10`
-- vote_average: `6.105`
-- vote_count: `38`
+- vote_average: `6.103`
+- vote_count: `39`
 - genres: `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `113452`
@@ -35771,8 +36813,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2020-12-21`
   - number_of_seasons: `1`
   - number_of_episodes: `10`
-  - vote_average: `6.105`
-  - vote_count: `38`
+  - vote_average: `6.103`
+  - vote_count: `39`
   - genres: `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=zIbfQSqLQKQ`
   - download_url: `OPTIONAL_NOT_SET`
@@ -35949,8 +36991,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-09-12`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `7.9`
-- vote_count: `34`
+- vote_average: `8`
+- vote_count: `35`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `224732`
@@ -35962,8 +37004,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-09-12`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `7.9`
-  - vote_count: `34`
+  - vote_average: `8`
+  - vote_count: `35`
   - genres: `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=BmTaytgfBQ0`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36197,8 +37239,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2025-12-02`
 - number_of_seasons: `1`
 - number_of_episodes: `4`
-- vote_average: `7.2`
-- vote_count: `69`
+- vote_average: `7.201`
+- vote_count: `72`
 - genres: `Documentary`, `Crime`
 - tv_show_row:
   - tmdb_id: `255251`
@@ -36210,8 +37252,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2025-12-02`
   - number_of_seasons: `1`
   - number_of_episodes: `4`
-  - vote_average: `7.2`
-  - vote_count: `69`
+  - vote_average: `7.201`
+  - vote_count: `72`
   - genres: `Documentary`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=iGyKtVA6ntI`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36263,8 +37305,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2022-10-13`
 - number_of_seasons: `3`
 - number_of_episodes: `24`
-- vote_average: `8.082`
-- vote_count: `2823`
+- vote_average: `8.078`
+- vote_count: `2835`
 - genres: `Drama`, `Sci-Fi & Fantasy`, `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `80752`
@@ -36276,8 +37318,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2022-10-13`
   - number_of_seasons: `3`
   - number_of_episodes: `24`
-  - vote_average: `8.082`
-  - vote_count: `2823`
+  - vote_average: `8.078`
+  - vote_count: `2835`
   - genres: `Drama`, `Sci-Fi & Fantasy`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=03RAKJipMeM`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36322,7 +37364,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - number_of_seasons: `2`
 - number_of_episodes: `14`
 - vote_average: `7.058`
-- vote_count: `1383`
+- vote_count: `1390`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `126280`
@@ -36335,7 +37377,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - number_of_seasons: `2`
   - number_of_episodes: `14`
   - vote_average: `7.058`
-  - vote_count: `1383`
+  - vote_count: `1390`
   - genres: `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Genius`
@@ -36376,9 +37418,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - backdrop_url: `https://image.tmdb.org/t/p/original/5Sm7o5UNgPgFtalBKFXhPQE6eoi.jpg`
 - trailer_url: `https://www.youtube.com/watch?v=pvDm6wFlZ10`
 - first_air_date: `2023-06-18`
-- last_air_date: `2023-09-03`
+- last_air_date: `2025-08-31`
 - number_of_seasons: `2`
-- number_of_episodes: `12`
+- number_of_episodes: `24`
 - vote_average: `10`
 - vote_count: `4`
 - genres: `Drama`, `Action & Adventure`
@@ -36389,9 +37431,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - poster_path: `/unst24GN4ide77Sa0FWrp6mdVGC.jpg`
   - backdrop_path: `/5Sm7o5UNgPgFtalBKFXhPQE6eoi.jpg`
   - first_air_date: `2023-06-18`
-  - last_air_date: `2023-09-03`
+  - last_air_date: `2025-08-31`
   - number_of_seasons: `2`
-  - number_of_episodes: `12`
+  - number_of_episodes: `24`
   - vote_average: `10`
   - vote_count: `4`
   - genres: `Drama`, `Action & Adventure`
@@ -36439,7 +37481,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - number_of_seasons: `3`
 - number_of_episodes: `31`
 - vote_average: `7.198`
-- vote_count: `720`
+- vote_count: `724`
 - genres: `Action & Adventure`, `War & Politics`, `Drama`
 - tv_show_row:
   - tmdb_id: `66857`
@@ -36452,7 +37494,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - number_of_seasons: `3`
   - number_of_episodes: `31`
   - vote_average: `7.198`
-  - vote_count: `720`
+  - vote_count: `724`
   - genres: `Action & Adventure`, `War & Politics`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=X2x6IR3FhbQ`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36568,8 +37610,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-11-13`
 - number_of_seasons: `1`
 - number_of_episodes: `20`
-- vote_average: `7.389`
-- vote_count: `45`
+- vote_average: `7.446`
+- vote_count: `46`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `274558`
@@ -36581,8 +37623,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-11-13`
   - number_of_seasons: `1`
   - number_of_episodes: `20`
-  - vote_average: `7.389`
-  - vote_count: `45`
+  - vote_average: `7.446`
+  - vote_count: `46`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=K9sVG_yww2o`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36716,8 +37758,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2011-05-13`
 - number_of_seasons: `10`
 - number_of_episodes: `216`
-- vote_average: `8.19`
-- vote_count: `4463`
+- vote_average: `8.191`
+- vote_count: `4489`
 - genres: `Sci-Fi & Fantasy`, `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `4604`
@@ -36729,8 +37771,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2011-05-13`
   - number_of_seasons: `10`
   - number_of_episodes: `216`
-  - vote_average: `8.19`
-  - vote_count: `4463`
+  - vote_average: `8.191`
+  - vote_count: `4489`
   - genres: `Sci-Fi & Fantasy`, `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=70Y32si4yb8`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36759,21 +37801,21 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 | 1 | 1 |  | 333238 | Pilot | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/baaze3gxsg9e | hgcloud.to | https://www.mediafire.com/file/z83vd3fuldl5mkd/Smallville_S01_Ep1_Hd_Mp4.mp4/file | www.mediafire.com |  |
 | 1 | 2 |  | 333239 | Metamorphosis | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/umysrnz7s084 | hgcloud.to | https://www.mediafire.com/file/v035jahahrbzl2g/Smallville_S01_Ep2_Hd_Mp4.mp4/file | www.mediafire.com |  |
 | 1 | 3 |  | 333240 | Hothead | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/740sifhu7fvn | hgcloud.to | https://www.mediafire.com/file/0klgqdbjmhmxxqp/Smallville_S01_Ep3_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 4 |  | 333241 | X-Ray | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/4exm91tzkqjy5y2/Smallville_S01_Ep4_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/4exm91tzkqjy5y2/Smallville_S01_Ep4_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 5 |  | 333242 | Cool | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/t9hd290m8fmc5mu/Smallville_S01_Ep5_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/t9hd290m8fmc5mu/Smallville_S01_Ep5_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 6 |  | 333243 | Hourglass | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/ep8eai0kwm80zw1/Smallville_S01_Ep6_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/ep8eai0kwm80zw1/Smallville_S01_Ep6_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 7 |  | 333244 | Craving | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/dadw57zz1nsmlxg/Smallville_S01_Ep7_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/dadw57zz1nsmlxg/Smallville_S01_Ep7_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 8 |  | 333245 | Jitters | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/zzk6qjx140v3i1j/Smallville_S01_Ep8_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/zzk6qjx140v3i1j/Smallville_S01_Ep8_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 9 |  | 333246 | Rogue | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/ygxdws7gnlagrvg/Smallville_S01_Ep9_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/ygxdws7gnlagrvg/Smallville_S01_Ep9_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 10 |  | 333247 | Shimmer | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/fig54f06rgh7tuu/Smallville_S01_Ep10_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/fig54f06rgh7tuu/Smallville_S01_Ep10_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 11 |  | 333248 | Hug | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/4pa2qkz6vtiaf8w/Smallville_S01_Ep11_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/4pa2qkz6vtiaf8w/Smallville_S01_Ep11_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 12 |  | 333249 | Leech | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/y7qkur4lxshatbs/Smallville_S01_Ep12_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/y7qkur4lxshatbs/Smallville_S01_Ep12_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 13 |  | 333250 | Kinetic | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/jjhqxi6wyidnds7/Smallville_S01_Ep13_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/jjhqxi6wyidnds7/Smallville_S01_Ep13_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 14 |  | 333251 | Zero | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/yxhw6gb20whwcm3/Smallville_S01_Ep14__Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/yxhw6gb20whwcm3/Smallville_S01_Ep14__Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 15 |  | 333237 | Nicodemus | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/fvlw6lf1t7dm6ub/Smallville_S01_Ep15_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/fvlw6lf1t7dm6ub/Smallville_S01_Ep15_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 16 |  | 333252 | Stray | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/a6a7ttw9ceb2onv/Smallville_S1_Ep16_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/a6a7ttw9ceb2onv/Smallville_S1_Ep16_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 17 |  | 333253 | Reaper | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/bgfk807p2ngzpvi/Smallville_S01_Ep17_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/bgfk807p2ngzpvi/Smallville_S01_Ep17_Hd_Mp4.mp4/file | www.mediafire.com |  |
-| 1 | 18 |  | 333254 | Drone | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://www.mediafire.com/file/whsja7i6dztjov9/Smallville_S01_Ep18_Hd_Mp4.mp4/file | www.mediafire.com | https://www.mediafire.com/file/whsja7i6dztjov9/Smallville_S01_Ep18_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 4 |  | 333241 | X-Ray | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/qpba6h30bb70 | hgcloud.to | https://www.mediafire.com/file/4exm91tzkqjy5y2/Smallville_S01_Ep4_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 5 |  | 333242 | Cool | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/cg0q6iaoivl9 | hgcloud.to | https://www.mediafire.com/file/t9hd290m8fmc5mu/Smallville_S01_Ep5_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 6 |  | 333243 | Hourglass | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/4jcf7sq3mtpi | hgcloud.to | https://www.mediafire.com/file/ep8eai0kwm80zw1/Smallville_S01_Ep6_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 7 |  | 333244 | Craving | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/qwubsroho1o9 | hgcloud.to | https://www.mediafire.com/file/dadw57zz1nsmlxg/Smallville_S01_Ep7_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 8 |  | 333245 | Jitters | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/5zni6jq5rhai | hgcloud.to | https://www.mediafire.com/file/zzk6qjx140v3i1j/Smallville_S01_Ep8_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 9 |  | 333246 | Rogue | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/bnkt2kdamgb9 | hgcloud.to | https://www.mediafire.com/file/ygxdws7gnlagrvg/Smallville_S01_Ep9_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 10 |  | 333247 | Shimmer | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/yqdl9xemr281 | hgcloud.to | https://www.mediafire.com/file/fig54f06rgh7tuu/Smallville_S01_Ep10_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 11 |  | 333248 | Hug | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/fuctrzl0hbvl | hgcloud.to | https://www.mediafire.com/file/4pa2qkz6vtiaf8w/Smallville_S01_Ep11_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 12 |  | 333249 | Leech | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/4j85hy1jlkji | hgcloud.to | https://www.mediafire.com/file/y7qkur4lxshatbs/Smallville_S01_Ep12_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 13 |  | 333250 | Kinetic | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/ii7be38k3z7q | hgcloud.to | https://www.mediafire.com/file/jjhqxi6wyidnds7/Smallville_S01_Ep13_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 14 |  | 333251 | Zero | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/cvt3odjxki6b | hgcloud.to | https://www.mediafire.com/file/yxhw6gb20whwcm3/Smallville_S01_Ep14__Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 15 |  | 333237 | Nicodemus | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/xst2t7zzfuzx | hgcloud.to | https://www.mediafire.com/file/fvlw6lf1t7dm6ub/Smallville_S01_Ep15_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 16 |  | 333252 | Stray | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/y9mu1s36p6n3 | hgcloud.to | https://www.mediafire.com/file/a6a7ttw9ceb2onv/Smallville_S1_Ep16_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 17 |  | 333253 | Reaper | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/kp2hhm6zbmj6 | hgcloud.to | https://www.mediafire.com/file/bgfk807p2ngzpvi/Smallville_S01_Ep17_Hd_Mp4.mp4/file | www.mediafire.com |  |
+| 1 | 18 |  | 333254 | Drone | Smallville Season 1 | https://oshakurfilms.com/watch/smallville-season-1 | https://hgcloud.to/e/d1xhpzt4eyg3 | hgcloud.to | https://www.mediafire.com/file/whsja7i6dztjov9/Smallville_S01_Ep18_Hd_Mp4.mp4/file | www.mediafire.com |  |
 
 ## Spartacus
 
@@ -36797,8 +37839,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2013-04-12`
 - number_of_seasons: `3`
 - number_of_episodes: `33`
-- vote_average: `8.026`
-- vote_count: `2939`
+- vote_average: `8.028`
+- vote_count: `2960`
 - genres: `Drama`
 - tv_show_row:
   - tmdb_id: `46296`
@@ -36810,8 +37852,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2013-04-12`
   - number_of_seasons: `3`
   - number_of_episodes: `33`
-  - vote_average: `8.026`
-  - vote_count: `2939`
+  - vote_average: `8.028`
+  - vote_count: `2960`
   - genres: `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=yHxn8mTpAJU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36857,7 +37899,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - number_of_seasons: `3`
 - number_of_episodes: `22`
 - vote_average: `7.856`
-- vote_count: `17434`
+- vote_count: `17491`
 - genres: `Action & Adventure`, `Mystery`, `Drama`
 - tv_show_row:
   - tmdb_id: `93405`
@@ -36870,7 +37912,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - number_of_seasons: `3`
   - number_of_episodes: `22`
   - vote_average: `7.856`
-  - vote_count: `17434`
+  - vote_count: `17491`
   - genres: `Action & Adventure`, `Mystery`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=oqxAJKy0ii4`
   - download_url: `OPTIONAL_NOT_SET`
@@ -36944,8 +37986,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2026-01-21`
 - number_of_seasons: `1`
 - number_of_episodes: `6`
-- vote_average: `7.4`
-- vote_count: `138`
+- vote_average: `7.449`
+- vote_count: `148`
 - genres: `Drama`, `Crime`, `Mystery`
 - tv_show_row:
   - tmdb_id: `254071`
@@ -36957,8 +37999,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2026-01-21`
   - number_of_seasons: `1`
   - number_of_episodes: `6`
-  - vote_average: `7.4`
-  - vote_count: `138`
+  - vote_average: `7.449`
+  - vote_count: `148`
   - genres: `Drama`, `Crime`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=8rMfMzNAJaM`
   - download_url: `OPTIONAL_NOT_SET`
@@ -37012,8 +38054,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2017-04-15`
 - number_of_seasons: `1`
 - number_of_episodes: `16`
-- vote_average: `8.051`
-- vote_count: `305`
+- vote_average: `8.064`
+- vote_count: `307`
 - genres: `Comedy`, `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `68814`
@@ -37025,8 +38067,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2017-04-15`
   - number_of_seasons: `1`
   - number_of_episodes: `16`
-  - vote_average: `8.051`
-  - vote_count: `305`
+  - vote_average: `8.064`
+  - vote_count: `307`
   - genres: `Comedy`, `Action & Adventure`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=HPle8DKUXbc`
   - download_url: `OPTIONAL_NOT_SET`
@@ -37090,8 +38132,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `1978-07-09`
 - number_of_seasons: `3`
 - number_of_episodes: `70`
-- vote_average: `6.7`
-- vote_count: `10`
+- vote_average: `6.636`
+- vote_count: `11`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `9865`
@@ -37103,8 +38145,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `1978-07-09`
   - number_of_seasons: `3`
   - number_of_episodes: `70`
-  - vote_average: `6.7`
-  - vote_count: `10`
+  - vote_average: `6.636`
+  - vote_count: `11`
   - genres: `Action & Adventure`, `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -37218,9 +38260,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - trailer_url: `https://www.youtube.com/watch?v=juUxaBE24YQ`
 - first_air_date: `2025-07-25`
 - last_air_date: `2025-07-25`
-- number_of_seasons: `1`
+- number_of_seasons: `2`
 - number_of_episodes: `6`
-- vote_average: `6.773`
+- vote_average: `6.8`
 - vote_count: `66`
 - genres: `Drama`, `Crime`, `Mystery`
 - tv_show_row:
@@ -37231,9 +38273,9 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - backdrop_path: `/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg`
   - first_air_date: `2025-07-25`
   - last_air_date: `2025-07-25`
-  - number_of_seasons: `1`
+  - number_of_seasons: `2`
   - number_of_episodes: `6`
-  - vote_average: `6.773`
+  - vote_average: `6.8`
   - vote_count: `66`
   - genres: `Drama`, `Crime`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=juUxaBE24YQ`
@@ -37242,26 +38284,20 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - status: `active`
   - scheduled_release: `OPTIONAL_NOT_SET`
 
-### Season 1
+### Season LOOKUP_REQUIRED
 
-- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
-- tmdb_unavailable_fields: `overview`
+- tmdb_available_fields: `none`
+- tmdb_unavailable_fields: `tmdb_id`, `name`, `overview`, `poster_path`, `poster_url`, `air_date`, `episode_count`
 - season_row:
   - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
-  - tmdb_id: `407613`
-  - season_number: `1`
-  - name: `Season 1`
-  - poster_path: `/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg`
-  - poster_url: `https://image.tmdb.org/t/p/w500/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg`
-  - air_date: `2025-07-25`
-  - episode_count: `6`
-  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+  - tmdb_id: `LOOKUP_REQUIRED`
+  - season_number: `LOOKUP_REQUIRED`
+  - name: `Season LOOKUP_REQUIRED`
+  - episode_count: `3`
+  - inference_notes: `Season not explicit in source and could not be inferred safely.`
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 |  | 5544418 | Episode 1 | The Assassin Ep1 - Dylan Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/the-assassin-ep1-dylan-agasobanuye-mu-kinyarwanda | https://hglink.to/e/mg0jvzkk1nx9 | hglink.to | https://www.mediafire.com/file/et09bkl1h63dedm/Assassins+Ep1.mp4/file | www.mediafire.com | Narrator guess: Dylan. |
-| 1 | 2 |  | 6384957 | Episode 2 | The Assassin Ep2 - Dylan Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/the-assassin-ep2-dylan-agasobanuye-mu-kinyarwanda | https://hglink.to/e/wye7rsja46or | hglink.to | https://www.mediafire.com/file/3wvmwq2rag4jgie/Assassin+ep2.mp4/file | www.mediafire.com | Narrator guess: Dylan. |
-| 1 | 3 |  | 6384958 | Episode 3 | The Assassin Ep3 - Dylan Agasobanuye Mu Kinyarwanda | https://oshakurfilms.com/watch/the-assassin-ep3-dylan-agasobanuye-mu-kinyarwanda | https://hglink.to/e/08x8a2xrzbnk | hglink.to | https://www.mediafire.com/file/3wvmwq2rag4jgie/Assassin+ep2.mp4/file | www.mediafire.com | Narrator guess: Dylan. |
 
 ## The Brave
 
@@ -37357,8 +38393,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-11-08`
 - number_of_seasons: `2`
 - number_of_episodes: `5`
-- vote_average: `6.7`
-- vote_count: `102`
+- vote_average: `6.6`
+- vote_count: `103`
 - genres: `Action & Adventure`, `Drama`
 - tv_show_row:
   - tmdb_id: `230003`
@@ -37370,8 +38406,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-11-08`
   - number_of_seasons: `2`
   - number_of_episodes: `5`
-  - vote_average: `6.7`
-  - vote_count: `102`
+  - vote_average: `6.6`
+  - vote_count: `103`
   - genres: `Action & Adventure`, `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Savimbi`
@@ -37415,8 +38451,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2025-06-29`
 - number_of_seasons: `6`
 - number_of_episodes: `48`
-- vote_average: `8.733`
-- vote_count: `883`
+- vote_average: `8.75`
+- vote_count: `903`
 - genres: `Action & Adventure`, `Family`, `Drama`
 - tv_show_row:
   - tmdb_id: `85077`
@@ -37428,8 +38464,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2025-06-29`
   - number_of_seasons: `6`
   - number_of_episodes: `48`
-  - vote_average: `8.733`
-  - vote_count: `883`
+  - vote_average: `8.75`
+  - vote_count: `903`
   - genres: `Action & Adventure`, `Family`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=5CVj41dtkIA`
   - download_url: `OPTIONAL_NOT_SET`
@@ -37474,8 +38510,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2025-06-03`
 - number_of_seasons: `4`
 - number_of_episodes: `46`
-- vote_average: `7.396`
-- vote_count: `241`
+- vote_average: `7.391`
+- vote_count: `244`
 - genres: `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `125282`
@@ -37487,8 +38523,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2025-06-03`
   - number_of_seasons: `4`
   - number_of_episodes: `46`
-  - vote_average: `7.396`
-  - vote_count: `241`
+  - vote_average: `7.391`
+  - vote_count: `244`
   - genres: `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=DZRRfMHxdAw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -37624,8 +38660,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-12-12`
 - number_of_seasons: `1`
 - number_of_episodes: `10`
-- vote_average: `8.2`
-- vote_count: `1142`
+- vote_average: `8.222`
+- vote_count: `1177`
 - genres: `Drama`, `Action & Adventure`, `Mystery`
 - tv_show_row:
   - tmdb_id: `222766`
@@ -37637,8 +38673,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-12-12`
   - number_of_seasons: `1`
   - number_of_episodes: `10`
-  - vote_average: `8.2`
-  - vote_count: `1142`
+  - vote_average: `8.222`
+  - vote_count: `1177`
   - genres: `Drama`, `Action & Adventure`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=EUb_04MdnMI`
   - download_url: `OPTIONAL_NOT_SET`
@@ -37695,8 +38731,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2022-05-02`
 - number_of_seasons: `1`
 - number_of_episodes: `10`
-- vote_average: `7.5`
-- vote_count: `116`
+- vote_average: `7.6`
+- vote_count: `117`
 - genres: `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `134375`
@@ -37708,8 +38744,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2022-05-02`
   - number_of_seasons: `1`
   - number_of_episodes: `10`
-  - vote_average: `7.5`
-  - vote_count: `116`
+  - vote_average: `7.6`
+  - vote_count: `117`
   - genres: `Crime`, `Drama`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Rocky`
@@ -37891,30 +38927,30 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - narrators_found: `Yakuza`
 - tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
 - tmdb_unavailable_fields: `trailer_url`
-- poster_path: `/znkKMWvlIzeJwHSe36BHTwtownc.jpg`
-- poster_url: `https://image.tmdb.org/t/p/w500/znkKMWvlIzeJwHSe36BHTwtownc.jpg`
-- backdrop_path: `/pHpeJbqbYE9rPCxK64o1tKopsDZ.jpg`
-- backdrop_url: `https://image.tmdb.org/t/p/original/pHpeJbqbYE9rPCxK64o1tKopsDZ.jpg`
+- poster_path: `/9ISFxYeaaAyKyV3YVM9SdovQf5c.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/9ISFxYeaaAyKyV3YVM9SdovQf5c.jpg`
+- backdrop_path: `/7Ot9aV285FAnTF1XCsN3DRX1kOP.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/7Ot9aV285FAnTF1XCsN3DRX1kOP.jpg`
 - first_air_date: `2015-02-02`
 - last_air_date: `2016-10-07`
 - number_of_seasons: `1`
 - number_of_episodes: `442`
 - vote_average: `4.5`
 - vote_count: `2`
-- genres: `Soap`
+- genres: `Soap`, `Drama`, `Family`
 - tv_show_row:
   - tmdb_id: `99887`
   - name: `The Great Emperor Ashoka`
   - overview: `The story of Ashoka, emperor of the Maurya Empire, from his early struggles to his reign as a ruthless emperor.`
-  - poster_path: `/znkKMWvlIzeJwHSe36BHTwtownc.jpg`
-  - backdrop_path: `/pHpeJbqbYE9rPCxK64o1tKopsDZ.jpg`
+  - poster_path: `/9ISFxYeaaAyKyV3YVM9SdovQf5c.jpg`
+  - backdrop_path: `/7Ot9aV285FAnTF1XCsN3DRX1kOP.jpg`
   - first_air_date: `2015-02-02`
   - last_air_date: `2016-10-07`
   - number_of_seasons: `1`
   - number_of_episodes: `442`
   - vote_average: `4.5`
   - vote_count: `2`
-  - genres: `Soap`
+  - genres: `Soap`, `Drama`, `Family`
   - download_url: `OPTIONAL_NOT_SET`
   - narrator: `Yakuza`
   - status: `active`
@@ -38017,8 +39053,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2019-09-12`
 - number_of_seasons: `1`
 - number_of_episodes: `7`
-- vote_average: `5.471`
-- vote_count: `308`
+- vote_average: `5.453`
+- vote_count: `311`
 - genres: `Drama`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `90755`
@@ -38030,8 +39066,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2019-09-12`
   - number_of_seasons: `1`
   - number_of_episodes: `7`
-  - vote_average: `5.471`
-  - vote_count: `308`
+  - vote_average: `5.453`
+  - vote_count: `311`
   - genres: `Drama`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=a1nhfV2YANk`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38086,8 +39122,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2017-01-25`
 - number_of_seasons: `1`
 - number_of_episodes: `20`
-- vote_average: `7.433`
-- vote_count: `210`
+- vote_average: `7.4`
+- vote_count: `212`
 - genres: `Comedy`, `Drama`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `67018`
@@ -38099,8 +39135,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2017-01-25`
   - number_of_seasons: `1`
   - number_of_episodes: `20`
-  - vote_average: `7.433`
-  - vote_count: `210`
+  - vote_average: `7.4`
+  - vote_count: `212`
   - genres: `Comedy`, `Drama`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=G_jt3EwBMwU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38126,18 +39162,18 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - episode_rows:
 | season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 |  | 1204165 | Destiny | Blue Sea Ep1 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep1-rocky | https://hgcloud.to/e/plioojts0ec7 | hgcloud.to | https://www.mediafire.com/file/7anwuvcl2uthl9h/Legend_Of_The_Blue_Sae_Ep1_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 2 |  | 1235721 | Meet | Blue Sea Ep2 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep2-rocky | https://hgcloud.to/e/hpu7hx2uelmc | hgcloud.to | https://www.mediafire.com/file/uxpqepjz916tlv3/Legend_Of_The_Blue_Sea_Ep2_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 3 |  | 1240293 | Find Again | Blue Sea Ep3 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep3-rocky | https://hgcloud.to/e/0rxo3vk9ry74 | hgcloud.to | https://www.mediafire.com/file/qbqoxeu1wkp96kh/Legend_Of_The_Blue_Sea_Ep3_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 4 |  | 1240294 | Premonition | Blue Sea Ep4 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep4-rocky | https://hgcloud.to/e/oy3s6kazgxbz | hgcloud.to | https://www.mediafire.com/file/k8c1g6ftb2pvreg/Legend_Of_The_Blue_Sea_Ep4_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 5 |  | 1240295 | Reduplicate | Blue Sea Ep5 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep5-rocky | https://hgcloud.to/e/oksxx9tde57x | hgcloud.to | https://www.mediafire.com/file/idaqhncz243brw2/Legend_Of_The_Blue_Sea_Ep5_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 6 |  | 1240296 | Jealousy | Blue Sea Ep6 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep6-rocky | https://hgcloud.to/e/vsf1sxqli2wu | hgcloud.to | https://www.mediafire.com/file/n63aj4t0p3a0g53/Legend_Of_The_Blue_Sea_Ep6_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 7 |  | 1240297 | Jealousy for Love | Blue Sea Ep7 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep7-rocky | https://hgcloud.to/e/b2waxlywn8fh | hgcloud.to | https://www.mediafire.com/file/w7hw7h4qm4k9u0b/Legend_Of_The_Blue_Sea_Ep7_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 8 |  | 1240298 | Sincere | Blue Sea Ep8 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep8-rocky | https://hgcloud.to/e/y7pytxbyne3y | hgcloud.to | https://www.mediafire.com/file/jk87f761ea3bbws/Legend_Of_The_Blue_Sea_Ep8_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 9 |  | 1247467 | Reveal | Blue Sea Ep9 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep9-rocky | https://hgcloud.to/e/llqyrew6ddyl | hgcloud.to | https://www.mediafire.com/file/w05agrg7pq3cba7/Legend_Of_The_Blue_Sea_Ep9_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 10 |  | 1247543 | Altruism | Blue Sea Ep10 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep10-rocky | https://hgcloud.to/e/sq8ro1v19wx9 | hgcloud.to | https://www.mediafire.com/file/vxaoae28g68oxmc/Legend_Of_The_Blue_Sea_Ep10_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 11 |  | 1249246 | Hurt | Blue Sea Ep11 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep11-rocky | https://hgcloud.to/e/2ar0826j03cm | hgcloud.to | https://www.mediafire.com/file/esw1oa1abs45xs9/Legend_Of_The_Blue_Sea_Ep11_Hurt.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
-| 1 | 12 |  | 1249310 | Sweet | Blue Sea Ep12 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep12-rocky | https://hgcloud.to/e/a1knevgls2zt | hgcloud.to | https://www.mediafire.com/file/1ba224utg0uyrzk/Legend_Of_The_Blue_Sea_Ep12_Sweet.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 1 |  | 1204165 | Episode 1 | Blue Sea Ep1 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep1-rocky | https://hgcloud.to/e/plioojts0ec7 | hgcloud.to | https://www.mediafire.com/file/7anwuvcl2uthl9h/Legend_Of_The_Blue_Sae_Ep1_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 2 |  | 1235721 | Episode 2 | Blue Sea Ep2 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep2-rocky | https://hgcloud.to/e/hpu7hx2uelmc | hgcloud.to | https://www.mediafire.com/file/uxpqepjz916tlv3/Legend_Of_The_Blue_Sea_Ep2_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 3 |  | 1240293 | Episode 3 | Blue Sea Ep3 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep3-rocky | https://hgcloud.to/e/0rxo3vk9ry74 | hgcloud.to | https://www.mediafire.com/file/qbqoxeu1wkp96kh/Legend_Of_The_Blue_Sea_Ep3_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 4 |  | 1240294 | Episode 4 | Blue Sea Ep4 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep4-rocky | https://hgcloud.to/e/oy3s6kazgxbz | hgcloud.to | https://www.mediafire.com/file/k8c1g6ftb2pvreg/Legend_Of_The_Blue_Sea_Ep4_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 5 |  | 1240295 | Episode 5 | Blue Sea Ep5 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep5-rocky | https://hgcloud.to/e/oksxx9tde57x | hgcloud.to | https://www.mediafire.com/file/idaqhncz243brw2/Legend_Of_The_Blue_Sea_Ep5_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 6 |  | 1240296 | Episode 6 | Blue Sea Ep6 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep6-rocky | https://hgcloud.to/e/vsf1sxqli2wu | hgcloud.to | https://www.mediafire.com/file/n63aj4t0p3a0g53/Legend_Of_The_Blue_Sea_Ep6_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 7 |  | 1240297 | Episode 7 | Blue Sea Ep7 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep7-rocky | https://hgcloud.to/e/b2waxlywn8fh | hgcloud.to | https://www.mediafire.com/file/w7hw7h4qm4k9u0b/Legend_Of_The_Blue_Sea_Ep7_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 8 |  | 1240298 | Episode 8 | Blue Sea Ep8 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep8-rocky | https://hgcloud.to/e/y7pytxbyne3y | hgcloud.to | https://www.mediafire.com/file/jk87f761ea3bbws/Legend_Of_The_Blue_Sea_Ep8_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 9 |  | 1247467 | Episode 9 | Blue Sea Ep9 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep9-rocky | https://hgcloud.to/e/llqyrew6ddyl | hgcloud.to | https://www.mediafire.com/file/w05agrg7pq3cba7/Legend_Of_The_Blue_Sea_Ep9_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 10 |  | 1247543 | Episode 10 | Blue Sea Ep10 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep10-rocky | https://hgcloud.to/e/sq8ro1v19wx9 | hgcloud.to | https://www.mediafire.com/file/vxaoae28g68oxmc/Legend_Of_The_Blue_Sea_Ep10_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 11 |  | 1249246 | Episode 11 | Blue Sea Ep11 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep11-rocky | https://hgcloud.to/e/2ar0826j03cm | hgcloud.to | https://www.mediafire.com/file/esw1oa1abs45xs9/Legend_Of_The_Blue_Sea_Ep11_Hurt.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
+| 1 | 12 |  | 1249310 | Episode 12 | Blue Sea Ep12 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep12-rocky | https://hgcloud.to/e/a1knevgls2zt | hgcloud.to | https://www.mediafire.com/file/1ba224utg0uyrzk/Legend_Of_The_Blue_Sea_Ep12_Sweet.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
 | 1 | 13 |  | 1249681 | Episode 13 | Blue Sea Ep13 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep13-rocky | https://hgcloud.to/e/g6n5oizol5ye | hgcloud.to | https://www.mediafire.com/file/1ba224utg0uyrzk/Legend_Of_The_Blue_Sea_Ep12_Sweet.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
 | 1 | 14 |  | 1250332 | Episode 14 | Blue Sea Ep14 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep14-rocky | https://hgcloud.to/e/a1vbrrcx6fvk | hgcloud.to | https://www.mediafire.com/file/idwqqiqmncn5tpq/Legend_Of_Blue_Sea_Ep14_Hd_Mp4.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
 | 1 | 15 |  | 1250638 | Episode 15 | Blue Sea Ep15 . Rocky | https://oshakurfilms.com/watch/blue-sea-ep15-rocky | https://hgcloud.to/e/xbii7cdwwpxp | hgcloud.to | https://www.mediafire.com/file/k5awq276zx4wgpo/Legend_Of_The_Blue_Sea_Ep15.mp4/file | www.mediafire.com | Narrator guess: Rocky. |
@@ -38238,8 +39274,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-10-03`
 - number_of_seasons: `3`
 - number_of_episodes: `17`
-- vote_average: `7.239`
-- vote_count: `3712`
+- vote_average: `7.238`
+- vote_count: `3745`
 - genres: `Action & Adventure`, `Sci-Fi & Fantasy`, `Drama`
 - tv_show_row:
   - tmdb_id: `84773`
@@ -38251,8 +39287,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-10-03`
   - number_of_seasons: `3`
   - number_of_episodes: `17`
-  - vote_average: `7.239`
-  - vote_count: `3712`
+  - vote_average: `7.238`
+  - vote_count: `3745`
   - genres: `Action & Adventure`, `Sci-Fi & Fantasy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=x8UAUAuKNcU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38297,8 +39333,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2025-12-03`
 - number_of_seasons: `1`
 - number_of_episodes: `12`
-- vote_average: `8.436`
-- vote_count: `110`
+- vote_average: `8.266`
+- vote_count: `124`
 - genres: `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `239385`
@@ -38310,8 +39346,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2025-12-03`
   - number_of_seasons: `1`
   - number_of_episodes: `12`
-  - vote_average: `8.436`
-  - vote_count: `110`
+  - vote_average: `8.266`
+  - vote_count: `124`
   - genres: `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=cXPDFkuLfhs`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38371,8 +39407,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2026-02-19`
 - number_of_seasons: `3`
 - number_of_episodes: `30`
-- vote_average: `7.713`
-- vote_count: `1162`
+- vote_average: `7.706`
+- vote_count: `1176`
 - genres: `Action & Adventure`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `129552`
@@ -38384,8 +39420,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2026-02-19`
   - number_of_seasons: `3`
   - number_of_episodes: `30`
-  - vote_average: `7.713`
-  - vote_count: `1162`
+  - vote_average: `7.706`
+  - vote_count: `1176`
   - genres: `Action & Adventure`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=YDbnY9Obsfs`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38455,8 +39491,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2018-08-01`
 - number_of_seasons: `5`
 - number_of_episodes: `92`
-- vote_average: `8.6`
-- vote_count: `3583`
+- vote_average: `8.585`
+- vote_count: `3592`
 - genres: `Sci-Fi & Fantasy`, `Drama`, `Mystery`
 - tv_show_row:
   - tmdb_id: `46896`
@@ -38468,8 +39504,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2018-08-01`
   - number_of_seasons: `5`
   - number_of_episodes: `92`
-  - vote_average: `8.6`
-  - vote_count: `3583`
+  - vote_average: `8.585`
+  - vote_count: `3592`
   - genres: `Sci-Fi & Fantasy`, `Drama`, `Mystery`
   - trailer_url: `https://www.youtube.com/watch?v=GXrDYboUnnw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38544,8 +39580,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-11-10`
 - number_of_seasons: `1`
 - number_of_episodes: `8`
-- vote_average: `8.356`
-- vote_count: `1333`
+- vote_average: `8.4`
+- vote_count: `1360`
 - genres: `Drama`, `Crime`
 - tv_show_row:
   - tmdb_id: `194764`
@@ -38557,8 +39593,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-11-10`
   - number_of_seasons: `1`
   - number_of_episodes: `8`
-  - vote_average: `8.356`
-  - vote_count: `1333`
+  - vote_average: `8.4`
+  - vote_count: `1360`
   - genres: `Drama`, `Crime`
   - trailer_url: `https://www.youtube.com/watch?v=sfJG6IiA_s8`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38592,6 +39628,76 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 | 1 | 6 |  | 5514594 | Gold Summit | The Penguin Ep6 - SANKRA | https://oshakurfilms.com/watch/the-penguin-ep6-sankra | https://ghbrisk.com/e/dqdyz0v3z4cn | ghbrisk.com | https://www.mediafire.com/file/qd66f13aqaf1njc/The_Penguin_Ep6_2024.mp4/file | www.mediafire.com | Narrator guess: Sankra. |
 | 1 | 7 |  | 5514596 | Top Hat | The Penguin Ep7 - SANKRA | https://oshakurfilms.com/watch/the-penguin-ep7-sankra | https://ghbrisk.com/e/374pwdyltp8g | ghbrisk.com | https://www.mediafire.com/file/q8j72c60ox2sn6l/The_Penguin_Ep7_2024.mp4/file | www.mediafire.com | Narrator guess: Sankra. |
 | 1 | 8 |  | 5514597 | A Great or Little Thing | The Penguin Ep8 FInal - SANKRA | https://oshakurfilms.com/watch/the-penguin-ep8-final-sankra | https://www.mediafire.com/file/nqdgiravkzm3tds/the+penguin+EP8FINAL.mp4/file | www.mediafire.com | https://www.mediafire.com/file/nqdgiravkzm3tds/the+penguin+EP8FINAL.mp4/file | www.mediafire.com |  |
+
+## The Polygamist
+
+- content_type: `tv_show`
+- upload_target_tables: `tv_shows`, `seasons`, `episodes`
+- tmdb_match_status: `exact`
+- tmdb_match_notes: `Canonical title/name matched normalized query exactly.`
+- real_tmdb_id: `322430`
+- canonical_name: `The Polygamist`
+- original_name: `The Polygamist`
+- aliases_found_in_source: `The Polygamist`
+- narrators_found: `Junior Giti`
+- tmdb_available_fields: `poster_path`, `poster_url`, `backdrop_path`, `backdrop_url`, `trailer_url`, `first_air_date`, `last_air_date`, `number_of_seasons`, `number_of_episodes`, `vote_average`, `vote_count`, `genres`, `overview`
+- tmdb_unavailable_fields: `none`
+- poster_path: `/emnQZe22rYBCsbZ7h1TUAkYEzrZ.jpg`
+- poster_url: `https://image.tmdb.org/t/p/w500/emnQZe22rYBCsbZ7h1TUAkYEzrZ.jpg`
+- backdrop_path: `/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg`
+- backdrop_url: `https://image.tmdb.org/t/p/original/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg`
+- trailer_url: `https://www.youtube.com/watch?v=KBJllQVRuAA`
+- first_air_date: `2026-06-12`
+- last_air_date: `2026-06-12`
+- number_of_seasons: `1`
+- number_of_episodes: `22`
+- vote_average: `8.7`
+- vote_count: `60`
+- genres: `Drama`, `Soap`
+- tv_show_row:
+  - tmdb_id: `322430`
+  - name: `The Polygamist`
+  - overview: `Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.`
+  - poster_path: `/emnQZe22rYBCsbZ7h1TUAkYEzrZ.jpg`
+  - backdrop_path: `/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg`
+  - first_air_date: `2026-06-12`
+  - last_air_date: `2026-06-12`
+  - number_of_seasons: `1`
+  - number_of_episodes: `22`
+  - vote_average: `8.7`
+  - vote_count: `60`
+  - genres: `Drama`, `Soap`
+  - trailer_url: `https://www.youtube.com/watch?v=KBJllQVRuAA`
+  - download_url: `OPTIONAL_NOT_SET`
+  - narrator: `Junior Giti`
+  - status: `active`
+  - scheduled_release: `OPTIONAL_NOT_SET`
+
+### Season 1
+
+- tmdb_available_fields: `tmdb_id`, `name`, `poster_path`, `poster_url`, `air_date`, `episode_count`
+- tmdb_unavailable_fields: `overview`
+- season_row:
+  - tv_show_id: `RESOLVED_AFTER_TV_SHOW_INSERT`
+  - tmdb_id: `516269`
+  - season_number: `1`
+  - name: `Season 1`
+  - poster_path: `/lNr7cCi4olQ13hq21t3Q0mIQMKh.jpg`
+  - poster_url: `https://image.tmdb.org/t/p/w500/lNr7cCi4olQ13hq21t3Q0mIQMKh.jpg`
+  - air_date: `2026-06-12`
+  - episode_count: `22`
+  - inference_notes: `Inferred season 1 because TMDB show has exactly one season.`
+- episode_rows:
+| season_number | episode_number | episode_suffix | tmdb_episode_id | canonical_episode_name | source_title | source_page_url | embed_url | watch_host | download_url | download_host | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1 |  | 7268571 | Episode 1 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/vzuffqeh9654 | hgcloud.to | https://www.mediafire.com/file/1kk2y0epkwu5eid/Polygamist_2026_Ep1.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 2 |  | 7379587 | Episode 2 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/pgaurdge8lj3 | hgcloud.to | https://www.mediafire.com/file/43ehwbdcohd7uvp/Polygamist_2026_Ep2.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 3 |  | 7379591 | Episode 3 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/95ewpl6g8n1m | hgcloud.to | https://www.mediafire.com/file/t8w5v9yx7i0l1t1/Polygamist_%25282026%2529_Ep3.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 4 |  | 7379593 | Episode 4 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/oz047wo6a8ck | hgcloud.to | https://www.mediafire.com/file/7uettxr0vttbco9/Polygamist_%25282026%2529_Ep4.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 5 |  | 7379595 | Episode 5 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/citbc1cvtpnq | hgcloud.to | https://www.mediafire.com/file/y17y384buxuo83i/Polygamist_%25282026%2529_Ep5.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 6 |  | 7379597 | Episode 6 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/z12g9mw37p87 | hgcloud.to | https://www.mediafire.com/file/qnj8hzh6xz2f8t5/Polygamist_%25282026%2529_Ep6.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 7 |  | 7379600 | Episode 7 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/m73a5jmh9b1z | hgcloud.to | https://www.mediafire.com/file/i6m9ehlmi13dikh/Polygamist_%25282026%2529_Ep7.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
+| 1 | 8 |  | 7379601 | Episode 8 | The Polygamist Junior Giti | https://oshakurfilms.com/watch/the-polygamist-junior-giti | https://hgcloud.to/e/f0jkfhlfmvxu | hgcloud.to | https://www.mediafire.com/file/fwiv52qk5hknunh/Polygamist_%25282026%2529_Ep8.mp4/file | www.mediafire.com | Narrator guess: Junior Giti. |
 
 ## The Secret Circle
 
@@ -38699,8 +39805,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2017-11-22`
 - number_of_seasons: `2`
 - number_of_episodes: `20`
-- vote_average: `6.947`
-- vote_count: `1028`
+- vote_average: `6.951`
+- vote_count: `1031`
 - genres: `Action & Adventure`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `64122`
@@ -38712,8 +39818,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2017-11-22`
   - number_of_seasons: `2`
   - number_of_episodes: `20`
-  - vote_average: `6.947`
-  - vote_count: `1028`
+  - vote_average: `6.951`
+  - vote_count: `1031`
   - genres: `Action & Adventure`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=rCr3z_sTSNU`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38787,8 +39893,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2017-03-10`
 - number_of_seasons: `8`
 - number_of_episodes: `171`
-- vote_average: `8.3`
-- vote_count: `9613`
+- vote_average: `8.302`
+- vote_count: `9641`
 - genres: `Drama`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `18165`
@@ -38800,8 +39906,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2017-03-10`
   - number_of_seasons: `8`
   - number_of_episodes: `171`
-  - vote_average: `8.3`
-  - vote_count: `9613`
+  - vote_average: `8.302`
+  - vote_count: `9641`
   - genres: `Drama`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=RO3Qp_XdR0w`
   - download_url: `OPTIONAL_NOT_SET`
@@ -38999,8 +40105,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2021-02-19`
 - number_of_seasons: `1`
 - number_of_episodes: `6`
-- vote_average: `6.942`
-- vote_count: `397`
+- vote_average: `6.957`
+- vote_count: `399`
 - genres: `Sci-Fi & Fantasy`, `Drama`
 - tv_show_row:
   - tmdb_id: `93808`
@@ -39012,8 +40118,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2021-02-19`
   - number_of_seasons: `1`
   - number_of_episodes: `6`
-  - vote_average: `6.942`
-  - vote_count: `397`
+  - vote_average: `6.957`
+  - vote_count: `399`
   - genres: `Sci-Fi & Fantasy`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=rzSjOGxl6Sc`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39349,8 +40455,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2020-12-30`
 - number_of_seasons: `6`
 - number_of_episodes: `89`
-- vote_average: `8.094`
-- vote_count: `7635`
+- vote_average: `8.095`
+- vote_count: `7665`
 - genres: `Action & Adventure`, `Drama`, `War & Politics`
 - tv_show_row:
   - tmdb_id: `44217`
@@ -39362,8 +40468,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2020-12-30`
   - number_of_seasons: `6`
   - number_of_episodes: `89`
-  - vote_average: `8.094`
-  - vote_count: `7635`
+  - vote_average: `8.095`
+  - vote_count: `7665`
   - genres: `Action & Adventure`, `Drama`, `War & Politics`
   - trailer_url: `https://www.youtube.com/watch?v=7rcozIVtujw`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39563,8 +40669,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2024-07-11`
 - number_of_seasons: `3`
 - number_of_episodes: `24`
-- vote_average: `7.634`
-- vote_count: `1037`
+- vote_average: `7.626`
+- vote_count: `1045`
 - genres: `Action & Adventure`, `Drama`, `War & Politics`
 - tv_show_row:
   - tmdb_id: `116135`
@@ -39576,8 +40682,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2024-07-11`
   - number_of_seasons: `3`
   - number_of_episodes: `24`
-  - vote_average: `7.634`
-  - vote_count: `1037`
+  - vote_average: `7.626`
+  - vote_count: `1045`
   - genres: `Action & Adventure`, `Drama`, `War & Politics`
   - trailer_url: `https://www.youtube.com/watch?v=Yi4YnwFT7Gk`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39819,8 +40925,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2023-08-24`
 - number_of_seasons: `1`
 - number_of_episodes: `7`
-- vote_average: `6.998`
-- vote_count: `228`
+- vote_average: `6.993`
+- vote_count: `229`
 - genres: `Action & Adventure`, `Crime`, `Drama`
 - tv_show_row:
   - tmdb_id: `227318`
@@ -39832,8 +40938,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2023-08-24`
   - number_of_seasons: `1`
   - number_of_episodes: `7`
-  - vote_average: `6.998`
-  - vote_count: `228`
+  - vote_average: `6.993`
+  - vote_count: `229`
   - genres: `Action & Adventure`, `Crime`, `Drama`
   - trailer_url: `https://www.youtube.com/watch?v=gds0zp5-oh0`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39881,7 +40987,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `2022-05-18`
 - number_of_seasons: `3`
 - number_of_episodes: `25`
-- vote_average: `7.579`
+- vote_average: `7.578`
 - vote_count: `1216`
 - genres: `Drama`, `Crime`, `Mystery`
 - tv_show_row:
@@ -39894,7 +41000,7 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `2022-05-18`
   - number_of_seasons: `3`
   - number_of_episodes: `25`
-  - vote_average: `7.579`
+  - vote_average: `7.578`
   - vote_count: `1216`
   - genres: `Drama`, `Crime`, `Mystery`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39939,8 +41045,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `1994-12-17`
 - number_of_seasons: `4`
 - number_of_episodes: `112`
-- vote_average: `8.475`
-- vote_count: `486`
+- vote_average: `8.455`
+- vote_count: `490`
 - genres: `Animation`, `Action & Adventure`, `Sci-Fi & Fantasy`
 - tv_show_row:
   - tmdb_id: `30669`
@@ -39952,8 +41058,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `1994-12-17`
   - number_of_seasons: `4`
   - number_of_episodes: `112`
-  - vote_average: `8.475`
-  - vote_count: `486`
+  - vote_average: `8.455`
+  - vote_count: `490`
   - genres: `Animation`, `Action & Adventure`, `Sci-Fi & Fantasy`
   - trailer_url: `https://www.youtube.com/watch?v=AtjinyUUh6w`
   - download_url: `OPTIONAL_NOT_SET`
@@ -39998,8 +41104,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
 - last_air_date: `1959-07-02`
 - number_of_seasons: `2`
 - number_of_episodes: `78`
-- vote_average: `7.497`
-- vote_count: `194`
+- vote_average: `7.535`
+- vote_count: `201`
 - genres: `Western`, `Action & Adventure`
 - tv_show_row:
   - tmdb_id: `4681`
@@ -40011,8 +41117,8 @@ Luffy will do anything to get the One Piece and become King of the Pirates!`
   - last_air_date: `1959-07-02`
   - number_of_seasons: `2`
   - number_of_episodes: `78`
-  - vote_average: `7.497`
-  - vote_count: `194`
+  - vote_average: `7.535`
+  - vote_count: `201`
   - genres: `Western`, `Action & Adventure`
   - trailer_url: `https://www.youtube.com/watch?v=fKGY6WEadR4`
   - download_url: `OPTIONAL_NOT_SET`
