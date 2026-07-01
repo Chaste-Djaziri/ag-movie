@@ -122,7 +122,7 @@ export function Navigation() {
     ...headerIcons,
   ]
 
-  if (pathname === "/" || pathname === "/login" || pathname === "/signup" || pathname === "/forgot-password" || pathname === "/verify" || pathname === "/complete-profile" || pathname === "/subscribe") return null
+  if (pathname === "/" || pathname === "/login" || pathname === "/signup" || pathname === "/forgot-password" || pathname === "/verify" || pathname === "/complete-profile" || pathname === "/subscribe" || pathname?.startsWith("/admin")) return null
 
   return (
     <>
