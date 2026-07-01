@@ -117,6 +117,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <head>
         <meta name="theme-color" content="#0071eb" />
+        <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#0071eb" />
         <Script id="aclib" strategy="beforeInteractive" src="//acscdn.com/script/aclib.js" />
