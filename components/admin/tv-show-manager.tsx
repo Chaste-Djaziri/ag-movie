@@ -454,7 +454,7 @@ export function TVShowManager() {
                     <CardContent className="p-4">
                       <div className="flex gap-3">
                         <img
-                          src={getTMDBImageUrl(show.poster_path, "w92") || "/placeholder.svg"}
+                          src={getTMDBImageUrl(show.poster_path || "", "w92") || "/placeholder.svg"}
                           alt={show.name}
                           className="w-16 h-24 object-cover rounded"
                         />
@@ -488,7 +488,7 @@ export function TVShowManager() {
               <CardContent className="space-y-4">
                 <div className="flex gap-4">
                   <img
-                    src={getTMDBImageUrl(selectedShow.poster_path) || "/placeholder.svg"}
+                    src={getTMDBImageUrl(selectedShow.poster_path || "") || "/placeholder.svg"}
                     alt={selectedShow.name}
                     className="w-32 h-48 object-cover rounded"
                   />
@@ -619,7 +619,7 @@ export function TVShowManager() {
                   <CardContent className="p-4">
                     <div className="flex gap-3">
                       <img
-                        src={getTMDBImageUrl(show.poster_path, "w92") || "/placeholder.svg"}
+                        src={getTMDBImageUrl(show.poster_path || "", "w92") || "/placeholder.svg"}
                         alt={show.name}
                         className="w-16 h-24 object-cover rounded"
                       />
@@ -797,7 +797,7 @@ export function TVShowManager() {
                       <CardContent className="p-4">
                         <div className="flex gap-3">
                           <img
-                            src={getTMDBImageUrl(show.poster_path, "w92") || "/placeholder.svg"}
+                            src={getTMDBImageUrl(show.poster_path || "", "w92") || "/placeholder.svg"}
                             alt={show.name}
                             className="w-16 h-24 object-cover rounded"
                           />
