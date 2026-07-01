@@ -251,7 +251,7 @@ export default function HomePage() {
       {!isSubscribed && (
         <div className="px-4 sm:px-6 md:px-12 mt-8 z-20 relative">
           <div className="w-full bg-gradient-to-r from-[#004488] via-[#0071eb] to-[#004488] py-4 md:py-6 px-4 sm:px-8 relative overflow-hidden flex items-center justify-center rounded-2xl border border-white/10 shadow-[0_0_30px_rgba(0,113,235,0.2)]">
-            <div className="absolute inset-0 bg-[url('/noise.png')] opacity-10 mix-blend-overlay"></div>
+            <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20200%20200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cfilter%20id%3D%22noiseFilter%22%3E%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.8%22%20numOctaves%3D%223%22%20stitchTiles%3D%22stitch%22%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20filter%3D%22url(%23noiseFilter)%22%2F%3E%3C%2Fsvg%3E')] opacity-[0.03] mix-blend-overlay"></div>
             <div className="relative z-10 flex flex-col lg:flex-row items-center justify-between w-full gap-4 text-center lg:text-left">
               <div className="flex items-center gap-4 flex-col lg:flex-row">
                 <div className="bg-white text-[#0071eb] px-3 py-1 rounded-full text-xs font-black uppercase tracking-widest shadow-md flex-shrink-0">
