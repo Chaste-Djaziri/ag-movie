@@ -1,4 +1,13 @@
 import { NextRequest, NextResponse } from "next/server"
+import dns from "dns"
+
+// Force Node.js to resolve DNS using IPv4 first.
+// This prevents slow IPv6 connection hangs/timeouts common in Node.js (Node 17+).
+try {
+  dns.setDefaultResultOrder("ipv4first")
+} catch (e) {
+  console.warn("Could not set DNS result order to ipv4first:", e)
+}
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url)
@@ -14,11 +23,16 @@ export async function GET(request: NextRequest) {
   const imageUrl = `https://image.tmdb.org/t/p/${size}${cleanPath}`
 
   try {
-    // Set a timeout of 3.5 seconds so the request doesn't hang indefinitely
+    // Set a timeout of 5 seconds
     const controller = new AbortController()
-    const timeoutId = setTimeout(() => controller.abort(), 3500)
+    const timeoutId = setTimeout(() => controller.abort(), 5000)
 
-    const response = await fetch(imageUrl, { signal: controller.signal })
+    const response = await fetch(imageUrl, {
+      signal: controller.signal,
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      }
+    })
     clearTimeout(timeoutId)
 
     if (!response.ok) {
