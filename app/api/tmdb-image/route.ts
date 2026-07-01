@@ -5,8 +5,8 @@ export async function GET(request: NextRequest) {
   const path = searchParams.get("path")
   const size = searchParams.get("size") || "w500"
 
-  if (!path) {
-    return new NextResponse("Missing path", { status: 400 })
+  if (!path || path === "null" || path === "undefined" || path === "") {
+    return servePlaceholder()
   }
 
   // Ensure path starts with a slash
@@ -14,9 +14,16 @@ export async function GET(request: NextRequest) {
   const imageUrl = `https://image.tmdb.org/t/p/${size}${cleanPath}`
 
   try {
-    const response = await fetch(imageUrl)
+    // Set a timeout of 3.5 seconds so the request doesn't hang indefinitely
+    const controller = new AbortController()
+    const timeoutId = setTimeout(() => controller.abort(), 3500)
+
+    const response = await fetch(imageUrl, { signal: controller.signal })
+    clearTimeout(timeoutId)
+
     if (!response.ok) {
-      return new NextResponse(`Failed to fetch image from TMDB: ${response.statusText}`, { status: response.status })
+      console.warn(`TMDB fetch failed for ${imageUrl}: ${response.status} ${response.statusText}`)
+      return servePlaceholder()
     }
 
     const contentType = response.headers.get("content-type") || "image/jpeg"
@@ -25,11 +32,38 @@ export async function GET(request: NextRequest) {
     return new NextResponse(buffer, {
       headers: {
         "Content-Type": contentType,
-        "Cache-Control": "public, max-age=31536000, immutable",
+        "Cache-Control": "public, max-age=86400, stale-while-revalidate=43200", // cache for 1 day
       },
     })
   } catch (error) {
-    console.error("Error proxying TMDB image:", error)
-    return new NextResponse("Internal Server Error", { status: 500 })
+    console.error("Error proxying TMDB image, serving placeholder:", error)
+    return servePlaceholder()
   }
+}
+
+function servePlaceholder() {
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 750" width="100%" height="100%">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0e1726" />
+        <stop offset="100%" stop-color="#030712" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#g)"/>
+    <rect x="20" y="20" width="460" height="710" rx="16" fill="none" stroke="#0071eb" stroke-opacity="0.1" stroke-width="2"/>
+    <g transform="translate(250, 320)" stroke="#0071eb" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.3">
+      <rect x="-30" y="-30" width="60" height="60" rx="6" />
+      <circle cx="-10" cy="-10" r="6" />
+      <path d="M-30 20 L-10 -5 L10 15 L20 5 L30 20" />
+    </g>
+    <text x="250" y="420" fill="#4b5563" font-family="system-ui, sans-serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="1">IMAGE UNAVAILABLE</text>
+    <text x="250" y="450" fill="#374151" font-family="system-ui, sans-serif" font-size="14" font-weight="500" text-anchor="middle">Network Connection Issue</text>
+  </svg>`
+
+  return new NextResponse(svg, {
+    headers: {
+      "Content-Type": "image/svg+xml",
+      "Cache-Control": "public, max-age=3600", // cache placeholder for 1 hour
+    },
+  })
 }
