@@ -6,6 +6,7 @@ import { getTMDBImageUrl } from "@/lib/tmdb"
 import type { Movie, TVShow } from "@/lib/types"
 import Link from "next/link"
 import { WatchlistButton } from "@/components/watchlist-button"
+import { useRouter } from "next/navigation"
 
 interface SpotlightSectionProps {
   item: Movie | TVShow | null
@@ -13,8 +14,10 @@ interface SpotlightSectionProps {
 }
 
 export function SpotlightSection({ item, isLoading }: SpotlightSectionProps) {
+  const router = useRouter()
   const [heroImgLoaded, setHeroImgLoaded] = useState(false)
   const [isTransitioning, setIsTransitioning] = useState(false)
+  const [isWatching, setIsWatching] = useState(false)
   const heroRef = useRef<HTMLDivElement>(null)
   const mt = item && "title" in item ? "movie" : "tv"
 
@@ -162,12 +165,33 @@ export function SpotlightSection({ item, isLoading }: SpotlightSectionProps) {
 
         <div className="flex flex-col md:flex-row w-full md:justify-between items-center gap-6">
           <div className="flex items-center gap-3 justify-center">
-            <Link href={watchPath}>
-              <button className="bg-white text-black px-8 sm:px-10 py-3 sm:py-4 rounded-xl font-black text-sm sm:text-base flex items-center gap-3 hover:bg-[#0071eb] hover:text-white transition-all duration-300 shadow-2xl active:scale-95 text-center justify-center min-w-[160px]">
-                <Play className="w-5 h-5 sm:w-6 sm:h-6" fill="currentColor" />
-                PLAY NOW
-              </button>
-            </Link>
+            <button
+              onClick={(e) => {
+                e.preventDefault()
+                if (isWatching) return
+                setIsWatching(true)
+                router.push(watchPath)
+              }}
+              disabled={isWatching}
+              className={`bg-white text-black px-8 sm:px-10 py-3 sm:py-4 rounded-xl font-black text-sm sm:text-base flex items-center gap-3 hover:bg-[#0071eb] hover:text-white transition-all duration-300 shadow-2xl text-center justify-center min-w-[160px] sm:min-w-[190px] ${
+                isWatching ? "pointer-events-none opacity-80 cursor-default" : "active:scale-95"
+              }`}
+            >
+              {isWatching ? (
+                <>
+                  <svg className="animate-spin h-5 w-5 text-black" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  <span>LOADING...</span>
+                </>
+              ) : (
+                <>
+                  <Play className="w-5 h-5 sm:w-6 sm:h-6" fill="currentColor" />
+                  <span>PLAY NOW</span>
+                </>
+              )}
+            </button>
             <Link href={infoPath}>
               <button className="bg-white/10 text-white px-8 sm:px-10 py-3 sm:py-4 rounded-xl font-black text-sm sm:text-base flex items-center gap-3 hover:bg-white/20 transition-all duration-300 shadow-2xl backdrop-blur-md border border-white/10 text-center justify-center min-w-[160px]">
                 <Info className="w-5 h-5 sm:w-6 sm:h-6" />
