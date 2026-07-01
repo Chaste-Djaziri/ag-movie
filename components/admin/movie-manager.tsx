@@ -55,6 +55,7 @@ export function MovieManager() {
   
   // Existing movies management
   const [existingMovies, setExistingMovies] = useState<Movie[]>([])
+  const [existingSearchQuery, setExistingSearchQuery] = useState("")
   const [editingMovie, setEditingMovie] = useState<Movie | null>(null)
   const [editEmbedUrl, setEditEmbedUrl] = useState("")
   const [editTrailerUrl, setEditTrailerUrl] = useState("")
@@ -492,6 +493,10 @@ export function MovieManager() {
     }
   }
 
+  const filteredExistingMovies = existingMovies.filter((movie) =>
+    movie.title.toLowerCase().includes(existingSearchQuery.toLowerCase())
+  )
+
   if (!mounted) {
     return (
       <div className="space-y-6">
@@ -796,21 +801,43 @@ export function MovieManager() {
 
         <TabsContent value="manage-movies" className="space-y-6">
           <div className="flex justify-between items-center">
-            <h3 className="text-lg font-semibold">Existing Movies ({existingMovies.length})</h3>
+            <h3 className="text-lg font-semibold">
+              Existing Movies ({filteredExistingMovies.length}
+              {existingSearchQuery && ` matching of ${existingMovies.length}`})
+            </h3>
             <Button onClick={loadExistingMovies} variant="outline">
               Refresh
             </Button>
           </div>
 
-          {existingMovies.length === 0 ? (
+          <div className="flex gap-2">
+            <div className="relative flex-1">
+              <Search className="absolute left-3 top-2.5 h-4 w-4 text-muted-foreground" />
+              <Input
+                placeholder="Search existing movies by title..."
+                value={existingSearchQuery}
+                onChange={(e) => setExistingSearchQuery(e.target.value)}
+                className="pl-9"
+              />
+            </div>
+            {existingSearchQuery && (
+              <Button variant="ghost" onClick={() => setExistingSearchQuery("")}>
+                Clear
+              </Button>
+            )}
+          </div>
+
+          {filteredExistingMovies.length === 0 ? (
             <Card>
               <CardContent className="p-8 text-center">
-                <p className="text-muted-foreground">No movies found. Add some movies to get started.</p>
+                <p className="text-muted-foreground">
+                  {existingSearchQuery ? "No movies match your search." : "No movies found. Add some movies to get started."}
+                </p>
               </CardContent>
             </Card>
           ) : (
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-              {existingMovies.map((movie) => (
+              {filteredExistingMovies.map((movie) => (
                 <Card key={movie.id}>
                   <CardContent className="p-4">
                     <div className="flex gap-3">
