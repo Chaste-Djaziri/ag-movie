@@ -160,7 +160,8 @@ export async function getTMDBSeasonEpisodes(tvId: number, seasonNumber: number) 
 
 export function getTMDBImageUrl(path: string, size = "w500") {
   if (!path) return "/placeholder.svg?height=750&width=500"
-  return `https://image.tmdb.org/t/p/${size}${path}`
+  const cleanPath = path.startsWith('/') ? path : `/${path}`
+  return `/api/tmdb-image?path=${encodeURIComponent(cleanPath)}&size=${size}`
 }
 
 export async function getTMDBItemMedia(id: number, type: "movie" | "tv") {
