@@ -7,8 +7,9 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { getTMDBImageUrl } from "@/lib/tmdb"
 import type { TVShow, Season, Episode } from "@/lib/types"
-import { Play, Calendar, Clock } from "lucide-react"
+import { Play, Calendar, Clock, Download } from "lucide-react"
 import Link from "next/link"
+import { useRouter } from "next/navigation"
 
 interface EpisodeListProps {
   tvShow: TVShow
@@ -17,7 +18,9 @@ interface EpisodeListProps {
 }
 
 export function EpisodeList({ tvShow, seasons, episodes }: EpisodeListProps) {
+  const router = useRouter()
   const [selectedSeason, setSelectedSeason] = useState(seasons[0]?.season_number?.toString() || "1")
+  const [loadingEpisodeId, setLoadingEpisodeId] = useState<string | null>(null)
 
   const currentSeasonEpisodes = episodes.filter((episode) => episode.season_number.toString() === selectedSeason)
 
@@ -112,12 +115,42 @@ export function EpisodeList({ tvShow, seasons, episodes }: EpisodeListProps) {
                           )}
                         </div>
                       </div>
-                      <Button asChild size="sm">
-                        <Link href={`/tv/${tvShow.id}/episode/${episode.id}`}>
-                          <Play className="h-4 w-4 mr-2" />
-                          Play
-                        </Link>
-                      </Button>
+                      <div className="flex gap-2">
+                        <Button 
+                          onClick={(e) => {
+                            e.preventDefault()
+                            if (loadingEpisodeId) return
+                            setLoadingEpisodeId(episode.id)
+                            router.push(`/tv/${tvShow.id}/episode/${episode.id}`)
+                          }}
+                          disabled={loadingEpisodeId !== null}
+                          size="sm"
+                          className="min-w-[75px]"
+                        >
+                          {loadingEpisodeId === episode.id ? (
+                            <>
+                              <svg className="animate-spin h-3 w-3 mr-1 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                              </svg>
+                              <span>Loading</span>
+                            </>
+                          ) : (
+                            <>
+                              <Play className="h-4 w-4 mr-2" />
+                              Play
+                            </>
+                          )}
+                        </Button>
+                        {episode.download_url && (
+                          <Button asChild size="sm" variant="outline">
+                            <a href={episode.download_url} target="_blank" rel="noopener noreferrer">
+                              <Download className="h-4 w-4 mr-2" />
+                              Download
+                            </a>
+                          </Button>
+                        )}
+                      </div>
                     </div>
                     <p className="text-sm text-muted-foreground line-clamp-2">{episode.overview}</p>
                   </div>
