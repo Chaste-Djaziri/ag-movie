@@ -105,6 +105,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
+  themeColor: "#0071eb",
 }
 
 export default function RootLayout({
@@ -115,6 +116,9 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
+        <meta name="theme-color" content="#0071eb" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="#0071eb" />
         <Script id="aclib" strategy="beforeInteractive" src="//acscdn.com/script/aclib.js" />
         <script
           type="application/ld+json"
